@@ -26,11 +26,12 @@
       <file name="/fragment.py" timestamp="1492791607079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492897116802">
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492899295285">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+        <mark key="[" line="131" column="19" />
+        <mark key="]" line="131" column="20" />
+        <mark key="." line="131" column="20" />
+        <mark key="^" line="131" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
@@ -40,11 +41,11 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="156" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492897541533">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="86" column="0" />
+      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492899210170">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="14" />
+        <mark key="." line="60" column="14" />
+        <mark key="^" line="60" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
