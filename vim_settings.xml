@@ -26,11 +26,12 @@
       <file name="/fragment.py" timestamp="1492791607079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492826791914">
-        <mark key="'" line="169" column="8" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492847186377">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="166" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
@@ -40,11 +41,13 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="156" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492844577639">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="11" column="88" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492847369649">
+        <mark key="a" line="67" column="15" />
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="51" column="29" />
+        <mark key="^" line="51" column="29" />
+        <mark key="." line="51" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -130,55 +133,62 @@
       <jump line="120" column="20" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="63" column="6" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="169" column="8" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
+      <jump line="66" column="2" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgICAgIGhlbHA9J1BlcmZvcm1zIHJhbmRvbSBob3Jpem9udGFsIGZsaXBwaW5nIG9mIHRyYWluaW5nIGltYWdlcy4nLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGdyYXBo</text>
       </register>
       <register name="-" type="4">
-        <text>closing(thing):</text>
+        <text encoding="base64">IGdyYXBo</text>
       </register>
       <register name="/" type="4">
-        <text>subdir</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYXRlX2dyYWRpZW50cz1vcHRpbWl6ZXIuR0FURV9HUkFQSCkK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGxvZ19kaXIoc2VsZik6CiAgICAgICAgcmV0dXJuIG9zLnBhdGguam9pbihvcy5wYXRoLmV4cGFuZHVzZXIoc2VsZi5sb2dzX2Jhc2VfZGlyKSwgc2VsZi5zdWJfZGlyKQogICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgIGhlbHA9J1BlcmZvcm1zIHJhbmRvbSBob3Jpem9udGFsIGZsaXBwaW5nIG9mIHRyYWluaW5nIGltYWdlcy4nLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1yYW5kb21fZmxpcCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgIGhlbHA9J0RpbWVuc2lvbmFsaXR5IG9mIHRoZSBlbWJlZGRpbmcuJywgZGVmYXVsdD0xMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1lbWJlZGRpbmdfc2l6ZScsIHR5cGU9ZmxvYXQsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2Rpcihtb2RlbF9kaXIpOiAgIyBDcmVhdGUgdGhlIG1vZGVsIGRpcmVjdG9yeSBpZiBpdCBkb2Vzbid0IGV4aXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgIGhlbHA9J0ltYWdlIHNpemUgKGhlaWdodCwgd2lkdGgpIGluIHBpeGVscy4nLCBkZWZhdWx0PTY0KQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF9kaXIgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5leHBhbmR1c2VyKGFyZ3MubW9kZWxzX2Jhc2VfZGlyKSwgc3ViZGlyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1pbWFnZV9zaXplJywgdHlwZT1pbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dfZGlyID0gb3MucGF0aC5qb2luKG9zLnBhdGguZXhwYW5kdXNlcihhcmdzLmxvZ3NfYmFzZV9kaXIpLCBzdWJkaXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tYmF0Y2hfc2l6ZScsIHR5cGU9aW50LAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdOdW1iZXIgb2YgaW1hZ2VzIHRvIHByb2Nlc3MgaW4gYSBiYXRjaC4nLCBkZWZhdWx0PTY0KQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJkaXIgPSBzdWJkaXIgb3IgIiIKICAgICAgICBzdWJkaXIgKz0gc3ViZGlyX3N1ZmZpeCBvciBkYXRldGltZS5zdHJmdGltZShkYXRldGltZS5ub3coKSwgJyVZJW0lZC0lSCVNJVMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbGVhcm5pbmdfcmF0ZScsIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J0luaXRpYWwgbGVhcm5pbmcgcmF0ZS4nLCBkZWZhdWx0PTAuMDAwNSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbGVhcm5pbmdfcmF0ZV9kZWNheV9mYWN0b3InLCB0eXBlPWZsb2F0LAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdMZWFybmluZyByYXRlIGRlY2F5IGZhY3RvcicsIGRlZmF1bHQ9MS4wKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJkaXIgPSAiezB9LXsxfSIuZm9ybWF0KHN1YmRpcl9wcmVmaXgsIHN1YmRpcikgaWYgc3ViZGlyX3ByZWZpeCBlbHNlIHN1YmRpcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD0nL2RhdGEvY2VsZWItYScpCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
-        <text>'a,.d</text>
+        <text>'a,.s/^/    /</text>
       </register>
     </registers>
     <search>
-      <last-search>subdir</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>subdir</last-pattern>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -198,6 +208,7 @@
         <entry>scope</entry>
         <entry>3</entry>
         <entry>subdir</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
@@ -207,11 +218,14 @@
         <entry>.,$d</entry>
         <entry>.,.$d</entry>
         <entry>W</entry>
-        <entry>1</entry>
-        <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>'a,.d</entry>
+        <entry>wq</entry>
+        <entry>'a,d</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+        <entry>1</entry>
+        <entry>'a,.s/^/    /</entry>
       </history-cmd>
       <history-expr />
       <history-input />
