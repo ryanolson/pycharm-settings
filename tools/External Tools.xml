@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="docker-compose down" description="Cleans up the docker-compose environment" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="down -v gantf" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
