@@ -26,11 +26,11 @@
       <file name="/fragment.py" timestamp="1492791607079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492815944841">
-        <mark key="[" line="98" column="37" />
-        <mark key="]" line="98" column="51" />
-        <mark key="." line="98" column="51" />
-        <mark key="^" line="98" column="51" />
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492826791914">
+        <mark key="'" line="169" column="8" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
@@ -39,6 +39,12 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
         <mark key="^" line="156" column="101" />
+      </file>
+      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492844577639">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="11" column="88" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -123,55 +129,56 @@
       <jump line="74" column="55" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="120" column="20" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="63" column="6" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgICAgIGhlbHA9J1BlcmZvcm1zIHJhbmRvbSBob3Jpem9udGFsIGZsaXBwaW5nIG9mIHRyYWluaW5nIGltYWdlcy4nLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>closing(thing):</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text>subdir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYXRlX2dyYWRpZW50cz1vcHRpbWl6ZXIuR0FURV9HUkFQSCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGhlbHA9J1BlcmZvcm1zIHJhbmRvbSBob3Jpem9udGFsIGZsaXBwaW5nIG9mIHRyYWluaW5nIGltYWdlcy4nLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgQnVpbGRpbmcgRXZhbCwgU3VtbWFyeSwgTW92aW5nQXZlcmFnZXMsIGV0Yy4gb3B0aW9uIGludG8gdGhpcyBjb21wb25lbnQgbWlnaHQgYmUgdXNlZnVsCg==</text>
+        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1yYW5kb21fZmxpcCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGhlbHA9J0RpbWVuc2lvbmFsaXR5IG9mIHRoZSBlbWJlZGRpbmcuJywgZGVmYXVsdD0xMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuY29udHJvbF9kZXBlbmRlbmNpZXMoW2RfbG9zcywgZ19sb3NzXSk6Cg==</text>
+        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1lbWJlZGRpbmdfc2l6ZScsIHR5cGU9ZmxvYXQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgRW5zdXJlIGFsbCBsb3NzZXMgaGF2ZSBiZWVuIGNhbGN1bGF0ZWQgYmVmb3JlIGNhbGN1bGF0aW5nIGdyYWRpZW50cwo=</text>
+        <text encoding="base64">ICAgICMgICAgIGhlbHA9J0ltYWdlIHNpemUgKGhlaWdodCwgd2lkdGgpIGluIHBpeGVscy4nLCBkZWZhdWx0PTY0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuY29udHJvbF9kZXBlbmRlbmNpZXMoW2RfZ3JhZHMsIGdfZ3JhZHNdKToK</text>
+        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1pbWFnZV9zaXplJywgdHlwZT1pbnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgRW5zdXJlIGFsbCBncmFkaWVudHMgaGF2ZSBiZWVuIGNhbGN1bGF0ZWQgYmVmb3JlIGFwcGx5aW5nIHVwZGF0ZXMK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tYmF0Y2hfc2l6ZScsIHR5cGU9aW50LAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdOdW1iZXIgb2YgaW1hZ2VzIHRvIHByb2Nlc3MgaW4gYSBiYXRjaC4nLCBkZWZhdWx0PTY0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHQVRFX0dSQVBICg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbGVhcm5pbmdfcmF0ZScsIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J0luaXRpYWwgbGVhcm5pbmcgcmF0ZS4nLCBkZWZhdWx0PTAuMDAwNSkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbGVhcm5pbmdfcmF0ZV9kZWNheV9mYWN0b3InLCB0eXBlPWZsb2F0LAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdMZWFybmluZyByYXRlIGRlY2F5IGZhY3RvcicsIGRlZmF1bHQ9MS4wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD0nL2RhdGEvY2VsZWItYScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>'a,.d</text>
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search>subdir</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern>subdir</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -190,6 +197,7 @@
         <entry>img</entry>
         <entry>scope</entry>
         <entry>3</entry>
+        <entry>subdir</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
@@ -202,8 +210,8 @@
         <entry>1</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>'a,.d</entry>
         <entry>w</entry>
+        <entry>'a,.d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
