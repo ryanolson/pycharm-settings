@@ -29,11 +29,11 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="156" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492937357438">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="9" />
-        <mark key="." line="56" column="9" />
-        <mark key="^" line="56" column="9" />
+      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492938102349">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="48" />
+        <mark key="." line="45" column="48" />
+        <mark key="^" line="45" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -66,13 +66,13 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492937247085">
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492938151892">
         <mark key="a" line="81" column="15" />
         <mark key="'" line="102" column="73" />
-        <mark key="[" line="137" column="27" />
-        <mark key="]" line="137" column="28" />
-        <mark key="." line="137" column="28" />
-        <mark key="^" line="136" column="15" />
+        <mark key="[" line="59" column="68" />
+        <mark key="]" line="59" column="70" />
+        <mark key="." line="59" column="70" />
+        <mark key="^" line="59" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -193,10 +193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Model</text>
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>phase_t</text>
@@ -205,31 +205,31 @@
         <text encoding="base64">ICAgICAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgIyBTZWN0aW9uIDQ6IFNwaW4gdXAgdGhlIG1hY2hpbmVyeSBmb3IgdHJhaW5pbmcgLSByZWFkZXIsIHdyaXRlciwgZXRjLgogICAgICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnc2RnJzogdGYudHJhaW4uU0cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUcmFpbmluZyBMb29wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUcmFpbmluZyBMb29wCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBncmFwaCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbml0aWFsemllCg==</text>
+        <text encoding="base64">Y2xhc3MgR3JhcGgob2JqZWN0KToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN0YXJ0IGEgc2Vzc2lvbiB0byBldmFsdWF0ZSB0aGUgZ3JhcGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUcmFpbmluZyBMb29wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUcmFpbmluZyBMb29wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDcmVhdGUgQ29vcmRpbmF0b3IsIFF1ZXVlUnVubmVycywgYW5kIFN1bW1hcnkgV3JpdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbml0aWFsemllCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtbWFyeV93cml0ZXIuZmx1c2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
