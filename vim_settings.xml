@@ -14,12 +14,12 @@
       <file name="/fragment.py" timestamp="1492791607079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492913583207">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="28" column="51" />
-        <mark key="^" line="25" column="21" />
+      <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
@@ -29,11 +29,11 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="156" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492912833877">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="62" column="29" />
-        <mark key="." line="62" column="29" />
-        <mark key="^" line="62" column="29" />
+      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1492931650961">
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="45" />
+        <mark key="." line="49" column="45" />
+        <mark key="^" line="49" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -48,12 +48,11 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1492920933899">
-        <mark key="'" line="89" column="26" />
-        <mark key="[" line="76" column="53" />
-        <mark key="]" line="77" column="11" />
-        <mark key="^" line="77" column="11" />
-        <mark key="." line="77" column="11" />
+      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1492931076928">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="42" />
+        <mark key="." line="83" column="42" />
+        <mark key="^" line="83" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -67,12 +66,13 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492920039860">
-        <mark key="'" line="59" column="76" />
-        <mark key="[" line="47" column="77" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492931752280">
+        <mark key="a" line="81" column="15" />
+        <mark key="'" line="108" column="12" />
+        <mark key="[" line="118" column="21" />
+        <mark key="]" line="118" column="21" />
+        <mark key="." line="118" column="21" />
+        <mark key="^" line="118" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -91,14 +91,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="10" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="16" column="84" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="50" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="30" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="37" column="82" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="39" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="45" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="86" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="102" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -181,62 +173,73 @@
       <jump line="57" column="78" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="58" column="39" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="68" column="45" filename="$USER_HOME$/Projects/gan-tf/data.py" />
-      <jump line="69" column="25" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="75" column="100" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="80" column="64" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="87" column="26" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="34" column="34" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
       <jump line="37" column="26" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
       <jump line="41" column="16" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
+      <jump line="27" column="24" filename="$USER_HOME$/Projects/gan-tf/model.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="63" column="49" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="69" column="25" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="76" column="34" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="67" column="24" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="68" column="54" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="69" column="68" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="72" column="14" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="108" column="12" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True:</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>True:</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>phase_train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcmVhZF9zZXF1ZW50aWFsKCk6CiAgICB3aXRoIHRmLkdyYXBoKCkuYXNfZGVmYXVsdCgpOgogICAgICAgIGltYWdlcyA9ICBnYW4uYmF0Y2hfaW1hZ2VzKCJkYXRhIiwgMSwgbnVtX3RocmVhZHM9MSkKICAgICAgICB3aXRoIHRmLlNlc3Npb24oKSBhcyBzZXNzOgogICAgICAgICAgICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgICAgICAgICAgIHNlc3MucnVuKHRmLmxvY2FsX3ZhcmlhYmxlc19pbml0aWFsaXplcigpKQogICAgICAgICAgICBjb29yZCA9IHRmLnRyYWluLkNvb3JkaW5hdG9yKCkKICAgICAgICAgICAgdGYudHJhaW4uc3RhcnRfcXVldWVfcnVubmVycyhjb29yZD1jb29yZCwgc2Vzcz1zZXNzKQoKICAgICAgICAgICAgZm9yIHN0ZXAgaW4geHJhbmdlKDEwKToKICAgICAgICAgICAgICAgIHggPSBzZXNzLnJ1bihpbWFnZXMpCiAgICAgICAgICAgICAgICBwcmludCh4LnNoYXBlKQoK</text>
+        <text encoding="base64">ICAgICAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzdGVwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBoYXNlX3RyYWluX3BsYWNlaG9sZGVyOiBUcnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgicHJlLWNvb3JkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjb29yZC5zaG91bGRfc3RvcCgpOgo=</text>
+        <text encoding="base64">ICAgICAgICB9LmdldChhcmdzLm9wdGltaXplciwgTm9uZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FEQU0nOiB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKGxlYXJuaW5nX3JhdGUsIHVzZV9sb2NraW5nPVRydWUpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29vcmQucmVxdWVzdF9zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9wdGltaXplcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29vcmQucmVxdWVzdF9zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGxlYXJuaW5nIHJhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsbHk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJhbmRvbSBzZWVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>phase_train</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern>phase_train</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -244,8 +247,6 @@
     </search>
     <history>
       <history-search>
-        <entry>True</entry>
-        <entry>z_dim</entry>
         <entry>learning_rate_pla</entry>
         <entry>model_name</entry>
         <entry>face</entry>
@@ -262,8 +263,10 @@
         <entry>d_loss</entry>
         <entry>g_loss</entry>
         <entry>IMAGE_SIZE</entry>
-        <entry>shuffle</entry>
         <entry>^</entry>
+        <entry>shuffle</entry>
+        <entry>False</entry>
+        <entry>phase_train</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
@@ -271,7 +274,6 @@
         <entry>w gan.py</entry>
         <entry>.,.$d</entry>
         <entry>W</entry>
-        <entry>'a,.d</entry>
         <entry>'a,d</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,$ w! data.py</entry>
@@ -283,6 +285,7 @@
         <entry>'a,.y</entry>
         <entry>'a,.s/^/    /</entry>
         <entry>wq</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
