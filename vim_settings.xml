@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
-        <mark key="[" line="15" column="68" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-      </file>
       <file name="/Dummy.txt" timestamp="1492848541264">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -16,12 +10,6 @@
       </file>
       <file name="/Python Console" timestamp="1492792788056">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="61" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1492791607079">
         <mark key="[" line="0" column="0" />
@@ -32,13 +20,6 @@
         <mark key="]" line="28" column="42" />
         <mark key="." line="28" column="51" />
         <mark key="^" line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492914612898">
-        <mark key="'" line="59" column="76" />
-        <mark key="[" line="47" column="77" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
@@ -54,6 +35,46 @@
         <mark key="." line="62" column="29" />
         <mark key="^" line="62" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/gan-tf/tests.py" timestamp="1492922027780">
+        <mark key="a" line="11" column="10" />
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1492920933899">
+        <mark key="'" line="89" column="26" />
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="77" column="11" />
+        <mark key="^" line="77" column="11" />
+        <mark key="." line="77" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
+        <mark key="[" line="15" column="68" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492920039860">
+        <mark key="'" line="59" column="76" />
+        <mark key="[" line="47" column="77" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="128" column="73" />
@@ -61,19 +82,13 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan.py" timestamp="1492916390655">
+      <file name="$USER_HOME$/Projects/gan-tf/gan.py" timestamp="1492918804053">
         <mark key="a" line="100" column="0" />
         <mark key="'" line="121" column="13" />
         <mark key="[" line="196" column="0" />
         <mark key="]" line="197" column="0" />
         <mark key="^" line="197" column="0" />
         <mark key="." line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1492918099687">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="83" column="43" />
-        <mark key="." line="103" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -170,49 +185,52 @@
       <jump line="69" column="25" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="75" column="100" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="80" column="64" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="87" column="26" filename="$USER_HOME$/Projects/gan-tf/data.py" />
+      <jump line="34" column="34" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
+      <jump line="37" column="26" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z3B1X2NvdW50ICogYmF0Y2hfc2l6ZSAqIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>shuffle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRyYWluX2dhbihsb2dpdHNfcmVhbCwgbG9naXRzX2Zha2UsIG9wdGltaXplciwgZ2xvYmFsX3N0ZXAsIHNvZnRfbGFiZWxfbWFyZ2luPTAuMSwgd2l0aF9zdW1tYXJpZXM9VHJ1ZSk6CiAgICAiIiIKICAgIERlZmluZXMgdGhlIGB0cmFpbl9vcGAgbmVlZGVkIHRvIGNhbGN1bGF0ZSB0aGUgbG9zc2VzLCBncmFkaWVudHMgYW5kIHdlaWdodCB1cGRhdGUgZm9yIGEgc2luZ2xlIGJhdGNoCiAgICA6cGFyYW0gZF9sb3NzOiBsb3NzIGZyb20gdGhlIGRpc2NyaW1pbmF0b3IKICAgIDpwYXJhbSBnX2xvc3M6IGxvc3MgZnJvbSB0aGUgZ2VuZXJhdG9yCiAgICA6cGFyYW0gb3B0aW1pemVyOiB0Zi5PcHRpbWl6ZXIgYmVpbmcgdXNlcyBmb3IgdXBkYXRlcwogICAgOnBhcmFtIGdsb2JhbF9zdGVwOiBzdGVwIGNvdW50ZXIgdXNlZCB0byBhZGp1c3QgbGVhcm5pbmcgcmF0ZXMgYW5kIHdlaWdodCBkZWNheSByYXRlcwogICAgOnJldHVybjogdGhlIG9wZXJhdGlvbiB1c2VkIHRvIGRyaXZlciB0cmFpbmluZywgaS5lLiB0cmFpbl9vcAogICAgIiIiCiAgICBkZWYgdmFyc19sb29rdXAoc2NvcGVfbmFtZSk6CiAgICAgICAgcmV0dXJuIFt2YXIgZm9yIHZhciBpbiB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCkgaWYgc2NvcGVfbmFtZSBpbiB2YXIubmFtZV0KCiAgICAjIGxvc3NlcwogICAgd2l0aCB0Zi5uYW1lX3Njb3BlKCJsb3NzX2RfcmVhbCIpIGFzIHNjb3BlOgogICAgICAgIGxvc3NfZF9yZWFsID0gdGYucmVkdWNlX21lYW4odGYubm4uc2lnbW9pZF9jcm9zc19lbnRyb3B5X3dpdGhfbG9naXRzKAogICAgICAgICAgICBsb2dpdHM9bG9naXRzX3JlYWwsIGxhYmVscz10Zi5vbmVzX2xpa2UobG9naXRzX3JlYWwpIC0gc29mdF9sYWJlbF9tYXJnaW4pLCBuYW1lPXNjb3BlKQoKICAgIHdpdGggdGYubmFtZV9zY29wZSgibG9zc19kX2Zha2UiKSBhcyBzY29wZToKICAgICAgICBsb3NzX2RfZmFrZSA9IHRmLnJlZHVjZV9tZWFuKHRmLm5uLnNpZ21vaWRfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cygKICAgICAgICAgICAgbG9naXRzPWxvZ2l0c19mYWtlLCBsYWJlbHM9dGYuemVyb3NfbGlrZShsb2dpdHNfZmFrZSkpLCBuYW1lPXNjb3BlKQoKICAgIHdpdGggdGYubmFtZV9zY29wZSgibG9zc19kIik6CiAgICAgICAgbG9zc19kID0gKGxvc3NfZF9yZWFsICsgbG9zc19kX2Zha2UpIC8gMi4KCiAgICB3aXRoIHRmLm5hbWVfc2NvcGUoImxvc3NfZyIpIGFzIHNjb3BlOgogICAgICAgIGxvc3NfZyA9IHRmLnJlZHVjZV9tZWFuKHRmLm5uLnNpZ21vaWRfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cygKICAgICAgICAgICAgbG9naXRzPWxvZ2l0c19mYWtlLCBsYWJlbHM9dGYub25lc19saWtlKGxvZ2l0c19mYWtlKSArIHNvZnRfbGFiZWxfbWFyZ2luKSwgbmFtZT1zY29wZSkKCiAgICBpZiB3aXRoX3N1bW1hcmllczoKICAgICAgICB0Zi5zdW1tYXJ5LnNjYWxhcigibG9zc19kX3JlYWwiLCBsb3NzX2RfcmVhbCkKICAgICAgICB0Zi5zdW1tYXJ5LnNjYWxhcigibG9zc19kX2Zha2UiLCBsb3NzX2RfZmFrZSkKICAgICAgICB0Zi5zdW1tYXJ5LnNjYWxhcigibG9zc19kIiwgbG9zc19kKQogICAgICAgIHRmLnN1bW1hcnkuc2NhbGFyKCJsb3NzX2ciLCBsb3NzX2cpCiAgIAogICAgIyBncmFkaWVudHMgICAgIAogICAgd2l0aCB0Zi5uYW1lX3Njb3BlKCJkX2dyYWRzIik6CiAgICAgICAgZF9ncmFkcyA9IG9wdGltaXplci5jb21wdXRlX2dyYWRpZW50cyhkX2xvc3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXJfbGlzdD12YXJzX2xvb2t1cCgiZGlzY3JpbWluYXRvciIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb2NhdGVfZ3JhZGllbnRzX3dpdGhfb3BzPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYXRlX2dyYWRpZW50cz1vcHRpbWl6ZXIuR0FURV9HUkFQSCkKCiAgICB3aXRoIHRmLm5hbWVfc2NvcGUoImdfZ3JhZHMiKToKICAgICAgICBnX2dyYWRzID0gb3B0aW1pemVyLmNvbXB1dGVfZ3JhZGllbnRzKGdfbG9zcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcl9saXN0PXZhcnNfbG9va3VwKCJnZW5lcmF0b3IiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9jYXRlX2dyYWRpZW50c193aXRoX29wcz1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2F0ZV9ncmFkaWVudHM9b3B0aW1pemVyLkdBVEVfR1JBUEgpCgogICAgIyB1cGRhdGUgd2VpZ2h0cyAtIGdhdGVfZ3JhZGllbnRzPUdBVEVfR1JBUEggZW5zdXJlcyBhbGwgZ3JhZGllbnRzIGhhdmUgYmVlbiBjb21wdXRlZCBiZWZvcmUgdGhleSBhcmUgYXBwbGllZAogICAgd2l0aCB0Zi5uYW1lX3Njb3BlKCJhcHBseV9ncmFkaWVudCIpOgogICAgICAgIGFwcGx5X2dyYWRpZW50c19vcGVyYXRpb25zID0gW29wdGltaXplci5hcHBseV9ncmFkaWVudHMoZ3JhZCkgZm9yIGdyYWQgaW4gW2RfZ3JhZHMsIGdfZ3JhZHNdXQoKICAgICMgSW5jcmVtZW50IGdsb2JhbF9zdGVwCiAgICB3aXRoIHRmLmNvbnRyb2xfZGVwZW5kZW5jaWVzKGFwcGx5X2dyYWRpZW50c19vcGVyYXRpb25zKToKICAgICAgICBpbmNyZW1lbnRfZ2xvYmFsX3N0ZXBfb3AgPSB0Zi5hc3NpZ24oZ2xvYmFsX3N0ZXAsIGdsb2JhbF9zdGVwICsgMSkKCiAgICAjIENyZWF0ZSB0cmFpbl9vcAogICAgd2l0aCB0Zi5jb250cm9sX2RlcGVuZGVuY2llcyhbaW5jcmVtZW50X2dsb2JhbF9zdGVwX29wXSk6CiAgICAgICAgdHJhaW5fb3AgPSB0Zi5ub19vcChuYW1lPSJ0cmFpbiIpCgogICAgcmV0dXJuIHRyYWluX29wCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfcmVhZF9zZXF1ZW50aWFsKCk6CiAgICB3aXRoIHRmLkdyYXBoKCkuYXNfZGVmYXVsdCgpOgogICAgICAgIGltYWdlcyA9ICBnYW4uYmF0Y2hfaW1hZ2VzKCJkYXRhIiwgMSwgbnVtX3RocmVhZHM9MSkKICAgICAgICB3aXRoIHRmLlNlc3Npb24oKSBhcyBzZXNzOgogICAgICAgICAgICBzZXNzLnJ1bih0Zi5nbG9iYWxfdmFyaWFibGVzX2luaXRpYWxpemVyKCkpCiAgICAgICAgICAgIHNlc3MucnVuKHRmLmxvY2FsX3ZhcmlhYmxlc19pbml0aWFsaXplcigpKQogICAgICAgICAgICBjb29yZCA9IHRmLnRyYWluLkNvb3JkaW5hdG9yKCkKICAgICAgICAgICAgdGYudHJhaW4uc3RhcnRfcXVldWVfcnVubmVycyhjb29yZD1jb29yZCwgc2Vzcz1zZXNzKQoKICAgICAgICAgICAgZm9yIHN0ZXAgaW4geHJhbmdlKDEwKToKICAgICAgICAgICAgICAgIHggPSBzZXNzLnJ1bihpbWFnZXMpCiAgICAgICAgICAgICAgICBwcmludCh4LnNoYXBlKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIGJhdGNoX3JhbmRvbV96KGJhdGNoX3NpemUpOgogICAgICAgIHdpdGggdGYubmFtZV9zY29wZSgiYmF0Y2hfcmFuZG9tX3oiKSBhcyBzY29wZToKICAgICAgICAgICAgcmV0dXJuIHRmLnJhbmRvbV9ub3JtYWwoW2JhdGNoX3NpemUsIFpfRElNXSwgZHR5cGU9dGYuZmxvYXQzMiwgc2VlZD1Ob25lLCBuYW1lPXNjb3BlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb29yZC5yZXF1ZXN0X3N0b3AoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluX2FmdGVyX2RlcXVldWUgPSBncHVfY291bnQgKiBiYXRjaF9zaXplICogNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCh4LnNoYXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiZXhjZXB0aW9uIGNhdWdodCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluX2FmdGVyX2RlcXVldWUgPSBncHVfY291bnQgKiBiYXRjaF9zaXplICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsbHk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCh4LnNoYXJwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhbGxvd19zbWFsbGVyX2ZpbmFsX2JhdGNoa2trIjogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3dhcmdzID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
-        <text>.,$d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -254,18 +272,18 @@
         <entry>.,.$d</entry>
         <entry>W</entry>
         <entry>'a,.d</entry>
-        <entry>wq</entry>
         <entry>'a,d</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>'a,.s/^/    /</entry>
-        <entry>'a,.y</entry>
         <entry>.,$ w! data.py</entry>
         <entry>q</entry>
         <entry>.,$ w data.py</entry>
-        <entry>w</entry>
         <entry>.,$ s/^/    /</entry>
         <entry>1</entry>
         <entry>.,$d</entry>
+        <entry>'a,.y</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
