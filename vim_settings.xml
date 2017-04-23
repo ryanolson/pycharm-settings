@@ -26,6 +26,12 @@
       <file name="/fragment.py" timestamp="1492791607079">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492911861194">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1492899295285">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="131" column="19" />
@@ -54,7 +60,7 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan.py" timestamp="1492818929736">
+      <file name="$USER_HOME$/Projects/gan-tf/gan.py" timestamp="1492911500452">
         <mark key="'" line="63" column="6" />
         <mark key="[" line="63" column="49" />
         <mark key="]" line="63" column="49" />
@@ -138,11 +144,11 @@
       <jump line="65" column="0" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>embeddings</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>embeddings</text>
       </register>
       <register name="/" type="4">
         <text>logs</text>
@@ -151,31 +157,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19iYXNlX2Rpcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuYnVpbGRfZ3JhcGgobmFtZT0iZ2VuZXJhdG9yOiIpOgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZV9ncmFwaChzZWxmLCBuYW1lKToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2RpcihwYXRoKToK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBsb2cgd2FybmluZyB0aGF0IGRpcmVjdG9yeSB3YXMgY3JlYXRlZAogICAgICAgICAgICBvcy5tYWtlZGlycyhwYXRoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiB3cml0ZV9ncmFwaChzZWxmLCBuYW1lKToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2RpcihwYXRoKToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBsb2cgd2FybmluZyB0aGF0IGRpcmVjdG9yeSB3YXMgY3JlYXRlZAogICAgICAgICAgICBvcy5tYWtlZGlycyhwYXRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
