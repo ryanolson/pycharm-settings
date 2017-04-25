@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1493119910291">
+      <file name="/Dummy.txt" timestamp="1493130339322">
         <mark key="a" line="0" column="47" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -50,7 +50,7 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1492949762056">
+      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493130103935">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="57" />
         <mark key="." line="40" column="57" />
@@ -83,24 +83,15 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan.py" timestamp="1492951116555">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="^" line="186" column="14" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/Projects/gan-tf/gan.py" timestamp="1493131600222">
+        <mark key="'" line="131" column="15" />
+        <mark key="[" line="194" column="11" />
+        <mark key="]" line="194" column="22" />
+        <mark key="^" line="194" column="22" />
+        <mark key="." line="194" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="60" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="66" column="78" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="89" column="28" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="75" column="55" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="76" column="51" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="80" column="30" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="81" column="22" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="84" column="26" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="91" column="44" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="92" column="44" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -192,25 +183,34 @@
       <jump line="64" column="26" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="88" column="51" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
+      <jump line="150" column="45" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="233" column="24" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="165" column="93" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="166" column="64" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="172" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="181" column="7" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="183" column="24" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="131" column="15" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sub_dir</text>
+        <text>g_train_opt</text>
       </register>
       <register name="-" type="4">
-        <text>sub_dir</text>
+        <text>g_train_opt</text>
       </register>
       <register name="/" type="4">
-        <text>checkpoint</text>
+        <text>optimizer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWltYWdlX3NpemUnLCB0eXBlPWludCwgaGVscD0nU2l6ZSBvZiBJbWFnZXMgZmVlZCB0byBHQU4gKDwxMjgpJywgZGVmYXVsdD02NCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdfdHJhaW5fb3B0ID0gb3B0aW1pemVyKHBhcmFtc1snZ2VuX2xlYXJuaW5nX3JhdGUnXSwgYmV0YTE9cGFyYW1zWydiZXRhMSddLCBlcHNpbG9uPXBhcmFtc1snZXBzaWxvbiddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX3N0ZXBzID0gc3RlcHNfcGVyX2Vwb2NoICogYXJncy5tYXhfZXBvY2hzCg==</text>
+        <text encoding="base64">ZGVmIHRyYWluX3Vucm9sbGVkX2dhbihsb3NzX2QsIGxvc3NfZywgb3B0aW1pemVyXykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -219,28 +219,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlX29wczogbGlzdCBvZiBBc3NpZ24gYW5kIEFzc2lnbkFkZCBvcHMsIHR5cGljYWxseSBjb21wdXRlZCB1c2luZyBLZXJhcycgb3B0LmdldF91cGRhdGVzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHdyaXRlIHN1bW1hcnkgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRvdGFsX3N0ZXBzID0gc3RlcHNfcGVyX2Vwb2NoICogYXJncy5tYXhfZXBvY2hzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHRyYWluX29wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkpoint</last-search>
+      <last-search>optimizer</last-search>
       <last-offset />
-      <last-pattern>checkpoint</last-pattern>
+      <last-pattern>optimizer</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -248,11 +248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>d_loss_fake</entry>
-        <entry>g_loss</entry>
-        <entry>^</entry>
-        <entry>shuffle</entry>
-        <entry>False</entry>
         <entry>phase_train</entry>
         <entry>True</entry>
         <entry>d_loss</entry>
@@ -268,6 +263,11 @@
         <entry>runner</entry>
         <entry>loader</entry>
         <entry>checkpoint</entry>
+        <entry>real</entry>
+        <entry>score</entry>
+        <entry>unrol</entry>
+        <entry>unroll</entry>
+        <entry>optimizer</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
