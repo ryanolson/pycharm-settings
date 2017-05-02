@@ -81,12 +81,12 @@
         <mark key="^" line="96" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/562843038/-1227933812/tensorflow/python/client/session.py" timestamp="1493743002812" />
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1493759680971">
-        <mark key="'" line="72" column="30" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1493768066622">
+        <mark key="'" line="71" column="30" />
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="35" />
         <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
+        <mark key="." line="53" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
