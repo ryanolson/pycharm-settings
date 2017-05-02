@@ -49,7 +49,7 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493130103935">
+      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493731350167">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="57" />
         <mark key="." line="40" column="57" />
@@ -66,6 +66,13 @@
         <mark key="]" line="98" column="0" />
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493732741756">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="53" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="11" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493220699449">
         <mark key="[" line="74" column="8" />
@@ -88,8 +95,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="6" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="46" column="15" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="48" column="21" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="49" column="22" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="56" column="48" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -188,46 +193,48 @@
       <jump line="158" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="160" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="163" column="16" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
+      <jump line="21" column="3" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
+      <jump line="5" column="17" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>import keras</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>updates</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWltYWdlX3NpemUnLCB0eXBlPWludCwgaGVscD0nU2l6ZSBvZiBJbWFnZXMgZmVlZCB0byBHQU4gKDwxMjgpJywgZGVmYXVsdD02NCkK</text>
+        <text encoding="base64">ICAgIGFbMCwwLDAsOl0gPSBjICogbnAuYXJyYXkoWzAuLCAxLiwgMC5dKSAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgSW5jcmVtZW50IGdsb2JhbF9zdGVwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkX3RyYWluX29wLCBnX3RyYWluX29wCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdfdHJhaW5fb3B0ID0gb3B0aW1pemVyKHBhcmFtc1snZ2VuX2xlYXJuaW5nX3JhdGUnXSwgYmV0YTE9cGFyYW1zWydiZXRhMSddLCBlcHNpbG9uPXBhcmFtc1snZXBzaWxvbiddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRyYWluX3Vucm9sbGVkX2dhbihsb3NzX2QsIGxvc3NfZywgb3B0aW1pemVyXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyPSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQ9aW5wdXQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXQgPSBsYXllcnMuY29udjJkKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlX29wczogbGlzdCBvZiBBc3NpZ24gYW5kIEFzc2lnbkFkZCBvcHMsIHR5cGljYWxseSBjb21wdXRlZCB1c2luZyBLZXJhcycgb3B0LmdldF91cGRhdGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxpemVyPXRmLnRydW5jYXRlZF9ub3JtYWxfaW5pdGlhbGl6ZXIoc3RkZGV2PXN0ZGRldikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
