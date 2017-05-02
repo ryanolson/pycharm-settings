@@ -49,7 +49,7 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493731350167">
+      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="57" />
         <mark key="." line="40" column="57" />
@@ -67,14 +67,14 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493732741756">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="11" column="53" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="60" />
+      <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493737916111">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493220699449">
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493737937937">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
         <mark key="." line="74" column="8" />
@@ -95,7 +95,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="21" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="49" column="22" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="56" column="48" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="73" column="79" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -195,55 +194,56 @@
       <jump line="163" column="16" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="21" column="3" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
       <jump line="5" column="17" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
+      <jump line="16" column="10" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>updates</text>
+        <text>strides</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFbMCwwLDAsOl0gPSBjICogbnAuYXJyYXkoWzAuLCAxLiwgMC5dKSAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyPSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQ9aW5wdXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXQgPSBsYXllcnMuY29udjJkKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxpemVyPXRmLnRydW5jYXRlZF9ub3JtYWxfaW5pdGlhbGl6ZXIoc3RkZGV2PXN0ZGRldikpCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updates</last-search>
+      <last-search>strides</last-search>
       <last-offset />
-      <last-pattern>updates</last-pattern>
+      <last-pattern>strides</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -251,7 +251,6 @@
     </search>
     <history>
       <history-search>
-        <entry>d_loss</entry>
         <entry>is_training</entry>
         <entry>phase_t</entry>
         <entry>np</entry>
@@ -271,6 +270,7 @@
         <entry>optimizer</entry>
         <entry>app</entry>
         <entry>updates</entry>
+        <entry>strides</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
