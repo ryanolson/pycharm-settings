@@ -9,7 +9,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1493740632383">
+      <file name="/Python Console" timestamp="1493743333340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1492791607079">
@@ -67,13 +67,14 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493740604452">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="61" column="25" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="61" column="32" />
-        <mark key="^" line="61" column="32" />
+      <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
+        <mark key="'" line="99" column="37" />
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="71" column="13" />
+        <mark key="^" line="96" column="29" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/562843038/-1227933812/tensorflow/python/client/session.py" timestamp="1493743002812" />
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -95,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="6" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="169" column="8" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="5" column="8" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
@@ -195,55 +195,56 @@
       <jump line="56" column="0" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
       <jump line="27" column="30" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
       <jump line="57" column="8" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
+      <jump line="93" column="37" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
-        <text>strides</text>
+        <text>tenso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFbMCwwLDAsOl0gPSBjICogbnAuYXJyYXkoWzAuLCAxLiwgMC5dKSAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwb3MgPSB0Zi5yZXNoYXBlKHBvcywgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYubmFtZV9zY29wZSgiaW5wdXQrbGFwbGFjaWFuIik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ltYWdlID0gdGYucmVzaGFwZSh0ZW5zb3JfbWFwWyJvdXRwdXRfdmVsb2NpdGllcyJdLCBbZ3JpZF9kaW0sIGdyaWRfZGltXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3MgPSB0Zi5yZXNoYXBlKHBvcywgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZWwgPSB0Zi5yZXNoYXBlKHZlbCwgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWxfc3RlcCA9IHRmLlZhcmlhYmxlKDAsIG5hbWU9Imdsb2JhbF9zdGVwIiwgdHJhaW5hYmxlPUZhbHNlKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGluaXRpYWxfZ3JpZCA9IG5wLnplcm9zKFtncmlkX2RpbSwgZ3JpZF9kaW1dKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGMgPSAwLjIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGMgPSAwLjIKICAgIGFbMCwwLDAsOl0gPSBjICogbnAuYXJyYXkoWzAuLCAxLiwgMC5dKQogICAgYVswLDAsMSw6XSA9IGMgKiBucC5hcnJheShbMS4sIC00LiwgMS5dKQogICAgYVswLDAsMiw6XSA9IGMgKiBucC5hcnJheShbMC4sIDEuLCAwLl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdyaXRlIHN1bW1hcnkK</text>
+        <text encoding="base64">ICAgICAgICB2ZWxvY2l0aWVzID0gdGYucGxhY2Vob2xkZXIodGYuZmxvYXQzMiwgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0sIG5hbWU9InZlbG9jaXRpZXMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>strides</last-search>
+      <last-search>tenso</last-search>
       <last-offset />
-      <last-pattern>strides</last-pattern>
+      <last-pattern>tenso</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -251,7 +252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_training</entry>
         <entry>phase_t</entry>
         <entry>np</entry>
         <entry>loss</entry>
@@ -271,6 +271,7 @@
         <entry>app</entry>
         <entry>updates</entry>
         <entry>strides</entry>
+        <entry>tenso</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
@@ -285,11 +286,11 @@
         <entry>.,$ s/^/    /</entry>
         <entry>'a,.y</entry>
         <entry>'a,.s/^/    /</entry>
-        <entry>wq</entry>
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>W</entry>
         <entry>1</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
