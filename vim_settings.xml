@@ -49,6 +49,12 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1493761031244">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="57" />
@@ -75,6 +81,13 @@
         <mark key="^" line="96" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/562843038/-1227933812/tensorflow/python/client/session.py" timestamp="1493743002812" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1493759680971">
+        <mark key="'" line="72" column="30" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -96,11 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="8" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="5" column="8" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
-      <jump line="48" column="15" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
-      <jump line="66" column="2" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/gan-tf/model.py" />
       <jump line="122" column="29" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="125" column="6" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -196,55 +204,60 @@
       <jump line="27" column="30" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
       <jump line="57" column="8" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
       <jump line="93" column="37" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="71" column="22" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="73" column="19" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="84" column="34" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="72" column="30" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>50</text>
-      </register>
-      <register name="-" type="4">
-        <text>50</text>
-      </register>
-      <register name="/" type="4">
-        <text>tenso</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3MgPSB0Zi5yZXNoYXBlKHBvcywgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0pCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ltYWdlID0gdGYucmVzaGFwZSh0ZW5zb3JfbWFwWyJvdXRwdXRfdmVsb2NpdGllcyJdLCBbZ3JpZF9kaW0sIGdyaWRfZGltXSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3MgPSB0Zi5yZXNoYXBlKHBvcywgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWwgPSB0Zi5yZXNoYXBlKHZlbCwgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>v</text>
+      </register>
+      <register name="/" type="4">
+        <text>uid</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkb25seSA9ICI6cm8iIGlmIHJlYWRvbmx5IGFuZCByZWFkb25seS5sb3dlcigpID09ICJybyIgZWxzZSAiIgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkb25seSA9ICI6cm8iIGlmIHJlYWRvbmx5IGFuZCByZWFkb25seS5sb3dlcigpID09ICJybyIgZWxzZSAiIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkb25seSA9ICI6cm8iIGlmIHJlYWRvbmx5IGFuZCByZWFkb25seS5sb3dlcigpID09ICJybyIgZWxzZSAiIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZWFkb25seToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWxfZ3JpZCA9IG5wLnplcm9zKFtncmlkX2RpbSwgZ3JpZF9kaW1dKQo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGdyb3VwKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9ncm91cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBnZXRwYXNzCiAgICBmcm9tIHB3ZCBpbXBvcnQgZ2V0cHduYW0KICAgIGltcG9ydCBncnAKICAgIHVzZXIgPSBnZXRwYXNzLmdldHVzZXIoKQogICAgdWlkID0gZ2V0cHduYW0odXNlcikucHdfdWlkCiAgICBnaWQgPSBnZXRwd25hbSh1c2VyKS5wd19naWQKICAgIGdyb3VwID0gZ3JwLmdldGdyZ2lkKGdpZCkuZ3JfbmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWxvY2l0aWVzID0gdGYucGxhY2Vob2xkZXIodGYuZmxvYXQzMiwgWzEsIDEsIGdyaWRfZGltLCBncmlkX2RpbV0sIG5hbWU9InZlbG9jaXRpZXMiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tenso</last-search>
+      <last-search>uid</last-search>
       <last-offset />
-      <last-pattern>tenso</last-pattern>
+      <last-pattern>uid</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -252,8 +265,6 @@
     </search>
     <history>
       <history-search>
-        <entry>phase_t</entry>
-        <entry>np</entry>
         <entry>loss</entry>
         <entry>args</entry>
         <entry>cli</entry>
@@ -272,6 +283,8 @@
         <entry>updates</entry>
         <entry>strides</entry>
         <entry>tenso</entry>
+        <entry>user</entry>
+        <entry>uid</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
@@ -286,11 +299,11 @@
         <entry>.,$ s/^/    /</entry>
         <entry>'a,.y</entry>
         <entry>'a,.s/^/    /</entry>
-        <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>W</entry>
         <entry>1</entry>
         <entry>wq</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
