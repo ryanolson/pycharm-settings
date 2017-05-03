@@ -9,7 +9,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1493743333340">
+      <file name="/Python Console" timestamp="1493770555985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1492791607079">
@@ -86,12 +86,12 @@
         <mark key="." line="71" column="13" />
         <mark key="^" line="96" column="29" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/562843038/-1227933812/tensorflow/python/client/session.py" timestamp="1493743002812" />
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1493768203176">
-        <mark key="'" line="71" column="30" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1493770985898">
+        <mark key="'" line="79" column="30" />
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
