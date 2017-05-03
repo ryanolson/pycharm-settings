@@ -99,6 +99,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -222,11 +228,11 @@
       <jump line="72" column="30" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># TODO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text># TODO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>uid</text>
@@ -235,31 +241,31 @@
         <text encoding="base64">bHVkYSAtdiBsb2dzIG52aWRpYS9jdWRhOjguMC1kZXZlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bHVkYSBudmlkaWEvY3VkYTo4LjAtZGV2ZWwgbnZpZGlhLXNtaQo=</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogSW5zdGFsbCBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICB0YXNrczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgawo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bHVkYSBudmlkaWEvY3VkYTo4LjAtZGV2ZWwgbnZpZGlhLXNtaQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">bHVkYSAtdiBsb2dzOjpybyBudmlkaWEvY3VkYTo4LjAtZGV2ZWwK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bHVkYQo=</text>
+        <text encoding="base64">bHVkYSAtdiBsb2dzOjpybyBudmlkaWEvY3VkYTo4LjAtZGV2ZWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
