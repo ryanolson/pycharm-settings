@@ -55,7 +55,7 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/command-center/gcp-nv-docker.yml" timestamp="1493771541232" />
+      <file name="$USER_HOME$/Projects/ansible/command-center/gcp-nv-docker.yml" timestamp="1493773182406" />
       <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1493761031244">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -73,6 +73,11 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
@@ -218,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text># TODO</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text># TODO</text>
       </register>
       <register name="/" type="4">
         <text>uid</text>
