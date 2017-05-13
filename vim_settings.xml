@@ -22,12 +22,6 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1493768885582">
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="48" column="47" />
-        <mark key="^" line="48" column="47" />
-        <mark key="." line="48" column="47" />
-      </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
         <mark key="'" line="32" column="4" />
@@ -54,13 +48,6 @@
         <mark key="]" line="27" column="39" />
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/command-center/gcp-nv-docker.yml" timestamp="1493773182406" />
-      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1493761031244">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -91,13 +78,6 @@
         <mark key="]" line="71" column="13" />
         <mark key="." line="71" column="13" />
         <mark key="^" line="96" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1493770985898">
-        <mark key="'" line="79" column="30" />
-        <mark key="[" line="12" column="59" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
         <mark key="[" line="3" column="0" />
