@@ -85,6 +85,13 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1495832545586">
+        <mark key="'" line="91" column="14" />
+        <mark key="[" line="75" column="52" />
+        <mark key="]" line="75" column="52" />
+        <mark key="." line="75" column="52" />
+        <mark key="^" line="75" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -106,8 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/Projects/gan-tf/model.py" />
-      <jump line="122" column="29" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="125" column="6" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -206,55 +211,57 @@
       <jump line="73" column="19" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="84" column="34" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="72" column="30" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="87" column="14" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>re</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>re</text>
       </register>
       <register name="/" type="4">
-        <text>uid</text>
+        <text>docker_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bHVkYSAtdiBsb2dzIG52aWRpYS9jdWRhOjguMC1kZXZlbAo=</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLXQnLCAnLS10dHknIGlzX2ZsYWc9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1ydW5hcmdzJywgbmFyZ3M9MSwgdHlwZT1jbGljay5VTlBST0NFU1NFRCwgZGVmYXVsdD0nLS1ybSAtdGknKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogSW5zdGFsbCBrCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LXJ1bmFyZ3MnLCBuYXJncz0xLCB0eXBlPWNsaWNrLlVOUFJPQ0VTU0VELCBkZWZhdWx0PSctLXJtIC10aScpCkBjbGljay5hcmd1bWVudCgnZG9ja2VyX2FyZ3MnLCBuYXJncz0tMSwgdHlwZT1jbGljay5VTlBST0NFU1NFRCkKZGVmIG1haW4oZG9ja2VyX2FyZ3MsIGRpc3BsYXksIGRvY2tlciwgZGV2LCByZW1vdmU9Tm9uZSwgLCB3b3JrPU5vbmUsCiAgICAgICAgIHZvbHVtZT1Ob25lKToKICAgICIiIkNvbnNvbGUgc2NyaXB0IGZvciBsdWRhLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YXNrczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogSW5zdGFsbCBrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bHVkYSBudmlkaWEvY3VkYTo4LjAtZGV2ZWwgbnZpZGlhLXNtaQo=</text>
+        <text encoding="base64">ICB0YXNrczoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgawo=</text>
+        <text encoding="base64">bHVkYSBudmlkaWEvY3VkYTo4LjAtZGV2ZWwgbnZpZGlhLXNtaQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bHVkYSAtdiBsb2dzOjpybyBudmlkaWEvY3VkYTo4LjAtZGV2ZWwK</text>
+        <text encoding="base64">YGBgawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uid</last-search>
+      <last-search>docker_</last-search>
       <last-offset />
-      <last-pattern>uid</last-pattern>
+      <last-pattern>docker_</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -262,8 +269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loss</entry>
-        <entry>args</entry>
         <entry>cli</entry>
         <entry>IMAGE_SIZE</entry>
         <entry>Z_DIM</entry>
@@ -282,6 +287,8 @@
         <entry>tenso</entry>
         <entry>user</entry>
         <entry>uid</entry>
+        <entry>docker_run</entry>
+        <entry>docker_</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
