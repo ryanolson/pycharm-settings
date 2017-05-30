@@ -49,7 +49,7 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496164509234">
+      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496173849637">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="48" />
         <mark key="^" line="8" column="48" />
@@ -66,6 +66,11 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496173888746">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
         <mark key="[" line="3" column="2" />
@@ -91,12 +96,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496171747473">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496176441868">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="52" column="63" />
+        <mark key="]" line="52" column="79" />
+        <mark key="." line="52" column="79" />
+        <mark key="^" line="52" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -117,9 +122,14 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496175702888">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="45" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="75" column="100" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="80" column="64" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="87" column="26" filename="$USER_HOME$/Projects/gan-tf/data.py" />
@@ -219,55 +229,56 @@
       <jump line="128" column="41" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="176" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>home</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFQUF9OQU1FID0gJ015IEFwcGxpY2F0aW9uJwoK</text>
+        <text encoding="base64">ICAgIGlmIGRldjoKICAgICAgICBnZW5lcmF0ZV9kb2NrZXJmaWxlX2V4dGVuc2lvbigiZGV2IikKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UGF0aFR5cGUgPSBjbGljay5QYXRoKGV4aXN0cz1UcnVlLCBmaWxlX29rYXk9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgIGRpcl9va2F5PVRydWUsIHJlc29sdmVfcGF0aD1UcnVlKQoK</text>
+        <text encoding="base64">ZnJvbSBsdWRhIGltcG9ydCB1dGlscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBqMmRvY2tlciBpbXBvcnQgajJkb2NrZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgdAo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLmFwcGVuZCgiLS1lbnYgREVWVE9PTFM9MSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0ganNvbi5sb2FkcyhjdXJyX2NtZC5zdHJpcCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBjdXJyX2NtZAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzICMgZG8gc29tZXRoaW5nIGhlcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgo=</text>
+        <text encoding="base64">ICAgIHdpdGggdGVtcGRpcigpIGFzIGRpcnBhdGg6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQganNvbgogICAgICAgIHQgPSBqc29uLmxvYWRzKGVwX3N0cikKICAgICAgICBwcmludCB0Cg==</text>
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>home</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>home</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loader</entry>
         <entry>checkpoint</entry>
         <entry>real</entry>
         <entry>score</entry>
@@ -295,6 +305,7 @@
         <entry>no_wor</entry>
         <entry>echo</entry>
         <entry>home</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
