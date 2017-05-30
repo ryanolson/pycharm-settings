@@ -91,12 +91,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496171485486">
-        <mark key="'" line="68" column="12" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496171747473">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -221,11 +221,11 @@
       <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFQUF9OQU1FID0gJ015IEFwcGxpY2F0aW9uJwoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
