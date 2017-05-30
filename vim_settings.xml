@@ -49,11 +49,11 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496161492210">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="28" />
+      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496164509234">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -91,12 +91,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496162765324">
-        <mark key="'" line="152" column="31" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="122" column="17" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496164576457">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="58" column="82" />
+        <mark key="]" line="108" column="31" />
+        <mark key="^" line="108" column="31" />
+        <mark key="." line="108" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -119,11 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="13" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="14" column="32" filename="$USER_HOME$/Projects/gan-tf/data.py" />
-      <jump line="55" column="35" filename="$USER_HOME$/Projects/gan-tf/data.py" />
-      <jump line="57" column="78" filename="$USER_HOME$/Projects/gan-tf/data.py" />
-      <jump line="58" column="39" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="68" column="45" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="75" column="100" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="80" column="64" filename="$USER_HOME$/Projects/gan-tf/data.py" />
@@ -219,55 +214,60 @@
       <jump line="64" column="23" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="66" column="53" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="152" column="31" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="157" column="16" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="128" column="41" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="176" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgKz0gd29ya19zdHIgKyAiICIK</text>
+      <register name="&quot;" type="4">
+        <text>home_path</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>home_path</text>
       </register>
       <register name="/" type="4">
-        <text>no_wor</text>
+        <text>home</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgKz0gd29ya19zdHIgKyAiICIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBub193b3JrX2RpcjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgKz0gd29ya19zdHIgKyAiICIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBub193b3JrX2RpcjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZQo=</text>
+        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKFtleGUsICdpbnNwZWN0JywgJy1mICJ7ey5Db25maWcuRW50cnlwb2ludH19IicsIGltYWdlX2FuZF9hcmdzWzBdXSkK</text>
+        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIndvcms6ICIgKyB3b3JrKQo=</text>
+        <text encoding="base64">ICAgIGV4ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrX3N0ciA9ICIgLXYge3dvcmt9Oi93b3JrIC0td29ya2RpciAvd29yayIuZm9ybWF0KHdvcms9d29yaykK</text>
+        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKFtleGUsICdpbnNwZWN0JywgJy1mICJ7ey5Db25maWcuRW50cnlwb2ludH19IicsIGltYWdlX2FuZF9hcmdzWzBdXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJUaGlzIGlzIG5lY2Vzc2FyeSBpZiB0aGUgY29udGFpbmVyIGFscmVhZHkgaGFzIGEgL3dvcmsgZGlyZWN0b3J5IikK</text>
+        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIndvcms6ICIgKyB3b3JrKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>no_wor</last-search>
+      <last-search>home</last-search>
       <last-offset />
-      <last-pattern>no_wor</last-pattern>
+      <last-pattern>home</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -275,8 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>os\.</entry>
-        <entry>runner</entry>
         <entry>loader</entry>
         <entry>checkpoint</entry>
         <entry>real</entry>
@@ -295,6 +293,8 @@
         <entry>remove</entry>
         <entry>detach</entry>
         <entry>no_wor</entry>
+        <entry>echo</entry>
+        <entry>home</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
