@@ -91,12 +91,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496169350782">
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496170240364">
         <mark key="'" line="57" column="12" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-        <mark key="^" line="155" column="70" />
+        <mark key="[" line="123" column="16" />
+        <mark key="]" line="123" column="35" />
+        <mark key="." line="123" column="35" />
+        <mark key="^" line="123" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -221,11 +221,11 @@
       <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.string</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>.string</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -234,31 +234,31 @@
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpsbGxsbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcF9zdHIgPSBlcF9zdHIuc3Rkb3V0LnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgKz0gIiAtLWVudiBERVZUT09MUz0xIiArICIgIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdvcmtfc3RyID0gIiIK</text>
+        <text encoding="base64">ICAgIGlmIGRldjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdvcmtfdm9sID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgKz0gYWRkX2Rpc3BsYXkoKSArICIgIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBob21lX3BhdGggPSBvcy5wYXRoLmV4cGFuZHVzZXIoIn4iKQo=</text>
+        <text encoding="base64">ICAgIGlmIGRpc3BsYXk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBob21lX3N0ciA9ICIiCg==</text>
+        <text encoding="base64">ICAgICMgZG9ja2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9tZV9zdHIgPSBWb2x1bWUoIn4iLCAiL2hvbWUvezB9Ii5mb3JtYXQodXNlcikpLnN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgKz0gYWRkX2Rpc3BsYXkoKSArICIgIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBob21lX3ZvbCA9IFZvbHVtZSgifiIsICcvaG9tZS97JykK</text>
+        <text encoding="base64">ICAgIGlmIGRpc3BsYXk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfaG9tZSA9IFRydWUK</text>
+        <text encoding="base64">ICAgIGNtZCA9ICIgIi5qb2luKG52YXJncykgKyAiICIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -312,8 +312,8 @@
         <entry>.,$d</entry>
         <entry>W</entry>
         <entry>1</entry>
-        <entry>'a,.d</entry>
         <entry>wq</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -322,6 +322,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
