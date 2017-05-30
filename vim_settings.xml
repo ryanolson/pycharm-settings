@@ -91,12 +91,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496161976699">
-        <mark key="'" line="66" column="53" />
-        <mark key="[" line="152" column="32" />
-        <mark key="]" line="153" column="33" />
-        <mark key="." line="153" column="33" />
-        <mark key="^" line="153" column="33" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496162765324">
+        <mark key="'" line="152" column="31" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="122" column="17" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -119,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="121" column="13" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="14" column="32" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="55" column="35" filename="$USER_HOME$/Projects/gan-tf/data.py" />
@@ -219,55 +218,56 @@
       <jump line="110" column="13" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="64" column="23" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="66" column="53" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="152" column="31" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbWQgKz0gd29ya19zdHIgKyAiICIK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>detach</text>
+        <text>no_wor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLXQnLCAnLS10dHknIGlzX2ZsYWc9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIndvcms6ICIgKyB3b3JrKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQgKz0gd29ya19zdHIgKyAiICIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrX3N0ciA9ICIgLXYge3dvcmt9Oi93b3JrIC0td29ya2RpciAvd29yayIuZm9ybWF0KHdvcms9d29yaykK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBub193b3JrX2RpcjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJUaGlzIGlzIG5lY2Vzc2FyeSBpZiB0aGUgY29udGFpbmVyIGFscmVhZHkgaGFzIGEgL3dvcmsgZGlyZWN0b3J5IikK</text>
+        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoZWxwPSJQcmV2ZW50cyBiaW5kaW5nIGFueSB2b2x1bWUgdG8gdGhlIGNvbnRhaW5lcnMgL3dvcmsgZGlyZWN0b3J5LiAiICsgXAo=</text>
+        <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1ub193b3JrX2RpcicsIGlzX2ZsYWc9VHJ1ZSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4ZQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjbGljay5lY2hvKFtleGUsICdpbnNwZWN0JywgJy1mICJ7ey5Db25maWcuRW50cnlwb2ludH19IicsIGltYWdlX2FuZF9hcmdzWzBdXSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIndvcms6ICIgKyB3b3JrKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNtZAo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JrX3N0ciA9ICIgLXYge3dvcmt9Oi93b3JrIC0td29ya2RpciAvd29yayIuZm9ybWF0KHdvcms9d29yaykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1ydW5hcmdzJywgbmFyZ3M9MSwgdHlwZT1jbGljay5VTlBST0NFU1NFRCwgZGVmYXVsdD0nLS1ybSAtdGknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJUaGlzIGlzIG5lY2Vzc2FyeSBpZiB0aGUgY29udGFpbmVyIGFscmVhZHkgaGFzIGEgL3dvcmsgZGlyZWN0b3J5IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>detach</last-search>
+      <last-search>no_wor</last-search>
       <last-offset />
-      <last-pattern>detach</last-pattern>
+      <last-pattern>no_wor</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Z_DIM</entry>
         <entry>os\.</entry>
         <entry>runner</entry>
         <entry>loader</entry>
@@ -295,6 +294,7 @@
         <entry>docker_</entry>
         <entry>remove</entry>
         <entry>detach</entry>
+        <entry>no_wor</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
