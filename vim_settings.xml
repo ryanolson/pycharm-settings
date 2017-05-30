@@ -22,6 +22,11 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496183013328">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
         <mark key="'" line="32" column="4" />
@@ -54,6 +59,11 @@
         <mark key="]" line="8" column="48" />
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/luda/luda/bootstrap/init.sh" timestamp="1496182848186">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -96,12 +106,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496176978422">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="51" column="97" />
-        <mark key="]" line="52" column="55" />
-        <mark key="." line="52" column="55" />
-        <mark key="^" line="52" column="55" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496182789558">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="215" column="29" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="215" column="29" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -233,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0YWcK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -245,34 +255,34 @@
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0YWcK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgajJkb2NrZXIucmVuZGVyKGJhc2VfaW1hZ2UsIHRlbXBsYXRlX3BhdGgpCg==</text>
+        <text encoding="base64">cGlwIGluc3RhbGwgLWUgLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGRldjoKICAgICAgICBnZW5lcmF0ZV9kb2NrZXJmaWxlX2V4dGVuc2lvbigiZGV2IikKCg==</text>
+        <text encoding="base64">Y2QgbHVkYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsdWRhIGltcG9ydCB1dGlscwo=</text>
+        <text encoding="base64">Z2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9yeWFub2xzb24vbHVkYS5naXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBqMmRvY2tlciBpbXBvcnQgajJkb2NrZXIK</text>
+        <text encoding="base64">Y2QgUHJvamVjdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLmFwcGVuZCgiLS1lbnYgREVWVE9PTFM9MSIpCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">YC91c3IvbG9jYWwvYCBiZWNhdXNlIG9mIERvY2tlcidzIHJlc3RyaWN0aW9ucyBvbiB0b3VjaGluZyB0aGUgaG9zdCBPUy4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzICMgZG8gc29tZXRoaW5nIGhlcmUK</text>
+        <text encoding="base64">Tm90ZTogT24gYSBNYWMsIHlvdSB3aWxsIG5lZWQgdG8gaW5zdGFsbCB0aGlzIHNvbWV3aGVyZSBlbHNlIGJlc2lkZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -324,8 +334,8 @@
         <entry>W</entry>
         <entry>1</entry>
         <entry>'a,.d</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
