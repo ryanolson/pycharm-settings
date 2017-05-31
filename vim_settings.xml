@@ -19,12 +19,6 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496258575184">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="5" />
-        <mark key="." line="52" column="5" />
-        <mark key="^" line="52" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -36,23 +30,6 @@
         <mark key="[" line="65" column="80" />
         <mark key="]" line="65" column="80" />
         <mark key="." line="65" column="83" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496265209334">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="9" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/luda/bootstrap/init.sh" timestamp="1496182848186">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/HISTORY.rst" timestamp="1496267239534">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -70,12 +47,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496265768720">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="^" line="170" column="93" />
-        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -250,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tempaltes</text>
+        <text>templates</text>
       </register>
       <register name="-" type="4">
-        <text>tempaltes</text>
+        <text>templates</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
@@ -262,31 +233,31 @@
         <text encoding="base64">ICAgICAgICBpbWFnZV9uYW1lID0gImx1ZGEvezB9OnsxfSIuZm9ybWF0KGJhc2VfaW1hZ2UucmVwbGFjZSgnLycsICctJykucmVwbGFjZSgnOicsICctJyksIHRlbXBsYXRlX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXJfYXJncy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRvY2tlcl9hcmdzW2ltYWdlX2luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXJfYXJncyArPSAoZXBfc3RyLCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGVwX3N0ciBhbmQgbGVuKGVwX3N0cikgPiAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVwX3N0ciA9IHBhcnNlX3R1cGxlKGVwX3N0cikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZmluZCBpbWFnZV9uYW1lIGluIGRvY2tlcl9hcmdzCg==</text>
+        <text encoding="base64">ICAgICMgYWRkIHRoZSBlbnRyeSBwb2ludCBpZiBpdCBleGlzdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlX25hbWUgPSBpbWFnZV9hbmRfYXJnc1swXQo=</text>
+        <text encoding="base64">ICAgICMgY2xpY2suZWNobyhlcF9zdHIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZXhwYW5kIGltYWdlX25hbWUgaWYgYWJicmV2aWF0aW9ucyBhcmUgcHJlc2VudAo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihpbWFnZV9hbmRfYXJncykgPT0gMToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZXhwYW5kIGltYWdlX25hbWUgaWYgYWJicmV2aWF0aW9ucyBhcmUgcHJlc2VudAogICAgYWJicmV2aWF0aW9ucyA9IGNvbmZpZy5nZXQoImFiYnJldmlhdGlvbnMiLCB7fSkKICAgIGRvY2tlcl9hcmdzW2ltYWdlX2luZGV4XSA9IGV4cGFuZF9hYmJyZXZpYXRpb25zKGRvY2tlcl9hcmdzW2ltYWdlX2luZGV4XSwgYWJicmV2aWF0aW9ucykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
