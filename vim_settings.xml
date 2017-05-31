@@ -22,11 +22,11 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496183992118">
-        <mark key="[" line="40" column="82" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="41" column="51" />
+      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496248632502">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
         <mark key="a" line="53" column="18" />
@@ -107,12 +107,13 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496191755451">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="47" column="61" />
-        <mark key="]" line="48" column="16" />
-        <mark key="^" line="48" column="16" />
-        <mark key="." line="48" column="16" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496248768541">
+        <mark key="a" line="34" column="17" />
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="64" column="12" />
+        <mark key="." line="64" column="12" />
+        <mark key="^" line="64" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -140,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="100" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="80" column="64" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="87" column="26" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="34" column="34" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
@@ -240,63 +240,63 @@
       <jump line="176" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
+      <jump line="42" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcHV0IHBhY2thZ2UgcmVxdWlyZW1lbnRzIGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAjIFBhY2thZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5jaGRpcihwcmV2ZGlyKQo=</text>
+        <text encoding="base64">IyAjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhbnVwKCkK</text>
+        <text encoding="base64">IyAzKSBzZXQgLS1lbnRyeXBvaW50IHRvIC9ib290c3RyYXAvaW5pdC5zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5jaGRpcihwcmV2ZGlyKQo=</text>
+        <text encoding="base64">IyAyKSB2b2x1bWUgbW91bnQgdG1wIGRpciB0byAvYm9vdHN0cmFwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyAxKSBjcmVhdGUgdGVtcCBkaXJlIHdpdGggdGVtcGxhdGVkIGluaXQgc2NyaXB0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBjb250YWllbnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjcmVhdGUgaW5pdC9lbnRyeXBvaW50IHNjcmlwdCB0byBnbmVyYXRlIGEgdXNlciB3aXRoIGEgdWlkIGluc2lkZSB0aGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
-      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">IyAtLSA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>checkpoint</entry>
         <entry>real</entry>
         <entry>score</entry>
         <entry>unrol</entry>
@@ -316,6 +316,7 @@
         <entry>echo</entry>
         <entry>home</entry>
         <entry>dev</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>'a,y</entry>
@@ -335,6 +336,7 @@
         <entry>1</entry>
         <entry>'a,.d</entry>
         <entry>wq</entry>
+        <entry>'a,.s/^/# -- /</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -344,7 +346,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
