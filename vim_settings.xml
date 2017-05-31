@@ -19,17 +19,17 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496248632502">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496258575184">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="52" column="5" />
+        <mark key="^" line="52" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496257361410">
-        <mark key="[" line="42" column="80" />
-        <mark key="]" line="36" column="34" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="42" column="84" />
+      <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496259006254">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1493739143271">
         <mark key="'" line="93" column="4" />
@@ -37,11 +37,11 @@
         <mark key="]" line="65" column="80" />
         <mark key="." line="65" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496256642042">
-        <mark key="[" line="90" column="51" />
-        <mark key="]" line="90" column="45" />
-        <mark key="^" line="90" column="45" />
-        <mark key="." line="90" column="45" />
+      <file name="$USER_HOME$/Projects/luda/luda/luda.py" timestamp="1496257842378">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="88" column="7" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/bootstrap/init.sh" timestamp="1496182848186">
         <mark key="[" line="19" column="0" />
@@ -65,11 +65,11 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496257481871">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="49" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496258146768">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="193" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -243,11 +243,11 @@
       <jump line="42" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bnZpZGlhLWRvY2tlciBydW4gLS1ybSAtdCAtaSAuLi4gbnZjci5pby9udmlkaWEvdGVuc29yZmxvdzoxNy4wNAo=</text>
       </register>
       <register name="-" type="4">
-        <text>jk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -256,31 +256,31 @@
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnZpZGlhLWRvY2tlciBydW4gLS1ybSAtdCAtaSAuLi4gbnZjci5pby9udmlkaWEvdGVuc29yZmxvdzoxNy4wNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHJlYWRfY29uZmlnKCk6CiAgICBjZmcgPSBvcy5wYXRoLmpvaW4oY2xpY2suZ2V0X2FwcF9kaXIoQVBQX05BTUUpLCAnY29uZmlnLnltbCcpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoY2ZnKToKICAgICAgICByZXR1cm4KICAgIHdpdGggb3BlbihjZmcsICJyIikgYXMgc3RyZWFtOgogICAgICAgIGNvbmZpZyA9IHlhbWwubG9hZChzdHJlYW0pCiAgICByZXR1cm4gY29uZmlnCgoKZGVmIGdldF90ZW1wbGF0ZV9wYXRoKHRlbXBsYXRlKToKICAgIHRlbXBsYXRlX3BhdGggPSBvcy5wYXRoLmpvaW4oY2xpY2suZ2V0X2FwcF9kaXIoQVBQX05BTUUpLCAndGVtcGxhdGVzJywgdGVtcGxhdGUpCiAgICB0ZW1wbGF0ZV9maWxlID0gb3MucGF0aC5qb2luKHRlbXBsYXRlX3BhdGgsICJEb2NrZXJmaWxlIikKICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHRlbXBsYXRlX3BhdGgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInswfSBkb2VzIG5vdCBleGlzdC4gUGxlYXNlIGNyZWF0ZSB0aGUgdGVtcGxhdGUgZGlyZWN0b3J5Ii5mb3JtYXQodGVtcGxhdGVfcGF0aCkpCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUodGVtcGxhdGVfZmlsZSk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiezB9OiBEb2NrZXJmaWxlIHdhcyBub3QgZm91bmQgaW4gezF9LiIuZm9ybWF0KHRlbXBsYXRlLCB0ZW1wbGF0ZV9wYXRoKSkKICAgIHJldHVybiB0ZW1wbGF0ZV9wYXRoCgoK</text>
+        <text encoding="base64">ICAgIHByaW50IGNvbmZpZ19kaWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UGF0aFR5cGUgPSBjbGljay5QYXRoKGV4aXN0cz1UcnVlLCBmaWxlX29rYXk9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgIGRpcl9va2F5PVRydWUsIHJlc29sdmVfcGF0aD1UcnVlKQoK</text>
+        <text encoding="base64">ICAgIHByaW50IGFiYnJldmlhdGlvbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGltYWdlX2luZGV4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVBQX05BTUUgPSAnbHVkYScK</text>
+        <text encoding="base64">ICAgICdiYic6ICdodHRwczovL2JpdGJ1Y2tldC5vcmcvezB9JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWFtbF9kaWN0ID0gcG95by5sb2FkKHN0cmVhbSkK</text>
+        <text encoding="base64">ICAgICdkZWZhdWx0X2NvbnRleHQnOiB7fSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY29uZmlnX2ZpbGUsICJyIikgYXMgc3RyZWFtOgo=</text>
+        <text encoding="base64">ICAgICdyZXBsYXlfZGlyJzogb3MucGF0aC5leHBhbmR1c2VyKCd+Ly5jb29raWVjdXR0ZXJfcmVwbGF5LycpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICdjb29raWVjdXR0ZXJzX2Rpcic6IG9zLnBhdGguZXhwYW5kdXNlcignfi8uY29va2llY3V0dGVycy8nKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
