@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1496252243663">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
         <mark key="[" line="0" column="0" />
@@ -27,14 +30,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/tensorflow-playground/gan_train.py" timestamp="1492506458915">
-        <mark key="a" line="53" column="18" />
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="156" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1493739143271">
         <mark key="'" line="93" column="4" />
@@ -107,13 +102,13 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496248768541">
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496251706114">
         <mark key="a" line="34" column="17" />
         <mark key="'" line="42" column="12" />
-        <mark key="[" line="64" column="12" />
-        <mark key="]" line="64" column="12" />
-        <mark key="." line="64" column="12" />
-        <mark key="^" line="64" column="12" />
+        <mark key="[" line="150" column="67" />
+        <mark key="]" line="150" column="66" />
+        <mark key="." line="150" column="66" />
+        <mark key="^" line="150" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -243,11 +238,11 @@
       <jump line="42" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -262,25 +257,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAjIFBhY2thZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAjCg==</text>
+        <text encoding="base64">IyAjIFBhY2thZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAzKSBzZXQgLS1lbnRyeXBvaW50IHRvIC9ib290c3RyYXAvaW5pdC5zaAo=</text>
+        <text encoding="base64">IyAjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAyKSB2b2x1bWUgbW91bnQgdG1wIGRpciB0byAvYm9vdHN0cmFwCg==</text>
+        <text encoding="base64">IyAzKSBzZXQgLS1lbnRyeXBvaW50IHRvIC9ib290c3RyYXAvaW5pdC5zaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAxKSBjcmVhdGUgdGVtcCBkaXJlIHdpdGggdGVtcGxhdGVkIGluaXQgc2NyaXB0Cg==</text>
+        <text encoding="base64">IyAyKSB2b2x1bWUgbW91bnQgdG1wIGRpciB0byAvYm9vdHN0cmFwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBjb250YWllbnIK</text>
+        <text encoding="base64">IyAxKSBjcmVhdGUgdGVtcCBkaXJlIHdpdGggdGVtcGxhdGVkIGluaXQgc2NyaXB0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjcmVhdGUgaW5pdC9lbnRyeXBvaW50IHNjcmlwdCB0byBnbmVyYXRlIGEgdXNlciB3aXRoIGEgdWlkIGluc2lkZSB0aGUK</text>
+        <text encoding="base64">IyBjb250YWllbnIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
