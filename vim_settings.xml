@@ -78,10 +78,10 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496173888746">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
         <mark key="[" line="3" column="2" />
@@ -107,12 +107,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496182789558">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="215" column="29" />
-        <mark key="]" line="216" column="0" />
-        <mark key="^" line="215" column="29" />
-        <mark key="." line="216" column="0" />
+      <file name="$USER_HOME$/Projects/luda/luda/cli.py" timestamp="1496191755451">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="48" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -133,11 +133,10 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496175702888">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="22" />
-        <mark key="^" line="32" column="22" />
-        <mark key="." line="32" column="22" />
+      <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496191581021">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -243,11 +242,11 @@
       <jump line="154" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -256,31 +255,31 @@
         <text encoding="base64">ICAgIGV4ZSA9IFt3aGljaCgibnZpZGlhLWRvY2tlciIpIG9yICJkb2NrZXIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXMgZXF1aXZhbGUK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogcHV0IHBhY2thZ2UgcmVxdWlyZW1lbnRzIGhlcmUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCmx1ZGEgLS1kZXYgbnZpZGlhL2N1ZGE6OC4wLWRldmVsCmBgYAo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5jaGRpcihwcmV2ZGlyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGVhbnVwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGlwIGluc3RhbGwgLWUgLgo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5jaGRpcihwcmV2ZGlyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgbHVkYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9yeWFub2xzb24vbHVkYS5naXQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2QgUHJvamVjdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
