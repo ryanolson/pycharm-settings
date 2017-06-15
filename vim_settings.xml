@@ -37,6 +37,7 @@
         <mark key="]" line="65" column="80" />
         <mark key="." line="65" column="83" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/roles/default_sw/tasks/main.yml" timestamp="1497545815131" />
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
         <mark key="]" line="17" column="46" />
@@ -54,6 +55,7 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/group_vars/sadevboxes" timestamp="1497545412293" />
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -73,12 +75,14 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/group_vars/bounce" timestamp="1497545442907" />
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/roles/docker/tasks/main.yml" timestamp="1497545569011" />
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="3" />
