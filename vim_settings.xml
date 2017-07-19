@@ -79,11 +79,11 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500450524944">
-        <mark key="[" line="76" column="58" />
-        <mark key="]" line="76" column="73" />
-        <mark key="^" line="76" column="73" />
-        <mark key="." line="76" column="73" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500451758533">
+        <mark key="[" line="83" column="98" />
+        <mark key="]" line="83" column="104" />
+        <mark key="^" line="83" column="104" />
+        <mark key="." line="83" column="104" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500449911060">
         <mark key="[" line="65" column="12" />
@@ -110,12 +110,12 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500450712816">
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500451928250">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="50" column="19" />
-        <mark key="]" line="50" column="20" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="50" column="20" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="47" column="48" />
+        <mark key="." line="20" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -257,44 +257,44 @@
       <jump line="18" column="4" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiKyIK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>mod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiKyIK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyID0gW3Bvb2wuc3VibWl0KHJhbmRvbV9pbmZlcmVuY2UpIGZvciBfIGluIHhyYW5nZSg1MCldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyID0gW3Bvb2wuc3VibWl0KHJhbmRvbV9pbmZlcmVuY2UpIGZvciBfIGluIHhyYW5nZSg1MCldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0ID0gW3JhbmRvbV9pbmZlcmVuY2UoKSBmb3IgXyBpbiB4cmFuZ2UoNTApXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YV9zaXplPWltYWdlLnNpemUsIGJhdGNoX2lkPWJhdGNoX2lkLCBlbmdpbmVfaGFuZGxlPWVuZ2luZV9zdGF0dXMuZW5naW5lX2hhbmRsZQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyID0gW3JhbmRvbV9pbmZlcmVuY2UoKSBmb3IgXyBpbiB4cmFuZ2UoNTApXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplLCB0b3Bfbj01LCBob3N0X3N5c3Zfb2Zmc2V0PWltYWdlLnN5c3Zfb2Zmc2V0LAo=</text>
+        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGluZm8uaW1hZ2VzW2JhdGNoX2lkXQo=</text>
+        <text encoding="base64">aW1wb3J0IFF1ZXVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9pZCA9IHJhbmRvbS5yYW5kaW50KDAsIGxlbihpbmZvLmltYWdlcyktYmF0Y2hfc2l6ZS0xKQo=</text>
+        <text encoding="base64">ICAgIHEuam9pbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKG51bV93b3JrZXJfdGhyZWFkcyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiKyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxLnB1dChyYW5kb21faW5mZXJlbmNlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
