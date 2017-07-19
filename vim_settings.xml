@@ -43,11 +43,11 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/image_classification.proto" timestamp="1500442521653">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="85" column="1" />
-        <mark key="^" line="85" column="1" />
-        <mark key="." line="86" column="1" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/image_classification.proto" timestamp="1500443778357">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="32" />
+        <mark key="^" line="80" column="23" />
+        <mark key="." line="84" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
         <mark key="[" line="3" column="2" />
@@ -79,11 +79,17 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500442291627">
-        <mark key="[" line="152" column="58" />
-        <mark key="]" line="152" column="91" />
-        <mark key="^" line="152" column="91" />
-        <mark key="." line="152" column="91" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500444028463">
+        <mark key="[" line="98" column="37" />
+        <mark key="]" line="98" column="57" />
+        <mark key="^" line="98" column="57" />
+        <mark key="." line="98" column="57" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500445453083">
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="57" column="56" />
+        <mark key="." line="57" column="56" />
+        <mark key="^" line="57" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
@@ -104,6 +110,12 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500445140304">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="57" />
@@ -114,6 +126,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/utils.py" timestamp="1500445838311">
+        <mark key="[" line="10" column="115" />
+        <mark key="]" line="10" column="115" />
+        <mark key="^" line="10" column="115" />
+        <mark key="." line="10" column="115" />
       </file>
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
@@ -251,31 +269,31 @@
         <text encoding="base64">ICAgICAgICBpbWFnZV9uYW1lID0gImx1ZGEvezB9OnsxfSIuZm9ybWF0KGJhc2VfaW1hZ2UucmVwbGFjZSgnLycsICctJykucmVwbGFjZSgnOicsICctJyksIHRlbXBsYXRlX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHN0YXR1cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5tYXhfYmF0Y2hzaXplCg==</text>
+        <text encoding="base64">aW1wb3J0IGdycGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBiYXRjaF9zaXplKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5fdG9wX24gPSByZXF1ZXN0LnRvcF9uIG9yIDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5tYXhfYmF0Y2hzaXplCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIGRlZiBiYXRjaF9zaXplKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5fdG9wX24gPSByZXF1ZXN0LnRvcF9uIG9yIDUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -327,12 +345,12 @@
         <entry>'a,.y</entry>
         <entry>'a,.s/^/    /</entry>
         <entry>.,$d</entry>
-        <entry>W</entry>
         <entry>'a,.s/^/# -- /</entry>
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>1</entry>
         <entry>'a,.d</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
