@@ -43,11 +43,11 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/image_classification.proto" timestamp="1500443778357">
-        <mark key="[" line="84" column="31" />
-        <mark key="]" line="84" column="32" />
-        <mark key="^" line="80" column="23" />
-        <mark key="." line="84" column="32" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/image_classification.proto" timestamp="1500453296125">
+        <mark key="[" line="79" column="5" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="80" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
         <mark key="[" line="3" column="2" />
@@ -79,23 +79,33 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500451758533">
-        <mark key="[" line="83" column="98" />
-        <mark key="]" line="83" column="104" />
-        <mark key="^" line="83" column="104" />
-        <mark key="." line="83" column="104" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500454158242">
+        <mark key="[" line="99" column="20" />
+        <mark key="]" line="99" column="36" />
+        <mark key="." line="99" column="36" />
+        <mark key="^" line="99" column="36" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500449911060">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="16" />
-        <mark key="." line="65" column="16" />
-        <mark key="^" line="65" column="16" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500455182296">
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/shmem_dataset/shmem_dataset/server.py" timestamp="1500454938353">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -110,12 +120,12 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500451928250">
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500455204366">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="47" />
-        <mark key="^" line="47" column="48" />
-        <mark key="." line="20" column="47" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -258,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>inception_resnet_v2</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>inception_resnet_v2</text>
       </register>
       <register name="/" type="4">
         <text>mod</text>
@@ -270,31 +280,31 @@
         <text encoding="base64">ICAgICAgICBjdXJyID0gW3Bvb2wuc3VibWl0KHJhbmRvbV9pbmZlcmVuY2UpIGZvciBfIGluIHhyYW5nZSg1MCldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyID0gW3Bvb2wuc3VibWl0KHJhbmRvbV9pbmZlcmVuY2UpIGZvciBfIGluIHhyYW5nZSg1MCldCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZXF1ZXN0KTpqawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0ID0gW3JhbmRvbV9pbmZlcmVuY2UoKSBmb3IgXyBpbiB4cmFuZ2UoNTApXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyID0gW3JhbmRvbV9pbmZlcmVuY2UoKSBmb3IgXyBpbiB4cmFuZ2UoNTApXQo=</text>
+        <text encoding="base64">Y2xhc3MgRGF0YXNldChvYmplY3QpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
+        <text encoding="base64">ICAgIHVpbnQzMiBoYW5kbGUgPSA0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFF1ZXVlCg==</text>
+        <text encoding="base64">ICAgIHVpbnQzMiBoYW5kbGUgPSA0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHEuam9pbigpCg==</text>
+        <text encoding="base64">ICAgICMgICAicmVzbmV0XzE1Ml92MSI6IGltYWdlX2NsYXNzaWZpY2F0aW9uX3BiMi5Nb2RlbCgKICAgICMgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiKyIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxLnB1dChyYW5kb21faW5mZXJlbmNlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
