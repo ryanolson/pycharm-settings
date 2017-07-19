@@ -37,6 +37,12 @@
         <mark key="]" line="65" column="80" />
         <mark key="." line="65" column="83" />
       </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
         <mark key="]" line="17" column="46" />
@@ -85,11 +91,13 @@
         <mark key="." line="99" column="36" />
         <mark key="^" line="99" column="36" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500455182296">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="28" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500456546384">
+        <mark key="a" line="28" column="9" />
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
@@ -120,12 +128,12 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500455204366">
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500456618657">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="32" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="32" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -165,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="26" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
       <jump line="41" column="16" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
       <jump line="27" column="24" filename="$USER_HOME$/Projects/gan-tf/model.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
@@ -265,19 +272,20 @@
       <jump line="53" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="54" column="59" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="18" column="4" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" />
+      <jump line="50" column="0" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inception_resnet_v2</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>inception_resnet_v2</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>mod</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyID0gW3Bvb2wuc3VibWl0KHJhbmRvbV9pbmZlcmVuY2UpIGZvciBfIGluIHhyYW5nZSg1MCldCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9uYW1lPSJpbnB1dDowIiwKICAgICAgICBpbnB1dF9zaGFwZT1bMjI0LCAyMjQsIDNdLAogICAgICAgIG91dHB1dF9uYW1lPSJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIsCiAgICAgICAgZ3JhcGhfcGJfcGF0aD0iL21vZGVscy9iZW5iL3Jlc25ldDE1Mi1pbmZlci1mcm96ZW4ucGIiLAogICAgICAgIHByZXByb2Nlc3M9TW9kZWwuTm9uZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -311,10 +319,10 @@
       </register>
     </registers>
     <search>
-      <last-search>mod</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>mod</last-pattern>
-      <last-replace encoding="base64">IyAtLSA=</last-replace>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
@@ -338,19 +346,16 @@
         <entry>echo</entry>
         <entry>home</entry>
         <entry>dev</entry>
-        <entry>^</entry>
         <entry>tag</entry>
         <entry>mod</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.$d</entry>
-        <entry>'a,d</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,$ w! data.py</entry>
         <entry>q</entry>
         <entry>.,$ w data.py</entry>
         <entry>.,$ s/^/    /</entry>
-        <entry>'a,.y</entry>
         <entry>'a,.s/^/    /</entry>
         <entry>.,$d</entry>
         <entry>'a,.s/^/# -- /</entry>
@@ -361,6 +366,9 @@
         <entry encoding="base64">JzwsJz4xMjc=</entry>
         <entry>127</entry>
         <entry>67</entry>
+        <entry>'a,.</entry>
+        <entry>'a,.y</entry>
+        <entry>'a,.s/^/# /</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
