@@ -37,11 +37,12 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500571562133">
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500571752001">
         <mark key="'" line="143" column="39" />
-        <mark key="[" line="147" column="78" />
-        <mark key="]" line="147" column="78" />
-        <mark key="." line="147" column="78" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="149" column="17" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -293,11 +294,11 @@
       <jump line="146" column="39" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.trt_dtype)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.trt_dtype)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>trt_name</text>
@@ -306,31 +307,31 @@
         <text encoding="base64">ICAgICAgICAjIGNvbXB1dGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVjaXNpb24gPSBwcmVjaXNpb24gb3IgbnAuZmxvYXQzMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfd29ya3NwYWNlID0gbWF4X3dvcmtzcGFjZSBvciAxIDw8IDIwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaW5pdGlhbGl6aW5nIHRlbnNvcnJ0IikK</text>
+        <text encoding="base64">ICAgICAgICAjIC4uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaW5pdGlhbGl6aW5nIHRlbnNvcnJ0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBob3N0X21lbT8gIGhpZGRlbl9wbHVnaW5fbWVtb3J5PyBSVEZNISEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJUZW5zb3JSVCBvciBzdXBwb3J0IGxpYnJhcmllcyBhcmUgbWlzc2luZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcHJpbnQoaW5zcGVjdC5nZXRtZW1iZXJzKHNlbGYudHJ0X2VuZ2luZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGVuc29ycnQKICAgICAgICBmcm9tIC4gaW1wb3J0IGN1ZGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGluc3BlY3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVjaXNpb24gPSBwcmVjaXNpb24gb3IgbnAuZmxvYXQzMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ0X25hbWUgPSBsYW1iZGEgeDogeC5yZXBsYWNlKCI6MCIsICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXhfd29ya3NwYWNlID0gbWF4X3dvcmtzcGFjZSBvciAxIDw8IDIwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
