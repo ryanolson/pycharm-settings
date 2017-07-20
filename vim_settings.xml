@@ -79,23 +79,12 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/nvidia-docker-compose.yml" timestamp="1500457902467">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500454158242">
-        <mark key="[" line="99" column="20" />
-        <mark key="]" line="99" column="36" />
-        <mark key="." line="99" column="36" />
-        <mark key="^" line="99" column="36" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500457297812">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500515629458" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500515688793">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="19" />
+        <mark key="^" line="64" column="102" />
+        <mark key="." line="65" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
@@ -142,12 +131,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/utils.py" timestamp="1500446003395">
-        <mark key="[" line="10" column="100" />
-        <mark key="]" line="10" column="101" />
-        <mark key="^" line="10" column="101" />
-        <mark key="." line="10" column="101" />
       </file>
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
@@ -272,8 +255,8 @@
       <jump line="50" column="0" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>50</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiBbdXRpbHMucHJvY2Vzc19wcmVkaWN0aW9uKHgpIGZvciB4IGluIG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKV06Cg==</text>
       </register>
       <register name="-" type="4">
         <text>50</text>
@@ -285,34 +268,34 @@
         <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9mcm96ZW5fcmVzbmV0X3YxXzUwLnBiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQxNTItaW5mZXItZnJvemVuLnBiIgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiBbdXRpbHMucHJvY2Vzc19wcmVkaWN0aW9uKHgpIGZvciB4IGluIG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKV06Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgo=</text>
+        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQxNTItaW5mZXItZnJvemVuLnBiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1PREVMU1tuYW1lXSA9IE1vZGVsKCoqZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1PREVMU1tuYW1lXSA9IE1vZGVsKCoqZGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBNT0RFTFMgPSB7CiMgICAgICJpbmNlcHRpb25fcmVzbmV0X3YyIjogaW1hZ2VfY2xhc3NpZmljYXRpb25fcGIyLk1vZGVsKAojICAgICAgICAgaW5wdXRfbmFtZT0iaW5wdXQ6MCIsCiMgICAgICAgICBpbnB1dF9zaGFwZT1bMjk5LCAyOTksIDNdLAojICAgICAgICAgb3V0cHV0X25hbWU9IkluY2VwdGlvblJlc25ldFYyL0xvZ2l0cy9QcmVkaWN0aW9uczowIiwKIyAgICAgICAgIGdyYXBoX3BiX3BhdGg9Ii9tb2RlbHMvZnJvemVuX2luY2VwdGlvbl9yZXNuZXRfdjIucGIiLAojICAgICAgICAgcHJlcHJvY2Vzcz1Nb2RlbC5Ob3JtYWxpemUKIyAgICAgKSwKIyAgICAgInJlc25ldF8xNTJfdjEiOiBpbWFnZV9jbGFzc2lmaWNhdGlvbl9wYjIuTW9kZWwoCiMgICAgICAgICBpbnB1dF9uYW1lPSJpbnB1dDowIiwKIyAgICAgICAgIGlucHV0X3NoYXBlPVsyMjQsIDIyNCwgM10sCiMgICAgICAgICBvdXRwdXRfbmFtZT0iR1BVXzAvdG93ZXJfMC9Tb2Z0bWF4OjAiLAojICAgICAgICAgZ3JhcGhfcGJfcGF0aD0iL21vZGVscy9iZW5iL3Jlc25ldDE1Mi1pbmZlci1mcm96ZW4ucGIiLAojICAgICAgICAgcHJlcHJvY2Vzcz1Nb2RlbC5Ob25lCiMgICAgICkKIyAgICAgInJlc25ldF81MF92MSI6IGltYWdlX2NsYXNzaWZpY2F0aW9uX3BiMi5Nb2RlbCgKIyAgICAgICAgIGlucHV0X25hbWU9ImlucHV0OjAiLAojICAgICAgICAgaW5wdXRfc2hhcGU9WzIyNCwgMjI0LCAzXSwKIyAgICAgICAgIG91dHB1dF9uYW1lPSJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIsCiMgICAgICAgICBncmFwaF9wYl9wYXRoPSIvbW9kZWxzL2JlbmIvcmVzbmV0NTAtaW5mZXItZnJvemVuLnBiIiwKIyAgICAgICAgIHByZXByb2Nlc3M9TW9kZWwuTm9uZQojICAgICApLAojIA==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IyBNT0RFTFMgPSB7CiMgICAgICJpbmNlcHRpb25fcmVzbmV0X3YyIjogaW1hZ2VfY2xhc3NpZmljYXRpb25fcGIyLk1vZGVsKAojICAgICAgICAgaW5wdXRfbmFtZT0iaW5wdXQ6MCIsCiMgICAgICAgICBpbnB1dF9zaGFwZT1bMjk5LCAyOTksIDNdLAojICAgICAgICAgb3V0cHV0X25hbWU9IkluY2VwdGlvblJlc25ldFYyL0xvZ2l0cy9QcmVkaWN0aW9uczowIiwKIyAgICAgICAgIGdyYXBoX3BiX3BhdGg9Ii9tb2RlbHMvZnJvemVuX2luY2VwdGlvbl9yZXNuZXRfdjIucGIiLAojICAgICAgICAgcHJlcHJvY2Vzcz1Nb2RlbC5Ob3JtYWxpemUKIyAgICAgKSwKIyAgICAgInJlc25ldF8xNTJfdjEiOiBpbWFnZV9jbGFzc2lmaWNhdGlvbl9wYjIuTW9kZWwoCiMgICAgICAgICBpbnB1dF9uYW1lPSJpbnB1dDowIiwKIyAgICAgICAgIGlucHV0X3NoYXBlPVsyMjQsIDIyNCwgM10sCiMgICAgICAgICBvdXRwdXRfbmFtZT0iR1BVXzAvdG93ZXJfMC9Tb2Z0bWF4OjAiLAojICAgICAgICAgZ3JhcGhfcGJfcGF0aD0iL21vZGVscy9iZW5iL3Jlc25ldDE1Mi1pbmZlci1mcm96ZW4ucGIiLAojICAgICAgICAgcHJlcHJvY2Vzcz1Nb2RlbC5Ob25lCiMgICAgICkKIyAgICAgInJlc25ldF81MF92MSI6IGltYWdlX2NsYXNzaWZpY2F0aW9uX3BiMi5Nb2RlbCgKIyAgICAgICAgIGlucHV0X25hbWU9ImlucHV0OjAiLAojICAgICAgICAgaW5wdXRfc2hhcGU9WzIyNCwgMjI0LCAzXSwKIyAgICAgICAgIG91dHB1dF9uYW1lPSJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIsCiMgICAgICAgICBncmFwaF9wYl9wYXRoPSIvbW9kZWxzL2JlbmIvcmVzbmV0NTAtaW5mZXItZnJvemVuLnBiIiwKIyAgICAgICAgIHByZXByb2Nlc3M9TW9kZWwuTm9uZQojICAgICApLAojIA==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZXF1ZXN0KTpqawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -366,8 +349,8 @@
         <entry>'a,.</entry>
         <entry>'a,.y</entry>
         <entry>'a,.s/^/# /</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
