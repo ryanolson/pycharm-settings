@@ -120,11 +120,11 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500456618657">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="28" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="15" column="28" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -260,11 +260,11 @@
       <jump line="13" column="14" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKQogICAgICAgIGZvciByIGluIFt1dGlscy5wcm9jZXNzX3ByZWRpY3Rpb24ocCwgcmVxdWVzdCwgaW1hZ2VfaWQ9aSkgZm9yIGksIHAgaW4gZW51bWVyYXRlKHByZWRpY3Rpb25zKV06CiAgICAgICAgICAgIHlpZWxkIHIK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>simul</text>
@@ -336,9 +336,7 @@
         <entry>simul</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>.,$ w! data.py</entry>
-        <entry>q</entry>
         <entry>.,$ w data.py</entry>
         <entry>.,$ s/^/    /</entry>
         <entry>'a,.s/^/    /</entry>
@@ -353,8 +351,10 @@
         <entry>'a,.</entry>
         <entry>'a,.y</entry>
         <entry>'a,.s/^/# /</entry>
-        <entry>wq</entry>
         <entry>.,$d</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
