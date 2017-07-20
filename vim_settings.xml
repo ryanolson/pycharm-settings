@@ -37,12 +37,11 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500569962072">
-        <mark key="'" line="163" column="8" />
-        <mark key="[" line="130" column="30" />
-        <mark key="]" line="132" column="73" />
-        <mark key="." line="132" column="73" />
-        <mark key="^" line="132" column="73" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500571562133">
+        <mark key="'" line="143" column="39" />
+        <mark key="[" line="147" column="78" />
+        <mark key="]" line="147" column="78" />
+        <mark key="." line="147" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -192,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="149" column="51" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="128" column="35" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="102" column="73" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
@@ -291,56 +287,59 @@
       <jump line="71" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
       <jump line="74" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
       <jump line="75" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="158" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="143" column="17" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="146" column="39" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, plugins=None)(model.tensorrt_plan)</text>
+        <text>self.trt_dtype)</text>
       </register>
       <register name="-" type="4">
-        <text>, plugins=None)(model.tensorrt_plan)</text>
+        <text>self.trt_dtype)</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text>trt_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGNvbXB1dGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmVjaXNpb24gPSBwcmVjaXNpb24gb3IgbnAuZmxvYXQzMgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGVuc29ycnQgYXMgdHJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfd29ya3NwYWNlID0gbWF4X3dvcmtzcGFjZSBvciAxIDw8IDIwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaW5pdGlhbGl6aW5nIHRlbnNvcnJ0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cyA9IHJlc3VsdHNbMF0K</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaW5pdGlhbGl6aW5nIHRlbnNvcnJ0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ocmVzdWx0cykgPT0gMToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJUZW5zb3JSVCBvciBzdXBwb3J0IGxpYnJhcmllcyBhcmUgbWlzc2luZyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0cmVhbS5zeW5jaHJvbml6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3I6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGF3YWl0IGFzeW5jIGNvbXBsZXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGVuc29ycnQKICAgICAgICBmcm9tIC4gaW1wb3J0IGN1ZGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW291dHB1dC5nZXRfYXN5bmMoYmF0Y2hfc2l6ZSwgc2VsZi5zdHJlYW0pLnNxdWVlemUoKSBmb3Igb3V0cHV0IGluIHNlbGYub3V0cHV0c10K</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzeW5jIGQyaCAtIHJlc3VsdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ0X25hbWUgPSBsYW1iZGEgeDogeC5yZXBsYWNlKCI6MCIsICIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search>trt_name</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern>trt_name</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
-        <entry>updates</entry>
         <entry>strides</entry>
         <entry>tenso</entry>
         <entry>user</entry>
@@ -368,6 +365,8 @@
         <entry>simul</entry>
         <entry>Backend</entry>
         <entry>self</entry>
+        <entry>trt</entry>
+        <entry>trt_name</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ w! data.py</entry>
