@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1496252243663">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1493770555985">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1492791607079">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500576534503">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -31,18 +28,24 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="12" column="11" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500571752001">
-        <mark key="'" line="143" column="39" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="149" column="17" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500575109385">
+        <mark key="'" line="90" column="31" />
+        <mark key="[" line="211" column="36" />
+        <mark key="]" line="211" column="44" />
+        <mark key="^" line="211" column="44" />
+        <mark key="." line="211" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -79,12 +82,11 @@
         <mark key="." line="74" column="8" />
         <mark key="^" line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500551487754">
-        <mark key="'" line="87" column="21" />
-        <mark key="[" line="101" column="14" />
-        <mark key="]" line="101" column="22" />
-        <mark key="." line="101" column="22" />
-        <mark key="^" line="101" column="22" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500576981708">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="86" column="43" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -112,6 +114,12 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1500575159975">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="22" />
@@ -121,6 +129,12 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500575657808">
+        <mark key="[" line="67" column="40" />
+        <mark key="]" line="68" column="49" />
+        <mark key="^" line="68" column="49" />
+        <mark key="." line="68" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -147,11 +161,12 @@
         <mark key="^" line="144" column="54" />
         <mark key="." line="144" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/models/gpu/models.yml" timestamp="1500551628351">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="25" />
+      <file name="$USER_HOME$/Projects/cvpr/models/gpu/models.yml" timestamp="1500577316174">
+        <mark key="a" line="16" column="12" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -192,11 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="35" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="102" column="73" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="67" column="11" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="204" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -292,55 +302,60 @@
       <jump line="134" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="143" column="17" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="146" column="39" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="26" column="37" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="90" column="31" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="14" column="45" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
+      <jump line="6" column="14" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
+      <jump line="93" column="11" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>allowed_frameworks</text>
       </register>
       <register name="/" type="4">
-        <text>trt_name</text>
+        <text>Model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbXB1dGUK</text>
+        <text encoding="base64">cmVzbmV0XzUwX3YxOgogIGlucHV0X25hbWU6ICJpbnB1dDowIgogIGlucHV0X3NoYXBlOiBbMjI0LCAyMjQsIDNdCiAgb3V0cHV0X25hbWU6ICJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIKICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQ1MC1pbmZlci1mcm96ZW4ucGIiCiAgcHJlcHJvY2VzczogMAogIGFsbG93ZWRfZnJhbWV3b3JrczogWzAsIDFdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJlc25ldF81MF92MV90cnQ6CiAgaW5wdXRfbmFtZTogImlucHV0OjAiCiAgaW5wdXRfc2hhcGU6IFsyMjQsIDIyNCwgM10KICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgogIGdyYXBoX3BiX3BhdGg6ICIvbW9kZWxzL3Jlc25ldDUwLWluZmVyLWZyb3plbi5wYiIKICBwcmVwcm9jZXNzOiAwCiAgYWxsb3dlZF9mcmFtZXdvcmtzOiBbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIC4uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBob3N0X21lbT8gIGhpZGRlbl9wbHVnaW5fbWVtb3J5PyBSVEZNISEK</text>
+        <text encoding="base64">ICBhbGxvd2VkX2ZyYW1ld29ya3M6IFswXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcHJpbnQoaW5zcGVjdC5nZXRtZW1iZXJzKHNlbGYudHJ0X2VuZ2luZSkpCg==</text>
+        <text encoding="base64">ICBwcmVwcm9jZXNzOiAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9mcm96ZW5faW5jZXB0aW9uX3Jlc25ldF92Mi5wYiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGluc3BlY3QK</text>
+        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkluY2VwdGlvblJlc25ldFYyL0xvZ2l0cy9QcmVkaWN0aW9uczowIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVjaXNpb24gPSBwcmVjaXNpb24gb3IgbnAuZmxvYXQzMgo=</text>
+        <text encoding="base64">ICBpbnB1dF9zaGFwZTogWzI5OSwgMjk5LCAzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfd29ya3NwYWNlID0gbWF4X3dvcmtzcGFjZSBvciAxIDw8IDIwCg==</text>
+        <text encoding="base64">ICBpbnB1dF9uYW1lOiAiaW5wdXQ6MCIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>trt_name</last-search>
+      <last-search>Model</last-search>
       <last-offset />
-      <last-pattern>trt_name</last-pattern>
+      <last-pattern>Model</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strides</entry>
-        <entry>tenso</entry>
         <entry>user</entry>
         <entry>uid</entry>
         <entry>docker_run</entry>
@@ -368,6 +381,8 @@
         <entry>self</entry>
         <entry>trt</entry>
         <entry>trt_name</entry>
+        <entry>model</entry>
+        <entry>Model</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ w! data.py</entry>
@@ -376,20 +391,20 @@
         <entry>'a,.s/^/    /</entry>
         <entry>'a,.s/^/# -- /</entry>
         <entry>q!</entry>
-        <entry>1</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz4xMjc=</entry>
         <entry>127</entry>
         <entry>67</entry>
         <entry>'a,.</entry>
-        <entry>'a,.y</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>wq</entry>
-        <entry>.,$d</entry>
         <entry>'a,.d</entry>
+        <entry>'a,.y</entry>
+        <entry>1</entry>
+        <entry>.,$d</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
