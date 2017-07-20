@@ -54,6 +54,12 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/models/cpu/models.yml" timestamp="1500551558226">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -65,6 +71,13 @@
         <mark key="]" line="74" column="8" />
         <mark key="." line="74" column="8" />
         <mark key="^" line="74" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500551487754">
+        <mark key="'" line="87" column="21" />
+        <mark key="[" line="101" column="14" />
+        <mark key="]" line="101" column="22" />
+        <mark key="." line="101" column="22" />
+        <mark key="^" line="101" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -126,11 +139,17 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500548625229">
+      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500551981637">
         <mark key="[" line="67" column="12" />
         <mark key="]" line="67" column="12" />
         <mark key="^" line="150" column="7" />
         <mark key="." line="67" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/models/gpu/models.yml" timestamp="1500551628351">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -162,11 +181,14 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500552025753">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="24" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="24" filename="$USER_HOME$/Projects/gan-tf/model.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
-      <jump line="63" column="49" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="69" column="25" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="76" column="34" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
@@ -264,6 +286,9 @@
       <jump line="18" column="4" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" />
       <jump line="50" column="0" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" />
       <jump line="13" column="14" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" />
+      <jump line="101" column="23" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
+      <jump line="67" column="13" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
+      <jump line="87" column="21" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -273,46 +298,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>simul</text>
+        <text>Backend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9mcm96ZW5fcmVzbmV0X3YxXzUwLnBiIgo=</text>
+        <text encoding="base64">ICBhbGxvd2VkX2ZyYW1ld29ya3M6IFsxXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKQogICAgICAgIGZvciByIGluIFt1dGlscy5wcm9jZXNzX3ByZWRpY3Rpb24ocCwgcmVxdWVzdCwgaW1hZ2VfaWQ9aSkgZm9yIGksIHAgaW4gZW51bWVyYXRlKHByZWRpY3Rpb25zKV06CiAgICAgICAgICAgIHlpZWxkIHIK</text>
+        <text encoding="base64">aW1wb3J0IHB5Y3VkYS5kcml2ZXIgYXMgY3VkYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJlY2VpdmVkIGluZmVyZW5jZSByZXF1ZXN0IGZvciBlbmdpbmUgJSBzIiAlIHJlcXVlc3QuZW5naW5lX2hhbmRsZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoaW5wdXQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIGVudW0gQmFja2VuZCB7CiAgICAgICAgVGVuc29yUlQgPSAwOwogICAgICAgIFRlbnNvcmZsb3cgPSAxOwogICAgICAgIFNpbXVsYXRvciA9IDk5OwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfYmF0Y2hzaXplID0gcmVxdWVzdC5tYXhfYmF0Y2hzaXplIG9yIDEK</text>
+        <text encoding="base64">ICAgIGVudW0gQmFja2VuZCB7CiAgICAgICAgVGVuc29yUlQgPSAwOwogICAgICAgIFRlbnNvcmZsb3cgPSAxOwogICAgICAgIFNpbXVsYXRvciA9IDk5OwogICAgfQogICAgQmFja2VuZCBiYWNrZW5kID0gNjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfYmF0Y2hzaXplID0gcmVxdWVzdC5tYXhfYmF0Y2hzaXplIG9yIDEK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKQogICAgICAgIGZvciByIGluIFt1dGlscy5wcm9jZXNzX3ByZWRpY3Rpb24ocCwgcmVxdWVzdCwgaW1hZ2VfaWQ9aSkgZm9yIGksIHAgaW4gZW51bWVyYXRlKHByZWRpY3Rpb25zKV06CiAgICAgICAgICAgIHlpZWxkIHIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJlY2VpdmVkIGluZmVyZW5jZSByZXF1ZXN0IGZvciBlbmdpbmUgJSBzIiAlIHJlcXVlc3QuZW5naW5lX2hhbmRsZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fbWF4X2JhdGNoc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoaW5wdXQuc2hhcGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXhfYmF0Y2hzaXplKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfYmF0Y2hzaXplID0gcmVxdWVzdC5tYXhfYmF0Y2hzaXplIG9yIDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfYmF0Y2hzaXplID0gcmVxdWVzdC5tYXhfYmF0Y2hzaXplIG9yIDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>simul</last-search>
+      <last-search>Backend</last-search>
       <last-offset />
-      <last-pattern>simul</last-pattern>
+      <last-pattern>Backend</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -320,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unroll</entry>
         <entry>optimizer</entry>
         <entry>app</entry>
         <entry>updates</entry>
@@ -340,6 +364,7 @@
         <entry>mod</entry>
         <entry>^</entry>
         <entry>simul</entry>
+        <entry>Backend</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ w! data.py</entry>
@@ -349,7 +374,6 @@
         <entry>'a,.s/^/# -- /</entry>
         <entry>q!</entry>
         <entry>1</entry>
-        <entry>'a,.d</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz4xMjc=</entry>
         <entry>127</entry>
@@ -360,6 +384,7 @@
         <entry>.,$d</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>'a,.d</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
