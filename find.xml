@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'gan-tf'" />
-    <option name="defaultScopeName" value="Project 'gan-tf'" />
-    <option name="SEARCH_SCOPE" value="Project 'gan-tf'" />
+    <option name="customScope" value="File '.../tensorrt/test.py - [cvpr]'" />
+    <option name="defaultScopeName" value="File '.../tensorrt/test.py - [cvpr]'" />
+    <option name="SEARCH_SCOPE" value="File '.../tensorrt/test.py - [cvpr]'" />
   </component>
 </application>

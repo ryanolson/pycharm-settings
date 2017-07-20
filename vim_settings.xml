@@ -126,6 +126,12 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500548625229">
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="12" />
+        <mark key="^" line="150" column="7" />
+        <mark key="." line="67" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="57" />
@@ -261,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>simul</text>
