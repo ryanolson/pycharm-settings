@@ -37,11 +37,12 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500554695733">
-        <mark key="[" line="130" column="8" />
-        <mark key="]" line="130" column="16" />
-        <mark key="." line="130" column="16" />
-        <mark key="^" line="130" column="16" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500559631049">
+        <mark key="'" line="158" column="8" />
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="159" column="12" />
+        <mark key="^" line="159" column="11" />
+        <mark key="." line="159" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -92,6 +93,7 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500559735283" />
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
@@ -109,12 +111,6 @@
         <mark key="]" line="65" column="1" />
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1495833502126">
-        <mark key="a" line="0" column="47" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
         <mark key="[" line="15" column="0" />
@@ -145,11 +141,11 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500552411624">
-        <mark key="[" line="67" column="12" />
-        <mark key="]" line="67" column="12" />
-        <mark key="^" line="150" column="7" />
-        <mark key="." line="67" column="12" />
+      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500555250603">
+        <mark key="[" line="144" column="30" />
+        <mark key="]" line="144" column="54" />
+        <mark key="^" line="144" column="54" />
+        <mark key="." line="144" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/models/gpu/models.yml" timestamp="1500551628351">
         <mark key="[" line="22" column="23" />
@@ -187,24 +183,15 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500553961143">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="86" column="52" />
-        <mark key="]" line="86" column="53" />
-        <mark key="^" line="86" column="46" />
-        <mark key="." line="86" column="53" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500556822704">
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="95" column="59" />
+        <mark key="." line="95" column="59" />
+        <mark key="^" line="95" column="59" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="69" column="68" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="108" column="12" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="87" column="39" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="50" column="66" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="59" column="68" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="72" column="61" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="73" column="75" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="146" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="149" column="51" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
@@ -296,55 +283,64 @@
       <jump line="87" column="21" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
       <jump line="28" column="7" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
       <jump line="18" column="3" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="61" column="23" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="63" column="30" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="64" column="19" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="66" column="46" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="68" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="71" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="74" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="75" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># ...</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text># ...</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Backend</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGNvbXB1dGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJUZW5zb3JSVCBpcyBub3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tb2RlbCA9IG1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cyA9IHJlc3VsdHNbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ocmVzdWx0cykgPT0gMToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgY29tcHV0ZShzZWxmLCBpbnB1dCk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobGVuKHNlbGYuaW5wdXRzKSwgbGVuKGlucHV0cykpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiV3JvbmcgbnVtYmVyIG9mIGlucHV0cy4gRXhwZWN0ZWQgJWksIGdvdCAlaS4iICUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oaW5wdXRzKSAhPSBsZW4oc2VsZi5pbnB1dHMpOgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0cmVhbS5zeW5jaHJvbml6ZSgpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGF3YWl0IGFzeW5jIGNvbXBsZXRpb24K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW291dHB1dC5nZXRfYXN5bmMoYmF0Y2hfc2l6ZSwgc2VsZi5zdHJlYW0pLnNxdWVlemUoKSBmb3Igb3V0cHV0IGluIHNlbGYub3V0cHV0c10K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFzeW5jIGQyaCAtIHJlc3VsdHMK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRleHQuZW5xdWV1ZShiYXRjaF9zaXplLCBzZWxmLmJpbmRpbmdfYWRkcnMsIHNlbGYuc3RyZWFtLmhhbmRsZSwgTm9uZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFzeW5jIGNvbXB1dGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Backend</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>Backend</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -352,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>optimizer</entry>
         <entry>app</entry>
         <entry>updates</entry>
         <entry>strides</entry>
@@ -372,6 +367,7 @@
         <entry>^</entry>
         <entry>simul</entry>
         <entry>Backend</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ w! data.py</entry>
@@ -388,11 +384,11 @@
         <entry>'a,.</entry>
         <entry>'a,.y</entry>
         <entry>'a,.s/^/# /</entry>
-        <entry>.,$d</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>'a,.d</entry>
         <entry>wq</entry>
+        <entry>.,$d</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
