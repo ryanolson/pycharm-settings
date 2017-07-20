@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500576534503">
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="21" column="39" />
         <mark key="^" line="21" column="39" />
@@ -40,12 +40,11 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500575109385">
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" timestamp="1500580901753">
         <mark key="'" line="90" column="31" />
-        <mark key="[" line="211" column="36" />
-        <mark key="]" line="211" column="44" />
-        <mark key="^" line="211" column="44" />
-        <mark key="." line="211" column="44" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="203" column="87" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -95,7 +94,7 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500559735283" />
+      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500579959065" />
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
@@ -114,11 +113,12 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1500575159975">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="19" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1500580046546">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="41" column="38" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
         <mark key="[" line="15" column="0" />
@@ -130,11 +130,12 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500575657808">
-        <mark key="[" line="67" column="40" />
-        <mark key="]" line="68" column="49" />
-        <mark key="^" line="68" column="49" />
-        <mark key="." line="68" column="49" />
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500580312683">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="60" column="39" />
+        <mark key="." line="62" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -198,19 +199,15 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500556822704">
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500579661940">
         <mark key="'" line="75" column="8" />
-        <mark key="[" line="91" column="32" />
-        <mark key="]" line="95" column="59" />
-        <mark key="." line="95" column="59" />
-        <mark key="^" line="95" column="59" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="93" column="56" />
+        <mark key="." line="94" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="94" column="27" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
       <jump line="76" column="12" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
       <jump line="67" column="28" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
       <jump line="68" column="32" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
@@ -307,13 +304,17 @@
       <jump line="14" column="45" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
       <jump line="6" column="14" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
       <jump line="93" column="11" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
+      <jump line="20" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYuX2JhY2tlbmQsIFRlbnNvclJUQmFja2VuZCkgYW5kIGNhbGxiYWNrIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiVGVuc29yUlQncyBvdXRwdXQgaXMgdm9sYXRpbGU7IGEgY2FsbGJhY2sgaXMgcmVxdWlyZWQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>allowed_frameworks</text>
+        <text encoding="base64">IHRvIHVzZSBvciBjb3B5IHRoZSBkYXRhIg==</text>
       </register>
       <register name="/" type="4">
         <text>Model</text>
@@ -322,34 +323,34 @@
         <text encoding="base64">cmVzbmV0XzUwX3YxOgogIGlucHV0X25hbWU6ICJpbnB1dDowIgogIGlucHV0X3NoYXBlOiBbMjI0LCAyMjQsIDNdCiAgb3V0cHV0X25hbWU6ICJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIKICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQ1MC1pbmZlci1mcm96ZW4ucGIiCiAgcHJlcHJvY2VzczogMAogIGFsbG93ZWRfZnJhbWV3b3JrczogWzAsIDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHNlbGYuX2JhY2tlbmQsIFRlbnNvclJUQmFja2VuZCkgYW5kIGNhbGxiYWNrIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiVGVuc29yUlQncyBvdXRwdXQgaXMgdm9sYXRpbGU7IGEgY2FsbGJhY2sgaXMgcmVxdWlyZWQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnJlc25ldF81MF92MV90cnQ6CiAgaW5wdXRfbmFtZTogImlucHV0OjAiCiAgaW5wdXRfc2hhcGU6IFsyMjQsIDIyNCwgM10KICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgogIGdyYXBoX3BiX3BhdGg6ICIvbW9kZWxzL3Jlc25ldDUwLWluZmVyLWZyb3plbi5wYiIKICBwcmVwcm9jZXNzOiAwCiAgYWxsb3dlZF9mcmFtZXdvcmtzOiBbMF0K</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGJhY2tlbmQgaXMgYW4gaW5zdGFuY2Ugb2YgVGVuc29yUlRCYWNrZW5kLCB0aGVuIGEgY2FsbGJhY2sgaXMgcmVxdWlyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGxvd2VkX2ZyYW1ld29ya3M6IFswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcHV0ZV90aW1lID0gdGltZS50aW1lKCkgLSBzdGFydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmVwcm9jZXNzOiAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhdGNoX2lkPXJlcXVlc3QuYmF0Y2hfaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9mcm96ZW5faW5jZXB0aW9uX3Jlc25ldF92Mi5wYiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkluY2VwdGlvblJlc25ldFYyL0xvZ2l0cy9QcmVkaWN0aW9uczowIgo=</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbnB1dF9zaGFwZTogWzI5OSwgMjk5LCAzXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGN1cnJlbnQgdGhyZWFkcyBjYW4gcHJvY2VzcyBhbmQgcmV0dXJuIHRoZSByZXN1bHRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnB1dF9uYW1lOiAiaW5wdXQ6MCIK</text>
+        <text encoding="base64">ICAgICAgICAjIGEgbmV3IHRocmVhZCBtaWdodCBjb21wbGV0ZSB0aGUgbmV4dCBydW4gd2l0aCB0aGlzIGNvbnRleHQgYmVmb3JlIHRoZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -399,12 +400,12 @@
         <entry>'a,.s/^/# /</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>'a,.d</entry>
         <entry>'a,.y</entry>
         <entry>1</entry>
         <entry>.,$d</entry>
-        <entry>w</entry>
+        <entry>'a,.d</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -415,6 +416,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
