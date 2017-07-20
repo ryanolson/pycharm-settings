@@ -79,17 +79,17 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500522709908">
-        <mark key="[" line="142" column="45" />
-        <mark key="]" line="142" column="45" />
-        <mark key="." line="142" column="45" />
-        <mark key="^" line="142" column="33" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
+        <mark key="[" line="164" column="27" />
+        <mark key="]" line="164" column="27" />
+        <mark key="^" line="143" column="49" />
+        <mark key="." line="164" column="27" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500515688793">
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="19" />
-        <mark key="^" line="64" column="102" />
-        <mark key="." line="65" column="19" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500526183585">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="1" />
+        <mark key="." line="65" column="1" />
+        <mark key="^" line="67" column="84" />
       </file>
       <file name="/Dummy.txt" timestamp="1495833502126">
         <mark key="a" line="0" column="47" />
@@ -260,11 +260,11 @@
       <jump line="13" column="14" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKQogICAgICAgIGZvciByIGluIFt1dGlscy5wcm9jZXNzX3ByZWRpY3Rpb24ocCwgcmVxdWVzdCwgaW1hZ2VfaWQ9aSkgZm9yIGksIHAgaW4gZW51bWVyYXRlKHByZWRpY3Rpb25zKV06CiAgICAgICAgICAgIHlpZWxkIHIK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>simul</text>
@@ -273,31 +273,31 @@
         <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9mcm96ZW5fcmVzbmV0X3YxXzUwLnBiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBzaW11bGF0b3IK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKQogICAgICAgIGZvciByIGluIFt1dGlscy5wcm9jZXNzX3ByZWRpY3Rpb24ocCwgcmVxdWVzdCwgaW1hZ2VfaWQ9aSkgZm9yIGksIHAgaW4gZW51bWVyYXRlKHByZWRpY3Rpb25zKV06CiAgICAgICAgICAgIHlpZWxkIHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCAyKnJlcXVlc3QudG9wX24pKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJlY2VpdmVkIGluZmVyZW5jZSByZXF1ZXN0IGZvciBlbmdpbmUgJSBzIiAlIHJlcXVlc3QuZW5naW5lX2hhbmRsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiBbdXRpbHMucHJvY2Vzc19wcmVkaWN0aW9uKHgpIGZvciB4IGluIG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKV06Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoaW5wdXQuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQxNTItaW5mZXItZnJvemVuLnBiIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfYmF0Y2hzaXplID0gcmVxdWVzdC5tYXhfYmF0Y2hzaXplIG9yIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfYmF0Y2hzaXplID0gcmVxdWVzdC5tYXhfYmF0Y2hzaXplIG9yIDEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1PREVMU1tuYW1lXSA9IE1vZGVsKCoqZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fbWF4X2JhdGNoc2l6ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBtYXhfYmF0Y2hzaXplKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,7 +342,6 @@
         <entry>.,$ w data.py</entry>
         <entry>.,$ s/^/    /</entry>
         <entry>'a,.s/^/    /</entry>
-        <entry>.,$d</entry>
         <entry>'a,.s/^/# -- /</entry>
         <entry>q!</entry>
         <entry>1</entry>
@@ -355,6 +354,7 @@
         <entry>'a,.y</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>wq</entry>
+        <entry>.,$d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
