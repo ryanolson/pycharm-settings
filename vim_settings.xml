@@ -79,10 +79,11 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500517552386">
-        <mark key="[" line="169" column="8" />
-        <mark key="]" line="169" column="8" />
-        <mark key="." line="169" column="8" />
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500522709908">
+        <mark key="[" line="142" column="45" />
+        <mark key="]" line="142" column="45" />
+        <mark key="." line="142" column="45" />
+        <mark key="^" line="142" column="33" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500515688793">
         <mark key="[" line="65" column="18" />
@@ -157,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="16" filename="$USER_HOME$/Projects/gan-tf/tests.py" />
       <jump line="27" column="24" filename="$USER_HOME$/Projects/gan-tf/model.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/gan-tf/data.py" />
       <jump line="63" column="49" filename="$USER_HOME$/Projects/gan-tf/data.py" />
@@ -257,55 +257,56 @@
       <jump line="54" column="59" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="18" column="4" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" />
       <jump line="50" column="0" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" />
+      <jump line="13" column="14" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>simul</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9mcm96ZW5fcmVzbmV0X3YxXzUwLnBiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCAyKnJlcXVlc3QudG9wX24pKQo=</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBzaW11bGF0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiBbdXRpbHMucHJvY2Vzc19wcmVkaWN0aW9uKHgpIGZvciB4IGluIG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKV06Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCAyKnJlcXVlc3QudG9wX24pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQxNTItaW5mZXItZnJvemVuLnBiIgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcCBpbiBbdXRpbHMucHJvY2Vzc19wcmVkaWN0aW9uKHgpIGZvciB4IGluIG5wLnJhbmRvbS5yYW5kb20oc2l6ZT0ocmVxdWVzdC5iYXRjaF9zaXplLCByZXF1ZXN0LnRvcF9uKjIpKV06Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgo=</text>
+        <text encoding="base64">ICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQxNTItaW5mZXItZnJvemVuLnBiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdXRwdXRfbmFtZTogIkdQVV8wL3Rvd2VyXzAvU29mdG1heDowIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1PREVMU1tuYW1lXSA9IE1vZGVsKCoqZGF0YSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE1PREVMU1tuYW1lXSA9IE1vZGVsKCoqZGF0YSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyBNT0RFTFMgPSB7CiMgICAgICJpbmNlcHRpb25fcmVzbmV0X3YyIjogaW1hZ2VfY2xhc3NpZmljYXRpb25fcGIyLk1vZGVsKAojICAgICAgICAgaW5wdXRfbmFtZT0iaW5wdXQ6MCIsCiMgICAgICAgICBpbnB1dF9zaGFwZT1bMjk5LCAyOTksIDNdLAojICAgICAgICAgb3V0cHV0X25hbWU9IkluY2VwdGlvblJlc25ldFYyL0xvZ2l0cy9QcmVkaWN0aW9uczowIiwKIyAgICAgICAgIGdyYXBoX3BiX3BhdGg9Ii9tb2RlbHMvZnJvemVuX2luY2VwdGlvbl9yZXNuZXRfdjIucGIiLAojICAgICAgICAgcHJlcHJvY2Vzcz1Nb2RlbC5Ob3JtYWxpemUKIyAgICAgKSwKIyAgICAgInJlc25ldF8xNTJfdjEiOiBpbWFnZV9jbGFzc2lmaWNhdGlvbl9wYjIuTW9kZWwoCiMgICAgICAgICBpbnB1dF9uYW1lPSJpbnB1dDowIiwKIyAgICAgICAgIGlucHV0X3NoYXBlPVsyMjQsIDIyNCwgM10sCiMgICAgICAgICBvdXRwdXRfbmFtZT0iR1BVXzAvdG93ZXJfMC9Tb2Z0bWF4OjAiLAojICAgICAgICAgZ3JhcGhfcGJfcGF0aD0iL21vZGVscy9iZW5iL3Jlc25ldDE1Mi1pbmZlci1mcm96ZW4ucGIiLAojICAgICAgICAgcHJlcHJvY2Vzcz1Nb2RlbC5Ob25lCiMgICAgICkKIyAgICAgInJlc25ldF81MF92MSI6IGltYWdlX2NsYXNzaWZpY2F0aW9uX3BiMi5Nb2RlbCgKIyAgICAgICAgIGlucHV0X25hbWU9ImlucHV0OjAiLAojICAgICAgICAgaW5wdXRfc2hhcGU9WzIyNCwgMjI0LCAzXSwKIyAgICAgICAgIG91dHB1dF9uYW1lPSJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIsCiMgICAgICAgICBncmFwaF9wYl9wYXRoPSIvbW9kZWxzL2JlbmIvcmVzbmV0NTAtaW5mZXItZnJvemVuLnBiIiwKIyAgICAgICAgIHByZXByb2Nlc3M9TW9kZWwuTm9uZQojICAgICApLAojIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>simul</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern>simul</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unrol</entry>
         <entry>unroll</entry>
         <entry>optimizer</entry>
         <entry>app</entry>
@@ -333,6 +333,7 @@
         <entry>tag</entry>
         <entry>mod</entry>
         <entry>^</entry>
+        <entry>simul</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
