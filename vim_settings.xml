@@ -4,10 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -59,11 +58,6 @@
         <mark key="^" line="80" column="29" />
         <mark key="." line="80" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/cvpr/models/cpu/models.yml" timestamp="1500551558226">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="25" />
@@ -95,7 +89,12 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500579959065" />
+      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
+        <mark key="[" line="145" column="37" />
+        <mark key="]" line="145" column="37" />
+        <mark key="^" line="145" column="37" />
+        <mark key="." line="145" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
@@ -114,6 +113,7 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/requirements.txt" timestamp="1500590003404" />
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1500580046546">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="40" column="8" />
@@ -121,17 +121,7 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/shmem_dataset/shmem_dataset/server.py" timestamp="1500454938353">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500585969331">
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="57" />
         <mark key="]" line="19" column="57" />
@@ -181,11 +171,6 @@
         <mark key="]" line="40" column="57" />
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
@@ -318,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PackedImageData</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>PackedImageData</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>Model</text>
@@ -330,31 +315,31 @@
         <text encoding="base64">cmVzbmV0XzUwX3YxOgogIGlucHV0X25hbWU6ICJpbnB1dDowIgogIGlucHV0X3NoYXBlOiBbMjI0LCAyMjQsIDNdCiAgb3V0cHV0X25hbWU6ICJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIKICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQ1MC1pbmZlci1mcm96ZW4ucGIiCiAgcHJlcHJvY2VzczogMAogIGFsbG93ZWRfZnJhbWV3b3JrczogWzAsIDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNobV93cmFwcGVyIGFzIHN5c3YK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW3V0aWxzLnByb2Nlc3NfcHJlZGljdGlvbihwLCByZXF1ZXN0LCBpbWFnZV9pZD1pKSBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocHJlZGljdGlvbnMpXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdGF0cy51cGRhdGUocmVxdWVzdC5iYXRjaF9zaXplKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IHNlbGYuY29tcHV0ZShyZXF1ZXN0KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGFzc2lmeShzZWxmLCByZXF1ZXN0KToK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2NhbCA9IHRocmVhZGluZy5sb2NhbCgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW3V0aWxzLnByb2Nlc3NfcHJlZGljdGlvbihwLCByZXF1ZXN0LCBpbWFnZV9pZD1pKSBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocHJlZGljdGlvbnMpXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zdGF0cy51cGRhdGUocmVxdWVzdC5iYXRjaF9zaXplKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0aW9ucyA9IHNlbGYuY29tcHV0ZShyZXF1ZXN0KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBjbGFzc2lmeShzZWxmLCByZXF1ZXN0KToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjc2VsZi5sb2NhbCA9IHRocmVhZGluZy5sb2NhbCgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wb29sID0gZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9c2VsZi5fbWF4X3dvcmtlcnMpCiAgICAgICAgc2VsZi5fc3RhdHMgPSBTdGF0cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGludGVyY2VwdCBtYXhfd29ya2VycyBpZiB0b28gYmlnIG9yIHRoZSBiYWNrZW5kIG9ubHkgc3VwcG9ydHMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wb29sID0gZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9c2VsZi5fbWF4X3dvcmtlcnMpCiAgICAgICAgc2VsZi5fc3RhdHMgPSBTdGF0cygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -406,12 +391,12 @@
         <entry>'a,.</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>Q</entry>
-        <entry>q</entry>
         <entry>'a,.y</entry>
         <entry>.,$d</entry>
         <entry>'a,.d</entry>
-        <entry>wq</entry>
         <entry>1</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
