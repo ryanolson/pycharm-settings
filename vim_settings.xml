@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501107106983">
+        <mark key="'" line="155" column="20" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
@@ -33,11 +40,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/examples/docker-compose.yml" timestamp="1501101942323">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/examples/docker-compose.yml" timestamp="1501107909044">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
         <mark key="[" line="11" column="18" />
@@ -124,7 +131,12 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1500580046546">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/Dockerfile" timestamp="1501107705579">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="40" column="8" />
         <mark key="]" line="41" column="38" />
@@ -236,12 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="4" filename="$USER_HOME$/Projects/gan-tf/utils.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="41" column="21" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="70" column="52" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="68" column="69" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="104" column="33" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="96" column="33" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
@@ -336,55 +342,61 @@
       <jump line="183" column="66" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="80" column="23" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
+      <jump line="29" column="51" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="11" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="70" column="9" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="90" column="21" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="94" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="97" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>er</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>er</text>
+        <text>volume:h</text>
       </register>
       <register name="/" type="4">
-        <text>Model</text>
+        <text>_do_get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVzbmV0XzUwX3YxOgogIGlucHV0X25hbWU6ICJpbnB1dDowIgogIGlucHV0X3NoYXBlOiBbMjI0LCAyMjQsIDNdCiAgb3V0cHV0X25hbWU6ICJHUFVfMC90b3dlcl8wL1NvZnRtYXg6MCIKICBncmFwaF9wYl9wYXRoOiAiL21vZGVscy9yZXNuZXQ1MC1pbmZlci1mcm96ZW4ucGIiCiAgcHJlcHJvY2VzczogMAogIGFsbG93ZWRfZnJhbWV3b3JrczogWzAsIDFdCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIHRoaXMgawo=</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6IC4uL3NyYy9pbXBvcnRlci9Eb2NrZXJmaWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXVsdGlwbGUgY29uZmlndXJhdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydGVyOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhlIHNlcnZpY2VzIGNhbiBiZSBjcmVhdGVkIHRvIGhhbmRsZSBvbi1wcmVtaXNlIGluc3RhbGxhdGlvbnMgaW4K</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlIHJlZ2lzdHJ5IHNlcnZpY2tqa2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGpjbG9uZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgRGVwbG95bWVudCBtb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgbGlua3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNobV93cmFwcGVyIGFzIHN5c3YK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6IHR1dHVtL2hhcHJveHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcHJveHk6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Model</last-search>
+      <last-search>_do_get</last-search>
       <last-offset />
-      <last-pattern>Model</last-pattern>
+      <last-pattern>_do_get</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>uid</entry>
         <entry>docker_run</entry>
         <entry>docker_</entry>
@@ -412,12 +423,9 @@
         <entry>trt_name</entry>
         <entry>model</entry>
         <entry>Model</entry>
+        <entry>_do_get</entry>
       </history-search>
       <history-cmd>
-        <entry>.,$ w! data.py</entry>
-        <entry>.,$ w data.py</entry>
-        <entry>.,$ s/^/    /</entry>
-        <entry>'a,.s/^/    /</entry>
         <entry>'a,.s/^/# -- /</entry>
         <entry>q!</entry>
         <entry>W</entry>
@@ -427,13 +435,17 @@
         <entry>'a,.</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>Q</entry>
-        <entry>'a,.y</entry>
-        <entry>.,$d</entry>
         <entry>'a,.d</entry>
         <entry>1</entry>
         <entry>q</entry>
-        <entry>wq</entry>
+        <entry>.,$</entry>
+        <entry>.,$D</entry>
+        <entry>.,$d</entry>
+        <entry>'a,.y</entry>
+        <entry>ww</entry>
+        <entry>81</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
