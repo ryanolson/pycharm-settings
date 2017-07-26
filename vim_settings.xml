@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501107106983">
-        <mark key="'" line="155" column="20" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501109448577">
+        <mark key="'" line="149" column="20" />
+        <mark key="[" line="117" column="18" />
+        <mark key="]" line="117" column="51" />
+        <mark key="^" line="117" column="51" />
+        <mark key="." line="117" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
@@ -107,6 +107,12 @@
         <mark key="^" line="128" column="77" />
         <mark key="." line="128" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/utils.py" timestamp="1501109184289">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
         <mark key="]" line="145" column="37" />
@@ -132,9 +138,9 @@
         <mark key="^" line="67" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/Dockerfile" timestamp="1501107705579">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
         <mark key="'" line="6" column="0" />
@@ -350,11 +356,11 @@
       <jump line="97" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
+      <register name="&quot;" type="4">
+        <text>AuthenticationError()</text>
       </register>
       <register name="-" type="4">
-        <text>volume:h</text>
+        <text>AuthenticationError()</text>
       </register>
       <register name="/" type="4">
         <text>_do_get</text>
@@ -363,34 +369,34 @@
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IC4uL3NyYy9pbXBvcnRlci9Eb2NrZXJmaWxlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydGVyOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIGpjbG9uZXIK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6IC4uL3NyYy9pbXBvcnRlci9Eb2NrZXJmaWxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGlua3M6Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydGVyOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IHR1dHVtL2hhcHJveHkK</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcHJveHk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -444,8 +450,8 @@
         <entry>'a,.y</entry>
         <entry>ww</entry>
         <entry>81</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
