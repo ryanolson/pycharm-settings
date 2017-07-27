@@ -120,20 +120,20 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501153553560">
-        <mark key="a" line="284" column="30" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="37" column="17" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501154881201">
+        <mark key="a" line="334" column="30" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501153138808">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501154434649">
         <mark key="a" line="152" column="15" />
         <mark key="'" line="130" column="22" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="190" column="0" />
-        <mark key="." line="190" column="0" />
+        <mark key="[" line="131" column="46" />
+        <mark key="]" line="131" column="48" />
+        <mark key="^" line="131" column="48" />
+        <mark key="." line="131" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -268,11 +268,11 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501146826875">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501155303093">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
         <mark key="[" line="16" column="0" />
@@ -390,11 +390,11 @@
       <jump line="11" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ago=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
@@ -403,31 +403,31 @@
         <text encoding="base64">Y2xhc3MgQmFzZVJlZ2lzdHJ5KG1ldGFjbGFzcz1BQkNNZXRhKToKICAgIHBhc3MKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQodmFycyhpbWFnZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgTXlBQkMobWV0YWNsYXNzPUFCQ01ldGEpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGZvciBpbWFnZSBpbiBjbGllbnQuaW1hZ2VzLmxpc3QobmFtZT0icHl0b3JjaCIpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJiYWQgbmFtZV90YWciKQo=</text>
+        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIlNlZSBjbGljayBkb2N1bWVudGF0aW9uIGF0IGh0dHA6Ly9jbGljay5wb2Nvby5vcmcvIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgImNsb25lci5jbGkubWFpbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWVfdGFnCg==</text>
+        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIlJlcGxhY2UgdGhpcyBtZXNzYWdlIGJ5IHB1dHRpbmcgeW91ciBjb2RlIGludG8gIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxlbihuYW1lX3RhZykgPT0gMjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChuYW1lX3RhZywgImxhdGVzdCIpCg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4obmFtZV90YWcpID09IDE6Cg==</text>
+        <text encoding="base64">Y2xhc3MgTXlBQkMobWV0YWNsYXNzPUFCQ01ldGEpOgogICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXYuZGVidWcoIm5hbWVfdGFnOiAlcyIgJSBuYW1lX3RhZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJiYWQgbmFtZV90YWciKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -473,7 +473,6 @@
         <entry>.,$D</entry>
         <entry>ww</entry>
         <entry>81</entry>
-        <entry>wq</entry>
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>set paste</entry>
@@ -485,6 +484,7 @@
         <entry>117</entry>
         <entry>121</entry>
         <entry>91</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
