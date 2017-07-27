@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501110973770">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501113865229">
         <mark key="'" line="149" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+        <mark key="[" line="160" column="31" />
+        <mark key="]" line="160" column="37" />
+        <mark key="^" line="160" column="37" />
+        <mark key="." line="160" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
@@ -362,11 +362,11 @@
       <jump line="97" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAtIHJlZ2lzdHJ5Oi92YXIvbGliL3JlZ2lzdHJ5awo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>_do_get</text>
@@ -375,31 +375,31 @@
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAtIHJlZ2lzdHJ5Oi92YXIvbGliL3JlZ2lzdHJ5awo=</text>
+        <text encoding="base64">ICAgICNmcm9tIHBwcmludCBpbXBvcnQgcHByaW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAtIHJlZ2lzdHJ5Oi92YXIvbGliL3JlZ2lzdHJ5awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IC4uL3NyYy9pbXBvcnRlci9Eb2NrZXJmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydGVyOgo=</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6IC4uL3NyYy9pbXBvcnRlci9Eb2NrZXJmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
