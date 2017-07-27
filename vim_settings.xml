@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501136146887">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501136810461">
         <mark key="'" line="149" column="27" />
-        <mark key="[" line="169" column="46" />
-        <mark key="]" line="169" column="19" />
-        <mark key="^" line="169" column="19" />
-        <mark key="." line="169" column="19" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="171" column="29" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501136854240">
+        <mark key="[" line="37" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -375,11 +378,11 @@
       <jump line="149" column="27" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ltags</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ltags</text>
+        <text>lreg</text>
       </register>
       <register name="/" type="4">
         <text>manifest</text>
@@ -388,34 +391,34 @@
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfaW1hZ2VzX2FuZF90YWdzCg==</text>
+        <text encoding="base64">ICAgIGxyZWcgPSBkc3QuZ2V0X2ltYWdlc19hbmRfdGFncyhwcm9qZWN0PXByb2plY3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdCwgbmFtZSA9IGltYWdlX25hbWUuc3BsaXQoIi8iKQo=</text>
+        <text encoding="base64">ICAgIG52Y3IgPSBzcmMuZ2V0X2ltYWdlc19hbmRfdGFncyhwcm9qZWN0PXByb2plY3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcHJvY2VzcyhpbWFnZV9uYW1lKToK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXIK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1hZ2VzX2FuZF90YWdzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZW5zb3JmbG93IjogWyIxNy4wNyIsICIxNy4wNiIsICIxNy4wNSIsICIxNy4wNCIsICIxNy4wMyIsICIxNy4wMiIsICIxNy4wMSIsICIxNi4xMiIsICIxNi4xMSJdLCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdCwgbmFtZSA9IGltYWdlX25hbWUuc3BsaXQoIi8iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJteG5ldCI6IFsiMTcuMDciLCAiMTcuMDYiLCAiMTcuMDUiLCAiMTcuMDQiLCAiMTcuMDMiXSwgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcHJvY2VzcyhpbWFnZV9uYW1lKToK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -469,8 +472,8 @@
         <entry>'a,.y</entry>
         <entry>ww</entry>
         <entry>81</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
