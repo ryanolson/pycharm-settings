@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501145321741">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501145653648">
         <mark key="a" line="233" column="30" />
         <mark key="[" line="253" column="0" />
         <mark key="]" line="253" column="0" />
@@ -14,9 +14,11 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501138764894">
-        <mark key="a" line="61" column="8" />
-        <mark key="^" line="87" column="45" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501146431487">
+        <mark key="[" line="131" column="65" />
+        <mark key="]" line="130" column="60" />
+        <mark key="." line="131" column="69" />
+        <mark key="^" line="130" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -378,46 +380,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNob3cK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBudmNyLmRvY2tlcl91cmwoIm52aWRpYS9weXRvcmNoIikgPT0gIm52Y3IuaW8vbnZpZGlhL3B5dG9yY2g6bGF0ZXN0IgogICAgYXNzZXJ0IG52Y3IuZG9ja2VyX3VybCgibnZpZGlhL3B5dG9yY2giLCAiMTcuMDUiKSA9PSAibnZjci5pby9udmlkaWEvcHl0b3JjaDoxNy4wNSIK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>manifest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1cmwgbm90IGluIHNlbGYuaW1hZ2VzOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIiVzIG5vdCBmb3VuZCIgJSB1cmwpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBudmNyLmRvY2tlcl91cmwoIm52aWRpYS9weXRvcmNoIikgPT0gIm52Y3IuaW8vbnZpZGlhL3B5dG9yY2g6bGF0ZXN0IgogICAgYXNzZXJ0IG52Y3IuZG9ja2VyX3VybCgibnZpZGlhL3B5dG9yY2giLCAiMTcuMDUiKSA9PSAibnZjci5pby9udmlkaWEvcHl0b3JjaDoxNy4wNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNob3cK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBudmNyLmRvY2tlcl91cmwoIm52aWRpYS9weXRvcmNoIikgPT0gIm52Y3IuaW8vbnZpZGlhL3B5dG9yY2g6bGF0ZXN0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0YWcgaW4gc2VsZi5pbWFnZXNbbmFtZV0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWcgaXMgTm9uZToK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWcgPSBOb25lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWcgPSBOb25lCiAgICAgICAgZm9yIHIgaW4gc2VsZi5yZWdpc3RyaWVzOgogICAgICAgICAgICBpZiB1cmwuc3RhcnRzd2l0aChyLnVybCk6CiAgICAgICAgICAgICAgICByZWcgPSByCiAgICAgICAgaWYgcmVnIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigicmVnaXN0cnkgbm90IGZvdW5kIGZvciAlcyIgJSBuYW1lKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWcgPSBOb25lCiAgICAgICAgZm9yIHIgaW4gc2VsZi5yZWdpc3RyaWVzOgogICAgICAgICAgICBpZiB1cmwuc3RhcnRzd2l0aChyLnVybCk6CiAgICAgICAgICAgICAgICByZWcgPSByCiAgICAgICAgaWYgcmVnIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigicmVnaXN0cnkgbm90IGZvdW5kIGZvciAlcyIgJSBuYW1lKQogICAgICAgIG5hbWVfdGFnID0gdXJsLnJlcGxhY2UocmVnLnVybCwgIiIpLnNwbGl0KCI6IikKICAgICAgICBpZiBsZW4obmFtZV90YWcpID09IDE6CiAgICAgICAgICAgIG5hbWVfdGFnID0gKG5hbWVfdGFnLCAibGF0ZXN0IikKICAgICAgICBuYW1lLCB0YWcgPSBuYW1lX3RhZwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbWFnZXMuYXBwZW5kKHRhZykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCIlczolcyBub3QgZm91bmQgaW4gJXMiICUgKG5hbWUsIHRhZywgcmVnLnVybCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB0YWcgbm90IGluIHJlZy5pbWFnZXNbbmFtZV06Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lLCB0YWcgPSBzZWxmLnVybF90b19uYW1lX2FuZF90YWcodXJsLCByZWc9cmVnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZWcgPSBzZWxmLnJlZ2lzdHJ5X2Zvcl91cmwodXJsKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCIlcyBub3QgZm91bmQiICUgdXJsKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>'a,.y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -453,7 +455,6 @@
         <entry>manifest</entry>
       </history-search>
       <history-cmd>
-        <entry>'a,.s/^/# -- /</entry>
         <entry>q!</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz4xMjc=</entry>
@@ -469,10 +470,11 @@
         <entry>ww</entry>
         <entry>81</entry>
         <entry>wq</entry>
-        <entry>.,$d</entry>
-        <entry>w</entry>
         <entry>'a,.d</entry>
         <entry>'a,.y</entry>
+        <entry>.,$d</entry>
+        <entry>set paste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
