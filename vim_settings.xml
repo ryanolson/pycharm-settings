@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501119932631">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501126167347">
         <mark key="'" line="167" column="4" />
-        <mark key="[" line="161" column="62" />
-        <mark key="]" line="161" column="61" />
-        <mark key="^" line="161" column="61" />
-        <mark key="." line="161" column="61" />
+        <mark key="[" line="168" column="23" />
+        <mark key="]" line="168" column="4" />
+        <mark key="^" line="176" column="44" />
+        <mark key="." line="168" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
@@ -370,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/var/lib/docker</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>/var/lib/docker</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudlw+</text>
