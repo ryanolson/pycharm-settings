@@ -120,14 +120,14 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501146758706">
-        <mark key="a" line="233" column="30" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501153553560">
+        <mark key="a" line="284" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501150465690">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501153138808">
         <mark key="a" line="152" column="15" />
         <mark key="'" line="130" column="22" />
         <mark key="[" line="189" column="0" />
@@ -390,44 +390,44 @@
       <jump line="11" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cloner</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ago=</text>
       </register>
       <register name="-" type="4">
-        <text>cloner</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IEZha2VDbGllbnQocmVnaXN0cmllcz1bbnZjcl0pCg==</text>
+        <text encoding="base64">Y2xhc3MgQmFzZVJlZ2lzdHJ5KG1ldGFjbGFzcz1BQkNNZXRhKToKICAgIHBhc3MKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJiYWQgbmFtZV90YWciKQo=</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Y2xhc3MgTXlBQkMobWV0YWNsYXNzPUFCQ01ldGEpOgogICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWVfdGFnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJiYWQgbmFtZV90YWciKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxlbihuYW1lX3RhZykgPT0gMjoK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChuYW1lX3RhZywgImxhdGVzdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWVfdGFnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4obmFtZV90YWcpID09IDE6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxlbihuYW1lX3RhZykgPT0gMjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXYuZGVidWcoIm5hbWVfdGFnOiAlcyIgJSBuYW1lX3RhZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChuYW1lX3RhZywgImxhdGVzdCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lX3RhZyA9IHVybC5yZXBsYWNlKHJlZy51cmwrIi8iLCAiIikuc3BsaXQoIjoiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4obmFtZV90YWcpID09IDE6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXYuZGVidWcoIm5hbWVfdGFnOiAlcyIgJSBuYW1lX3RhZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
