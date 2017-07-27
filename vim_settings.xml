@@ -120,12 +120,12 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501162453801">
-        <mark key="a" line="317" column="30" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="45" column="10" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501164913215">
+        <mark key="a" line="349" column="30" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501154434649">
         <mark key="a" line="152" column="15" />
@@ -268,11 +268,11 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501155846764">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501164536371">
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="21" column="69" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
         <mark key="[" line="16" column="0" />
@@ -288,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="21" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="79" column="9" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="108" column="8" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="75" column="69" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
@@ -388,13 +387,14 @@
       <jump line="9" column="24" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
       <jump line="10" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
       <jump line="11" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
+      <jump line="41" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcy5hcHBlbmQoZHN0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>delete_local</text>
+        <text>rmi(self, url):</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
@@ -403,31 +403,31 @@
         <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcy5hcHBlbmQoZHN0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcyA9IGltYWdlcyBvciBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3VsZF9iZV9wcmVzZW50KHNyYykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZ2lzdHJpZXMgPSByZWdpc3RyaWVzIG9yIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdHJlYW1fbGluZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWdpc3RyaWVzPU5vbmUsIGltYWdlcz1Ob25lKToK</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1fbGluZSA9IFN0cmVhbUxpbmVCdWlsZEdlbmVyYXRvcihsaW5lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KCiIiIkNvbnNvbGUgc2NyaXB0IGZvciBjbG9uZXIuIiIiCgppbXBvcnQgY2xpY2sKCgpAY2xpY2suY29tbWFuZCgpCiNAY2xpY2sub3B0aW9uKCctLW5nYy1hcGlrZXknLCBkZWZhdWx0PSd6UDJrVURHTGJtSlVyMDFSNkM1d2dxR2d1QjV1QVdwRE8xSGExVmIyJykKZGVmIG1haW4oKToKICAgICIiIkNvbnNvbGUgc2NyaXB0IGZvciBjbG9uZXIuIiIiCiAgICBpbXBvcnQgZG9ja2VyCiAgICBmcm9tIHBwcmludCBpbXBvcnQgcHByaW50CiAgICBjbGllbnQgPSBkb2NrZXIuZnJvbV9lbnYoKQogICAgaW1hZ2VzID0gY2xpZW50LmltYWdlcy5saXN0KCkKICAgIGltYWdlcyA9IGltYWdlc1swXQogICAgcHByaW50KGltYWdlcy5hdHRyc1siUmVwb1RhZ3MiXSkKICAgIGdlbiA9IGNsaWVudC5pbWFnZXMucHVzaCgicmVnaXN0cnk6NTAwMC9idXN5Ym94OmxhdGVzdCIsIHN0cmVhbT1UcnVlKQogICAgZm9yIG91dCBpbiBnZW46Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWcuaW1hZ2VzW25hbWVdLnJlbW92ZSh0YWcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMuYXR0cnNbIlJlcG9UYWdzIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWcuc2hvdWxkX2JlX3ByZXNlbnQobmFtZSwgdGFnPXRhZykK</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoaW1hZ2VzLmF0dHJzWyJSZXBvVGFncyJdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lLCB0YWcgPSBzZWxmLnVybF90b19uYW1lX2FuZF90YWcodXJsLCByZWc9cmVnKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBpbWFnZXNbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWcgPSBzZWxmLnJlZ2lzdHJ5X2Zvcl91cmwodXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBjbGllbnQuaW1hZ2VzLmxpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
