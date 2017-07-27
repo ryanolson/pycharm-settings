@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501113865229">
-        <mark key="'" line="149" column="20" />
-        <mark key="[" line="160" column="31" />
-        <mark key="]" line="160" column="37" />
-        <mark key="^" line="160" column="37" />
-        <mark key="." line="160" column="37" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501116306155">
+        <mark key="'" line="164" column="4" />
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="81" column="75" />
+        <mark key="^" line="81" column="75" />
+        <mark key="." line="81" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
@@ -260,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="104" column="33" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="96" column="33" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="98" column="61" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
@@ -360,16 +358,18 @@
       <jump line="90" column="21" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="94" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="97" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="52" column="28" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="162" column="4" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text>_do_get</text>
+        <text encoding="base64">XDxyZWdpc3RyeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
@@ -406,18 +406,16 @@
       </register>
     </registers>
     <search>
-      <last-search>_do_get</last-search>
+      <last-search encoding="base64">XDxyZWdpc3RyeVw+</last-search>
       <last-offset />
-      <last-pattern>_do_get</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3RyeVw+</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uid</entry>
-        <entry>docker_run</entry>
         <entry>docker_</entry>
         <entry>remove</entry>
         <entry>detach</entry>
@@ -436,6 +434,8 @@
         <entry>model</entry>
         <entry>Model</entry>
         <entry>_do_get</entry>
+        <entry>repo_n</entry>
+        <entry encoding="base64">XDxyZWdpc3RyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# -- /</entry>
