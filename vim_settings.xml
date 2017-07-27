@@ -3,20 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501136810461">
-        <mark key="'" line="149" column="27" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="171" column="29" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501145321741">
+        <mark key="a" line="233" column="30" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501136854240">
-        <mark key="[" line="37" column="70" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501138764894">
+        <mark key="a" line="61" column="8" />
+        <mark key="^" line="87" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -164,11 +164,10 @@
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501127179236">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501140841323">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
         <mark key="[" line="15" column="0" />
@@ -276,8 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="160" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="163" column="16" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="21" column="3" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
       <jump line="5" column="17" filename="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" />
@@ -376,49 +373,51 @@
       <jump line="81" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="148" column="12" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="149" column="27" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="42" column="19" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
+      <jump line="220" column="8" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3cK</text>
       </register>
       <register name="-" type="4">
-        <text>lreg</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>manifest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB1cmwgbm90IGluIHNlbGYuaW1hZ2VzOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIiVzIG5vdCBmb3VuZCIgJSB1cmwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YWcgaW4gc2VsZi5pbWFnZXNbbmFtZV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxyZWcgPSBkc3QuZ2V0X2ltYWdlc19hbmRfdGFncyhwcm9qZWN0PXByb2plY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWcgaXMgTm9uZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG52Y3IgPSBzcmMuZ2V0X2ltYWdlc19hbmRfdGFncyhwcm9qZWN0PXByb2plY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWcgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICByZWcgPSBOb25lCiAgICAgICAgZm9yIHIgaW4gc2VsZi5yZWdpc3RyaWVzOgogICAgICAgICAgICBpZiB1cmwuc3RhcnRzd2l0aChyLnVybCk6CiAgICAgICAgICAgICAgICByZWcgPSByCiAgICAgICAgaWYgcmVnIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigicmVnaXN0cnkgbm90IGZvdW5kIGZvciAlcyIgJSBuYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWcgPSBOb25lCiAgICAgICAgZm9yIHIgaW4gc2VsZi5yZWdpc3RyaWVzOgogICAgICAgICAgICBpZiB1cmwuc3RhcnRzd2l0aChyLnVybCk6CiAgICAgICAgICAgICAgICByZWcgPSByCiAgICAgICAgaWYgcmVnIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigicmVnaXN0cnkgbm90IGZvdW5kIGZvciAlcyIgJSBuYW1lKQogICAgICAgIG5hbWVfdGFnID0gdXJsLnJlcGxhY2UocmVnLnVybCwgIiIpLnNwbGl0KCI6IikKICAgICAgICBpZiBsZW4obmFtZV90YWcpID09IDE6CiAgICAgICAgICAgIG5hbWVfdGFnID0gKG5hbWVfdGFnLCAibGF0ZXN0IikKICAgICAgICBuYW1lLCB0YWcgPSBuYW1lX3RhZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfaW1hZ2VzX2FuZF90YWdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbWFnZXMuYXBwZW5kKHRhZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdCwgbmFtZSA9IGltYWdlX25hbWUuc3BsaXQoIi8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcHJvY2VzcyhpbWFnZV9uYW1lKToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>'a,.y</text>
       </register>
     </registers>
     <search>
@@ -463,17 +462,17 @@
         <entry>'a,.</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>Q</entry>
-        <entry>'a,.d</entry>
         <entry>1</entry>
         <entry>q</entry>
         <entry>.,$</entry>
         <entry>.,$D</entry>
-        <entry>.,$d</entry>
-        <entry>'a,.y</entry>
         <entry>ww</entry>
         <entry>81</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>.,$d</entry>
+        <entry>w</entry>
+        <entry>'a,.d</entry>
+        <entry>'a,.y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
