@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501126167347">
-        <mark key="'" line="167" column="4" />
-        <mark key="[" line="168" column="23" />
-        <mark key="]" line="168" column="4" />
-        <mark key="^" line="176" column="44" />
-        <mark key="." line="168" column="4" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501126963865">
+        <mark key="'" line="138" column="17" />
+        <mark key="[" line="141" column="37" />
+        <mark key="]" line="141" column="37" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="141" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
@@ -161,6 +161,12 @@
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501127179236">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="22" />
@@ -267,22 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="61" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="21" column="26" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="64" column="26" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="88" column="51" filename="$USER_HOME$/Projects/gan-tf/gan_train.py" />
-      <jump line="150" column="45" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="233" column="24" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="165" column="93" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="166" column="64" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="181" column="7" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="183" column="24" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="131" column="15" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="193" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="151" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -367,67 +357,78 @@
       <jump line="52" column="28" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="162" column="4" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="161" column="4" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="141" column="45" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="143" column="18" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="172" column="18" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="173" column="22" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="22" column="26" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="25" column="10" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="26" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="58" column="35" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="64" column="19" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="125" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="138" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="2" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
+      <jump line="4" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
+      <jump line="5" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
+      <jump line="6" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IjE3LjA1IiwgIjE3LjA0Il0sIA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IjE3LjA1IiwgIjE3LjA0Il0sIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudlw+</text>
+        <text>torch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgLSAuL3JlZ2lzdHJ5X3N0b3JlOi92YXIvbGliL3JlZ2lzdHJ5Cg==</text>
+        <text encoding="base64">ICAgICJ0ZW5zb3JmbG93IjogWyIxNy4wNyIsICIxNy4wNiIsICIxNy4wNSIsICIxNy4wNCIsICIxNy4wMyIsICIxNy4wMiIsICIxNy4wMSIsICIxNi4xMiIsICIxNi4xMSJdLCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2RhZW1vbi5qc29uOi9ldGMvZG9ja2VyL2RhZW1vbi5qc29uOnJvCg==</text>
+        <text encoding="base64">ICAgICJteG5ldCI6IFsiMTcuMDciLCAiMTcuMDYiLCAiMTcuMDUiLCAiMTcuMDQiLCAiMTcuMDMiXSwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBkYWVtb24uanNvbjovZXRjL2RvY2tlcgo=</text>
+        <text encoding="base64">ICAgICJjYWZmZSI6IFsiMTcuMDciLCAiMTcuMDYiXSwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICJ0b3JjaCI6IFsiMTcuMDciLCAiMTcuMDYiLCAiMTcuMDUiLCAiMTcuMDQiLCAiMTcuMDMiLCAiMTcuMDIiLCAiMTcuMDEiLCAiMTYuMTIiLCAiMTYuMTEiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0aGVhbm8iOiBbIjE3LjA3IiwgIjE3LjA2IiwgIjE3LjA1IiwgIjE3LjA0IiwgIjE3LjAzIiwgIjE3LjAyIiwgIjE3LjAxIiwgIjE2LjEyIiwgIjE2LjExIl0sIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAvdmFqci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkc3Q6IAo=</text>
+        <text encoding="base64">ICAgICMgLSAuL3JlZ2lzdHJ5X3N0b3JlOi92YXIvbGliL3JlZ2lzdHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudlw+</last-search>
+      <last-search>torch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudlw+</last-pattern>
+      <last-pattern>torch</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
-        <entry>detach</entry>
-        <entry>no_wor</entry>
-        <entry>echo</entry>
-        <entry>home</entry>
         <entry>dev</entry>
         <entry>tag</entry>
         <entry>mod</entry>
@@ -443,6 +444,11 @@
         <entry>repo_n</entry>
         <entry encoding="base64">XDxyZWdpc3RyeVw+</entry>
         <entry encoding="base64">XDxudlw+</entry>
+        <entry>json</entry>
+        <entry>pyto</entry>
+        <entry>ten</entry>
+        <entry>the</entry>
+        <entry>torch</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# -- /</entry>
