@@ -120,12 +120,12 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501154881201">
-        <mark key="a" line="334" column="30" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501162453801">
+        <mark key="a" line="317" column="30" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="45" column="10" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501154434649">
         <mark key="a" line="152" column="15" />
@@ -268,11 +268,11 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501155303093">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="41" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="18" column="41" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501155846764">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
         <mark key="[" line="16" column="0" />
@@ -390,44 +390,44 @@
       <jump line="11" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>delete_local</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQmFzZVJlZ2lzdHJ5KG1ldGFjbGFzcz1BQkNNZXRhKToKICAgIHBhc3MKCg==</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQodmFycyhpbWFnZSkpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpbWFnZSBpbiBjbGllbnQuaW1hZ2VzLmxpc3QobmFtZT0icHl0b3JjaCIpOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIlNlZSBjbGljayBkb2N1bWVudGF0aW9uIGF0IGh0dHA6Ly9jbGljay5wb2Nvby5vcmcvIikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgImNsb25lci5jbGkubWFpbiIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsaWNrLmVjaG8oIlJlcGxhY2UgdGhpcyBtZXNzYWdlIGJ5IHB1dHRpbmcgeW91ciBjb2RlIGludG8gIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcyA9IGltYWdlcyBvciBbXQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZ2lzdHJpZXMgPSByZWdpc3RyaWVzIG9yIFtdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWdpc3RyaWVzPU5vbmUsIGltYWdlcz1Ob25lKToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZWcuaW1hZ2VzW25hbWVdLnJlbW92ZSh0YWcpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICByZWcuc2hvdWxkX2JlX3ByZXNlbnQobmFtZSwgdGFnPXRhZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTXlBQkMobWV0YWNsYXNzPUFCQ01ldGEpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLCB0YWcgPSBzZWxmLnVybF90b19uYW1lX2FuZF90YWcodXJsLCByZWc9cmVnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJiYWQgbmFtZV90YWciKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWcgPSBzZWxmLnJlZ2lzdHJ5X2Zvcl91cmwodXJsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
