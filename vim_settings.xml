@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501126963865">
-        <mark key="'" line="138" column="17" />
-        <mark key="[" line="141" column="37" />
-        <mark key="]" line="141" column="37" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="141" column="40" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501136146887">
+        <mark key="'" line="149" column="27" />
+        <mark key="[" line="169" column="46" />
+        <mark key="]" line="169" column="19" />
+        <mark key="^" line="169" column="19" />
+        <mark key="." line="169" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/shared_dataset.proto" timestamp="1500579724627">
         <mark key="]" line="2" column="39" />
@@ -273,10 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="15" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="193" column="0" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="151" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
-      <jump line="152" column="9" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="158" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="160" column="17" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
       <jump line="163" column="16" filename="$USER_HOME$/Projects/gan-tf/gan.py" />
@@ -373,55 +369,59 @@
       <jump line="4" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
       <jump line="5" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
       <jump line="6" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
+      <jump line="80" column="9" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="81" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="148" column="12" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="149" column="27" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IjE3LjA1IiwgIjE3LjA0Il0sIA==</text>
+        <text>ltags</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IjE3LjA1IiwgIjE3LjA0Il0sIA==</text>
+        <text>ltags</text>
       </register>
       <register name="/" type="4">
-        <text>torch</text>
+        <text>manifest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdFVCAlcyIgJSBzZWxmLl91cmwoZW5kcG9pbnQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZW5zb3JmbG93IjogWyIxNy4wNyIsICIxNy4wNiIsICIxNy4wNSIsICIxNy4wNCIsICIxNy4wMyIsICIxNy4wMiIsICIxNy4wMSIsICIxNi4xMiIsICIxNi4xMSJdLCAK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJteG5ldCI6IFsiMTcuMDciLCAiMTcuMDYiLCAiMTcuMDUiLCAiMTcuMDQiLCAiMTcuMDMiXSwgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJjYWZmZSI6IFsiMTcuMDciLCAiMTcuMDYiXSwgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1hZ2VzX2FuZF90YWdzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0b3JjaCI6IFsiMTcuMDciLCAiMTcuMDYiLCAiMTcuMDUiLCAiMTcuMDQiLCAiMTcuMDMiLCAiMTcuMDIiLCAiMTcuMDEiLCAiMTYuMTIiLCAiMTYuMTEiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdCwgbmFtZSA9IGltYWdlX25hbWUuc3BsaXQoIi8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0aGVhbm8iOiBbIjE3LjA3IiwgIjE3LjA2IiwgIjE3LjA1IiwgIjE3LjA0IiwgIjE3LjAzIiwgIjE3LjAyIiwgIjE3LjAxIiwgIjE2LjEyIiwgIjE2LjExIl0sIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcHJvY2VzcyhpbWFnZV9uYW1lKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZW5zb3JmbG93IjogWyIxNy4wNyIsICIxNy4wNiIsICIxNy4wNSIsICIxNy4wNCIsICIxNy4wMyIsICIxNy4wMiIsICIxNy4wMSIsICIxNi4xMiIsICIxNi4xMSJdLCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgLSAuL3JlZ2lzdHJ5X3N0b3JlOi92YXIvbGliL3JlZ2lzdHJ5Cg==</text>
+        <text encoding="base64">ICAgICJteG5ldCI6IFsiMTcuMDciLCAiMTcuMDYiLCAiMTcuMDUiLCAiMTcuMDQiLCAiMTcuMDMiXSwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>torch</last-search>
+      <last-search>manifest</last-search>
       <last-offset />
-      <last-pattern>torch</last-pattern>
+      <last-pattern>manifest</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -429,7 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
         <entry>tag</entry>
         <entry>mod</entry>
         <entry>^</entry>
@@ -449,6 +448,7 @@
         <entry>ten</entry>
         <entry>the</entry>
         <entry>torch</entry>
+        <entry>manifest</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# -- /</entry>
