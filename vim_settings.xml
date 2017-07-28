@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501260358611">
-        <mark key="a" line="327" column="30" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="8" />
-        <mark key="^" line="33" column="13" />
-        <mark key="." line="60" column="8" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501262296581">
+        <mark key="a" line="332" column="30" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501154434649">
         <mark key="a" line="152" column="15" />
@@ -391,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>self.client.images.tag</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>self.client.images.tag</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
