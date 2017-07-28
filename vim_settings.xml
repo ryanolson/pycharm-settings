@@ -3,129 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="65" column="40" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/examples/docker-compose.yml" timestamp="1501107909044">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="61" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" timestamp="1501151387164">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="8" />
-        <mark key="." line="74" column="8" />
-        <mark key="^" line="74" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="73" />
-        <mark key="]" line="128" column="77" />
-        <mark key="^" line="128" column="77" />
-        <mark key="." line="128" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/utils.py" timestamp="1501109184289">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
-        <mark key="[" line="145" column="37" />
-        <mark key="]" line="145" column="37" />
-        <mark key="^" line="145" column="37" />
-        <mark key="." line="145" column="37" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
-        <mark key="[" line="164" column="27" />
-        <mark key="]" line="164" column="27" />
-        <mark key="^" line="143" column="49" />
-        <mark key="." line="164" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="41" column="38" />
-        <mark key="." line="41" column="38" />
-        <mark key="^" line="41" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501140841323">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501124516741">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/README.md" timestamp="1501102035238">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="31" column="8" />
-        <mark key="^" line="31" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="57" />
-        <mark key="." line="40" column="57" />
-        <mark key="^" line="40" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/models/cpu/models.yml" timestamp="1500458793724">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500579661940">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="93" column="56" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501164913215">
-        <mark key="a" line="349" column="30" />
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501259100345">
+        <mark key="a" line="351" column="30" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501154434649">
         <mark key="a" line="152" column="15" />
@@ -142,6 +25,12 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="65" column="40" />
+        <mark key="^" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -153,6 +42,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/examples/docker-compose.yml" timestamp="1501107909044">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
         <mark key="[" line="11" column="18" />
@@ -190,6 +85,25 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" timestamp="1501151387164">
+        <mark key="'" line="11" column="10" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="8" />
+        <mark key="." line="74" column="8" />
+        <mark key="^" line="74" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501125216096">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="19" column="35" />
@@ -202,11 +116,36 @@
         <mark key="^" line="86" column="43" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="128" column="73" />
+        <mark key="]" line="128" column="77" />
+        <mark key="^" line="128" column="77" />
+        <mark key="." line="128" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/utils.py" timestamp="1501109184289">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
+        <mark key="[" line="145" column="37" />
+        <mark key="]" line="145" column="37" />
+        <mark key="^" line="145" column="37" />
+        <mark key="." line="145" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
+        <mark key="[" line="164" column="27" />
+        <mark key="]" line="164" column="27" />
+        <mark key="^" line="143" column="49" />
+        <mark key="." line="164" column="27" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500526183585">
         <mark key="[" line="65" column="0" />
@@ -219,6 +158,18 @@
         <mark key="]" line="9" column="97" />
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501140841323">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/model.proto" timestamp="1500597824241">
         <mark key="[" line="21" column="1" />
@@ -242,6 +193,24 @@
         <mark key="^" line="19" column="57" />
         <mark key="." line="19" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501124516741">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/README.md" timestamp="1501102035238">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="31" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests.py" timestamp="1492922978208">
         <mark key="'" line="38" column="16" />
         <mark key="[" line="27" column="38" />
@@ -254,6 +223,12 @@
         <mark key="]" line="22" column="56" />
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+        <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500555250603">
         <mark key="[" line="144" column="30" />
@@ -274,6 +249,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="57" />
+        <mark key="." line="40" column="57" />
+        <mark key="^" line="40" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="25" />
@@ -285,6 +266,25 @@
         <mark key="]" line="71" column="13" />
         <mark key="." line="71" column="13" />
         <mark key="^" line="96" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/models/cpu/models.yml" timestamp="1500458793724">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" timestamp="1500579661940">
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="93" column="56" />
+        <mark key="." line="94" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -390,11 +390,11 @@
       <jump line="41" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcy5hcHBlbmQoZHN0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>rmi(self, url):</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
