@@ -3,20 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501276779267">
-        <mark key="'" line="149" column="15" />
-        <mark key="[" line="185" column="95" />
-        <mark key="]" line="186" column="7" />
-        <mark key="^" line="186" column="7" />
-        <mark key="." line="186" column="7" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501277909689">
+        <mark key="a" line="189" column="0" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="175" column="8" />
+        <mark key="]" line="175" column="10" />
+        <mark key="^" line="175" column="10" />
+        <mark key="." line="175" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501272437386">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501278150762">
         <mark key="a" line="143" column="15" />
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="201" column="55" />
-        <mark key="]" line="201" column="58" />
-        <mark key="." line="201" column="58" />
-        <mark key="^" line="201" column="58" />
+        <mark key="[" line="205" column="82" />
+        <mark key="]" line="205" column="98" />
+        <mark key="." line="205" column="98" />
+        <mark key="^" line="205" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -293,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="42" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="53" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="54" column="59" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
@@ -393,55 +392,57 @@
       <jump line="6" column="36" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="148" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="149" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tag</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>tag</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>HTTPB</text>
+        <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBudmNyLmRvY2tlcl91cmwoJ252aWRpYS9jdWRhJywgJzkuMC1kZXZlbCcpIGluIGNsaWVudC5pbWFnZXMK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkdPVCB7fToge30iLmZvcm1hdChzZWxmLl9hcGlfdXJsKGVuZHBvaW50KSwgcHByaW50LnBmb3JtYXQoZGF0YSwgaW5kZW50PTQpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAvcHByaW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInt9L3t9Ont9Ii5mb3JtYXQoc2VsZi51cmwsIG5hbWUsIHRhZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb2NrZXJfdXJsKHNlbGYsIG5hbWUsIHRhZyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInt9L3t9Ont9Ii5mb3JtYXQoc2VsZi51cmwsIG5hbWUsIHRhZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HTTPB</last-search>
+      <last-search>pprint</last-search>
       <last-offset />
-      <last-pattern>HTTPB</last-pattern>
+      <last-pattern>pprint</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudlw+</entry>
         <entry>json</entry>
         <entry>pyto</entry>
         <entry>ten</entry>
@@ -469,9 +469,9 @@
         <entry>AuthBase</entry>
         <entry>HTTPSB</entry>
         <entry>HTTPB</entry>
+        <entry>pprint</entry>
       </history-search>
       <history-cmd>
-        <entry>Q</entry>
         <entry>1</entry>
         <entry>q</entry>
         <entry>.,$</entry>
@@ -490,6 +490,7 @@
         <entry>'a,.y</entry>
         <entry>.,$d</entry>
         <entry>'a,.d</entry>
+        <entry encoding="base64">JzwsJz4nYQ==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
