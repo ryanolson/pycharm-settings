@@ -104,11 +104,11 @@
         <mark key="." line="74" column="8" />
         <mark key="^" line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501125216096">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501263904381">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500599660568">
         <mark key="[" line="97" column="0" />
