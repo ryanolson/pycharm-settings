@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501274450118">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501276779267">
         <mark key="'" line="149" column="15" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="95" column="42" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="185" column="95" />
+        <mark key="]" line="186" column="7" />
+        <mark key="^" line="186" column="7" />
+        <mark key="." line="186" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501272437386">
         <mark key="a" line="143" column="15" />
@@ -395,11 +395,11 @@
       <jump line="149" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      <register name="&quot;" type="4">
+        <text>tag</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>tag</text>
       </register>
       <register name="/" type="4">
         <text>HTTPB</text>
