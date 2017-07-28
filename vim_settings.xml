@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501272546582">
-        <mark key="'" line="197" column="47" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="209" column="45" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501274450118">
+        <mark key="'" line="149" column="15" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="95" column="42" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501272437386">
         <mark key="a" line="143" column="15" />
@@ -260,12 +260,10 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501269408613">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="35" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="25" column="35" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501274050397">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
@@ -295,10 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
-      <jump line="157" column="16" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
-      <jump line="128" column="41" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
-      <jump line="176" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="57" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="42" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
@@ -366,8 +360,6 @@
       <jump line="6" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
       <jump line="80" column="9" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="81" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="148" column="12" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="149" column="27" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="42" column="19" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="220" column="8" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="133" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
@@ -395,55 +387,61 @@
       <jump line="101" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="202" column="47" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="104" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="5" column="14" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="62" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="6" column="36" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="148" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="149" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>nvcr</text>
+        <text>HTTPB</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBudmNyLmRvY2tlcl91cmwoJ252aWRpYS9jdWRhJywgJzkuMC1kZXZlbCcpIGluIGNsaWVudC5pbWFnZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGRvY2tlcl9jbG9uZShjbGllbnQsIHNyYywgZHN0KToKICAgIGRldi5kZWJ1ZygicHVsbGluZyB7fSIuZm9ybWF0KHNyYykpCiAgICBjbGllbnQucHVsbChzcmMpCiAgICBkZXYuZGVidWcoInRhZ2dpbmcge30gLS0+IHt9Ii5mb3JtYXQoc3JjLCBkc3QpKQogICAgY2xpZW50LnRhZyhzcmMsIGRzdCkKICAgIGRldi5kZWJ1ZygicHVzaGluZyB7fSIuZm9ybWF0KGRzdCkpCiAgICBjbGllbnQucHVzaChkc3QpCgo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKIyBpZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAogICAgIyBudiA9IE52aWRpYVJlZ2lzdHJ5KCJzb21la2V5IikKICAgICMgZGF0YSA9IG52LmdldF9pbWFnZXNfYW5kX3RhZ3MoKQogICAgIyBwcHJpbnQoZGF0YSkKCiMgICB3aXRoIG9wZW4oIm52Lmpzb24iLCAiciIpIGFzIGZpbGU6CiMgICAgICAgbnZjcl9pbWFnZXMgPSBqc29uLmxvYWQoZmlsZSkKCiMgICByZWdpc3RyeSA9IERvY2tlclJlZ2lzdHJ5KCJodHRwOi8vcmVnaXN0cnk6NTAwMCIsICJ1c2VyIiwgInBhc3MiLCB2ZXJpZnlfc3NsPUZhbHNlKQojICAgZHN0X2ltYWdlcyA9IHJlZ2lzdHJ5LmdldF9pbWFnZXNfYW5kX3RhZ3MocHJvamVjdD0ibnZpZGlhIikKCiMgICBwcHJpbnQobnZjcl9pbWFnZXMpCiMgICBwcHJpbnQoZHN0X2ltYWdlcykKIyAgIHBwcmludChtaXNzaW5nX2ltYWdlcyhudmNyX2ltYWdlcywgZHN0X2ltYWdlcykpCgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY2tlcl9jbGllbnQucmVtb3ZlKGRzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsb2NyLmRvY2tlcl91cmwoJ252aWRpYS90ZW5zb3JmbG93JywgJzE3LjA3Jykgbm90IGluIGNsaWVudC5pbWFnZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInt9L3t9Ont9Ii5mb3JtYXQoc2VsZi51cmwsIG5hbWUsIHRhZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2LmRlYnVnKCJwdXNoaW5nIHt9Ii5mb3JtYXQoZHN0KSkK</text>
+        <text encoding="base64">ICAgIGRlZiBkb2NrZXJfdXJsKHNlbGYsIG5hbWUsIHRhZyk6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>'a,.d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nvcr</last-search>
+      <last-search>HTTPB</last-search>
       <last-offset />
-      <last-pattern>nvcr</last-pattern>
+      <last-pattern>HTTPB</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -451,10 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Model</entry>
-        <entry>_do_get</entry>
-        <entry>repo_n</entry>
-        <entry encoding="base64">XDxyZWdpc3RyeVw+</entry>
         <entry encoding="base64">XDxudlw+</entry>
         <entry>json</entry>
         <entry>pyto</entry>
@@ -464,13 +458,17 @@
         <entry>manifest</entry>
         <entry>!</entry>
         <entry>localr</entry>
-        <entry>filter</entry>
         <entry>clonder</entry>
         <entry>cloner</entry>
         <entry>docker_url</entry>
         <entry>url</entry>
         <entry>delete_lo</entry>
         <entry>nvcr</entry>
+        <entry>filter</entry>
+        <entry>auth</entry>
+        <entry>AuthBase</entry>
+        <entry>HTTPSB</entry>
+        <entry>HTTPB</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -490,9 +488,9 @@
         <entry>91</entry>
         <entry>wq</entry>
         <entry>'a,.y</entry>
-        <entry>w</entry>
         <entry>.,$d</entry>
         <entry>'a,.d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
