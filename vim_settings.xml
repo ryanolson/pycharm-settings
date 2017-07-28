@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501262296581">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501268408965">
         <mark key="a" line="332" column="30" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="67" column="0" />
@@ -104,11 +104,11 @@
         <mark key="." line="74" column="8" />
         <mark key="^" line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501268044427">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501268206836">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
         <mark key="^" line="14" column="37" />
-        <mark key="." line="35" column="0" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500599660568">
         <mark key="[" line="97" column="0" />
@@ -260,6 +260,13 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501268656179">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
         <mark key="[" line="71" column="12" />
@@ -288,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="9" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
-      <jump line="108" column="8" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="75" column="69" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="78" column="25" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="110" column="13" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
@@ -388,49 +393,51 @@
       <jump line="10" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
       <jump line="11" column="10" filename="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" />
       <jump line="41" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="34" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>aufs</text>
+        <text>return self.images[image_name]</text>
       </register>
       <register name="/" type="4">
         <text>cloner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW25hbWUgZm9yIG5hbWUgaW4gc2VsZi5pbWFnZXMua2V5cygpIGlmIHByZWRpY2F0ZShuYW1lKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IHNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRE9DS0VSX0hPU1Q6IHRjcDovL2RvY2tlcjoyMzc1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuYW1lLnN0YXJ0c3dpdGgocHJvamVjdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcHJvamVjdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBkb2NrZXI6bGF0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcHJlZGljYXRlKG5hbWUpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0Ogo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge25hbWU6IHNlbGYuZ2V0X3RhZ3NfZm9yX2ltYWdlKG5hbWUpIGZvciBuYW1lIGluIGltYWdlX25hbWVzfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAic3RvcmFnZS1kcml2ZXIiOiAib3ZlcmxheTIiCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZV9uYW1lcyA9IHNlbGYuZ2V0X2ltYWdlX25hbWVzKHByb2plY3Q9cHJvamVjdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>'a,.d</text>
       </register>
     </registers>
     <search>
@@ -473,7 +480,6 @@
         <entry>.,$D</entry>
         <entry>ww</entry>
         <entry>81</entry>
-        <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>set paste</entry>
         <entry>'a,.y</entry>
@@ -486,6 +492,7 @@
         <entry>91</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>'a,.d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
