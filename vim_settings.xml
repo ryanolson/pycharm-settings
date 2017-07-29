@@ -101,11 +101,11 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501366164584">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="41" />
-        <mark key="^" line="35" column="41" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="39" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
         <mark key="[" line="3" column="0" />
@@ -126,12 +126,12 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501367030922">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="235" column="44" />
-        <mark key="]" line="235" column="43" />
-        <mark key="^" line="107" column="90" />
-        <mark key="." line="235" column="43" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501368518609">
+        <mark key="'" line="265" column="4" />
+        <mark key="[" line="269" column="3" />
+        <mark key="]" line="269" column="4" />
+        <mark key="^" line="268" column="34" />
+        <mark key="." line="269" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501366239431">
         <mark key="a" line="143" column="15" />
@@ -303,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="12" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="53" column="11" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="54" column="59" filename="$USER_HOME$/Projects/luda/luda/cli.py" />
       <jump line="18" column="4" filename="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" />
@@ -403,16 +402,17 @@
       <jump line="149" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="186" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
+      <jump line="258" column="4" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>#k</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>#k</text>
       </register>
       <register name="/" type="4">
-        <text>pprint</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fZ2V0KCJyZXBvc2l0b3J5P2luY2x1ZGVQdWJsaWM9dHJ1ZSIpCg==</text>
@@ -421,37 +421,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW25hbWUoaW1hZ2UpIGZvciBpbWFnZSBpbiBkYXRhWydyZXBvc2l0b3JpZXMnXSBpZiB0ZXN0KGltYWdlKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltYWdlWyJuYW1lIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcm9qZWN0ICsgIi8iICsgaW1hZ2VbIm5hbWUiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fZ2V0KCJyZXBvc2l0b3J5P2luY2x1ZGVQdWJsaWM9dHJ1ZSIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZ1sibmFtZXNwYWNlIl0gKyAiLyIgKyBpbWdbIm5hbWUiXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbmFtZShpbWcpOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpbWdbIm5hbWVzcGFjZSJdID09IHByb2plY3QK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgcHJvamVjdDoK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgbmFtZShpbWFnZSk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgdGhpcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgZ2V0IHRoZSBsaXN0IG9mIGltYWdlIG5hbWVzIGFuZCBkZXNjcmlwdGlvbnNrCiAgICBudmNyX2ltYWdlcyA9IG52Y3JfcmVnaXN0cnkuZ2V0X2ltYWdlcygpCiAgICB3aXRoIG9wZW4oIi9zdGF0ZS9udmNyLmltYWdlcy55bWwiLCAidyIpIGFzIGZpbGU6CiAgICAgICAgeWFtbC5kdW1wKG52Y3JfaW1hZ2VzLCBmaWxlKQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW25hbWUoaW1hZ2UpIGZvciBpbWFnZSBpbiBkYXRhWydyZXBvc2l0b3JpZXMnXSBpZiB0ZXN0KGltYWdlKV0K</text>
+      </register>
       <register name=":" type="4">
-        <text>'a,.y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pprint</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>pprint</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -459,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>pyto</entry>
         <entry>ten</entry>
         <entry>the</entry>
@@ -479,6 +478,7 @@
         <entry>HTTPSB</entry>
         <entry>HTTPB</entry>
         <entry>pprint</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -497,10 +497,10 @@
         <entry>91</entry>
         <entry>wq</entry>
         <entry>.,$d</entry>
-        <entry>'a,.d</entry>
         <entry encoding="base64">JzwsJz4nYQ==</entry>
-        <entry>w</entry>
         <entry>'a,.y</entry>
+        <entry>'a,.d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
