@@ -101,10 +101,11 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501274050397">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501366164584">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
         <mark key="[" line="3" column="0" />
@@ -125,21 +126,20 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501364874117">
-        <mark key="a" line="109" column="44" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501367030922">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="223" column="68" />
-        <mark key="]" line="225" column="47" />
-        <mark key="^" line="225" column="47" />
-        <mark key="." line="225" column="47" />
+        <mark key="[" line="235" column="44" />
+        <mark key="]" line="235" column="43" />
+        <mark key="^" line="107" column="90" />
+        <mark key="." line="235" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501278150762">
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501366239431">
         <mark key="a" line="143" column="15" />
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="205" column="82" />
-        <mark key="]" line="205" column="98" />
-        <mark key="." line="205" column="98" />
-        <mark key="^" line="205" column="98" />
+        <mark key="[" line="207" column="11" />
+        <mark key="]" line="207" column="14" />
+        <mark key="^" line="207" column="14" />
+        <mark key="." line="207" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -406,46 +406,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tags and other attributes of interest for each version of `image_name`</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>tags and other attributes of interest for each version of `image_name`</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfdGFnc19mb3JfaW1hZ2Uoc2VsZiwgaW1hZ2VfbmFtZSk6CiAgICAgICAgIiIiCiAgICAgICAgUmV0dXJucyB0YWdzIGFuZCBvdGhlciBhdHRyaWJ1dGVzIG9mIGludGVyZXN0IGZvciBlYWNoIHZlcnNpb24gb2YgYGltYWdlX25hbWVgCiAgICAgICAgOnBhcmFtIGltYWdlX25hbWU6IHNob3VsZCBjb25zaXN0IG9mIGA8cHJvamVjdD4vPHJlcG8+YCwgZS5nLiBgbnZpZGlhL2NhZmZlYAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIgogICAgICAgIGVuZHBvaW50ID0gIi8iLmpvaW4oWyJyZXBvc2l0b3J5IiwgaW1hZ2VfbmFtZV0pCiAgICAgICAgZGF0YSA9IHNlbGYuX2dldChlbmRwb2ludCkKICAgICAgICByZXR1cm4gW3RhZ1snbmFtZSddIGZvciB0YWcgaW4gZGF0YVsndGFncyddXQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fZ2V0KCJyZXBvc2l0b3J5P2luY2x1ZGVQdWJsaWM9dHJ1ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fZ2V0KGVuZHBvaW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbmRwb2ludCA9ICIvIi5qb2luKFsicmVwb3NpdG9yeSIsIGltYWdlX25hbWVdKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW25hbWUoaW1hZ2UpIGZvciBpbWFnZSBpbiBkYXRhWydyZXBvc2l0b3JpZXMnXSBpZiB0ZXN0KGltYWdlKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW3RhZ1snbmFtZSddIGZvciB0YWcgaW4gZGF0YVsndGFncyddXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvcHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gc2VsZi5fZ2V0KCJyZXBvc2l0b3J5P2luY2x1ZGVQdWJsaWM9dHJ1ZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZ1sibmFtZXNwYWNlIl0gKyAiLyIgKyBpbWdbIm5hbWUiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbmFtZShpbWcpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpbWdbIm5hbWVzcGFjZSJdID09IHByb2plY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcHJvamVjdDoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>'a,.y</text>
       </register>
     </registers>
     <search>
@@ -499,8 +499,8 @@
         <entry>.,$d</entry>
         <entry>'a,.d</entry>
         <entry encoding="base64">JzwsJz4nYQ==</entry>
-        <entry>'a,.y</entry>
         <entry>w</entry>
+        <entry>'a,.y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
