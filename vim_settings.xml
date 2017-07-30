@@ -197,11 +197,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501364989131">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="32" column="27" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501386360445">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="32" column="48" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500599660568">
         <mark key="[" line="97" column="0" />
@@ -406,8 +406,8 @@
       <jump line="311" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>busybox:latest&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
       </register>
       <register name="-" type="4">
         <text>busybox:latest&quot;)</text>
@@ -419,31 +419,31 @@
         <text encoding="base64">ICAgIGRvY2tlcl9jbGllbnQucHVsbCgiYnVzeWJveDpsYXRlc3QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZyhzdHJlYW1fbGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbV9saW5lID0gU3RyZWFtTGluZUJ1aWxkR2VuZXJhdG9yKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZyhzdHJlYW1fbGluZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbV9saW5lID0gU3RyZWFtTGluZUJ1aWxkR2VuZXJhdG9yKGxpbmUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcyA9IHNlbGYuY2xpZW50LmltYWdlcy5wdWxsKHVybCwgc3RyZWFtPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IHNlbGYuY2xpZW50LmltYWdlcy5wdWxsKHVybCwgc3RyZWFtPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgSWYgd2UgYXJlIG5vdCBhYmxlIHRvIGRlc2VyaWFsaXplIHRoZSByZWNlaXZlZCBsaW5lIGFzIEpTT04gb2JqZWN0LCBqdXN0IHByaW50IGl0IG91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
