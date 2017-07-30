@@ -126,13 +126,13 @@
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501376768727">
-        <mark key="a" line="262" column="12" />
-        <mark key="'" line="312" column="0" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="22" column="26" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501382818642">
+        <mark key="a" line="267" column="12" />
+        <mark key="'" line="317" column="0" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="25" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501366239431">
         <mark key="a" line="143" column="15" />
@@ -278,11 +278,11 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501376248666">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="49" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="49" />
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501382509646">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
         <mark key="[" line="16" column="0" />
@@ -407,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin, password)d</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>admin, password)d</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
