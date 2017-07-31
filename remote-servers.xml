@@ -1,8 +1,10 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="NGC" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="apiUrl" value="https://192.168.99.100:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/ngc" />
+        <option name="machine" value="ngc" />
       </configuration>
     </remote-server>
   </component>
