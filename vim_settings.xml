@@ -34,11 +34,12 @@
         <mark key="." line="74" column="8" />
         <mark key="^" line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/README.md" timestamp="1501460244094">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="35" column="68" />
-        <mark key="^" line="35" column="68" />
-        <mark key="." line="35" column="68" />
+      <file name="$USER_HOME$/Projects/ngc/README.md" timestamp="1501461595035">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="3" />
+        <mark key="." line="59" column="3" />
+        <mark key="^" line="59" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501459945743">
         <mark key="'" line="203" column="8" />
@@ -316,10 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="3" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="61" column="23" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="63" column="30" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="64" column="19" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
       <jump line="66" column="46" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
       <jump line="68" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
       <jump line="71" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
@@ -416,13 +413,17 @@
       <jump line="262" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="311" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="203" column="8" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICBUaGUgc2VydmljZSBsaWZlY3ljbGU=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICBUaGUgc2VydmljZSBsaWZlY3ljbGU=</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -431,31 +432,31 @@
         <text encoding="base64">ICAgIGRvY2tlcl9jbGllbnQucHVsbCgiYnVzeWJveDpsYXRlc3QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
+        <text encoding="base64">ICBsb29wIHNob3VsZCBtb25pdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZyhzdHJlYW1fbGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbV9saW5lID0gU3RyZWFtTGluZUJ1aWxkR2VuZXJhdG9yKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZyhzdHJlYW1fbGluZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbV9saW5lID0gU3RyZWFtTGluZUJ1aWxkR2VuZXJhdG9yKGxpbmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcyA9IHNlbGYuY2xpZW50LmltYWdlcy5wdWxsKHVybCwgc3RyZWFtPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
