@@ -315,6 +315,11 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/docker-compose.devel.yml" timestamp="1501474476128">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="66" column="46" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
