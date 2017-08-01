@@ -79,12 +79,12 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501564105213">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501564189973">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
         <mark key="'" line="6" column="0" />
@@ -468,11 +468,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>do_something</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>do_something</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>im</text>
@@ -481,31 +481,31 @@
         <text encoding="base64">ICAgIGFzc2VydCBvcy5wYXRoLmV4aXN0cyhmaWxlbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvIHlvdXIgc3R1ZmYK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiRG9pbmcgc3R1ZmYuLi4iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb19zb21ldGhpbmcoc2MpOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGprawo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRvIHlvdXIgc3R1ZmYK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiRG9pbmcgc3R1ZmYuLi4iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBkb19zb21ldGhpbmcoc2MpOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGprawo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
