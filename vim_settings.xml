@@ -41,12 +41,12 @@
         <mark key="." line="59" column="3" />
         <mark key="^" line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501478454992">
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501529786384">
         <mark key="'" line="203" column="8" />
-        <mark key="[" line="223" column="14" />
-        <mark key="]" line="223" column="16" />
-        <mark key="." line="223" column="16" />
-        <mark key="^" line="223" column="16" />
+        <mark key="[" line="232" column="39" />
+        <mark key="]" line="232" column="48" />
+        <mark key="." line="232" column="48" />
+        <mark key="^" line="232" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -61,6 +61,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
         <mark key="]" line="145" column="37" />
@@ -200,12 +201,12 @@
         <mark key="^" line="80" column="29" />
         <mark key="." line="80" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" timestamp="1501478315799">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="53" column="72" />
-        <mark key="]" line="53" column="72" />
-        <mark key="." line="53" column="72" />
-        <mark key="^" line="53" column="72" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" timestamp="1501530716635">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+        <mark key="^" line="209" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
         <mark key="[" line="3" column="2" />
@@ -229,6 +230,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="^" line="86" column="43" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547107145">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
@@ -292,13 +299,6 @@
         <mark key="^" line="144" column="54" />
         <mark key="." line="144" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/models/gpu/models.yml" timestamp="1500655687267">
-        <mark key="a" line="16" column="12" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501385124935">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="51" />
@@ -317,6 +317,19 @@
         <mark key="." line="71" column="13" />
         <mark key="^" line="96" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1501530407349">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/services/cloner.py" timestamp="1501547006132">
+        <mark key="'" line="22" column="47" />
+        <mark key="[" line="55" column="81" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/notes.md" timestamp="1501380234044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="2" />
@@ -330,13 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="71" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/cuda.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
-      <jump line="143" column="17" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="146" column="39" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="26" column="37" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="90" column="31" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
@@ -430,55 +436,62 @@
       <jump line="37" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" />
+      <jump line="20" column="36" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="23" column="37" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="26" column="45" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="38" column="62" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="11" column="31" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="18" column="47" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.encode(&quot;ascii&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.encode(&quot;ascii&quot;)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>encoded</text>
+        <text>dst</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcl9jbGllbnQucHVsbCgiYnVzeWJveDpsYXRlc3QiKQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSByZW1vdGU6IGBpbWFnZV9uYW1lOnRhZzpkb2NrZXJfaWRgIG9mIHJlbW90ZSBjb250ZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb29wIHNob3VsZCBtb25pdG9yCg==</text>
+        <text encoding="base64">ICAgIFRPRE86IGdlbmVyYXRsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZShpbWFnZV9uYW1lLCB0YWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVsbChpbWFnZV9uYW1lLCB0YWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZyhzdHJlYW1fbGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbV9saW5lID0gU3RyZWFtTGluZUJ1aWxkR2VuZXJhdG9yKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0KCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>encoded</last-search>
+      <last-search>dst</last-search>
       <last-offset />
-      <last-pattern>encoded</last-pattern>
+      <last-pattern>dst</last-pattern>
       <last-replace encoding="base64">IyMg</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -486,9 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>torch</entry>
-        <entry>manifest</entry>
-        <entry>!</entry>
         <entry>localr</entry>
         <entry>clonder</entry>
         <entry>cloner</entry>
@@ -506,6 +516,9 @@
         <entry>info</entry>
         <entry>^</entry>
         <entry>encoded</entry>
+        <entry>src</entry>
+        <entry>rem</entry>
+        <entry>dst</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -525,8 +538,8 @@
         <entry>.,$d</entry>
         <entry encoding="base64">JzwsJz4nYQ==</entry>
         <entry>'a,.y</entry>
-        <entry>'a,.d</entry>
         <entry>'a,.s/^/## /</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
