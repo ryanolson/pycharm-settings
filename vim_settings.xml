@@ -79,12 +79,12 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501564189973">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501607027098">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
         <mark key="'" line="6" column="0" />
@@ -366,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="73" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="182" column="44" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="183" column="66" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
       <jump line="80" column="23" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
@@ -466,16 +465,17 @@
       <jump line="266" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>im</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBvcy5wYXRoLmV4aXN0cyhmaWxlbmFtZSkK</text>
@@ -484,38 +484,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvIHlvdXIgc3R1ZmYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWwgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChkaWN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiRG9pbmcgc3R1ZmYuLi4iCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2FsID0geWFtbC5sb2FkKGZpbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb19zb21ldGhpbmcoc2MpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKHNlbGYuc3RhdGVfcGF0aCwgInIiKSBhcyBmaWxlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhTVEFURV9QQVRIKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGprawo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJlYWQgcHJldmlvdXMgc3RhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG1pc3NpbmdfaW1hZ2VzKHJlbW90ZSwgbG9jYWwpOgogICAgIiIiCiAgICBHZW5lcmF0ZXMgYSBkaWN0IG9mIGRpY3RzIG9uIGEgc3ltbWV0cmljIGRpZmZlcmVudCBiZXR3ZWVuIHJlbW90ZS9sb2NhbCB3aGljaCBhbHNvIGluY2x1ZGVzCiAgICBhbnkgaW1hZ2UvdGFnIHBhaXIgaW4gYm90aCBidXQgd2l0aCBkaWZmZXJpbmcgZG9ja2VySW1hZ2VJZHMuCiAgICA6cGFyYW0gcmVtb3RlOiBgaW1hZ2VfbmFtZTp0YWc6ZG9ja2VyX2lkYCBvZiByZW1vdGUgY29udGVudAogICAgOnBhcmFtIGxvY2FsOiBgaW1hZ2VfbmFtZTp0YWc6ZG9ja2VyX2lkYCBvZiBsb2NhbCBjb250ZW50CiAgICA6cmV0dXJuOiBgaW1hZ2VfbmFtZTp0YWc6ZG9ja2VyX2lkYCBmb3IgZWFjaCBtaXNzaW5nIG9yIGRpZmZlcmVudCBlbnRyeSBpbiByZW1vdGUgYnV0IG5vdCBpbiBsb2NhbAogICAgIiIiCiAgICB0b19mZXRjaCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGRpY3QpCgogICAgIyBkZXRlcm1pbmUgd2hpY2ggaW1hZ2VzIGFyZSBub3QgcHJlc2VudAogICAgaW1hZ2VfbmFtZXMgPSBzZXQocmVtb3RlLmtleXMoKSkgLSBzZXQobG9jYWwua2V5cygpKQogICAgZm9yIGltYWdlX25hbWUgaW4gaW1hZ2VfbmFtZXM6CiAgICAgICAgdG9fZmV0Y2hbaW1hZ2VfbmFtZV0gPSByZW1vdGVbaW1hZ2VfbmFtZV0KCiAgICBkZXYuZGVidWcoInJlbW90ZSBpbWFnZSBuYW1lczogJXMiICUgcmVtb3RlLmtleXMoKSkKICAgIGRldi5kZWJ1ZygibG9jYWwgIGltYWdlIG5hbWVzOiAlcyIgJSBsb2NhbC5rZXlzKCkpCiAgICBkZXYuZGVidWcoImltYWdlIG5hbWVzIG5vdCBwcmVzZW50OiAlcyIgJSB0b19mZXRjaC5rZXlzKCkpCgogICAgIyBkZXRlcm1pbmUgd2hpY2ggdGFncyBhcmUgbm90IHByZXNlbnQKICAgIGZvciBpbWFnZV9uYW1lLCB0YWdfZGF0YSBpbiByZW1vdGUuaXRlbXMoKToKICAgICAgICB0YWdzID0gc2V0KHRhZ19kYXRhLmtleXMoKSkgLSBzZXQobG9jYWxbaW1hZ2VfbmFtZV0ua2V5cygpKQogICAgICAgIGRldi5kZWJ1ZygicmVtb3RlICVzIHRhZ3M6ICVzIiAlIChpbWFnZV9uYW1lLCB0YWdfZGF0YS5rZXlzKCkpKQogICAgICAgIGRldi5kZWJ1ZygibG9jYWwgICVzIHRhZ3M6ICVzIiAlIChpbWFnZV9uYW1lLCBsb2NhbFtpbWFnZV9uYW1lXS5rZXlzKCkpKQogICAgICAgIGRldi5kZWJ1ZygidGFncyBub3QgcHJlc2VudDogJXMiICUgdGFncykKICAgICAgICBmb3IgdGFnIGluIHRhZ3M6CiAgICAgICAgICAgIHRvX2ZldGNoW2ltYWdlX25hbWVdW3RhZ10gPSByZW1vdGVbaW1hZ2VfbmFtZV1bdGFnXQoKICAgICMgZGV0ZXJtaW5lIGlmIGFueSBuYW1lL3RhZyBwYWlycyBoYXZlIGEgZGlmZmVyZW50IGRvY2tlckltYWdlSWQgdGhhbiBwcmV2aW91c2x5IHNlZW4KICAgICMgdGhpcyBoYW5kbGVzIHRoZSBjYXNlcyB3aGVyZSBzb21lb25lIHB1c2ggYSBuZXcgaW1hZ2VzIGFuZCBvdmVyd3JpdGVzIGEgbmFtZTp0YWcgaW1hZ2UKICAgIGZvciBpbWFnZV9uYW1lLCB0YWdfZGF0YSBpbiByZW1vdGUuaXRlbXMoKToKICAgICAgICBpZiBpbWFnZV9uYW1lIG5vdCBpbiBsb2NhbDogY29udGludWUKICAgICAgICBmb3IgdGFnLCBkb2NrZXJfaWQgaW4gdGFnX2RhdGEuaXRlbXMoKToKICAgICAgICAgICAgaWYgdGFnIG5vdCBpbiBsb2NhbFtpbWFnZV9uYW1lXTogY29udGludWUKICAgICAgICAgICAgaWYgZG9ja2VyX2lkICE9IGxvY2FsW2ltYWdlX25hbWVdW3RhZ106CiAgICAgICAgICAgICAgICBkZXYuZGVidWcoIiVzOiVzIGNoYW5nZWQgb24gc2VydmVyIiAlIChpbWFnZV9uYW1lLCB0YWcpKQogICAgICAgICAgICAgICAgdG9fZmV0Y2hbaW1hZ2VfbmFtZV1bdGFnXSA9IGRvY2tlcl9pZAoKICAgIGxvZy5kZWJ1ZygiaW1hZ2VzIHRvIGJlIGZldGNoZWQ6XG4lcyIgJSBwcHJpbnQucGZvcm1hdCh0b19mZXRjaCwgaW5kZW50PTQpKQogICAgcmV0dXJuIHRvX2ZldGNoCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>im</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>im</last-pattern>
-      <last-replace encoding="base64">IyA=</last-replace>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
@@ -540,11 +540,10 @@
         <entry>get_state</entry>
         <entry>state</entry>
         <entry>ngc</entry>
-        <entry>^</entry>
         <entry>im</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>81</entry>
         <entry>set paste</entry>
         <entry>112</entry>
@@ -558,11 +557,12 @@
         <entry encoding="base64">JzwsJz4nYQ==</entry>
         <entry>'a,.y</entry>
         <entry>'a,.s/^/## /</entry>
-        <entry>'a,.d</entry>
         <entry>W</entry>
         <entry>1</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>wq</entry>
+        <entry>'a,.d</entry>
+        <entry>28,.s/^/    /</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
