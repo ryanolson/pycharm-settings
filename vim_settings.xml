@@ -41,12 +41,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501548938466">
-        <mark key="'" line="218" column="8" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="243" column="133" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501559169958">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="262" column="34" />
+        <mark key="]" line="262" column="34" />
+        <mark key="." line="262" column="34" />
+        <mark key="^" line="262" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -62,6 +62,12 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501559025116">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
         <mark key="]" line="145" column="37" />
@@ -175,6 +181,14 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
+        <mark key="a" line="20" column="7" />
+        <mark key="'" line="27" column="7" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
         <mark key="[" line="11" column="18" />
@@ -323,12 +337,12 @@
         <mark key="." line="48" column="3" />
         <mark key="^" line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/cloner.py" timestamp="1501547006132">
-        <mark key="'" line="22" column="47" />
-        <mark key="[" line="55" column="81" />
-        <mark key="]" line="64" column="7" />
-        <mark key="." line="64" column="7" />
-        <mark key="^" line="64" column="7" />
+      <file name="$USER_HOME$/Projects/ngc/services/cloner.py" timestamp="1501557121730">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/notes.md" timestamp="1501380234044">
         <mark key="[" line="0" column="0" />
@@ -343,12 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="37" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
-      <jump line="90" column="31" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/inference.py" />
-      <jump line="14" column="45" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
-      <jump line="6" column="14" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
-      <jump line="93" column="11" filename="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" />
-      <jump line="20" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" />
@@ -443,64 +451,68 @@
       <jump line="11" column="31" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="18" column="47" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="2" column="17" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" />
+      <jump line="31" column="38" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="54" column="18" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="67" column="14" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="78" column="16" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
+      <jump line="27" column="7" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" />
+      <jump line="257" column="0" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgbnZpZGlhL2N1ZGEnLCAnOC4wLWN1ZG5uNS4xLWRldmVsLXVidW50dTE0LjA0JywgJ2M2MWYzNTFiNTkxZmJmY2E5M2IzYzBmY2MzYmQwMzk3ZTdmM2M2YzJjMmYxODgwZGVkMmZkYzFlNWY5ZWRkOWUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>get_state</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5nY19yZWdpc3RyeSA9IE5HQ1JlZ2lzdHJ5KCJMVGIydzhhRTdGNGNYZTRac3dMV0tPTGltZW92amRmWmhpdmhJeWdRIikK</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwpAcHl0ZXN0Lm1hcmsucmVtb3RlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbnZpZGlhL2N1ZGEnLCAnOC4wLWN1ZG5uNS4xLWRldmVsLXVidW50dTE0LjA0JywgJ2M2MWYzNTFiNTkxZmJmY2E5M2IzYzBmY2MzYmQwMzk3ZTdmM2M2YzJjMmYxODgwZGVkMmZkYzFlNWY5ZWRkOWUnKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZygobmFtZSwgdGFnWyJuYW1lIl0sIHRhZ1siZG9ja2VySW1hZ2VJZCJdKSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvcGVubmVyID0gdXRpbHMub3Blbl9ieV9leHRlbnNpb24oZmlsZW5hbWUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGJ6Mgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IGZpbGVuYW1lIG9yICJpbWFnZV97fS50YXIiLmZvcm1hdCh1cmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlW25hbWVdW2RhdGFbInRhZyJdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbImN1ZGoiXSkK</text>
+        <text encoding="base64">ICAgICMgbnZpZGlhL2N1ZGEnLCAnOC4wLWN1ZG5uNS4xLWRldmVsLXVidW50dTE0LjA0JywgJ2M2MWYzNTFiNTkxZmJmY2E5M2IzYzBmY2MzYmQwMzk3ZTdmM2M2YzJjMmYxODgwZGVkMmZkYzFlNWY5ZWRkOWUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldi5kZWJ1ZygobmFtZSwgdGFnWyJuYW1lIl0sIHRhZ1siZG9ja2VySW1hZ2VJZCJdKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRPRE86IGdlbmVyYXRsCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_state</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>get_state</last-pattern>
-      <last-replace encoding="base64">IyMg</last-replace>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clonder</entry>
-        <entry>cloner</entry>
         <entry>docker_url</entry>
         <entry>url</entry>
         <entry>delete_lo</entry>
@@ -513,15 +525,16 @@
         <entry>pprint</entry>
         <entry>this</entry>
         <entry>info</entry>
-        <entry>^</entry>
         <entry>encoded</entry>
         <entry>src</entry>
         <entry>rem</entry>
         <entry>dst</entry>
         <entry>get_state</entry>
+        <entry>state</entry>
+        <entry>ngc</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>.,$D</entry>
         <entry>ww</entry>
         <entry>81</entry>
         <entry>set paste</entry>
@@ -539,6 +552,7 @@
         <entry>'a,.d</entry>
         <entry>W</entry>
         <entry>1</entry>
+        <entry>'a,.s/^/# /</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
