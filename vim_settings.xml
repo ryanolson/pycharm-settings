@@ -54,12 +54,12 @@
         <mark key="^" line="35" column="66" />
         <mark key="." line="35" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501711413245">
-        <mark key="'" line="236" column="11" />
-        <mark key="[" line="217" column="28" />
-        <mark key="]" line="217" column="31" />
-        <mark key="." line="217" column="31" />
-        <mark key="^" line="217" column="31" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501711944936">
+        <mark key="'" line="216" column="28" />
+        <mark key="[" line="216" column="15" />
+        <mark key="]" line="216" column="21" />
+        <mark key="." line="216" column="21" />
+        <mark key="^" line="216" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/gan.py" timestamp="1492495591662">
         <mark key="'" line="0" column="0" />
@@ -75,11 +75,17 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501711458813">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501711852153">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="23" column="55" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501712383780">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+        <mark key="." line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
@@ -207,12 +213,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501700133572">
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501712369375">
         <mark key="'" line="141" column="31" />
-        <mark key="[" line="75" column="23" />
-        <mark key="]" line="75" column="23" />
-        <mark key="^" line="75" column="67" />
-        <mark key="." line="75" column="23" />
+        <mark key="[" line="87" column="68" />
+        <mark key="]" line="87" column="71" />
+        <mark key="^" line="87" column="71" />
+        <mark key="." line="87" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -368,11 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="18" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="165" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="141" column="25" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="142" column="49" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="143" column="58" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="145" column="25" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="146" column="49" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="129" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
@@ -468,55 +469,62 @@
       <jump line="58" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="143" column="31" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="210" column="44" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
+      <jump line="211" column="18" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
+      <jump line="212" column="29" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
+      <jump line="214" column="20" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
+      <jump line="216" column="28" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Replicator</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Replicator</text>
       </register>
       <register name="/" type="4">
-        <text>exporter</text>
+        <text>image_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyX2NsaWVudC5wdWxsKHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZ2V0X2ltYWdlKCk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0ZXR1cm4gc2VsZi5jbGllbnQuaW1hZ2VzCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>y
+    def images(self):
+        r</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfZ2V0X2ltYWdlKCk6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jbGllbnQuYXBpCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcGkoc2VsZik6Cg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exporter</last-search>
+      <last-search>image_name</last-search>
       <last-offset />
-      <last-pattern>exporter</last-pattern>
+      <last-pattern>image_name</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>encoded</entry>
         <entry>src</entry>
         <entry>rem</entry>
@@ -544,6 +551,7 @@
         <entry>registry_url</entry>
         <entry>to_fetch</entry>
         <entry>exporter</entry>
+        <entry>image_name</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
