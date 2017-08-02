@@ -212,12 +212,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501621164565">
-        <mark key="'" line="128" column="49" />
-        <mark key="[" line="24" column="82" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501639973207">
+        <mark key="'" line="93" column="26" />
+        <mark key="[" line="91" column="42" />
+        <mark key="]" line="91" column="53" />
+        <mark key="." line="91" column="53" />
+        <mark key="^" line="91" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -396,10 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="10" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="26" column="20" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="58" column="35" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="64" column="19" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="125" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="138" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="2" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
@@ -489,62 +485,66 @@
       <jump line="110" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="111" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="112" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="81" column="41" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="4" column="8" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="127" column="49" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="10" column="33" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="239" column="0" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="236" column="11" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="235" column="11" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="24" column="18" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="80" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="81" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="83" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>self.registry_client.docker_url(image_name, tag=tag))</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>self.registry_client.docker_url(image_name, tag=tag))</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3RhcnRpbmcgcmVwbGljYXRpb24gc2VydmljZSIpCg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1yZWdpc3RyeS11c2VybmFtZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW90ZV91cmwgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnQubG9naW4oKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjcmVkZW50aWFsczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgIEB1dGlscy5ub19wb3NpdGlvbmFsX2FyZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnQubG9naW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3N0YXRlID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoZGljdCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjcmVkZW50aWFsczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">IyAgIEB1dGlscy5ub19wb3NpdGlvbmFsX2FyZ3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9zdGF0ZSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGRpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3N0YXRlID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoZGljdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYuX3N0YXRlIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBEb2NrZXJDbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9zdGF0ZSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGRpY3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AuthBase</entry>
         <entry>HTTPSB</entry>
         <entry>HTTPB</entry>
         <entry>pprint</entry>
@@ -572,6 +571,7 @@
         <entry>dev</entry>
         <entry>print</entry>
         <entry>login</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
