@@ -137,11 +137,11 @@
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501617666085">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="48" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501642276138">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -212,12 +212,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501639973207">
-        <mark key="'" line="93" column="26" />
-        <mark key="[" line="91" column="42" />
-        <mark key="]" line="91" column="53" />
-        <mark key="." line="91" column="53" />
-        <mark key="^" line="91" column="53" />
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501642887078">
+        <mark key="'" line="22" column="46" />
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -265,6 +265,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/registry/dev/docker-compose.yml" timestamp="1501641998765" />
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501386360445">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -396,7 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="34" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="138" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="2" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
       <jump line="4" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
@@ -496,55 +496,56 @@
       <jump line="80" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="81" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="83" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="22" column="46" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.registry_client.docker_url(image_name, tag=tag))</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>self.registry_client.docker_url(image_name, tag=tag))</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>project</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1yZWdpc3RyeS11c2VybmFtZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW90ZV91cmwgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2plY3QgPSBudmNyX3Byb2plY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyAgIGVudHJ5cG9pbnQ6IHNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIHdvcmtpbmdfZGlyOiAvc3JjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnQubG9naW4oKQo=</text>
+        <text encoding="base64">IyAgICAgLSAuLi8uLi8uLi9zZXJ2aWNlcy9yZXBsaWNhdG9yOi9zcmMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjcmVkZW50aWFsczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgIEB1dGlscy5ub19wb3NpdGlvbmFsX2FyZ3MK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc3RhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3N0YXRlID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoZGljdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fc3RhdGVba2V5XSA9IHZhbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Iga2V5LCB2YWwgaW4gdG1wLml0ZW1zKCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9zdGF0ZSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGRpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRtcDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>project</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>project</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HTTPSB</entry>
         <entry>HTTPB</entry>
         <entry>pprint</entry>
         <entry>this</entry>
@@ -572,6 +572,7 @@
         <entry>print</entry>
         <entry>login</entry>
         <entry>client</entry>
+        <entry>project</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
