@@ -108,11 +108,6 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501140841323">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-      </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="3" />
@@ -137,11 +132,11 @@
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501642276138">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="24" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501644077336">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -212,12 +207,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501642887078">
-        <mark key="'" line="22" column="46" />
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="52" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="32" column="52" />
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501645474476">
+        <mark key="'" line="141" column="31" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="87" column="80" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -253,11 +248,6 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="138" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/models/cpu/models.yml" timestamp="1500551558226">
         <mark key="[" line="22" column="0" />
@@ -305,21 +295,6 @@
       <file name="/Dummy.txt" timestamp="1501280984810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/model.proto" timestamp="1500597824241">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="1" />
-        <mark key="." line="21" column="1" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/shmem_dataset/shmem_dataset/server.py" timestamp="1500454938353">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="57" />
@@ -352,16 +327,17 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501644469672">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501385124935">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="51" />
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/docker-compose.yml" timestamp="1501617657699" />
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
@@ -390,25 +366,8 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/docker-compose.devel.yml" timestamp="1501476277530">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="2" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
-      <jump line="4" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
-      <jump line="5" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
-      <jump line="6" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" />
-      <jump line="80" column="9" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="81" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="42" column="19" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="220" column="8" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="154" column="7" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
-      <jump line="163" column="22" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="164" column="18" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="165" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="141" column="25" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
@@ -479,12 +438,10 @@
       <jump line="21" column="64" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
       <jump line="22" column="44" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
       <jump line="44" column="32" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="103" column="10" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="104" column="10" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="105" column="10" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="110" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="111" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="112" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="4" column="8" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="127" column="49" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="10" column="33" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
@@ -497,55 +454,69 @@
       <jump line="81" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="83" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="22" column="46" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="84" column="23" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="85" column="53" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="86" column="49" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="101" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="103" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="108" column="18" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="112" column="56" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="131" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="133" column="68" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="134" column="21" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="58" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
+      <jump line="143" column="31" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJza2lwcGluZyAlczogJXMgZXhpc3RzIiAlICh1cmwsIHRhcmZpbGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>project</text>
+        <text>exporter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1yZWdpc3RyeS11c2VybmFtZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyX2NsaWVudC5wdWxsKHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2plY3QgPSBudmNyX3Byb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJza2lwcGluZyAlczogJXMgZXhpc3RzIiAlICh1cmwsIHRhcmZpbGUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgIGVudHJ5cG9pbnQ6IHNoCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgIHdvcmtpbmdfZGlyOiAvc3JjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaF91cmwgPSBzZWxmLnJlZ2lzdHJ5X2NsaWVudC5kb2NrZXJfdXJsKGltYWdlX25hbWUsIHRhZz10YWcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgLSAuLi8uLi8uLi9zZXJ2aWNlcy9yZXBsaWNhdG9yOi9zcmMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm52Y3JfY2xpZW50LnB1bGwodXJsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHModGFyZmlsZSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4cG9ydGVyID0gc2VsZi5jb25maWcoImV4cG9ydGVyIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fc3RhdGVba2V5XSA9IHZhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Iga2V5LCB2YWwgaW4gdG1wLml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">IyAgICAgLSAuL3JlZ2lzdHJ5X3N0b3JhZ2U6L3Zhci9saWIvcmVnaXN0cnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRtcDoK</text>
+        <text encoding="base64">IyAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>project</last-search>
+      <last-search>exporter</last-search>
       <last-offset />
-      <last-pattern>project</last-pattern>
+      <last-pattern>exporter</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -553,9 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HTTPB</entry>
-        <entry>pprint</entry>
-        <entry>this</entry>
         <entry>info</entry>
         <entry>encoded</entry>
         <entry>src</entry>
@@ -573,6 +541,9 @@
         <entry>login</entry>
         <entry>client</entry>
         <entry>project</entry>
+        <entry>registry_url</entry>
+        <entry>to_fetch</entry>
+        <entry>exporter</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -592,8 +563,8 @@
         <entry>1</entry>
         <entry>49</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>'a,.d</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
