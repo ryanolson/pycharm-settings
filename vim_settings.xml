@@ -54,9 +54,9 @@
         <mark key="^" line="35" column="66" />
         <mark key="." line="35" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501620927763">
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501700441800">
         <mark key="'" line="235" column="11" />
-        <mark key="[" line="235" column="94" />
+        <mark key="[" line="236" column="26" />
         <mark key="]" line="236" column="25" />
         <mark key="." line="236" column="25" />
         <mark key="^" line="236" column="25" />
@@ -75,11 +75,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501620807733">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="13" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501700257623">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
@@ -132,11 +132,11 @@
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501644077336">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501699905743">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="71" />
+        <mark key="^" line="19" column="71" />
+        <mark key="." line="19" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -207,12 +207,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501645474476">
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501700133572">
         <mark key="'" line="141" column="31" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="87" column="80" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="75" column="23" />
+        <mark key="^" line="75" column="67" />
+        <mark key="." line="75" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -470,11 +470,11 @@
       <jump line="143" column="31" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJza2lwcGluZyAlczogJXMgZXhpc3RzIiAlICh1cmwsIHRhcmZpbGUpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>exporter</text>
