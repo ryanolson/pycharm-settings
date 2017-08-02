@@ -81,11 +81,11 @@
         <mark key="^" line="23" column="55" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501712383780">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="18" column="13" />
+      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501714123543">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="62" column="33" />
+        <mark key="." line="62" column="33" />
+        <mark key="^" line="62" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
@@ -213,7 +213,7 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501712369375">
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501713385132">
         <mark key="'" line="141" column="31" />
         <mark key="[" line="87" column="68" />
         <mark key="]" line="87" column="71" />
@@ -477,45 +477,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Replicator</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>Replicator</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>image_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyX2NsaWVudC5wdWxsKHVybCkK</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1yZWdpc3RyeS11c2VybmFtZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0ZXR1cm4gc2VsZi5jbGllbnQuaW1hZ2VzCg==</text>
+        <text encoding="base64">ICAgIERJUkVDVE9qa1JZX1RPX1dBVENIID0gIi9wYXRoL3RvL215L2RpcmVjdG9yeSIK</text>
       </register>
-      <register name="3" type="4">
-        <text>y
-    def images(self):
-        r</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBmaWxlc3lzdGVtX2V2ZW50X2hhbmRsZXIoc2VsZik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZ2V0X2ltYWdlKCk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLm5ldwo=</text>
+        <text encoding="base64">Y2xhc3MgSW1wb3J0ZXI6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
