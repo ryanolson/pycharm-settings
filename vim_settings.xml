@@ -54,9 +54,9 @@
         <mark key="^" line="35" column="66" />
         <mark key="." line="35" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501700441800">
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1501705881565">
         <mark key="'" line="235" column="11" />
-        <mark key="[" line="236" column="26" />
+        <mark key="[" line="236" column="17" />
         <mark key="]" line="236" column="25" />
         <mark key="." line="236" column="25" />
         <mark key="^" line="236" column="25" />
@@ -75,11 +75,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501700257623">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501706486625">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
@@ -470,11 +470,11 @@
       <jump line="143" column="31" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>exporter</text>
@@ -483,31 +483,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyX2NsaWVudC5wdWxsKHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJza2lwcGluZyAlczogJXMgZXhpc3RzIiAlICh1cmwsIHRhcmZpbGUpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzaF91cmwgPSBzZWxmLnJlZ2lzdHJ5X2NsaWVudC5kb2NrZXJfdXJsKGltYWdlX25hbWUsIHRhZz10YWcpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm52Y3JfY2xpZW50LnB1bGwodXJsKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHModGFyZmlsZSk6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4cG9ydGVyID0gc2VsZi5jb25maWcoImV4cG9ydGVyIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jbGllbnQuYXBpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBhcGkoc2VsZik6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgLSAuL3JlZ2lzdHJ5X3N0b3JhZ2U6L3Zhci9saWIvcmVnaXN0cnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJza2lwcGluZyAlczogJXMgZXhpc3RzIiAlICh1cmwsIHRhcmZpbGUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
