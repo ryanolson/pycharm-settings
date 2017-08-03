@@ -146,11 +146,11 @@
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501736301460">
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="19" column="71" />
-        <mark key="^" line="19" column="71" />
-        <mark key="." line="19" column="71" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501785431522">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="11" column="71" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -164,7 +164,7 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="39" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501736307087">
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501785814131">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="16" column="48" />
         <mark key="^" line="16" column="48" />
@@ -380,11 +380,11 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/README.md" timestamp="1501784223740">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/README.md" timestamp="1501786860043">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -490,11 +490,11 @@
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -503,31 +503,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXZlbnQuc3JjX3BhdGguc3RhcnRzd2l0aCgiZG9ja2VyX2ltYWdlXyIpOgogICAgICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnkgdGhlIHNlY29uZCBjb21wb25lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhlIHB1YmxpYyBpbnRlcmVudCwgYW5kIHRoZSBvdGhlciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcocGF0aCkK</text>
+        <text encoding="base64">VGhlIERNWiBjb21wb25lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImZpbmlzaGVkIGltcG9ydCBzZXJ2aWNlIikK</text>
+        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfUEFTU1dPUkQ6IHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInN0YXJ0aW5nIGltcG9ydCBzZXJ2aWNlIikK</text>
+        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVNFUk5BTUU6IHVzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZmluaXNoZWQgaW1wb3J0IHNlcnZpY2UiKQo=</text>
+        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVJMOiByZWdpc3RyeTo1MDAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3RhcnRpbmcgaW1wb3J0IHNlcnZpY2UiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0YXJmaWxlczoK</text>
+        <text encoding="base64">IyAgICAgLSAuL3JlZ2lzdHJ5X3N0b3JhZ2U6L3Zhci9saWIvcmVnaXN0cnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
