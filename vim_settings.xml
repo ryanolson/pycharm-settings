@@ -75,11 +75,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501715531831">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="14" />
-        <mark key="^" line="50" column="14" />
-        <mark key="." line="50" column="14" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501716660727">
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="46" />
+        <mark key="^" line="51" column="46" />
+        <mark key="." line="51" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501714973807">
         <mark key="[" line="60" column="36" />
@@ -476,11 +476,11 @@
       <jump line="259" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5sb2FkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>filename</text>
       </register>
       <register name="-" type="4">
-        <text>importk</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
         <text>image_name</text>
