@@ -9,6 +9,12 @@
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/services/importer/Dockerfile" timestamp="1501733845528">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/Dockerfile" timestamp="1501611322406" />
       <file name="$USER_HOME$/Projects/sa-ngc/registry/examples/docker-compose.yml" timestamp="1501107909044">
         <mark key="[" line="11" column="0" />
@@ -82,11 +88,12 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501733672124">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501733735924">
+        <mark key="'" line="73" column="13" />
+        <mark key="[" line="73" column="13" />
+        <mark key="]" line="73" column="13" />
+        <mark key="." line="73" column="13" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
@@ -157,8 +164,11 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="39" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501561205461">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501734884970">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="16" column="67" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="16" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
         <mark key="[" line="3" column="0" />
@@ -299,9 +309,6 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501280984810">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="57" />
@@ -375,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" />
       <jump line="202" column="47" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="104" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
@@ -475,56 +480,57 @@
       <jump line="165" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
+      <jump line="73" column="13" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text>replicator</text>
       </register>
       <register name="-" type="4">
-        <text>return self.clientk</text>
+        <text>replicator</text>
       </register>
       <register name="/" type="4">
-        <text>Registry(</text>
+        <text>DockerClient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25jdXJyZW50IGltcG9ydCBmdXR1cmVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlJlY2VpdmVkIG1vZGlmaWVkIGV2ZW50IC0gJXMuIiAlIGV2ZW50LnNyY19wYXRoCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUYWtlbiBhbnkgYWN0aW9uIGhlcmUgd2hlbiBhIGZpbGUgaXMgbW9kaWZpZWQuCg==</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUYWtlIGFueSBhY3Rpb24gaGVyZSB3aGVuIGEgZmlsZSBpcyBmaXJzdCBjcmVhdGVkLgo=</text>
+        <text encoding="base64">aW1wb3J0IHNjaGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlJlY2VpdmVkIGNyZWF0ZWQgZXZlbnQgLSAlcy4iICUgZXZlbnQuc3JjX3BhdGgK</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGV2ID0gdXRpbHMuZ2V0X2xvZ2dlcihfX25hbWVfXywgbGV2ZWw9bG9nZ2luZy5ERUJVRykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJ5ID0gZG9ja2VyLkRvY2tlclJlZ2lzdHJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlJlY2VpdmVkIG1vZGlmaWVkIGV2ZW50IC0gJXMuIiAlIGV2ZW50LnNyY19wYXRoCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-        self.client.tag</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUYWtlbiBhbnkgYWN0aW9uIGhlcmUgd2hlbiBhIGZpbGUgaXMgbW9kaWZpZWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Registry(</last-search>
+      <last-search>DockerClient</last-search>
       <last-offset />
-      <last-pattern>Registry(</last-pattern>
+      <last-pattern>DockerClient</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dst</entry>
         <entry>get_state</entry>
         <entry>state</entry>
         <entry>ngc</entry>
@@ -552,6 +557,7 @@
         <entry>filename</entry>
         <entry>tarfile</entry>
         <entry>Registry(</entry>
+        <entry>DockerClient</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
@@ -571,8 +577,8 @@
         <entry>49</entry>
         <entry>W</entry>
         <entry>'a,.d</entry>
-        <entry>wq</entry>
         <entry>77</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
