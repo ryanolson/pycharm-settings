@@ -75,17 +75,16 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501716660727">
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="51" column="46" />
-        <mark key="^" line="51" column="46" />
-        <mark key="." line="51" column="46" />
+      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501729190635">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501714973807">
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="33" />
+      <file name="$USER_HOME$/Projects/ngc/services/importer/importer.py" timestamp="1501728573205">
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+        <mark key="^" line="62" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/shmem_dataset/shmem_dataset/server.py" timestamp="1500590249284">
         <mark key="[" line="145" column="37" />
@@ -113,6 +112,11 @@
         <mark key="]" line="41" column="38" />
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/nv.json" timestamp="1501140841323">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -213,12 +217,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501713385132">
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501728732999">
         <mark key="'" line="141" column="31" />
-        <mark key="[" line="87" column="68" />
-        <mark key="]" line="87" column="71" />
-        <mark key="^" line="87" column="71" />
-        <mark key="." line="87" column="71" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -254,6 +257,11 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="138" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/roles/ryanolson.python-devel/tasks/main.yml" timestamp="1493773141122">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/models/cpu/models.yml" timestamp="1500551558226">
         <mark key="[" line="22" column="0" />
@@ -301,6 +309,21 @@
       <file name="/Dummy.txt" timestamp="1501280984810">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/model.proto" timestamp="1500597824241">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/protos/shared_dataset.proto" timestamp="1500454617134">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/shmem_dataset/shmem_dataset/server.py" timestamp="1500454938353">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="57" />
@@ -345,6 +368,11 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/luda/luda/utils.py" timestamp="1496191056854">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ngc/docker-compose.yml" timestamp="1501617657699" />
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
@@ -371,6 +399,11 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/docker-compose.devel.yml" timestamp="1501476277530">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -476,8 +509,8 @@
       <jump line="259" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filename</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbnMgPSB1cmxwYXJzZSgiaHR0cHM6Ly8lcyIgJSB1cmwpCg==</text>
       </register>
       <register name="-" type="4">
         <text>filename</text>
@@ -489,28 +522,28 @@
         <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1yZWdpc3RyeS11c2VybmFtZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5sb2FkKCkK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbnMgPSB1cmxwYXJzZSgiaHR0cHM6Ly8lcyIgJSB1cmwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF9oYW5kbGVyID0gSGFuZGxlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1cmwuc3RhcnRzd2l0aChrKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXRoIiwgZGVmYXVsdD0iL2ltcG9ydCIpCg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybHBhcnNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgIGNsaWVudC5sb2FkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERJUkVDVE9qa1JZX1RPX1dBVENIID0gIi9wYXRoL3RvL215L2RpcmVjdG9yeSIK</text>
+        <text encoding="base64">ICAgICAgICBldmVudF9oYW5kbGVyID0gSGFuZGxlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXRoIiwgZGVmYXVsdD0iL2ltcG9ydCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWxlc3lzdGVtX2V2ZW50X2hhbmRsZXIoc2VsZik6Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERJUkVDVE9qa1JZX1RPX1dBVENIID0gIi9wYXRoL3RvL215L2RpcmVjdG9yeSIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
