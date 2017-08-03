@@ -15,7 +15,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/nvidia_sa/Dockerfile" timestamp="1501611322406" />
       <file name="$USER_HOME$/Projects/sa-ngc/registry/examples/docker-compose.yml" timestamp="1501107909044">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -80,7 +79,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501530754111" />
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1501741515886">
         <mark key="'" line="48" column="33" />
         <mark key="[" line="36" column="61" />
@@ -164,7 +162,7 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="39" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501785814131">
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501789236208">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="16" column="48" />
         <mark key="^" line="16" column="48" />
@@ -272,7 +270,6 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/registry/dev/docker-compose.yml" timestamp="1501641998765" />
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501386360445">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -341,11 +338,11 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501644469672">
+      <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501789286488">
         <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501385124935">
         <mark key="[" line="21" column="24" />
@@ -353,7 +350,6 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/docker-compose.yml" timestamp="1501617657699" />
       <file name="$USER_HOME$/Projects/tf-for-hpc/hyperbolic/main.py" timestamp="1493743632725">
         <mark key="'" line="99" column="37" />
         <mark key="[" line="71" column="12" />
@@ -490,11 +486,11 @@
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EXPORTER: true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>EXPORTER: true</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -512,22 +508,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhlIERNWiBjb21wb25lbnQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfUEFTU1dPUkQ6IHBhc3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVNFUk5BTUU6IHVzZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVJMOiByZWdpc3RyeTo1MDAwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">VGhlIERNWiBjb21wb25lbnQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfUEFTU1dPUkQ6IHBhc3MK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVNFUk5BTUU6IHVzZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVJMOiByZWdpc3RyeTo1MDAwCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgLSAuL3JlZ2lzdHJ5X3N0b3JhZ2U6L3Zhci9saWIvcmVnaXN0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
