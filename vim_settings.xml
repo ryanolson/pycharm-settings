@@ -168,11 +168,11 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="39" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501789236208">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="16" column="48" />
-        <mark key="^" line="16" column="48" />
-        <mark key="." line="16" column="48" />
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501883947319">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
         <mark key="[" line="3" column="0" />
@@ -228,12 +228,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501740791143">
-        <mark key="'" line="72" column="13" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="80" column="70" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" timestamp="1501883628628">
+        <mark key="'" line="73" column="13" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="74" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/utils.py" timestamp="1501559006832">
         <mark key="'" line="4" column="7" />
@@ -344,11 +344,11 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501789286488">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="48" />
+      <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+        <mark key="^" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501385124935">
         <mark key="[" line="21" column="24" />
@@ -492,11 +492,11 @@
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -505,25 +505,25 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXZlbnQuc3JjX3BhdGguc3RhcnRzd2l0aCgiZG9ja2VyX2ltYWdlXyIpOgogICAgICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hfdXJsICs9ICI6e30iLmZvcm1hdCh0YWcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdGFnOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjIpIGFpci1nYXBwZWQgc2l0ZSBvciBub3QKICAgIC0gYWlyLWdhcHBlZCBzaXRlcyB3aWxsIHVzZSB0d28gc2V0IG9mIHNlcnZpY2VzLCBvbmUgcnVubmluZyBpbiB0aGUgRE1aIGFuZAogICAgICB0aGUgb3RoZXIgcnVubmluZyBvbiB0aGUgc2VjdXJlIG5ldHdvcmsKICAgICAgCjMpIGRvIHlvdSBoYXZlIGEgZG9ja2VyIHJlZ2lzdHJ5IHRvIHN0b3JlIGltYWdlcwo0KSBpZiBubywgd291bGQgeW91IGxpa2UgdXNlIHRvIGNyZWF0ZSBvbmUgZm9yIHlvdT8KNSkgaWYgYWlyZ2FwcGVkLCAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MSkgZGV0ZWN0IGlmIGNvbmZpZ3VyYXRpb24gZXhpc3RzIG9yIG5vdCwgaWYgbm90LCBzdGFydCB3aXphcmQK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBhaXItZ2FwcGVkIG9yIG5vdAo=</text>
+        <text encoding="base64">CjIpIGFpci1nYXBwZWQgc2l0ZSBvciBub3QKICAgIC0gYWlyLWdhcHBlZCBzaXRlcyB3aWxsIHVzZSB0d28gc2V0IG9mIHNlcnZpY2VzLCBvbmUgcnVubmluZyBpbiB0aGUgRE1aIGFuZAogICAgICB0aGUgb3RoZXIgcnVubmluZyBvbiB0aGUgc2VjdXJlIG5ldHdvcmsKICAgICAgCjMpIGRvIHlvdSBoYXZlIGEgZG9ja2VyIHJlZ2lzdHJ5IHRvIHN0b3JlIGltYWdlcwo0KSBpZiBubywgd291bGQgeW91IGxpa2UgdXNlIHRvIGNyZWF0ZSBvbmUgZm9yIHlvdT8KNSkgaWYgYWlyZ2FwcGVkLCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MSkgZGV0ZWN0IGlmIGNvbmZpZ3VyYXRpb24gZXhpc3RzIG9yIG5vdCwgaWYgbm90LCBzdGFydCB3aXphcmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBhaXItZ2FwcGVkIG9yIG5vdAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
