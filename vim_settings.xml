@@ -138,6 +138,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/examples/README.md" timestamp="1501865374696">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="45" />
@@ -486,11 +492,11 @@
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EXPORTER: true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>EXPORTER: true</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -499,34 +505,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXZlbnQuc3JjX3BhdGguc3RhcnRzd2l0aCgiZG9ja2VyX2ltYWdlXyIpOgogICAgICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjIpIGFpci1nYXBwZWQgc2l0ZSBvciBub3QKICAgIC0gYWlyLWdhcHBlZCBzaXRlcyB3aWxsIHVzZSB0d28gc2V0IG9mIHNlcnZpY2VzLCBvbmUgcnVubmluZyBpbiB0aGUgRE1aIGFuZAogICAgICB0aGUgb3RoZXIgcnVubmluZyBvbiB0aGUgc2VjdXJlIG5ldHdvcmsKICAgICAgCjMpIGRvIHlvdSBoYXZlIGEgZG9ja2VyIHJlZ2lzdHJ5IHRvIHN0b3JlIGltYWdlcwo0KSBpZiBubywgd291bGQgeW91IGxpa2UgdXNlIHRvIGNyZWF0ZSBvbmUgZm9yIHlvdT8KNSkgaWYgYWlyZ2FwcGVkLCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MSkgZGV0ZWN0IGlmIGNvbmZpZ3VyYXRpb24gZXhpc3RzIG9yIG5vdCwgaWYgbm90LCBzdGFydCB3aXphcmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlIERNWiBjb21wb25lbnQK</text>
+        <text encoding="base64">LSBhaXItZ2FwcGVkIG9yIG5vdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfUEFTU1dPUkQ6IHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVNFUk5BTUU6IHVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgTkdDX1JFUExJQ0FUT1JfUkVHSVNUUllfVVJMOiByZWdpc3RyeTo1MDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>.,$d</text>
       </register>
     </registers>
     <search>
@@ -573,7 +579,6 @@
         <entry>'a,.s/^/## /</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>28,.s/^/    /</entry>
-        <entry>.,$d</entry>
         <entry>1</entry>
         <entry>49</entry>
         <entry>W</entry>
@@ -582,6 +587,7 @@
         <entry>wq</entry>
         <entry>37</entry>
         <entry>w</entry>
+        <entry>.,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
