@@ -162,6 +162,9 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503784689840">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="17" />
@@ -250,6 +253,12 @@
         <mark key="]" line="200" column="0" />
         <mark key="^" line="190" column="32" />
         <mark key="." line="200" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf.j2" timestamp="1503784682437">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -493,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>slurm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>slurm</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -505,31 +514,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXZlbnQuc3JjX3BhdGguc3RhcnRzd2l0aCgiZG9ja2VyX2ltYWdlXyIpOgogICAgICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hfdXJsICs9ICI6e30iLmZvcm1hdCh0YWcpCg==</text>
+        <text encoding="base64">I1NsdXJtZFVzZXI9cm9vdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdGFnOgo=</text>
+        <text encoding="base64">Q2x1c3Rlck5hbWU9Y29tcHV0ZS1jbHVzdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hfdXJsICs9ICI6e30iLmZvcm1hdCh0YWcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdGFnOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjIpIGFpci1nYXBwZWQgc2l0ZSBvciBub3QKICAgIC0gYWlyLWdhcHBlZCBzaXRlcyB3aWxsIHVzZSB0d28gc2V0IG9mIHNlcnZpY2VzLCBvbmUgcnVubmluZyBpbiB0aGUgRE1aIGFuZAogICAgICB0aGUgb3RoZXIgcnVubmluZyBvbiB0aGUgc2VjdXJlIG5ldHdvcmsKICAgICAgCjMpIGRvIHlvdSBoYXZlIGEgZG9ja2VyIHJlZ2lzdHJ5IHRvIHN0b3JlIGltYWdlcwo0KSBpZiBubywgd291bGQgeW91IGxpa2UgdXNlIHRvIGNyZWF0ZSBvbmUgZm9yIHlvdT8KNSkgaWYgYWlyZ2FwcGVkLCAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MSkgZGV0ZWN0IGlmIGNvbmZpZ3VyYXRpb24gZXhpc3RzIG9yIG5vdCwgaWYgbm90LCBzdGFydCB3aXphcmQK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBhaXItZ2FwcGVkIG9yIG5vdAo=</text>
+        <text encoding="base64">CjIpIGFpci1nYXBwZWQgc2l0ZSBvciBub3QKICAgIC0gYWlyLWdhcHBlZCBzaXRlcyB3aWxsIHVzZSB0d28gc2V0IG9mIHNlcnZpY2VzLCBvbmUgcnVubmluZyBpbiB0aGUgRE1aIGFuZAogICAgICB0aGUgb3RoZXIgcnVubmluZyBvbiB0aGUgc2VjdXJlIG5ldHdvcmsKICAgICAgCjMpIGRvIHlvdSBoYXZlIGEgZG9ja2VyIHJlZ2lzdHJ5IHRvIHN0b3JlIGltYWdlcwo0KSBpZiBubywgd291bGQgeW91IGxpa2UgdXNlIHRvIGNyZWF0ZSBvbmUgZm9yIHlvdT8KNSkgaWYgYWlyZ2FwcGVkLCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MSkgZGV0ZWN0IGlmIGNvbmZpZ3VyYXRpb24gZXhpc3RzIG9yIG5vdCwgaWYgbm90LCBzdGFydCB3aXphcmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBhaXItZ2FwcGVkIG9yIG5vdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -568,7 +577,6 @@
         <entry>save</entry>
       </history-search>
       <history-cmd>
-        <entry>69</entry>
         <entry>106</entry>
         <entry>179</entry>
         <entry>117</entry>
@@ -587,6 +595,7 @@
         <entry>wq</entry>
         <entry>37</entry>
         <entry>.,$d</entry>
+        <entry>set paste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
