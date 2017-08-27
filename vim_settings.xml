@@ -126,6 +126,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503829718983">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="2" column="33" />
@@ -502,10 +508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slurm</text>
+        <text>started</text>
       </register>
       <register name="-" type="4">
-        <text>slurm</text>
+        <text>started</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
