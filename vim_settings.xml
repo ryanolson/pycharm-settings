@@ -126,11 +126,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503829718983">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503831141153">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="15" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
@@ -168,8 +168,11 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503784689840">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503830703350">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -508,10 +511,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>started</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>started</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -520,34 +523,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXZlbnQuc3JjX3BhdGguc3RhcnRzd2l0aCgiZG9ja2VyX2ltYWdlXyIpOgogICAgICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I1NsdXJtZFVzZXI9cm9vdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q2x1c3Rlck5hbWU9Y29tcHV0ZS1jbHVzdGVyCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hfdXJsICs9ICI6e30iLmZvcm1hdCh0YWcpCg==</text>
+        <text encoding="base64">ICBhcHQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdGFnOgo=</text>
+        <text encoding="base64">LSBuYW1lOiBVcGRhdGUgYXB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC0gbXVuZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICB3aXRoX2l0ZW1zOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CjIpIGFpci1nYXBwZWQgc2l0ZSBvciBub3QKICAgIC0gYWlyLWdhcHBlZCBzaXRlcyB3aWxsIHVzZSB0d28gc2V0IG9mIHNlcnZpY2VzLCBvbmUgcnVubmluZyBpbiB0aGUgRE1aIGFuZAogICAgICB0aGUgb3RoZXIgcnVubmluZyBvbiB0aGUgc2VjdXJlIG5ldHdvcmsKICAgICAgCjMpIGRvIHlvdSBoYXZlIGEgZG9ja2VyIHJlZ2lzdHJ5IHRvIHN0b3JlIGltYWdlcwo0KSBpZiBubywgd291bGQgeW91IGxpa2UgdXNlIHRvIGNyZWF0ZSBvbmUgZm9yIHlvdT8KNSkgaWYgYWlyZ2FwcGVkLCAK</text>
+        <text encoding="base64">ICAgIC0gbGlibXVuZ2UtZGV2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MSkgZGV0ZWN0IGlmIGNvbmZpZ3VyYXRpb24gZXhpc3RzIG9yIG5vdCwgaWYgbm90LCBzdGFydCB3aXphcmQK</text>
+        <text encoding="base64">ICAgIC0gbGlibXVuZ2UyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBhaXItZ2FwcGVkIG9yIG5vdAo=</text>
+        <text encoding="base64">I1NsdXJtZFVzZXI9cm9vdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -598,11 +601,11 @@
         <entry>W</entry>
         <entry>'a,.d</entry>
         <entry>77</entry>
-        <entry>wq</entry>
         <entry>37</entry>
         <entry>.,$d</entry>
         <entry>set paste</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
