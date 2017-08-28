@@ -32,6 +32,7 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/files/slurmctld.service" timestamp="1503937820639" />
       <file name="$USER_HOME$/Projects/sa-ngc/sa_ngc/tests/test_sa_ngc.py" timestamp="1501151387164">
         <mark key="'" line="11" column="10" />
         <mark key="[" line="37" column="12" />
@@ -110,14 +111,6 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501612216852">
-        <mark key="a" line="28" column="4" />
-        <mark key="'" line="23" column="44" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="1" />
-        <mark key="." line="146" column="1" />
-        <mark key="^" line="137" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/utils.py" timestamp="1501106718922">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="40" column="8" />
@@ -125,11 +118,11 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503932440736">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="3" />
-        <mark key="^" line="58" column="3" />
-        <mark key="." line="58" column="3" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503938631937">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -178,11 +171,11 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503935946177">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503938441014">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -214,22 +207,6 @@
         <mark key="]" line="94" column="0" />
         <mark key="^" line="93" column="56" />
         <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501384942243">
-        <mark key="a" line="272" column="12" />
-        <mark key="'" line="322" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="31" column="35" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501366239431">
-        <mark key="a" line="143" column="15" />
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="207" column="11" />
-        <mark key="]" line="207" column="14" />
-        <mark key="^" line="207" column="14" />
-        <mark key="." line="207" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/model.py" timestamp="1492930268782">
         <mark key="'" line="28" column="24" />
@@ -344,6 +321,12 @@
         <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/ubuntu-slurm/slurm.conf" timestamp="1503932639415" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1503938452923">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="57" />
@@ -524,11 +507,11 @@
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
+      <register name="&quot;" type="4">
+        <text>slurm</text>
       </register>
       <register name="-" type="4">
-        <text>,60-79&quot;</text>
+        <text>slurm</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -537,31 +520,31 @@
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
+        <text encoding="base64">QWNjb3VudGluZ1N0b3JhZ2VQYXNzPXt7IHNsdXJtX2RiX3Bhc3N3b3JkIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3JhbnQgYWxsIHByaXZpbGVnZXMgb24gc2x1cm1fYWNjdF9kYi4qIHRvICdzbHVybSdAJ2xvY2FsaG9zdCc7Cg==</text>
+        <text encoding="base64">ICAgIGhvc3Q6IGxvY2FsaG9zdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyYW50IHVzYWdlIG9uICouKiB0byAnc2x1cm0nQCdsb2NhbGhvc3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -600,8 +583,6 @@
         <entry>save</entry>
       </history-search>
       <history-cmd>
-        <entry>106</entry>
-        <entry>179</entry>
         <entry>117</entry>
         <entry>121</entry>
         <entry>91</entry>
@@ -619,6 +600,8 @@
         <entry>.,$d</entry>
         <entry>set paste</entry>
         <entry>wq</entry>
+        <entry>&quot;a,.d</entry>
+        <entry>'a,,d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
