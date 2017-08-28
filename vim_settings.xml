@@ -94,13 +94,21 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503953406309">
-        <mark key="a" line="63" column="0" />
+      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501612216852">
+        <mark key="a" line="28" column="4" />
+        <mark key="'" line="23" column="44" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="1" />
+        <mark key="." line="146" column="1" />
+        <mark key="^" line="137" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503955661076">
+        <mark key="a" line="67" column="0" />
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="60" column="11" />
-        <mark key="]" line="60" column="17" />
-        <mark key="^" line="60" column="17" />
-        <mark key="." line="60" column="17" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="63" column="21" />
+        <mark key="^" line="63" column="21" />
+        <mark key="." line="63" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -176,6 +184,22 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501384942243">
+        <mark key="a" line="272" column="12" />
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501366239431">
+        <mark key="a" line="143" column="15" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="207" column="11" />
+        <mark key="]" line="207" column="14" />
+        <mark key="^" line="207" column="14" />
+        <mark key="." line="207" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -334,8 +358,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1503949653889">
-        <mark key="[" line="15" column="22" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1503955731265">
+        <mark key="[" line="31" column="0" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
@@ -451,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reloaded</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>reloaded</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -463,28 +487,28 @@
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWN0bGQK</text>
+        <text encoding="base64">ICAgIC0gc3lzdGVtIGRhZW1vbiByZWxvYWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gc2x1cm1kYmQuc2VydmljZQo=</text>
+        <text encoding="base64">ICBub3RpZnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgIC0gc2x1cm1jdGxkLnNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWN0bGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aXRoX2l0ZW1zOgo=</text>
+        <text encoding="base64">ICAgIC0gc2x1cm1kYmQuc2VydmljZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gcmVsb2FkIHNsdXJtY3RsCg==</text>
+        <text encoding="base64">IyAgIC0gc2x1cm1jdGxkLnNlcnZpY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
+        <text encoding="base64">ICB3aXRoX2l0ZW1zOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gcmVsb2FkIHNsdXJtY3RsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci0gbmFtZTogaW5zdGFsbCBkZWZhdWx0IHNvZnR3YXJlCiAgYXB0OgogICAgbmFtZTogInt7IGl0ZW0gfX0iCiAgICBzdGF0ZTogbGF0ZXN0CiAgd2l0aF9pdGVtczogInt7IGRlZmF1bHRfdWJ1bnR1X3BhY2thZ2VzIH19IgogIHRhZ3M6CiAgICAtIHBhY2thZ2VzCgotIG5hbWU6IGluc3RhbGwgc21hcnQgbW9uaXRvcmluZyB0b29scwogIGFwdDoKICAgIG5hbWU6ICJ7eyBpdGVtIH19IgogICAgc3RhdGU6IGxhdGVzdAogIHdpdGhfaXRlbXM6CiAgICAtIGxzaHcKICAgIC0gc21hcnRtb250b29scwogIHRhZ3M6CiAgICAtIHBhY2thZ2VzCgotIG5hbWU6IGluc3RhbGwgbnZpZGlhIGRyaXZlcnMgYW5kIGRhdGFjZW50ZXIgbWFuYWdlcgogIGFwdDoKICAgIG5hbWU6ICJ7eyBpdGVtIH19IgogICAgc3RhdGU6IGxhdGVzdAogIHdpdGhfaXRlbXM6CiAgICAtIGN1ZGEtZHJpdmVycwogICAgLSBjdWRhLWRyaXZlcnMtZGlhZ25vc3RpYyAKICAgIC0gZGF0YWNlbnRlci1ncHUtbWFuYWdlciAKICAgIC0gbnZpZGlhLXN5c2luZm8tZGd4CiAgdGFnczoKICAgIC0gcGFja2FnZXMKCi0gbmFtZTogaW5zdGFsbCBudmlkaWEgcGVlciBtZW1vcnkKICBhcHQ6CiAgICBuYW1lOiAie3sgaXRlbSB9fSIKICAgIHN0YXRlOiBsYXRlc3QKICB3aXRoX2l0ZW1zOgogICAgLSBudmlkaWEtcGVlci1tZW1vcnkgCiAgICAtIG52aWRpYS1wZWVyLW1lbW9yeS1ka21zCiAgdGFnczoKICAgIC0gcGFja2FnZXMK</text>
+        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
