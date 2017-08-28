@@ -171,11 +171,11 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503939252199">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="19" column="5" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="20" column="5" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503945800063">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -327,11 +327,11 @@
         <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/ubuntu-slurm/slurm.conf" timestamp="1503932639415" />
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1503938452923">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="26" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1503945782850">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
@@ -514,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slurm</text>
+        <text>control_machine }}</text>
       </register>
       <register name="-" type="4">
-        <text>slurm</text>
+        <text>control_machine }}</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -606,8 +606,8 @@
         <entry>&quot;a,.d</entry>
         <entry>'a,,d</entry>
         <entry>.,$ s/^/## -- /</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
