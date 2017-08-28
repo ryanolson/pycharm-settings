@@ -21,11 +21,10 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1503836439875">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1503930995217">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
@@ -126,17 +125,22 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503931863558">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503930370283">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503930986736">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
@@ -303,11 +307,11 @@
         <mark key="^" line="32" column="48" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/munge.key.j2" timestamp="1503836230058">
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="59" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/munge.key.j2" timestamp="1503931045855">
+        <mark key="[" line="0" column="60" />
+        <mark key="]" line="0" column="60" />
         <mark key="^" line="0" column="59" />
-        <mark key="." line="0" column="59" />
+        <mark key="." line="0" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/protos/image_classification.proto" timestamp="1500599660568">
         <mark key="[" line="97" column="0" />
@@ -520,10 +524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>reloaded</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -532,31 +536,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXZlbnQuc3JjX3BhdGguc3RhcnRzd2l0aCgiZG9ja2VyX2ltYWdlXyIpOgogICAgICAgICAgICAgICAgc2VsZi5pbXBvcnRfYW5kX3B1c2goZXZlbnQuc3JjX3BhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aGVuOiBhbnNpYmxlX29zX2ZhbWlseSA9PSAiUmVkSGF0Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB5dW06IG5hbWU9ZXBlbC1yZWxlYXNlCg==</text>
+        <text encoding="base64">Z3JhbnQgYWxsIHByaXZpbGVnZXMgb24gc2x1cm1fYWNjdF9kYi4qIHRvICdzbHVybSdAJ2xvY2FsaG9zdCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBuYW1lOiB5dW0gaW5zdGFsbCBlcGVsCg==</text>
+        <text encoding="base64">ICAgIGdyYW50IHVzYWdlIG9uICouKiB0byAnc2x1cm0nQCdsb2NhbGhvc3QnOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gcmVsb2FkIG11bmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBub3RpZnk6Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IHllcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWxlOiBwYXRoPS9ldGMvbXVuZ2UvbXVuZ2Uua2V5IG93bmVyPW11bmdlIGdyb3VwPW11bmdlIG1vZGU9MDQwMAo=</text>
+        <text encoding="base64">ICAgIHN0YXRlOiByZWxvYWRlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBTZXQgY29ycmVjdCBwZXJtaXNzaW9ucyB0byBtdW5nZS5rZXkK</text>
+        <text encoding="base64">ICAgIG5hbWU6IG11bmdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
