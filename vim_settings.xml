@@ -358,11 +358,11 @@
         <mark key="." line="92" column="51" />
         <mark key="^" line="92" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1503949507643">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1503950741740">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
         <mark key="^" line="18" column="14" />
-        <mark key="." line="25" column="0" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
@@ -590,7 +590,7 @@
         <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -643,9 +643,9 @@
         <entry>q</entry>
         <entry>.,$d</entry>
         <entry>'a,.s/^/# /</entry>
-        <entry>wq</entry>
         <entry>14</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
