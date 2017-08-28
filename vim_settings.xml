@@ -94,6 +94,14 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" timestamp="1501612216852">
+        <mark key="a" line="28" column="4" />
+        <mark key="'" line="23" column="44" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="1" />
+        <mark key="." line="146" column="1" />
+        <mark key="^" line="137" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503957292495">
         <mark key="a" line="72" column="0" />
         <mark key="'" line="4" column="9" />
@@ -182,6 +190,30 @@
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" timestamp="1501384942243">
+        <mark key="a" line="272" column="12" />
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/tests/test_cloner.py" timestamp="1501366239431">
+        <mark key="a" line="143" column="15" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="207" column="11" />
+        <mark key="]" line="207" column="14" />
+        <mark key="^" line="207" column="14" />
+        <mark key="." line="207" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1503961768166">
+        <mark key="a" line="3" column="0" />
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -357,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="258" column="4" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="105" column="30" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
@@ -457,31 +488,32 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" />
       <jump line="28" column="7" filename="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dgxs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dgxs</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
+        <text encoding="base64">LSBob3N0czogZGd4cwogIGJlY29tZTogeWVzCiAgcm9sZXM6CiAgICAtIGRneC1zb2Z0d2FyZQogICAgLSBjYWNoZWZpbGVzZAoKICB0YXNrczoKICAKICAtIG5hbWU6IGNsZWFuIHVwIHBhY2thZ2VzCiAgICBhcHQ6CiAgICAgIGF1dG9yZW1vdmU6IHllcwoKICAtIG5hbWU6IG1vZGlmeSBkZWZhdWx0IHVzZXIKICAgIHVzZXI6CiAgICAgIG5hbWU6ICJ7eyB1c2VyfX0iCiAgICAgIGdyb3VwczogZG9ja2VyCiAgICAgIGFwcGVuZDogeWVzCiAgICB0YWdzOgogICAgICAtIHVzZXIKIAogIC0gbmFtZTogY2hhbmdlIHBlcm1pc3Npb25zIG9uIC9yYWlkCiAgICBmaWxlOgogICAgICBwYXRoOiAvcmFpZAogICAgICBzdGF0ZTogZGlyZWN0b3J5CiAgICAgIG93bmVyOiByb290CiAgICAgIGdyb3VwOiByb290CiAgICAgIG1vZGU6ICIxNzc3IgogICAgdGFnczoKICAgICAgLSByYWlkCiAgICAgIC0gc3RvcmFnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0geyByb2xlOiBzbHVybSwgaXNfY29udHJvbGxlcjogeWVzIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGFuc2libGUgcHl0aG9uIGRlcGVuZGVuY3kgb24gVWJ1bnR1IDE2LjA0Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">IyByZW1vdGVfdXNlcjogInt7IHVzZXIgfX0iCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IyBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBJbnN0YWxsIGFuc2libGUgcHl0aG9uIGRlcGVuZGVuY3kgb24gVWJ1bnR1IDE2LjA0Ci0gaG9zdHM6IGFsbAogIGJlY29tZTogeWVzCiMgYmVjb21lX21ldGhvZDogc3VkbwojIHJlbW90ZV91c2VyOiAie3sgdXNlciB9fSIKCiAgZ2F0aGVyX2ZhY3RzOiBGYWxzZQogIHByZV90YXNrczoKCiAgICAtIG5hbWU6IEluc3RhbGwgUHl0aG9uIGZvciBBbnNpYmxlCiAgICAgIHJhdzogdGVzdCAtZSAvdXNyL2Jpbi9weXRob24gfHwgKGFwdCAteSB1cGRhdGUgJiYgYXB0IGluc3RhbGwgLXkgcHl0aG9uLW1pbmltYWwpCiAgICAgIHJlZ2lzdGVyOiBvdXRwdXQKICAgICAgY2hhbmdlZF93aGVuOiBvdXRwdXQuc3Rkb3V0ICE9ICIiCgogICAgLSBob3N0bmFtZToKICAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19IgoKIyAgIC0gc2V0dXA6ICMgYWthIGdhdGhlcl9mYWN0cwoKICByb2xlczoKICAgIC0gbG9jYWwtYXB0CiAgICAtIGhvc3RzCgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -490,16 +522,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJbnN0YWxsIGFuc2libGUgcHl0aG9uIGRlcGVuZGVuY3kgb24gVWJ1bnR1IDE2LjA0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZW1vdGVfdXNlcjogInt7IHVzZXIgfX0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgIC0gc2V0dXA6ICMgYWthIGdhdGhlcl9mYWN0cwo=</text>
+        <text encoding="base64">IyBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>'a,.y</text>
       </register>
     </registers>
     <search>
@@ -535,11 +567,9 @@
         <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>28,.s/^/    /</entry>
         <entry>1</entry>
         <entry>49</entry>
         <entry>W</entry>
-        <entry>'a,.d</entry>
         <entry>77</entry>
         <entry>37</entry>
         <entry>set paste</entry>
@@ -555,6 +585,8 @@
         <entry>w</entry>
         <entry>1,. w t.yml</entry>
         <entry>wq</entry>
+        <entry>'a,.d</entry>
+        <entry>'a,.y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
