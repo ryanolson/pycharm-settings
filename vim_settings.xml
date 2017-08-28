@@ -132,11 +132,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503836659002">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503930370283">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
@@ -519,8 +519,8 @@
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reloaded</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>reloaded</text>
@@ -535,28 +535,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gcmVsb2FkIG11bmdlCg==</text>
+        <text encoding="base64">ICB3aGVuOiBhbnNpYmxlX29zX2ZhbWlseSA9PSAiUmVkSGF0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBub3RpZnk6Cg==</text>
+        <text encoding="base64">ICB5dW06IG5hbWU9ZXBlbC1yZWxlYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaWxlOiBwYXRoPS9ldGMvbXVuZ2UvbXVuZ2Uua2V5IG93bmVyPW11bmdlIGdyb3VwPW11bmdlIG1vZGU9MDQwMAo=</text>
+        <text encoding="base64">LSBuYW1lOiB5dW0gaW5zdGFsbCBlcGVsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBuYW1lOiBTZXQgY29ycmVjdCBwZXJtaXNzaW9ucyB0byBtdW5nZS5rZXkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHllcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHllcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gcmVsb2FkIG11bmdlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBub3RpZnk6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmaWxlOiBwYXRoPS9ldGMvbXVuZ2UvbXVuZ2Uua2V5IG93bmVyPW11bmdlIGdyb3VwPW11bmdlIG1vZGU9MDQwMAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCg==</text>
+        <text encoding="base64">LSBuYW1lOiBTZXQgY29ycmVjdCBwZXJtaXNzaW9ucyB0byBtdW5nZS5rZXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
