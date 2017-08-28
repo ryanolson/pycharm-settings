@@ -118,13 +118,13 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503942694583">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503944898099">
         <mark key="a" line="62" column="0" />
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="5" />
+        <mark key="[" line="41" column="2" />
+        <mark key="]" line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -277,6 +277,12 @@
         <mark key="]" line="22" column="25" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503944169142">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501386360445">
         <mark key="[" line="27" column="0" />
@@ -508,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>slurm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>slurm</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -520,34 +526,34 @@
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWNjb3VudGluZ1N0b3JhZ2VQYXNzPXt7IHNsdXJtX2RiX3Bhc3N3b3JkIH19Cg==</text>
+        <text encoding="base64">U3RvcmFnZVVzZXI9e3sgc2x1cm1fZGJfdXNlcm5hbWUgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWNjb3VudGluZ1N0b3JhZ2VQYXNzPXt7IHNsdXJtX2RiX3Bhc3N3b3JkIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IGxvY2FsaG9zdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
+        <text encoding="base64">ICAgIGhvc3Q6IGxvY2FsaG9zdAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
+        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -583,7 +589,6 @@
         <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>121</entry>
         <entry>91</entry>
         <entry encoding="base64">JzwsJz4nYQ==</entry>
         <entry>'a,.y</entry>
@@ -601,8 +606,9 @@
         <entry>&quot;a,.d</entry>
         <entry>'a,,d</entry>
         <entry>.,$ s/^/## -- /</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
