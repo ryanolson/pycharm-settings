@@ -278,7 +278,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503947192945">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503948595627">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="21" column="26" />
@@ -327,11 +327,11 @@
         <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/ubuntu-slurm/slurm.conf" timestamp="1503932639415" />
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1503945782850">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1503948139928">
+        <mark key="[" line="92" column="51" />
+        <mark key="]" line="92" column="51" />
+        <mark key="." line="92" column="51" />
+        <mark key="^" line="92" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
@@ -513,11 +513,11 @@
       <jump line="4" column="9" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>control_machine }}</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -553,7 +553,7 @@
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -607,8 +607,8 @@
         <entry>'a,,d</entry>
         <entry>.,$ s/^/## -- /</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
