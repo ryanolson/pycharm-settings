@@ -118,13 +118,13 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503939142924">
-        <mark key="a" line="59" column="0" />
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="1" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="50" column="1" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503942694583">
+        <mark key="a" line="62" column="0" />
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -133,9 +133,6 @@
         <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1503941602013">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
         <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
@@ -330,11 +327,6 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1503941690371">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/server.py" timestamp="1500590033308">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="57" />
@@ -413,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="6" column="36" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="148" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="149" column="15" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
@@ -513,13 +504,14 @@
       <jump line="60" column="78" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
+      <jump line="4" column="9" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -555,7 +547,7 @@
         <text encoding="base64">ICAgIG1vZGU6IDA3NTUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -609,8 +601,8 @@
         <entry>&quot;a,.d</entry>
         <entry>'a,,d</entry>
         <entry>.,$ s/^/## -- /</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
