@@ -21,11 +21,11 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1503949685305">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="3" column="6" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1503957773679">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1503930995217">
         <mark key="[" line="1" column="0" />
@@ -280,11 +280,11 @@
         <mark key="." line="92" column="51" />
         <mark key="^" line="92" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1503957623923">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1503958131490">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
