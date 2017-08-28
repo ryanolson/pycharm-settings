@@ -278,11 +278,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503944169142">
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="21" column="26" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503947192945">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/docker-compose.yml" timestamp="1501386360445">
         <mark key="[" line="27" column="0" />
@@ -513,8 +513,8 @@
       <jump line="4" column="9" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>control_machine }}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>control_machine }}</text>
@@ -526,34 +526,34 @@
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3RvcmFnZVVzZXI9e3sgc2x1cm1fZGJfdXNlcm5hbWUgfX0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QWNjb3VudGluZ1N0b3JhZ2VQYXNzPXt7IHNsdXJtX2RiX3Bhc3N3b3JkIH19Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">U3RvcmFnZVVzZXI9e3sgc2x1cm1fZGJfdXNlcm5hbWUgfX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QWNjb3VudGluZ1N0b3JhZ2VQYXNzPXt7IHNsdXJtX2RiX3Bhc3N3b3JkIH19Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgc2x1cm0gdXNlcgogIHVzZXI6CiAgICBuYW1lOiBzbHVybQogICAgc3RhdGU6IHByZXNlbnQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IGxvY2FsaG9zdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
+        <text encoding="base64">ICAgIGhvc3Q6IGxvY2FsaG9zdAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBoeXBlcnRocmVhZHM6IHllcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -607,8 +607,8 @@
         <entry>'a,,d</entry>
         <entry>.,$ s/^/## -- /</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
