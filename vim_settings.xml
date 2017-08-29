@@ -32,10 +32,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1503930995217">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1504023108896">
+        <mark key="a" line="6" column="19" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
@@ -85,13 +87,6 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" timestamp="1503949352412">
-        <mark key="a" line="1" column="14" />
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/utils.py" timestamp="1501109184289">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -110,13 +105,13 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1503957292495">
-        <mark key="a" line="72" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1504023385409">
+        <mark key="a" line="73" column="0" />
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="66" column="22" />
-        <mark key="^" line="66" column="22" />
-        <mark key="." line="66" column="22" />
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="18" />
+        <mark key="^" line="83" column="18" />
+        <mark key="." line="83" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -233,11 +228,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" timestamp="1504021908113">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="9" column="4" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" timestamp="1504022609084">
+        <mark key="'" line="2" column="77" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -312,11 +308,11 @@
         <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/ubuntu-slurm/slurm.conf" timestamp="1504020016125" />
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1503948139928">
-        <mark key="[" line="92" column="51" />
-        <mark key="]" line="92" column="51" />
-        <mark key="." line="92" column="51" />
-        <mark key="^" line="92" column="73" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1504022649104">
+        <mark key="[" line="108" column="14" />
+        <mark key="]" line="108" column="18" />
+        <mark key="." line="108" column="18" />
+        <mark key="^" line="108" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1504017875688">
         <mark key="[" line="12" column="14" />
@@ -369,11 +365,11 @@
         <mark key="." line="48" column="3" />
         <mark key="^" line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1504018398434">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1504023256387">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1503987960824">
         <mark key="[" line="27" column="20" />
@@ -407,13 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="30" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="264" column="13" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="266" column="31" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="268" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="269" column="17" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="180" column="24" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
-      <jump line="262" column="3" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="311" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="203" column="8" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
@@ -507,19 +496,26 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
+      <jump line="7" column="19" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="8" column="26" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="9" column="26" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="10" column="44" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="1" column="77" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="2" column="77" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>dbd</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>dbd</text>
       </register>
       <register name="/" type="4">
-        <text>pers</text>
+        <text>topology</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gcmVib290Cg==</text>
+        <text encoding="base64">ICBzeXN0ZW1kOgogICAgbmFtZTogc2x1cm1kYmQKICAgIHN0YXRlOiBzdGFydGVkCiAgICBlbmFibGVkOiB5ZXMKICAgIGRhZW1vbi1yZWxvYWQ6IHllcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -537,25 +533,25 @@
         <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IG5vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBob3N0czogY29tcHV0ZS1ub2Rlcwo=</text>
+        <text encoding="base64">LSBob3N0czogY29tcHV0ZV9ub2Rlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">e3sgaG9zdHZhcnNbbm9kZV9uYW1lXVsiYW5zaWJsZV9sb2NhbCJdIH19Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBob3N0czogY29tcHV0ZS1ub2RlcwogIHRhc2tzOgogICAgLSBuYW1lOiBSdW4gcmVtb3RlIGNvbW1hbmQKICAgICAgY29tbWFuZDogImJhc2ggLWMgJ2xzIC1sIC9ldGMvaW5pdC5kLyonIgogICAgICByZWdpc3Rlcjogc3RvcmUKCiAgICAtIG5hbWU6IFJ1biByZXN1bHQgYWdhaW5zdCBsb2NhbCBzY3JpcHQKICAgICAgbG9jYWxfYWN0aW9uOiAic2hlbGwgZWNobyAne3sgc3RvcmUuc3Rkb3V0IH19JyA+IC90bXAvb3V0cHV0Igo=</text>
+        <text encoding="base64">ICAgIC0gbWlrZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2RvbmUK</text>
+        <text encoding="base64">Tm9kZU5hbWU9bGludXgxIEdyZXM9Z3B1OjIgQ1BVcz0yIFNvY2tldHM9MSBDb3Jlc1BlclNvY2tldD0yIFRocmVhZHNQZXJDb3JlPTEgUHJvY3M9MSBTdGF0ZT1VTktOT1dOCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pers</last-search>
+      <last-search>topology</last-search>
       <last-offset />
-      <last-pattern>pers</last-pattern>
+      <last-pattern>topology</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -563,8 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ngc</entry>
-        <entry>im</entry>
         <entry>it</entry>
         <entry>output</entry>
         <entry>dev</entry>
@@ -583,9 +577,10 @@
         <entry>save</entry>
         <entry>^</entry>
         <entry>pers</entry>
+        <entry>topol</entry>
+        <entry>topology</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>77</entry>
         <entry>37</entry>
         <entry>set paste</entry>
@@ -596,13 +591,14 @@
         <entry>'a,. w! bootstrap.yml</entry>
         <entry>1,. w! bootstrap.yml</entry>
         <entry>1,. w t.yml</entry>
-        <entry>'a,.y</entry>
         <entry>&quot;a,.d</entry>
         <entry>13</entry>
         <entry>'a,.d</entry>
         <entry>1</entry>
         <entry>q</entry>
         <entry>.,$d</entry>
+        <entry>.,$y</entry>
+        <entry>'a,.y</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
