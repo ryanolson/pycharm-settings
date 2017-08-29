@@ -88,11 +88,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/cgroup.conf" timestamp="1504028801977" />
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504028597693">
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="4" column="8" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
         <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/utils.py" timestamp="1501109184289">
         <mark key="[" line="3" column="0" />
@@ -513,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>topology</text>
