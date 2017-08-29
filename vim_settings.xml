@@ -27,11 +27,6 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1503930995217">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -182,12 +177,13 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1503962570310">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1503987245516">
         <mark key="a" line="3" column="0" />
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -342,6 +338,12 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1503987960824">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/notes.md" timestamp="1501380234044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="2" />
@@ -360,11 +362,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1503986315492">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1503986887159">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="9" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -470,14 +472,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>volta*</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>pers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBob3N0czogZGd4cwogIGJlY29tZTogeWVzCiAgcm9sZXM6CiAgICAtIGRneC1zb2Z0d2FyZQogICAgLSBjYWNoZWZpbGVzZAoKICB0YXNrczoKICAKICAtIG5hbWU6IGNsZWFuIHVwIHBhY2thZ2VzCiAgICBhcHQ6CiAgICAgIGF1dG9yZW1vdmU6IHllcwoKICAtIG5hbWU6IG1vZGlmeSBkZWZhdWx0IHVzZXIKICAgIHVzZXI6CiAgICAgIG5hbWU6ICJ7eyB1c2VyfX0iCiAgICAgIGdyb3VwczogZG9ja2VyCiAgICAgIGFwcGVuZDogeWVzCiAgICB0YWdzOgogICAgICAtIHVzZXIKIAogIC0gbmFtZTogY2hhbmdlIHBlcm1pc3Npb25zIG9uIC9yYWlkCiAgICBmaWxlOgogICAgICBwYXRoOiAvcmFpZAogICAgICBzdGF0ZTogZGlyZWN0b3J5CiAgICAgIG93bmVyOiByb290CiAgICAgIGdyb3VwOiByb290CiAgICAgIG1vZGU6ICIxNzc3IgogICAgdGFnczoKICAgICAgLSByYWlkCiAgICAgIC0gc3RvcmFnZQo=</text>
@@ -486,37 +488,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBbZGd4LXNlcnZlcnNdCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBbZGd4LXNlcnZlcnNdCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBbZGd4LXNlcnZlcnNdCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1tkZ3gtc2VydmVyczpjaGlsZHJlbl0KI2RneCoKCg==</text>
+        <text encoding="base64">IyBbZGd4LXNlcnZlcnNdCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgdGFza3M6CiAgLSBuYW1lOiBjbGVhbiB1cCBwYWNrYWdlcwogICAgYXB0OgogICAgICBhdXRvcmVtb3ZlOiB5ZXMKCiMgLSBuYW1lOiBtb2RpZnkgZGVmYXVsdCB1c2VyCiMgICB1c2VyOgojICAgICBuYW1lOiAie3sgdXNlcn19IgojICAgICBncm91cHM6IGRvY2tlcgojICAgICBhcHBlbmQ6IHllcwojICAgdGFnczoKIyAgICAgLSB1c2VyCiMKIyAtIG5hbWU6IGNoYW5nZSBwZXJtaXNzaW9ucyBvbiAvcmFpZAojICAgZmlsZToKIyAgICAgcGF0aDogL3JhaWQKIyAgICAgc3RhdGU6IGRpcmVjdG9yeQojICAgICBvd25lcjogcm9vdAojICAgICBncm91cDogcm9vdAojICAgICBtb2RlOiAiMTc3NyIKIyAgIHRhZ3M6CiMgICAgIC0gcmFpZAojICAgICAtIHN0b3JhZ2UK</text>
+        <text encoding="base64">I1tkZ3gtc2VydmVyczpjaGlsZHJlbl0KI2RneCoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgIC0gY2FjaGVmaWxlc2QK</text>
+        <text encoding="base64">CiAgdGFza3M6CiAgLSBuYW1lOiBjbGVhbiB1cCBwYWNrYWdlcwogICAgYXB0OgogICAgICBhdXRvcmVtb3ZlOiB5ZXMKCiMgLSBuYW1lOiBtb2RpZnkgZGVmYXVsdCB1c2VyCiMgICB1c2VyOgojICAgICBuYW1lOiAie3sgdXNlcn19IgojICAgICBncm91cHM6IGRvY2tlcgojICAgICBhcHBlbmQ6IHllcwojICAgdGFnczoKIyAgICAgLSB1c2VyCiMKIyAtIG5hbWU6IGNoYW5nZSBwZXJtaXNzaW9ucyBvbiAvcmFpZAojICAgZmlsZToKIyAgICAgcGF0aDogL3JhaWQKIyAgICAgc3RhdGU6IGRpcmVjdG9yeQojICAgICBvd25lcjogcm9vdAojICAgICBncm91cDogcm9vdAojICAgICBtb2RlOiAiMTc3NyIKIyAgIHRhZ3M6CiMgICAgIC0gcmFpZAojICAgICAtIHN0b3JhZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgIC0gZGd4LXNvZnR3YXJlCg==</text>
+        <text encoding="base64">IyAgIC0gY2FjaGVmaWxlc2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyByZW1vdGVfdXNlcjogInt7IHVzZXIgfX0iCg==</text>
+        <text encoding="base64">IyAgIC0gZGd4LXNvZnR3YXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>pers</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern>pers</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
         <entry>ngc</entry>
         <entry>im</entry>
         <entry>it</entry>
@@ -544,9 +545,9 @@
         <entry>DockerClient</entry>
         <entry>save</entry>
         <entry>^</entry>
+        <entry>pers</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>49</entry>
         <entry>W</entry>
         <entry>77</entry>
@@ -565,6 +566,7 @@
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>wq</entry>
+        <entry>13</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
