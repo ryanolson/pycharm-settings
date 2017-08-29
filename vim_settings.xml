@@ -195,11 +195,11 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1504031641610">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1504044564965">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1504041555451">
         <mark key="'" line="13" column="0" />
@@ -403,11 +403,11 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1503986887159">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="9" column="1" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1504044381851">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504040246162">
         <mark key="[" line="14" column="19" />
@@ -520,43 +520,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>registry</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>topology</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWN0bGQK</text>
+        <text encoding="base64">IyByb2xlczoKIyAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgLS0gUGFydGl0aW9uTmFtZT1kZWJ1ZyBOb2Rlcz1BTEwgRGVmYXVsdD1ZRVMgTWF4VGltZT1JTkZJTklURSBTdGF0ZT1VUAo=</text>
+        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgLS0gTm9kZU5hbWU9bGludXgxIEdyZXM9Z3B1OjIgQ1BVcz0yIFNvY2tldHM9MSBDb3Jlc1BlclNvY2tldD0yIFRocmVhZHNQZXJDb3JlPTEgUHJvY3M9MSBTdGF0ZT1VTktOT1dOCg==</text>
+        <text encoding="base64">ICB0YXNrczoKICAgIC0gbmFtZTogSW5zdGFsbCBQeXRob24gZm9yIEFuc2libGUKICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkKICAgICAgcmVnaXN0ZXI6IG91dHB1dAogICAgICBjaGFuZ2VkX3doZW46IG91dHB1dC5zdGRvdXQgIT0gIiIKICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBncHVzOiAiNC03Igo=</text>
+        <text encoding="base64">ICAgIC0gbmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBjb3JlczogIjIwLTM5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBncHVzOiAiMC0zIgo=</text>
+        <text encoding="base64">IyMgLS0gUGFydGl0aW9uTmFtZT1kZWJ1ZyBOb2Rlcz1BTEwgRGVmYXVsdD1ZRVMgTWF4VGltZT1JTkZJTklURSBTdGF0ZT1VUAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBjb3JlczogIjAtMTkiCg==</text>
+        <text encoding="base64">IyMgLS0gTm9kZU5hbWU9bGludXgxIEdyZXM9Z3B1OjIgQ1BVcz0yIFNvY2tldHM9MSBDb3Jlc1BlclNvY2tldD0yIFRocmVhZHNQZXJDb3JlPTEgUHJvY3M9MSBTdGF0ZT1VTktOT1dOCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvY2tldHM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -610,9 +610,9 @@
         <entry>1</entry>
         <entry>.,$y</entry>
         <entry>'a,.y</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>.,$d</entry>
+        <entry>wq</entry>
         <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
