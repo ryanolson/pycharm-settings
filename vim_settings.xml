@@ -365,11 +365,11 @@
         <mark key="." line="48" column="3" />
         <mark key="^" line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1504023256387">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="17" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1504025726057">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="5" column="11" />
-        <mark key="." line="3" column="17" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1503987960824">
         <mark key="[" line="27" column="20" />
@@ -506,10 +506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ slurm_master_hostname }}</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>{{ slurm_master_hostname }}</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>topology</text>
@@ -545,7 +545,7 @@
         <text encoding="base64">Tm9kZU5hbWU9bGludXgxIEdyZXM9Z3B1OjIgQ1BVcz0yIFNvY2tldHM9MSBDb3Jlc1BlclNvY2tldD0yIFRocmVhZHNQZXJDb3JlPTEgUHJvY3M9MSBTdGF0ZT1VTktOT1dOCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -599,8 +599,8 @@
         <entry>.,$d</entry>
         <entry>.,$y</entry>
         <entry>'a,.y</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
