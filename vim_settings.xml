@@ -356,10 +356,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1503955731265">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1503989170405">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1503986887159">
@@ -472,8 +472,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCiAgICBjYWNoZV92YWxpZF90aW1lOiAzNjAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -482,7 +482,7 @@
         <text>pers</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBob3N0czogZGd4cwogIGJlY29tZTogeWVzCiAgcm9sZXM6CiAgICAtIGRneC1zb2Z0d2FyZQogICAgLSBjYWNoZWZpbGVzZAoKICB0YXNrczoKICAKICAtIG5hbWU6IGNsZWFuIHVwIHBhY2thZ2VzCiAgICBhcHQ6CiAgICAgIGF1dG9yZW1vdmU6IHllcwoKICAtIG5hbWU6IG1vZGlmeSBkZWZhdWx0IHVzZXIKICAgIHVzZXI6CiAgICAgIG5hbWU6ICJ7eyB1c2VyfX0iCiAgICAgIGdyb3VwczogZG9ja2VyCiAgICAgIGFwcGVuZDogeWVzCiAgICB0YWdzOgogICAgICAtIHVzZXIKIAogIC0gbmFtZTogY2hhbmdlIHBlcm1pc3Npb25zIG9uIC9yYWlkCiAgICBmaWxlOgogICAgICBwYXRoOiAvcmFpZAogICAgICBzdGF0ZTogZGlyZWN0b3J5CiAgICAgIG93bmVyOiByb290CiAgICAgIGdyb3VwOiByb290CiAgICAgIG1vZGU6ICIxNzc3IgogICAgdGFnczoKICAgICAgLSByYWlkCiAgICAgIC0gc3RvcmFnZQo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCiAgICBjYWNoZV92YWxpZF90aW1lOiAzNjAwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
