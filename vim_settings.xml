@@ -112,7 +112,7 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1504028652232">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1504029619816">
         <mark key="'" line="4" column="9" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -402,11 +402,11 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504028872676">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="15" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504029631973">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="44" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -512,11 +512,11 @@
       <jump line="2" column="77" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZ3Jlcy5jb25mCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>topology</text>
@@ -525,31 +525,31 @@
         <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHNsdXJtZGJkCiAgc2VydmljZToKICAgIG5hbWU6IHNsdXJtZGJkCiAgICBzdGF0ZTogcmVzdGFydGVkCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZ3Jlcy5jb25mCg==</text>
+        <text encoding="base64">LSBuYW1lOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gZ3Jlcy5jb25mCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBsYXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IHNsdXJtCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlOiBsYXRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHQ6Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IHNsdXJtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBpbnN0YWxsIHNsdXJtCg==</text>
+        <text encoding="base64">ICBhcHQ6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBuYW1lOiBpbnN0YWxsIHNsdXJtCiAgYXB0OgogICAgbmFtZTogc2x1cm0KICAgIHN0YXRlOiBsYXRlc3QKCi0gbmFtZTogY3JlYXRlIHNsdXJtIHVzZXIKICB1c2VyOgogICAgbmFtZTogc2x1cm0KICAgIHN0YXRlOiBwcmVzZW50CiAgICBzeXN0ZW06IHllcwoK</text>
+        <text encoding="base64">LSBuYW1lOiBpbnN0YWxsIHNsdXJtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TmFtZT1ncHUgRmlsZT0vZGV2L252aWRpYTEgQ1BVcz0xCg==</text>
+        <text encoding="base64">LSBuYW1lOiBpbnN0YWxsIHNsdXJtCiAgYXB0OgogICAgbmFtZTogc2x1cm0KICAgIHN0YXRlOiBsYXRlc3QKCi0gbmFtZTogY3JlYXRlIHNsdXJtIHVzZXIKICB1c2VyOgogICAgbmFtZTogc2x1cm0KICAgIHN0YXRlOiBwcmVzZW50CiAgICBzeXN0ZW06IHllcwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TmFtZT1ncHUgRmlsZT0vZGV2L252aWRpYTAgQ1BVcz0wCg==</text>
+        <text encoding="base64">TmFtZT1ncHUgRmlsZT0vZGV2L252aWRpYTEgQ1BVcz0xCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
