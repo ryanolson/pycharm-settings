@@ -296,6 +296,9 @@
         <mark key="." line="92" column="51" />
         <mark key="^" line="92" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1504015313366">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1503959198527">
         <mark key="a" line="4" column="0" />
         <mark key="'" line="5" column="0" />
