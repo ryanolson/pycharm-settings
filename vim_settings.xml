@@ -187,12 +187,12 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1503989673086">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1503991137671">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="13" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -341,11 +341,11 @@
         <mark key="." line="48" column="3" />
         <mark key="^" line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1503963038281">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="11" column="36" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1503991232415">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
         <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="36" />
+        <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1503987960824">
         <mark key="[" line="27" column="20" />
@@ -481,11 +481,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gYXB0Ogo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>apt:</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>pers</text>
