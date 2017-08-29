@@ -166,11 +166,10 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1503945800063">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1504038277100">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -520,8 +519,8 @@
       <jump line="2" column="77" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>registry</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>registry</text>
@@ -536,28 +535,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgLS0gUGFydGl0aW9uTmFtZT1kZWJ1ZyBOb2Rlcz1BTEwgRGVmYXVsdD1ZRVMgTWF4VGltZT1JTkZJTklURSBTdGF0ZT1VUAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IG1vZGlmeSBkZWZhdWx0IHVzZXIKICAgIHVzZXI6CiAgICAgIG5hbWU6ICJ7eyB1c2VyIH19IgogICAgICBncm91cHM6IGRvY2tlcgogICAgICBhcHBlbmQ6IHllcwogICAgdGFnczoKICAgICAgLSB1c2VyCgo=</text>
+        <text encoding="base64">IyMgLS0gTm9kZU5hbWU9bGludXgxIEdyZXM9Z3B1OjIgQ1BVcz0yIFNvY2tldHM9MSBDb3Jlc1BlclNvY2tldD0yIFRocmVhZHNQZXJDb3JlPTEgUHJvY3M9MSBTdGF0ZT1VTktOT1dOCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gcmVib290Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gcmVib290Cg==</text>
+        <text encoding="base64">ICAgICAgICBncHVzOiAiNC03Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLSBjb3JlczogIjIwLTM5Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gd2FpdCBmb3IgcmVib290Cg==</text>
+        <text encoding="base64">ICAgICAgICBncHVzOiAiMC0zIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gcmVib290Cg==</text>
+        <text encoding="base64">ICAgICAgLSBjb3JlczogIjAtMTkiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gdXBkYXRlIGdydWIK</text>
+        <text encoding="base64">ICAgIHNvY2tldHM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
