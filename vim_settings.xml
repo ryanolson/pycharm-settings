@@ -218,6 +218,12 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.sh" timestamp="1504017036599">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
         <mark key="]" line="17" column="46" />
@@ -484,11 +490,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2RvbmUK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pers</text>
@@ -497,34 +503,34 @@
         <text encoding="base64">ICAgIC0gcmVib290Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gYXB0Ogo=</text>
+        <text encoding="base64">I2RvbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfY2FjaGU6IHllcwogICAgICAgIGNhY2hlX3ZhbGlkX3RpbWU6IDM2MDAK</text>
+        <text encoding="base64">IyAgICBlY2hvICIgICAgXCIkQ1BVQUZGSU5JVFlcIiwiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBDUFVBRkZJTklUWT1gY2F0IC9zeXMvY2xhc3MvcGNpX2J1cy8wMDAwOiRpL2NwdWxpc3RhZmZpbml0eWAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwZ3JhZGU6IHNhZmUK</text>
+        <text encoding="base64">I2ZvciBpIGluIGBsc3BjaSB8IGdyZXAgLWkgbnZpZGlhIHwgYXdrICJ7cHJpbnQgJDF9IiB8IGN1dCAtZCA6IC1mIDFgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhY2hlX3ZhbGlkX3RpbWU6IDM2MDAK</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gKU09DS0VUUz1gbHNjcHUgfCBncmVwICJTb2NrZXQocyk6IiAgfCBjdXQgLWQgOiAtZiAyIHwgYXdrICd7cHJpbnQgJDF9J2AKVEhSRUFEU1BFUkNPUkU9YGxzY3B1IHwgZ3JlcCAiVGhyZWFkKHMpIHBlciBjb3JlOiIgfCBjdXQgLWQgOiAtZiAyIHwgYXdrICd7cHJpbnQgJDF9J2AKQ09SRVNQRVJTT0NLRVQ9YGxzY3B1IHwgZ3JlcCAiQ29yZShzKSBwZXIgc29ja2V0OiIgfCBjdXQgLWQgOiAtZiAyIHwgYXdrICd7cHJpbnQgJDF9J2AKZWNobyAieyIKZWNobyAiICAnY3B1X3RvcG9sb2d5JzogeyIKZWNobyAiICAgICdTb2NrZXRzJzogXCckU09DS0VUU1wnLCIKZWNobyAiICAgICdDb3Jlc1BlclNvY2tldCc6IFwnJENPUkVTUEVSU09DS0VUXCcsIgplY2hvICIgICAgJ1RocmVhZHNQZXJDb3JlJzogXCckVEhSRUFEU1BFUkNPUkVcJyIKZWNobyAiICB9LCIKZWNobyAiICAnZ3B1X3RvcG9sb2d5JzogWyIKZ3B1cz0kKGZvciBpIGluIGBsc3BjaSB8IGdyZXAgLWkgbnZpZGlhIHwgYXdrICd7cHJpbnQgJDF9JyB8IGN1dCAtZCA6IC1mIDFgOyBkbyBcCiAgICBlY2hvIFwiJChjYXQgL3N5cy9jbGFzcy9wY2lfYnVzLzAwMDA6JGkvY3B1bGlzdGFmZmluaXR5KVwiLDsgZG9uZSB8IHNlZCAncy8sJC8vJykKZWNobyAiICAgICRncHVzIgplY2hvICIgIF0iCmVjaG8gIn0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9jYWNoZTogeWVzCg==</text>
+        <text encoding="base64">ZG9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHQ6Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gXCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBhcHQgdXBncmFkZQo=</text>
+        <text encoding="base64">ICAgIENQVUFGRklOSVRZPWBjYXQgL3N5cy9jbGFzcy9wY2lfYnVzLzAwMDA6JGkvY3B1bGlzdGFmZmluaXR5YCBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -560,7 +566,6 @@
         <entry>pers</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
         <entry>W</entry>
         <entry>77</entry>
         <entry>37</entry>
@@ -575,11 +580,12 @@
         <entry>1,. w t.yml</entry>
         <entry>'a,.y</entry>
         <entry>&quot;a,.d</entry>
-        <entry>.,$d</entry>
         <entry>13</entry>
         <entry>'a,.d</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>1</entry>
+        <entry>.,$d</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
