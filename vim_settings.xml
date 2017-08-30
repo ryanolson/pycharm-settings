@@ -111,12 +111,11 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="164" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1504029619816">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1504115731523">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
         <mark key="^" line="72" column="18" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -124,11 +123,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1504114339715">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1504115707938">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
@@ -417,7 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="0" filename="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cloner.py" />
       <jump line="203" column="8" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
@@ -517,13 +515,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
       <jump line="1" column="77" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
       <jump line="2" column="77" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgIC0gbG9jYWwtYXB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>topology</text>
@@ -532,28 +531,28 @@
         <text encoding="base64">IyByb2xlczoKIyAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgIC0gbG9jYWwtYXB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YXNrczoKICAgIC0gbmFtZTogSW5zdGFsbCBQeXRob24gZm9yIEFuc2libGUKICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkKICAgICAgcmVnaXN0ZXI6IG91dHB1dAogICAgICBjaGFuZ2VkX3doZW46IG91dHB1dC5zdGRvdXQgIT0gIiIKICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
+        <text encoding="base64">IyMgLS0gdXNlcmFkZCBzbHVybQojIyAtLSAkIG1rZGlyIC1wIC9ldGMvc2x1cm0gL3Zhci9zcG9vbC9zbHVybS9jdGxkIC92YXIvc3Bvb2wvc2x1cm0vZCAvdmFyL2xvZy9zbHVybQojIyAtLSAkIGNob3duIHNsdXJtIC92YXIvc3Bvb2wvc2x1cm0vY3RsZCAvdmFyL3Nwb29sL3NsdXJtL2QgL3Zhci9sb2cvc2x1cm0KIyMgLS0KIyMgLS0gQ29weSBpbnRvIHBsYWNlIGNvbmZpZyBmaWxlcyBmcm9tIHRoaXMgcmVwbyB3aGljaCB5b3UndmUgYWxyZWFkeSBjbG9uZWQgaW50byAvc3RvcmFnZQojIyAtLSAkIGNkIC9zdG9yYWdlCiMjIC0tICQgY3AgdWJ1bnR1LXNsdXJtL3NsdXJtZGJkLnNlcnZpY2UgL2V0Yy9zeXN0ZW1kL3N5c3RlbS8KIyMgLS0gJCBjcCB1YnVudHUtc2x1cm0vc2x1cm1jdGxkLnNlcnZpY2UgL2V0Yy9zeXN0ZW1kL3N5c3RlbS8KIyMgLS0KIyMgLS0gRWRpdCAvc3RvcmFnZS91YnVudHUtc2x1cm0vc2x1cm0uY29uZiBhbmQgcmVwbGFjZSBBY2NvdW50aW5nU3RvcmFnZVBhc3M9c2x1cm1kYnBhc3Mgd2l0aCB0aGUgREIgcGFzc3dvcmQKIyMgLS0geW91IHVzZWQgaW4gdGhlIGFib3ZlIFNRTCBzZWN0aW9uLgojIyAtLSAkIGNwIHVidW50dS1zbHVybS9zbHVybS5jb25mIC9ldGMvc2x1cm0vCiMjIC0tCiMjIC0tIEVkaXQgL3N0b3JhZ2UvdWJ1bnR1LXNsdXJtL3NsdXJtZGJkLmNvbmYgYW5kIHJlcGxhY2UgU3RvcmFnZVBhc3M9c2xydW1kYnBhc3Mgd2l0aCB0aGUgREIgcGFzc3dvcmQgeW91IHVzZWQKIyMgLS0gaW4gdGhlIGFib3ZlIFNRTCBzZWN0aW9uLgojIyAtLSAkIGNwIHVidW50dS1zbHVybS9zbHVybWRiZC5jb25mIC9ldGMvc2x1cm0vCiMjIC0tCiMjIC0tICQgc3lzdGVtY3RsIGRhZW1vbi1yZWxvYWQKIyMgLS0gJCBzeXN0ZW1jdGwgZW5hYmxlIHNsdXJtZGJkCiMjIC0tICQgc3lzdGVtY3RsIHN0YXJ0IHNsdXJtZGJkCiMjIC0tICQgc2FjY3RtZ3IgYWRkIGNsdXN0ZXIgY29tcHV0ZS1jbHVzdGVyCiMjIC0tICQgc2FjY3RtZ3IgYWRkIGFjY291bnQgY29tcHV0ZS1hY2NvdW50IGRlc2NyaXB0aW9uICJDb21wdXRlIGFjY291bnRzIiBPcmdhbml6YXRpb249T3VyT3JnCiMjIC0tICQgc2FjY3RtZ3IgY3JlYXRlIHVzZXIgbXl1c2VyIGFjY291bnQ9Y29tcHV0ZS1hY2NvdW50IGFkbWlubGV2ZWw9Tm9uZQojIyAtLSAkIHN5c3RlbWN0bCBlbmFibGUgc2x1cm1jdGxkCiMjIC0tICQgc3lzdGVtY3RsIHN0YXJ0IHNsdXJtY3RsZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZQo=</text>
+        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXNrczoKICAgIC0gbmFtZTogSW5zdGFsbCBQeXRob24gZm9yIEFuc2libGUKICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkKICAgICAgcmVnaXN0ZXI6IG91dHB1dAogICAgICBjaGFuZ2VkX3doZW46IG91dHB1dC5zdGRvdXQgIT0gIiIKICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgLS0gUGFydGl0aW9uTmFtZT1kZWJ1ZyBOb2Rlcz1BTEwgRGVmYXVsdD1ZRVMgTWF4VGltZT1JTkZJTklURSBTdGF0ZT1VUAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgLS0gTm9kZU5hbWU9bGludXgxIEdyZXM9Z3B1OjIgQ1BVcz0yIFNvY2tldHM9MSBDb3Jlc1BlclNvY2tldD0yIFRocmVhZHNQZXJDb3JlPTEgUHJvY3M9MSBTdGF0ZT1VTktOT1dOCg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -595,7 +594,6 @@
         <entry>topology</entry>
       </history-search>
       <history-cmd>
-        <entry>77</entry>
         <entry>37</entry>
         <entry>set paste</entry>
         <entry>'a,,d</entry>
@@ -611,9 +609,10 @@
         <entry>.,$y</entry>
         <entry>'a,.y</entry>
         <entry>q</entry>
-        <entry>.,$d</entry>
         <entry>wq</entry>
         <entry>'a,.d</entry>
+        <entry>.,$</entry>
+        <entry>.,$d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
