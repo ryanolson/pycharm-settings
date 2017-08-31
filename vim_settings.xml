@@ -404,9 +404,6 @@
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1504044381851">
         <mark key="[" line="7" column="47" />
-        <mark key="]" line="8" column="46" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504116531884">
         <mark key="'" line="28" column="6" />
