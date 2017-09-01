@@ -27,11 +27,10 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1504275383738">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1504281632804">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1504035975866">
         <mark key="a" line="6" column="19" />
@@ -118,7 +117,7 @@
         <mark key="^" line="72" column="18" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" timestamp="1504276929112">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" timestamp="1504288853058">
         <mark key="p" line="21" column="1" />
         <mark key="'" line="21" column="12" />
         <mark key="[" line="20" column="0" />
@@ -209,11 +208,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1504044564965">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1504281814968">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1504041555451">
         <mark key="'" line="13" column="0" />
@@ -276,6 +276,12 @@
         <mark key="]" line="22" column="25" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs-client/tasks/main.yml" timestamp="1504281241005">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503948595627">
         <mark key="[" line="38" column="0" />
@@ -429,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/ngc/README.md" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" />
       <jump line="20" column="36" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="23" column="37" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
@@ -529,13 +534,14 @@
       <jump line="11" column="21" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" />
       <jump line="17" column="24" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" />
       <jump line="29" column="12" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBuYW1lOiBuaXMgfCBjcmVhdGUgZGVmYXVsdCBkb21haW4gbmFtZSBmaWxlCiAgZmlsZToKICAgIHBhdGg6IC9ldGMvZGVmYXVsdGRvbWFpbgogICAgb3duZXI6IHJvb3QKICAgIGdyb3VwOiByb290CiAgICBtb2RlOiAiMDY0NCIKICAgIHN0YXRlOiB0b3VjaAoK</text>
+        <text encoding="base64">IyB1c2UgLWwgdG8gbmFycm93IGRvd24gdGhlIGhvc3RzIGluIHRoZSBpbnZlbnRvcnkgZmlsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>lineinfile:</text>
+        <text>mount name={{ item.mountpoint}} src={{ item.server }}:{{ item.path }} opts={{ item.options }} fstype=nfs state=mounted</text>
       </register>
       <register name="/" type="4">
         <text>nisserver</text>
@@ -544,31 +550,31 @@
         <text encoding="base64">IyByb2xlczoKIyAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBuYW1lOiBuaXMgfCBjcmVhdGUgZGVmYXVsdCBkb21haW4gbmFtZSBmaWxlCiAgZmlsZToKICAgIHBhdGg6IC9ldGMvZGVmYXVsdGRvbWFpbgogICAgb3duZXI6IHJvb3QKICAgIGdyb3VwOiByb290CiAgICBtb2RlOiAiMDY0NCIKICAgIHN0YXRlOiB0b3VjaAoK</text>
+        <text encoding="base64">IyB1c2UgLWwgdG8gbmFycm93IGRvd24gdGhlIGhvc3RzIGluIHRoZSBpbnZlbnRvcnkgZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiBuaXMgfCBjcmVhdGUgZGVmYXVsdCBkb21haW4gbmFtZSBmaWxlCg==</text>
+        <text encoding="base64">IyBORlMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmU6ICd7eyBuaXNfZG9tYWluIH19Jwo=</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZ2V4cDogJ14nCg==</text>
+        <text encoding="base64">LSBuYW1lOiBuaXMgfCBjcmVhdGUgZGVmYXVsdCBkb21haW4gbmFtZSBmaWxlCiAgZmlsZToKICAgIHBhdGg6IC9ldGMvZGVmYXVsdGRvbWFpbgogICAgb3duZXI6IHJvb3QKICAgIGdyb3VwOiByb290CiAgICBtb2RlOiAiMDY0NCIKICAgIHN0YXRlOiB0b3VjaAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBuaXMgfCBjcmVhdGUgZGVmYXVsdCBkb21haW4gbmFtZSBmaWxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2x1cm1fdXNlcl91aWQ6IDIyMDc4Cg==</text>
+        <text encoding="base64">ICAgIGxpbmU6ICd7eyBuaXNfZG9tYWluIH19Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZ2V4cDogJ14nCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgLS0gdXNlcmFkZCBzbHVybQojIyAtLSAkIG1rZGlyIC1wIC9ldGMvc2x1cm0gL3Zhci9zcG9vbC9zbHVybS9jdGxkIC92YXIvc3Bvb2wvc2x1cm0vZCAvdmFyL2xvZy9zbHVybQojIyAtLSAkIGNob3duIHNsdXJtIC92YXIvc3Bvb2wvc2x1cm0vY3RsZCAvdmFyL3Nwb29sL3NsdXJtL2QgL3Zhci9sb2cvc2x1cm0KIyMgLS0KIyMgLS0gQ29weSBpbnRvIHBsYWNlIGNvbmZpZyBmaWxlcyBmcm9tIHRoaXMgcmVwbyB3aGljaCB5b3UndmUgYWxyZWFkeSBjbG9uZWQgaW50byAvc3RvcmFnZQojIyAtLSAkIGNkIC9zdG9yYWdlCiMjIC0tICQgY3AgdWJ1bnR1LXNsdXJtL3NsdXJtZGJkLnNlcnZpY2UgL2V0Yy9zeXN0ZW1kL3N5c3RlbS8KIyMgLS0gJCBjcCB1YnVudHUtc2x1cm0vc2x1cm1jdGxkLnNlcnZpY2UgL2V0Yy9zeXN0ZW1kL3N5c3RlbS8KIyMgLS0KIyMgLS0gRWRpdCAvc3RvcmFnZS91YnVudHUtc2x1cm0vc2x1cm0uY29uZiBhbmQgcmVwbGFjZSBBY2NvdW50aW5nU3RvcmFnZVBhc3M9c2x1cm1kYnBhc3Mgd2l0aCB0aGUgREIgcGFzc3dvcmQKIyMgLS0geW91IHVzZWQgaW4gdGhlIGFib3ZlIFNRTCBzZWN0aW9uLgojIyAtLSAkIGNwIHVidW50dS1zbHVybS9zbHVybS5jb25mIC9ldGMvc2x1cm0vCiMjIC0tCiMjIC0tIEVkaXQgL3N0b3JhZ2UvdWJ1bnR1LXNsdXJtL3NsdXJtZGJkLmNvbmYgYW5kIHJlcGxhY2UgU3RvcmFnZVBhc3M9c2xydW1kYnBhc3Mgd2l0aCB0aGUgREIgcGFzc3dvcmQgeW91IHVzZWQKIyMgLS0gaW4gdGhlIGFib3ZlIFNRTCBzZWN0aW9uLgojIyAtLSAkIGNwIHVidW50dS1zbHVybS9zbHVybWRiZC5jb25mIC9ldGMvc2x1cm0vCiMjIC0tCiMjIC0tICQgc3lzdGVtY3RsIGRhZW1vbi1yZWxvYWQKIyMgLS0gJCBzeXN0ZW1jdGwgZW5hYmxlIHNsdXJtZGJkCiMjIC0tICQgc3lzdGVtY3RsIHN0YXJ0IHNsdXJtZGJkCiMjIC0tICQgc2FjY3RtZ3IgYWRkIGNsdXN0ZXIgY29tcHV0ZS1jbHVzdGVyCiMjIC0tICQgc2FjY3RtZ3IgYWRkIGFjY291bnQgY29tcHV0ZS1hY2NvdW50IGRlc2NyaXB0aW9uICJDb21wdXRlIGFjY291bnRzIiBPcmdhbml6YXRpb249T3VyT3JnCiMjIC0tICQgc2FjY3RtZ3IgY3JlYXRlIHVzZXIgbXl1c2VyIGFjY291bnQ9Y29tcHV0ZS1hY2NvdW50IGFkbWlubGV2ZWw9Tm9uZQojIyAtLSAkIHN5c3RlbWN0bCBlbmFibGUgc2x1cm1jdGxkCiMjIC0tICQgc3lzdGVtY3RsIHN0YXJ0IHNsdXJtY3RsZAo=</text>
+        <text encoding="base64">c2x1cm1fdXNlcl91aWQ6IDIyMDc4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,.d</text>
