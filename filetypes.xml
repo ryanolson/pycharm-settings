@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="conf" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
+      <mapping ext="fact" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
