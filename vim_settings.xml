@@ -338,11 +338,12 @@
         <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/ubuntu-slurm/slurm.conf" timestamp="1504020016125" />
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1504331459611">
-        <mark key="[" line="111" column="59" />
-        <mark key="]" line="111" column="78" />
-        <mark key="." line="111" column="78" />
-        <mark key="^" line="111" column="78" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1504593046009">
+        <mark key="'" line="107" column="25" />
+        <mark key="[" line="108" column="87" />
+        <mark key="]" line="108" column="87" />
+        <mark key="." line="108" column="87" />
+        <mark key="^" line="108" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1504017875688">
         <mark key="[" line="12" column="14" />
@@ -444,9 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" />
-      <jump line="20" column="36" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
-      <jump line="23" column="37" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="26" column="45" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="38" column="62" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
@@ -544,16 +542,19 @@
       <jump line="17" column="24" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" />
       <jump line="29" column="12" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" />
+      <jump line="111" column="78" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
+      <jump line="108" column="30" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
+      <jump line="107" column="25" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>64000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>64000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>nisserver</text>
+        <text>total</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgc2V0IGdwdV90b3BvbG9neSA9ICBob3N0dmFyc1tub2RlX25hbWVdWyJhbnNpYmxlX2xvY2FsIl1bInRvcG9sb2d5Il1bImdwdV90b3BvbG9neSJdIC0lfQo=</text>
@@ -590,9 +591,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nisserver</last-search>
+      <last-search>total</last-search>
       <last-offset />
-      <last-pattern>nisserver</last-pattern>
+      <last-pattern>total</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -600,7 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
         <entry>print</entry>
         <entry>login</entry>
         <entry>client</entry>
@@ -620,6 +620,7 @@
         <entry>topology</entry>
         <entry>nisdomain</entry>
         <entry>nisserver</entry>
+        <entry>total</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
