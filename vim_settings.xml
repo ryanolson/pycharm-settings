@@ -87,7 +87,6 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/cgroup.conf" timestamp="1504028801977" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
@@ -175,10 +174,10 @@
         <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501785431522">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="11" column="71" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/data.py" timestamp="1493732784216">
         <mark key="[" line="40" column="54" />
@@ -343,7 +342,6 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/ubuntu-slurm/slurm.conf" timestamp="1504020016125" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1504635352793">
         <mark key="'" line="107" column="25" />
         <mark key="[" line="109" column="12" />
