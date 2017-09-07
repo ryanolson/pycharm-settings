@@ -416,6 +416,12 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ngc" timestamp="1504761484203">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/notes.md" timestamp="1501380234044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="2" />
@@ -551,11 +557,11 @@
       <jump line="107" column="25" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
+      <register name="&quot;" type="4">
+        <text>dmz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dmz</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
@@ -564,31 +570,31 @@
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERlZk1lbVBlck5vZGU9e3sgKChtZW1vcnkudG90YWxfbWJ8aW50IC8gZ3B1X3RvcG9sb2d5fGNvdW50KSowLjk1KXxyb3VuZHxpbnQgfX17eyAiICIgLX19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERlZk1lbVBlck5vZGU9NjQwMDAK</text>
+        <text encoding="base64">W2Rtei1zZXJ2ZXJzXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgc2V0IG1lbW9yeSA9ICBob3N0dmFyc1tub2RlX25hbWVdWyJhbnNpYmxlX2xvY2FsIl1bIm1lbW9yeSJdIC0lfQo=</text>
+        <text encoding="base64">W3NlY3VyZS1zZXJ2ZXJzXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbmlzCg==</text>
+        <text encoding="base64">c2VjdXJlICAgICAgIGFuc2libGVfc3NoX2hvc3Q9MTAuMzEuMjI4LjYwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9sdGEwMiAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
+        <text encoding="base64">ICAgIERlZk1lbVBlck5vZGU9e3sgKChtZW1vcnkudG90YWxfbWJ8aW50IC8gZ3B1X3RvcG9sb2d5fGNvdW50KSowLjk1KXxyb3VuZHxpbnQgfX17eyAiICIgLX19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyB1c2UgLWwgdG8gbmFycm93IGRvd24gdGhlIGhvc3RzIGluIHRoZSBpbnZlbnRvcnkgZmlsZQo=</text>
+        <text encoding="base64">ICAgIERlZk1lbVBlck5vZGU9NjQwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBORlMK</text>
+        <text encoding="base64">eyUgc2V0IG1lbW9yeSA9ICBob3N0dmFyc1tub2RlX25hbWVdWyJhbnNpYmxlX2xvY2FsIl1bIm1lbW9yeSJdIC0lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgIC0gbmlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBuaXMgfCBjcmVhdGUgZGVmYXVsdCBkb21haW4gbmFtZSBmaWxlCiAgZmlsZToKICAgIHBhdGg6IC9ldGMvZGVmYXVsdGRvbWFpbgogICAgb3duZXI6IHJvb3QKICAgIGdyb3VwOiByb290CiAgICBtb2RlOiAiMDY0NCIKICAgIHN0YXRlOiB0b3VjaAoK</text>
+        <text encoding="base64">dm9sdGEwMiAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
