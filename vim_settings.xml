@@ -385,11 +385,11 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/dgx-apt-server/aptly/scripts/update-ubuntu-secruity.sh" timestamp="1504891134600">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="61" />
+      <file name="$USER_HOME$/Projects/ngc/examples/dgx-apt-server/aptly/scripts/update-ubuntu-secruity.sh" timestamp="1504911874852">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
         <mark key="^" line="37" column="59" />
-        <mark key="." line="37" column="61" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1501530407349">
         <mark key="[" line="46" column="11" />
@@ -563,10 +563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
