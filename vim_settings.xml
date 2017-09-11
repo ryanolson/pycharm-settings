@@ -27,11 +27,11 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1505150988342">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1505158812475">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/docker/templates/daemon.j2" timestamp="1505147191196">
         <mark key="[" line="0" column="39" />
@@ -57,11 +57,11 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" timestamp="1503949443824">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" timestamp="1505158920669">
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="17" />
+        <mark key="^" line="92" column="17" />
+        <mark key="." line="92" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -116,6 +116,9 @@
         <mark key="]" line="145" column="37" />
         <mark key="^" line="145" column="37" />
         <mark key="." line="145" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" timestamp="1505158635072">
+        <mark key="'" line="124" column="4" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
@@ -191,6 +194,11 @@
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1504116430897">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="17" />
@@ -226,6 +234,12 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/defaults/main.yml" timestamp="1505158904777">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1505149223439">
         <mark key="'" line="17" column="0" />
@@ -325,6 +339,11 @@
         <mark key="]" line="97" column="0" />
         <mark key="^" line="86" column="43" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/dgx-servers" timestamp="1505158784490">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547327024">
         <mark key="[" line="12" column="0" />
@@ -474,11 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="45" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
-      <jump line="38" column="62" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
-      <jump line="11" column="31" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
-      <jump line="18" column="47" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="2" column="17" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/registry.py" />
       <jump line="31" column="38" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
       <jump line="54" column="18" filename="$USER_HOME$/Projects/ngc/services/cloner.py" />
@@ -574,16 +588,21 @@
       <jump line="111" column="78" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
       <jump line="108" column="30" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
       <jump line="107" column="25" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
+      <jump line="0" column="45" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
+      <jump line="20" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
+      <jump line="122" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
+      <jump line="123" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
+      <jump line="124" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>total</text>
+        <text>docker-ce</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
@@ -592,37 +611,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkb2NrZXJfc3RvcmFnZV9kcml2ZXI6IG92ZXJsYXkyCg==</text>
+        <text encoding="base64">bmlzX3NlcnZlcjogInt7IGdyb3Vwc1snc2x1cm0tbWFzdGVycyddWzBdIH19Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBob3N0czogYWxsCiAgYmVjb21lOiB5ZXMKICBnYXRoZXJfZmFjdHM6IEZhbHNlCiAgdmFyczoKICAgIGFuc2libGVfcHl0aG9uX2ludGVycHJldGVyOiAvdXNyL2Jpbi9weXRob24zCiAgcHJlX3Rhc2tzOgogICAgLSBob3N0bmFtZToKICAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19IgogIHJvbGVzOgogICAgLSBsb2NhbC1hcHQKICAgIC0gaG9zdHMKICB0YXNrczoKICAgIC0gbmFtZTogSW5zdGFsbCBQeXRob24gZm9yIEFuc2libGUKICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkKICAgICAgcmVnaXN0ZXI6IG91dHB1dAogICAgICBjaGFuZ2VkX3doZW46IG91dHB1dC5zdGRvdXQgIT0gIiIK</text>
+        <text encoding="base64">bmlzX2RvbWFpbjogInt7IG5nY19kb21haW4gfX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBwb3B1bGFyaXR5LWNvbnRlc3QKICAgICAgICBzdGF0ZTogYWJzZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogcmVtb3ZlIHBvcHVsYXJpdHktY29udGVzdAogICAgICBhcHQ6Cg==</text>
+        <text encoding="base64">bmdjX2RvbWFpbjogbmdjLmxvY2FsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19Igo=</text>
+        <text encoding="base64">CiMgZGVmYXVsdF91YnVudHVfcGFja2FnZXM6CiMgICAtIGFwcGFybW9yCiMgICAtIGFwdC10cmFuc3BvcnQtaHR0cHMKIyAgIC0gYXV0b21ha2UKIyAgIC0gYmlzb24KIyAgIC0gY2FjaGVmaWxlc2QKIyAgIC0gY2hycGF0aAojICAgLSBjbWFrZQojICAgLSBjcnlwdHNldHVwCiMgICAtIGN1ZGEtZHJpdmVycwojICAgLSBjdWRhLWRyaXZlcnMtZGlhZ25vc3RpYwojICAgLSBjdXJsCiMgICAtIGRhcGwyLXV0aWxzCiMgICAtIGRhdGFjZW50ZXItZ3B1LW1hbmFnZXIKIyAgIC0gZGJ1cy14MTEKIyAgIC0gZGd4LWRvY2tlci1jbGVhbnVwCiMgICAtIGRneC1kb2NrZXItb3B0aW9ucwojICAgLSBkZ3gtb2VtLWNvbmZpZy1ibWMKIyAgIC0gZGd4LW9lbS1jb25maWctZXVsYQojICAgLSBkZ3gtcmFpZC1jb25maWcKIyAgIC0gZGd4c2VydmVyLWNvbmZpZ3VyYXRpb25zCiMgICAtIGRpZmZ1dGlscwojICAgLSBkcGF0Y2gKIyAgIC0gZTJmc3Byb2dzCiMgICAtIGVjcnlwdGZzLXV0aWxzCiMgICAtIGV0aHRvb2wKIyAgIC0gZmFpbDJiYW4KIyAgIC0gZmlsZQojICAgLSBmaW5kdXRpbHMKIyAgIC0gZmxleAojICAgLSBmdXNlCiMgICAtIGdkaXNrCiMgICAtIGdmb3J0cmFuCiMgICAtIGdyYXBodml6CiMgICAtIGdydWItZWZpLWFtZDY0LXNpZ25lZAojICAgLSBnemlwCiMgICAtIGhvc3RuYW1lCiMgICAtIGliYWNtLWRldgojICAgLSBpYnNpbQojICAgLSBpYnNpbS1kb2MKIyAgIC0gaWJ1dGlscwojICAgLSBpYnZlcmJzLXV0aWxzCiMgICAtIGlmZW5zbGF2ZQojICAgLSBpbmZpbmliYW5kLWRpYWdzCiMgICAtIGluaXQKIyAgIC0gaW5zdGFsbGF0aW9uLXJlcG9ydAojICAgLSBpcG1pdG9vbAojICAgLSBpc2MtZGhjcC1jb21tb24KIyAgIC0gaXNlci1ka21zCiMgICAtIGtlcm5lbC1tZnQtZGttcwojICAgLSBrbmVtCiMgICAtIGtuZW0tZGttcwojICAgLSBsYXB0b3AtZGV0ZWN0CiMgICAtIGxpYmF0bTEKIyAgIC0gbGliZGFwbC1kZXYKIyAgIC0gbGliZnJpYmlkaTAKIyAgIC0gbGliaWJjbS1kZXYKIyAgIC0gbGliaWJtYWQtZGV2ZWwKIyAgIC0gbGliaWJtYWQtc3RhdGljCiMgICAtIGxpYmlidW1hZC1kZXZlbAojICAgLSBsaWJpYnVtYWQtc3RhdGljCiMgICAtIGxpYmlidmVyYnMxLWRiZwojICAgLSBsaWJtbHg0LTEtZGJnCiMgICAtIGxpYm1seDQtZGV2CiMgICAtIGxpYm1seDUtMS1kYmcKIyAgIC0gbGlibWx4NS1kZXYKIyAgIC0gbGlicmRtYWNtLWRldgojICAgLSBsaWJyZG1hY20tdXRpbHMKIyAgIC0gbGludXgtZ2VuZXJpYwojICAgLSBsaW51eC1pbWFnZS1leHRyYS00LjQuMC04MS1nZW5lcmljCiMgICAtIGxpbnV4LXRvb2xzLTQuNC4wLTgxLWdlbmVyaWMKIyAgIC0gbGludXgtdG9vbHMtZ2VuZXJpYwojICAgLSBsb2dpbgojICAgLSBsb2dyb3RhdGUKIyAgIC0gbHNodwojICAgLSBtZnQKIyAgIC0gbWxueC1ldGh0b29sCiMgICAtIG1sbngtZnctdXBkYXRlcgojICAgLSBtc3RmbGludAojICAgLSBuY3Vyc2VzLWJhc2UKIyAgIC0gbmN1cnNlcy1iaW4KIyAgIC0gbmN1cnNlcy10ZXJtCiMgICAtIG5mcy1jb21tb24KIyAgIC0gbnZpZGlhLWRvY2tlcgojICAgLSBudmlkaWEtcGVlci1tZW1vcnkKIyAgIC0gbnZpZGlhLXBlZXItbWVtb3J5LWRrbXMKIyAgIC0gbnZpZGlhLXN5c2luZm8tZGd4CiMgICAtIG9mZWQtc2NyaXB0cwojICAgLSBvcGVuc20KIyAgIC0gb3MtcHJvYmVyCiMgICAtIHBlcmZ0ZXN0CiMgICAtIHBzbWlzYwojICAgLSBxdWlsdAojICAgLSBzaGltLXNpZ25lZAojICAgLSBzbWFydG1vbnRvb2xzCiMgICAtIHNycC1ka21zCiMgICAtIHNycHRvb2xzCiMgICAtIHNzaAojICAgLSBzd2lnCiMgICAtIHRrCiMgICAtIHVidW50dS1taW5pbWFsCiMgICAtIHVzYnV0aWxzCiMgICAtIHZpbQojICAgLSB3Z2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
+        <text encoding="base64">ZG9ja2VyX2NvbnRhaW5lcl9pcDogMTkyLjE2OC45OS4wLzI0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>total</last-search>
+      <last-search>docker-ce</last-search>
       <last-offset />
-      <last-pattern>total</last-pattern>
+      <last-pattern>docker-ce</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -630,8 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>login</entry>
         <entry>client</entry>
         <entry>project</entry>
         <entry>registry_url</entry>
@@ -650,6 +667,8 @@
         <entry>nisdomain</entry>
         <entry>nisserver</entry>
         <entry>total</entry>
+        <entry>nvidia</entry>
+        <entry>docker-ce</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -668,9 +687,9 @@
         <entry>.,$</entry>
         <entry>'a,d</entry>
         <entry>q</entry>
+        <entry>'a,.d</entry>
         <entry>wq</entry>
         <entry>.,$d</entry>
-        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
