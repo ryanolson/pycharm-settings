@@ -132,14 +132,6 @@
         <mark key="^" line="58" column="103" />
         <mark key="." line="58" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" timestamp="1504290048064">
-        <mark key="p" line="26" column="1" />
-        <mark key="'" line="26" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/defaults/main.yml" timestamp="1504289401321">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="17" />
@@ -248,12 +240,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1505149032320">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1505160908324">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="52" column="18" />
-        <mark key="." line="52" column="18" />
-        <mark key="^" line="52" column="18" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -382,11 +373,11 @@
         <mark key="." line="111" column="54" />
         <mark key="^" line="111" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1504017875688">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1505160303754">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
@@ -417,6 +408,12 @@
         <mark key="]" line="21" column="51" />
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/singularity/tasks/main.yml" timestamp="1505161026089">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/dgx-apt-server/aptly/scripts/update-ubuntu-secruity.sh" timestamp="1504911874852">
         <mark key="[" line="15" column="16" />
@@ -596,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNldHVwOiAjIHVwZGF0ZSBmYWN0cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>genhhhherate facts</text>
       </register>
       <register name="/" type="4">
         <text>docker-ce</text>
@@ -608,31 +605,31 @@
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNldHVwOiAjIHVwZGF0ZSBmYWN0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmlzX3NlcnZlcjogInt7IGdyb3Vwc1snc2x1cm0tbWFzdGVycyddWzBdIH19Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmlzX2RvbWFpbjogInt7IG5nY19kb21haW4gfX0iCg==</text>
+        <text encoding="base64">bmlzX3NlcnZlcjogInt7IGdyb3Vwc1snc2x1cm0tbWFzdGVycyddWzBdIH19Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmlzX2RvbWFpbjogInt7IG5nY19kb21haW4gfX0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmdjX2RvbWFpbjogbmdjLmxvY2FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmdjX2RvbWFpbjogbmdjLmxvY2FsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgZGVmYXVsdF91YnVudHVfcGFja2FnZXM6CiMgICAtIGFwcGFybW9yCiMgICAtIGFwdC10cmFuc3BvcnQtaHR0cHMKIyAgIC0gYXV0b21ha2UKIyAgIC0gYmlzb24KIyAgIC0gY2FjaGVmaWxlc2QKIyAgIC0gY2hycGF0aAojICAgLSBjbWFrZQojICAgLSBjcnlwdHNldHVwCiMgICAtIGN1ZGEtZHJpdmVycwojICAgLSBjdWRhLWRyaXZlcnMtZGlhZ25vc3RpYwojICAgLSBjdXJsCiMgICAtIGRhcGwyLXV0aWxzCiMgICAtIGRhdGFjZW50ZXItZ3B1LW1hbmFnZXIKIyAgIC0gZGJ1cy14MTEKIyAgIC0gZGd4LWRvY2tlci1jbGVhbnVwCiMgICAtIGRneC1kb2NrZXItb3B0aW9ucwojICAgLSBkZ3gtb2VtLWNvbmZpZy1ibWMKIyAgIC0gZGd4LW9lbS1jb25maWctZXVsYQojICAgLSBkZ3gtcmFpZC1jb25maWcKIyAgIC0gZGd4c2VydmVyLWNvbmZpZ3VyYXRpb25zCiMgICAtIGRpZmZ1dGlscwojICAgLSBkcGF0Y2gKIyAgIC0gZTJmc3Byb2dzCiMgICAtIGVjcnlwdGZzLXV0aWxzCiMgICAtIGV0aHRvb2wKIyAgIC0gZmFpbDJiYW4KIyAgIC0gZmlsZQojICAgLSBmaW5kdXRpbHMKIyAgIC0gZmxleAojICAgLSBmdXNlCiMgICAtIGdkaXNrCiMgICAtIGdmb3J0cmFuCiMgICAtIGdyYXBodml6CiMgICAtIGdydWItZWZpLWFtZDY0LXNpZ25lZAojICAgLSBnemlwCiMgICAtIGhvc3RuYW1lCiMgICAtIGliYWNtLWRldgojICAgLSBpYnNpbQojICAgLSBpYnNpbS1kb2MKIyAgIC0gaWJ1dGlscwojICAgLSBpYnZlcmJzLXV0aWxzCiMgICAtIGlmZW5zbGF2ZQojICAgLSBpbmZpbmliYW5kLWRpYWdzCiMgICAtIGluaXQKIyAgIC0gaW5zdGFsbGF0aW9uLXJlcG9ydAojICAgLSBpcG1pdG9vbAojICAgLSBpc2MtZGhjcC1jb21tb24KIyAgIC0gaXNlci1ka21zCiMgICAtIGtlcm5lbC1tZnQtZGttcwojICAgLSBrbmVtCiMgICAtIGtuZW0tZGttcwojICAgLSBsYXB0b3AtZGV0ZWN0CiMgICAtIGxpYmF0bTEKIyAgIC0gbGliZGFwbC1kZXYKIyAgIC0gbGliZnJpYmlkaTAKIyAgIC0gbGliaWJjbS1kZXYKIyAgIC0gbGliaWJtYWQtZGV2ZWwKIyAgIC0gbGliaWJtYWQtc3RhdGljCiMgICAtIGxpYmlidW1hZC1kZXZlbAojICAgLSBsaWJpYnVtYWQtc3RhdGljCiMgICAtIGxpYmlidmVyYnMxLWRiZwojICAgLSBsaWJtbHg0LTEtZGJnCiMgICAtIGxpYm1seDQtZGV2CiMgICAtIGxpYm1seDUtMS1kYmcKIyAgIC0gbGlibWx4NS1kZXYKIyAgIC0gbGlicmRtYWNtLWRldgojICAgLSBsaWJyZG1hY20tdXRpbHMKIyAgIC0gbGludXgtZ2VuZXJpYwojICAgLSBsaW51eC1pbWFnZS1leHRyYS00LjQuMC04MS1nZW5lcmljCiMgICAtIGxpbnV4LXRvb2xzLTQuNC4wLTgxLWdlbmVyaWMKIyAgIC0gbGludXgtdG9vbHMtZ2VuZXJpYwojICAgLSBsb2dpbgojICAgLSBsb2dyb3RhdGUKIyAgIC0gbHNodwojICAgLSBtZnQKIyAgIC0gbWxueC1ldGh0b29sCiMgICAtIG1sbngtZnctdXBkYXRlcgojICAgLSBtc3RmbGludAojICAgLSBuY3Vyc2VzLWJhc2UKIyAgIC0gbmN1cnNlcy1iaW4KIyAgIC0gbmN1cnNlcy10ZXJtCiMgICAtIG5mcy1jb21tb24KIyAgIC0gbnZpZGlhLWRvY2tlcgojICAgLSBudmlkaWEtcGVlci1tZW1vcnkKIyAgIC0gbnZpZGlhLXBlZXItbWVtb3J5LWRrbXMKIyAgIC0gbnZpZGlhLXN5c2luZm8tZGd4CiMgICAtIG9mZWQtc2NyaXB0cwojICAgLSBvcGVuc20KIyAgIC0gb3MtcHJvYmVyCiMgICAtIHBlcmZ0ZXN0CiMgICAtIHBzbWlzYwojICAgLSBxdWlsdAojICAgLSBzaGltLXNpZ25lZAojICAgLSBzbWFydG1vbnRvb2xzCiMgICAtIHNycC1ka21zCiMgICAtIHNycHRvb2xzCiMgICAtIHNzaAojICAgLSBzd2lnCiMgICAtIHRrCiMgICAtIHVidW50dS1taW5pbWFsCiMgICAtIHVzYnV0aWxzCiMgICAtIHZpbQojICAgLSB3Z2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9ja2VyX2NvbnRhaW5lcl9pcDogMTkyLjE2OC45OS4wLzI0Cg==</text>
+        <text encoding="base64">CiMgZGVmYXVsdF91YnVudHVfcGFja2FnZXM6CiMgICAtIGFwcGFybW9yCiMgICAtIGFwdC10cmFuc3BvcnQtaHR0cHMKIyAgIC0gYXV0b21ha2UKIyAgIC0gYmlzb24KIyAgIC0gY2FjaGVmaWxlc2QKIyAgIC0gY2hycGF0aAojICAgLSBjbWFrZQojICAgLSBjcnlwdHNldHVwCiMgICAtIGN1ZGEtZHJpdmVycwojICAgLSBjdWRhLWRyaXZlcnMtZGlhZ25vc3RpYwojICAgLSBjdXJsCiMgICAtIGRhcGwyLXV0aWxzCiMgICAtIGRhdGFjZW50ZXItZ3B1LW1hbmFnZXIKIyAgIC0gZGJ1cy14MTEKIyAgIC0gZGd4LWRvY2tlci1jbGVhbnVwCiMgICAtIGRneC1kb2NrZXItb3B0aW9ucwojICAgLSBkZ3gtb2VtLWNvbmZpZy1ibWMKIyAgIC0gZGd4LW9lbS1jb25maWctZXVsYQojICAgLSBkZ3gtcmFpZC1jb25maWcKIyAgIC0gZGd4c2VydmVyLWNvbmZpZ3VyYXRpb25zCiMgICAtIGRpZmZ1dGlscwojICAgLSBkcGF0Y2gKIyAgIC0gZTJmc3Byb2dzCiMgICAtIGVjcnlwdGZzLXV0aWxzCiMgICAtIGV0aHRvb2wKIyAgIC0gZmFpbDJiYW4KIyAgIC0gZmlsZQojICAgLSBmaW5kdXRpbHMKIyAgIC0gZmxleAojICAgLSBmdXNlCiMgICAtIGdkaXNrCiMgICAtIGdmb3J0cmFuCiMgICAtIGdyYXBodml6CiMgICAtIGdydWItZWZpLWFtZDY0LXNpZ25lZAojICAgLSBnemlwCiMgICAtIGhvc3RuYW1lCiMgICAtIGliYWNtLWRldgojICAgLSBpYnNpbQojICAgLSBpYnNpbS1kb2MKIyAgIC0gaWJ1dGlscwojICAgLSBpYnZlcmJzLXV0aWxzCiMgICAtIGlmZW5zbGF2ZQojICAgLSBpbmZpbmliYW5kLWRpYWdzCiMgICAtIGluaXQKIyAgIC0gaW5zdGFsbGF0aW9uLXJlcG9ydAojICAgLSBpcG1pdG9vbAojICAgLSBpc2MtZGhjcC1jb21tb24KIyAgIC0gaXNlci1ka21zCiMgICAtIGtlcm5lbC1tZnQtZGttcwojICAgLSBrbmVtCiMgICAtIGtuZW0tZGttcwojICAgLSBsYXB0b3AtZGV0ZWN0CiMgICAtIGxpYmF0bTEKIyAgIC0gbGliZGFwbC1kZXYKIyAgIC0gbGliZnJpYmlkaTAKIyAgIC0gbGliaWJjbS1kZXYKIyAgIC0gbGliaWJtYWQtZGV2ZWwKIyAgIC0gbGliaWJtYWQtc3RhdGljCiMgICAtIGxpYmlidW1hZC1kZXZlbAojICAgLSBsaWJpYnVtYWQtc3RhdGljCiMgICAtIGxpYmlidmVyYnMxLWRiZwojICAgLSBsaWJtbHg0LTEtZGJnCiMgICAtIGxpYm1seDQtZGV2CiMgICAtIGxpYm1seDUtMS1kYmcKIyAgIC0gbGlibWx4NS1kZXYKIyAgIC0gbGlicmRtYWNtLWRldgojICAgLSBsaWJyZG1hY20tdXRpbHMKIyAgIC0gbGludXgtZ2VuZXJpYwojICAgLSBsaW51eC1pbWFnZS1leHRyYS00LjQuMC04MS1nZW5lcmljCiMgICAtIGxpbnV4LXRvb2xzLTQuNC4wLTgxLWdlbmVyaWMKIyAgIC0gbGludXgtdG9vbHMtZ2VuZXJpYwojICAgLSBsb2dpbgojICAgLSBsb2dyb3RhdGUKIyAgIC0gbHNodwojICAgLSBtZnQKIyAgIC0gbWxueC1ldGh0b29sCiMgICAtIG1sbngtZnctdXBkYXRlcgojICAgLSBtc3RmbGludAojICAgLSBuY3Vyc2VzLWJhc2UKIyAgIC0gbmN1cnNlcy1iaW4KIyAgIC0gbmN1cnNlcy10ZXJtCiMgICAtIG5mcy1jb21tb24KIyAgIC0gbnZpZGlhLWRvY2tlcgojICAgLSBudmlkaWEtcGVlci1tZW1vcnkKIyAgIC0gbnZpZGlhLXBlZXItbWVtb3J5LWRrbXMKIyAgIC0gbnZpZGlhLXN5c2luZm8tZGd4CiMgICAtIG9mZWQtc2NyaXB0cwojICAgLSBvcGVuc20KIyAgIC0gb3MtcHJvYmVyCiMgICAtIHBlcmZ0ZXN0CiMgICAtIHBzbWlzYwojICAgLSBxdWlsdAojICAgLSBzaGltLXNpZ25lZAojICAgLSBzbWFydG1vbnRvb2xzCiMgICAtIHNycC1ka21zCiMgICAtIHNycHRvb2xzCiMgICAtIHNzaAojICAgLSBzd2lnCiMgICAtIHRrCiMgICAtIHVidW50dS1taW5pbWFsCiMgICAtIHVzYnV0aWxzCiMgICAtIHZpbQojICAgLSB3Z2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
