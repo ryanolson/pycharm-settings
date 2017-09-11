@@ -33,12 +33,7 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1504035975866">
-        <mark key="a" line="6" column="19" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/docker/templates/daemon.j2" timestamp="1505146240863" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
