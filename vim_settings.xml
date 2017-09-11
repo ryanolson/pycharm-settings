@@ -81,11 +81,11 @@
         <mark key="^" line="35" column="66" />
         <mark key="." line="35" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ngc.yml" timestamp="1505147743981">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ngc.yml" timestamp="1505149328103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.yml" timestamp="1504020741543">
         <mark key="[" line="2" column="0" />
@@ -232,18 +232,19 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1504329520771">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1505149223439">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1504041555451">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1505149032320">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="35" column="13" />
-        <mark key="." line="35" column="13" />
-        <mark key="^" line="35" column="13" />
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+        <mark key="^" line="52" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -580,11 +581,11 @@
       <jump line="107" column="25" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBob3N0czogYWxsCiAgYmVjb21lOiB5ZXMKICBnYXRoZXJfZmFjdHM6IEZhbHNlCiAgdmFyczoKICAgIGFuc2libGVfcHl0aG9uX2ludGVycHJldGVyOiAvdXNyL2Jpbi9weXRob24zCiAgcHJlX3Rhc2tzOgogICAgLSBob3N0bmFtZToKICAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19IgogIHJvbGVzOgogICAgLSBsb2NhbC1hcHQKICAgIC0gaG9zdHMKICB0YXNrczoKICAgIC0gbmFtZTogSW5zdGFsbCBQeXRob24gZm9yIEFuc2libGUKICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkKICAgICAgcmVnaXN0ZXI6IG91dHB1dAogICAgICBjaGFuZ2VkX3doZW46IG91dHB1dC5zdGRvdXQgIT0gIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
@@ -593,31 +594,31 @@
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBob3N0czogYWxsCiAgYmVjb21lOiB5ZXMKICBnYXRoZXJfZmFjdHM6IEZhbHNlCiAgdmFyczoKICAgIGFuc2libGVfcHl0aG9uX2ludGVycHJldGVyOiAvdXNyL2Jpbi9weXRob24zCiAgcHJlX3Rhc2tzOgogICAgLSBob3N0bmFtZToKICAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19IgogIHJvbGVzOgogICAgLSBsb2NhbC1hcHQKICAgIC0gaG9zdHMKICB0YXNrczoKICAgIC0gbmFtZTogSW5zdGFsbCBQeXRob24gZm9yIEFuc2libGUKICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkKICAgICAgcmVnaXN0ZXI6IG91dHB1dAogICAgICBjaGFuZ2VkX3doZW46IG91dHB1dC5zdGRvdXQgIT0gIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBwb3B1bGFyaXR5LWNvbnRlc3QKICAgICAgICBzdGF0ZTogYWJzZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3sgZG9ja2VyfHRvanNvbl9wcmV0dHl8c2FmZSB9fQo=</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogcmVtb3ZlIHBvcHVsYXJpdHktY29udGVzdAogICAgICBhcHQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZTogbGF0ZXN0Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBkb2NrZXItY2UK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXB0Ogo=</text>
+        <text encoding="base64">ICAgIC0gaG9zdG5hbWU6CiAgICAgICAgbmFtZTogInt7IGludmVudG9yeV9ob3N0bmFtZSB9fSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogaW5zdGFsbCBkb2NrZXItY2UK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0YXNrczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -671,10 +672,10 @@
         <entry>'a,.y</entry>
         <entry>.,$</entry>
         <entry>'a,d</entry>
-        <entry>'a,.d</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>.,$d</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
