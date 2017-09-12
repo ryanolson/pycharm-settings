@@ -144,11 +144,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1504116407968">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="30" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1505220218125">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
@@ -598,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>nvchos</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>nvchos</text>
       </register>
       <register name="/" type="4">
         <text>docker-ce</text>
