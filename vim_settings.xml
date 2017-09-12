@@ -377,17 +377,24 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1505220503528">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1505246673224">
         <mark key="'" line="110" column="25" />
-        <mark key="[" line="92" column="51" />
-        <mark key="]" line="95" column="20" />
-        <mark key="." line="95" column="20" />
-        <mark key="^" line="95" column="20" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1505164111850">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1505246976212">
+        <mark key="j" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
