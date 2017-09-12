@@ -240,11 +240,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1505160908324">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1505203794130">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -592,7 +592,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgIC0gbnZpZGlhLWNvbnRhaW5lci5mYWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>genhhhherate facts</text>
@@ -604,34 +604,34 @@
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgIC0gbnZpZGlhLWNvbnRhaW5lci5mYWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIHNldHVwOiAjIHVwZGF0ZSBmYWN0cwo=</text>
+        <text encoding="base64">IyAgIC0gbnZpZGlhLWNvbnRhaW5lci5mYWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNldHVwOiAjIHVwZGF0ZSBmYWN0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmlzX3NlcnZlcjogInt7IGdyb3Vwc1snc2x1cm0tbWFzdGVycyddWzBdIH19Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmlzX2RvbWFpbjogInt7IG5nY19kb21haW4gfX0iCg==</text>
+        <text encoding="base64">bmlzX3NlcnZlcjogInt7IGdyb3Vwc1snc2x1cm0tbWFzdGVycyddWzBdIH19Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmlzX2RvbWFpbjogInt7IG5nY19kb21haW4gfX0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmdjX2RvbWFpbjogbmdjLmxvY2FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmdjX2RvbWFpbjogbmdjLmxvY2FsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -685,8 +685,8 @@
         <entry>q</entry>
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
