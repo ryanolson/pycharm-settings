@@ -372,12 +372,12 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1504635352793">
-        <mark key="'" line="107" column="25" />
-        <mark key="[" line="109" column="12" />
-        <mark key="]" line="111" column="54" />
-        <mark key="." line="111" column="54" />
-        <mark key="^" line="111" column="54" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1505220503528">
+        <mark key="'" line="110" column="25" />
+        <mark key="[" line="92" column="51" />
+        <mark key="]" line="95" column="20" />
+        <mark key="." line="95" column="20" />
+        <mark key="^" line="95" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1505164111850">
         <mark key="[" line="16" column="0" />
@@ -637,7 +637,7 @@
         <text encoding="base64">ICAtIHNldHVwOiAjIHVwZGF0ZSBmYWN0cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -691,8 +691,8 @@
         <entry>q</entry>
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
