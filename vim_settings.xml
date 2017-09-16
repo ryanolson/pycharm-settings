@@ -27,7 +27,7 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1505242604535">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1505580868858">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="38" column="20" />
@@ -342,10 +342,11 @@
         <mark key="^" line="86" column="43" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/dgx-servers" timestamp="1505158784490">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/dgx-servers" timestamp="1505581192404">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="91" />
+        <mark key="^" line="2" column="91" />
+        <mark key="." line="2" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547327024">
         <mark key="[" line="12" column="0" />
@@ -388,6 +389,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/tesla-servers" timestamp="1505581106944">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1505246976212">
         <mark key="j" line="0" column="0" />
@@ -610,7 +616,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gbnZpZGlhLWRvY2tlcjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>docker-ce</text>
@@ -622,34 +628,34 @@
         <text encoding="base64">ICAgIC0gbnZpZGlhLWRvY2tlcjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">YW5zaWJsZV91c2VyOiB1YnVudHUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJ1bnRpbWVBcmdzIjogW10K</text>
+        <text encoding="base64">IyBEZWZhdWx0IHN5c3RlbSBQQVRICg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAiL3Vzci9iaW4vbnZpZGlhLWNvbnRhaW5lci1ydW50aW1lIiwK</text>
+        <text encoding="base64">CmFuc2libGVfdXNlcjogdWJ1bnR1CgojIERlZmF1bHQgc3lzdGVtIFBBVEgKZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgoKZG9ja2VyOgogIHN0b3JhZ2VfZHJpdmVyOiBvdmVybGF5MgogIGRpc2FibGVfbGVnYWN5X3JlZ2lzdHJ5OiBmYWxzZQogIGJpcDogMTkyLjE2OC45OS4xLzI0CiAgZml4ZWRfY2lkcjogMTkyLjE2OC45OS4wLzI0CiAgcnVudGltZXM6CiAgICBudmlkaWE6CiAgICAgIHBhdGg6IC91c3IvYmluL252aWRpYS1jb250YWluZXItcnVudGltZQogICAgICBydW50aW1lQXJnczogW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAibnZpZGlhIjogewo=</text>
+        <text encoding="base64">ZG9ja2VyOgogIGJpcDogMTkyLjE2OC45OS4xLzI0CiAgZml4ZWRfY2lkcjogMTkyLjE2OC45OS4wLzI0CiAgcnVudGltZXM6CiAgICBudmlkaWE6CiAgICAgIHBhdGg6IC91c3IvYmluL252aWRpYS1jb250YWluZXItcnVudGltZQogICAgICBydW50aW1lQXJnczogW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICJydW50aW1lcyI6IHsK</text>
+        <text encoding="base64">ICBkaXNhYmxlX2xlZ2FjeV9yZWdpc3RyeTogZmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JX0K</text>
+        <text encoding="base64">ICBzdG9yYWdlX2RyaXZlcjogb3ZlcmxheTIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -685,7 +691,6 @@
         <entry>docker</entry>
       </history-search>
       <history-cmd>
-        <entry>set paste</entry>
         <entry>'a,,d</entry>
         <entry>.,$ s/^/## -- /</entry>
         <entry>'a,.s/^/# /</entry>
@@ -703,8 +708,9 @@
         <entry>q</entry>
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>:wq</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
