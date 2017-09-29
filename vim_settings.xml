@@ -244,7 +244,7 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1505149223439">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1506720803791">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="0" />
@@ -395,7 +395,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1505246976212">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" timestamp="1506720732903">
         <mark key="j" line="0" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="1" />
