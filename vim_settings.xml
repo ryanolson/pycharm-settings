@@ -498,10 +498,10 @@
         <mark key="." line="42" column="36" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1505204443338">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1506717789267">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="47" />
         <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504116531884">
@@ -655,7 +655,7 @@
         <text encoding="base64">ICBzdG9yYWdlX2RyaXZlcjogb3ZlcmxheTIK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -708,9 +708,9 @@
         <entry>q</entry>
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
-        <entry>w</entry>
         <entry>:wq</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
