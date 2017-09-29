@@ -342,7 +342,7 @@
         <mark key="^" line="86" column="43" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/dgx-servers" timestamp="1505581192404">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/dgx-servers" timestamp="1506707117933">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="91" />
         <mark key="^" line="2" column="91" />
