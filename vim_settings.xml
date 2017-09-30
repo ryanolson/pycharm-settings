@@ -499,10 +499,10 @@
         <mark key="." line="42" column="36" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1506742436129">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="47" />
-        <mark key="." line="1" column="47" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1506754464891">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504116531884">
@@ -617,10 +617,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9sdGEwMiAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="-" type="4">
-        <text>docker-ce</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
@@ -629,31 +629,31 @@
         <text encoding="base64">ICAgIC0gbnZpZGlhLWRvY2tlcjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9sdGEwMiAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5zaWJsZV91c2VyOiB1YnVudHUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgo=</text>
+        <text encoding="base64">YW5zaWJsZV91c2VyOiB1YnVudHUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBEZWZhdWx0IHN5c3RlbSBQQVRICg==</text>
+        <text encoding="base64">ZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmFuc2libGVfdXNlcjogdWJ1bnR1CgojIERlZmF1bHQgc3lzdGVtIFBBVEgKZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgoKZG9ja2VyOgogIHN0b3JhZ2VfZHJpdmVyOiBvdmVybGF5MgogIGRpc2FibGVfbGVnYWN5X3JlZ2lzdHJ5OiBmYWxzZQogIGJpcDogMTkyLjE2OC45OS4xLzI0CiAgZml4ZWRfY2lkcjogMTkyLjE2OC45OS4wLzI0CiAgcnVudGltZXM6CiAgICBudmlkaWE6CiAgICAgIHBhdGg6IC91c3IvYmluL252aWRpYS1jb250YWluZXItcnVudGltZQogICAgICBydW50aW1lQXJnczogW10K</text>
+        <text encoding="base64">IyBEZWZhdWx0IHN5c3RlbSBQQVRICg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9ja2VyOgogIGJpcDogMTkyLjE2OC45OS4xLzI0CiAgZml4ZWRfY2lkcjogMTkyLjE2OC45OS4wLzI0CiAgcnVudGltZXM6CiAgICBudmlkaWE6CiAgICAgIHBhdGg6IC91c3IvYmluL252aWRpYS1jb250YWluZXItcnVudGltZQogICAgICBydW50aW1lQXJnczogW10K</text>
+        <text encoding="base64">CmFuc2libGVfdXNlcjogdWJ1bnR1CgojIERlZmF1bHQgc3lzdGVtIFBBVEgKZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgoKZG9ja2VyOgogIHN0b3JhZ2VfZHJpdmVyOiBvdmVybGF5MgogIGRpc2FibGVfbGVnYWN5X3JlZ2lzdHJ5OiBmYWxzZQogIGJpcDogMTkyLjE2OC45OS4xLzI0CiAgZml4ZWRfY2lkcjogMTkyLjE2OC45OS4wLzI0CiAgcnVudGltZXM6CiAgICBudmlkaWE6CiAgICAgIHBhdGg6IC91c3IvYmluL252aWRpYS1jb250YWluZXItcnVudGltZQogICAgICBydW50aW1lQXJnczogW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkaXNhYmxlX2xlZ2FjeV9yZWdpc3RyeTogZmFsc2UK</text>
+        <text encoding="base64">ZG9ja2VyOgogIGJpcDogMTkyLjE2OC45OS4xLzI0CiAgZml4ZWRfY2lkcjogMTkyLjE2OC45OS4wLzI0CiAgcnVudGltZXM6CiAgICBudmlkaWE6CiAgICAgIHBhdGg6IC91c3IvYmluL252aWRpYS1jb250YWluZXItcnVudGltZQogICAgICBydW50aW1lQXJnczogW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdG9yYWdlX2RyaXZlcjogb3ZlcmxheTIK</text>
+        <text encoding="base64">ICBkaXNhYmxlX2xlZ2FjeV9yZWdpc3RyeTogZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
