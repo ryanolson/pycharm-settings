@@ -149,7 +149,6 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/services/aptly/Dockerfile" timestamp="1506743493082" />
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="2" column="33" />
@@ -499,7 +498,7 @@
         <mark key="." line="42" column="36" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1506755930195">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1507409275372">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="47" />
         <mark key="." line="7" column="47" />
