@@ -498,10 +498,10 @@
         <mark key="." line="42" column="36" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1507409275372">
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1509435432611">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="1" column="47" />
         <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504116531884">
@@ -615,11 +615,11 @@
       <jump line="37" column="13" filename="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjQK</text>
+      <register name="&quot;" type="4">
+        <text>64</text>
       </register>
       <register name="-" type="4">
-        <text>83</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
