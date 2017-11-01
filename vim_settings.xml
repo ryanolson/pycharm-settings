@@ -247,7 +247,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1505242980197">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1509501572160">
         <mark key="'" line="39" column="13" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="20" />
@@ -476,6 +476,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/registry.yml" timestamp="1509501717853">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/README.md" timestamp="1501786860043">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="0" />
@@ -612,10 +618,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>volta02</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>volta02</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
@@ -624,34 +630,34 @@
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIG52aWRpYS1kb2NrZXIyCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGdyYWRlOiBzYWZlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIG52aWRpYS1kb2NrZXIyCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZV92YWxpZF90aW1lOiAzNjAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIGRvY2tlci1jZQo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfY2FjaGU6IHllcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9sdGEwMiAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
+        <text encoding="base64">ICBiZWNvbWU6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIG52aWRpYS1kb2NrZXIyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIG52aWRpYS1kb2NrZXIyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5zaWJsZV91c2VyOiB1YnVudHUK</text>
+        <text encoding="base64">ICAtIGRvY2tlci1jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmYXVsdF9wYXRoOiAiL3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIgo=</text>
+        <text encoding="base64">dm9sdGEwMiAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBEZWZhdWx0IHN5c3RlbSBQQVRICg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -705,8 +711,8 @@
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>:wq</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
