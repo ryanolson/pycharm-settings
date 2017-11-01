@@ -116,9 +116,6 @@
         <mark key="^" line="145" column="37" />
         <mark key="." line="145" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" timestamp="1505158635072">
-        <mark key="'" line="124" column="4" />
-      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
         <mark key="]" line="164" column="27" />
@@ -461,11 +458,11 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1503987960824">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="28" column="25" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1509499747019">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="1" />
         <mark key="^" line="28" column="25" />
-        <mark key="." line="28" column="25" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ngc" timestamp="1504761484203">
         <mark key="[" line="0" column="0" />
@@ -497,11 +494,11 @@
         <mark key="." line="42" column="36" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1509469679793">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="47" />
-        <mark key="." line="1" column="47" />
-        <mark key="^" line="6" column="46" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/inventory" timestamp="1509499345246">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1504116531884">
         <mark key="'" line="28" column="6" />
@@ -614,11 +611,11 @@
       <jump line="70" column="8" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIG52aWRpYS1kb2NrZXIyCg==</text>
+      <register name="&quot;" type="4">
+        <text>volta02</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>volta02</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
