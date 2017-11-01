@@ -374,12 +374,12 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1505246673224">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1509568915276">
         <mark key="'" line="110" column="25" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="95" column="0" />
+        <mark key="[" line="102" column="36" />
+        <mark key="]" line="102" column="107" />
+        <mark key="." line="102" column="107" />
+        <mark key="^" line="102" column="107" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1505164111850">
         <mark key="[" line="16" column="0" />
@@ -624,7 +624,7 @@
         <text>74</text>
       </register>
       <register name="/" type="4">
-        <text>docker</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dm9sdGEwMSAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4zMS4yMjguNjQK</text>
@@ -661,9 +661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>docker</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>docker</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>project</entry>
         <entry>registry_url</entry>
         <entry>to_fetch</entry>
         <entry>exporter</entry>
@@ -691,6 +690,7 @@
         <entry>nvidia</entry>
         <entry>docker-ce</entry>
         <entry>docker</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>'a,,d</entry>
