@@ -56,7 +56,7 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" timestamp="1509441162777">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" timestamp="1509686472926">
         <mark key="'" line="70" column="8" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -259,7 +259,6 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/gan-tf/utils.py" timestamp="1509595058092" />
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="21" column="0" />
