@@ -254,6 +254,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1509501572160">
         <mark key="'" line="39" column="13" />
         <mark key="[" line="15" column="0" />
@@ -625,10 +631,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>10.31.228.68</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>10.31.228.68</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -664,7 +670,7 @@
         <text encoding="base64">ICAtIGRvY2tlci1jZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -718,8 +724,8 @@
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>:wq</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
