@@ -406,12 +406,12 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" timestamp="1510228696685">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" timestamp="1510261952784">
         <mark key="'" line="5" column="158" />
         <mark key="[" line="30" column="289" />
-        <mark key="]" line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-        <mark key="." line="25" column="5" />
+        <mark key="]" line="37" column="105" />
+        <mark key="^" line="37" column="105" />
+        <mark key="." line="37" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500555250603">
         <mark key="[" line="144" column="30" />
