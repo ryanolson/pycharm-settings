@@ -327,6 +327,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/sc17-demo" timestamp="1510218958031">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="5" column="71" />
+        <mark key="^" line="5" column="98" />
+        <mark key="." line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503948595627">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -631,10 +637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10.31.228.68</text>
+        <text encoding="base64">IGFuc2libGVfc3NoX3Bhc3M9RGd4VXNlcjEyMw==</text>
       </register>
       <register name="-" type="4">
-        <text>10.31.228.68</text>
+        <text encoding="base64">IGFuc2libGVfc3NoX3Bhc3M9RGd4VXNlcjEyMw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -670,7 +676,7 @@
         <text encoding="base64">ICAtIGRvY2tlci1jZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -724,8 +730,8 @@
         <entry>'a,.d</entry>
         <entry>.,$d</entry>
         <entry>:wq</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
