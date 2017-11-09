@@ -33,11 +33,6 @@
         <mark key="^" line="29" column="433" />
         <mark key="." line="29" column="433" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/docker/templates/daemon.j2" timestamp="1505239890166">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -99,10 +94,11 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" timestamp="1510231515819">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" timestamp="1510232323731">
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
@@ -212,11 +208,6 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1504116430897">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="17" />
@@ -252,11 +243,6 @@
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/defaults/main.yml" timestamp="1509440363679">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="/private/var/folders/5k/xxxhm8kj1mg5f8dw7_bkvlh00000gn/T/com.microsoft.Outlook/Outlook Temp/wf_for_nvd_ibm_1/DeepPDE_GPU.py" timestamp="1509703849425" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1510231570889">
@@ -412,16 +398,6 @@
         <mark key="]" line="102" column="107" />
         <mark key="." line="102" column="107" />
         <mark key="^" line="102" column="107" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/tasks/main.yml" timestamp="1505164111850">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/tesla-servers" timestamp="1505581106944">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
@@ -689,7 +665,7 @@
         <text encoding="base64">LSBmaW5kOiBwYXRoPS9ldGMvYXB0L3NvdXJjZXMubGlzdC5kIGZpbGVfdHlwZT1maWxlCiAgcmVnaXN0ZXI6IHNvdXJjZXMKCi0gZmlsZTogc3RhdGU9YWJzZW50IHBhdGg9e3sgaXRlbS5wYXRoIH19CiAgd2l0aF9pdGVtczoKICAtICJ7eyBzb3VyY2VzIH19Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -743,8 +719,8 @@
         <entry>'a,.y</entry>
         <entry>.,$d</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
