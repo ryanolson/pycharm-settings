@@ -268,11 +268,11 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1509501572160">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1510224313157">
         <mark key="'" line="39" column="13" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -424,12 +424,12 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" timestamp="1510221915895">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" timestamp="1510224272755">
         <mark key="'" line="5" column="158" />
-        <mark key="[" line="5" column="119" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+        <mark key="[" line="6" column="102" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500555250603">
         <mark key="[" line="144" column="30" />
