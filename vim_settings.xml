@@ -27,12 +27,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1510253838460">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1510255933696">
         <mark key="a" line="22" column="20" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
@@ -626,11 +626,11 @@
       <jump line="48" column="19" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ryan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBzdWRvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ryan</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>sysinfo</text>
@@ -639,31 +639,31 @@
         <text encoding="base64">ICAtIG5hbWU6ICJTQzE3IFVzZXIiCiAgICB1c2VybmFtZTogInJ5YW4iCiAgICBzdGF0ZTogcHJlc2VudAogICAgc2hlbGw6ICIvYmluL2Jhc2giCiAgICBncm91cHM6IFtdCiAgICBrZXlzOgogICAgICBhY3RpdmU6CiAgICAgICAgLSAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFETVJOSDFPSzlyUk45RnNwWG9vcDVIcDE0UGlneStCYVlOd3MwUXc5Tit3L0dsQmI2d1hLUGt5eDJlZENSNWJMM2tkRG1oTFp5TUZyUVoxQU1XZVdHTmJveDloSk5EODlRT05YNVllNlhYanpwVWNGYzRkTFRUVDRMV3pRRUVxTk5meUI4UEh5NW96Zm5MRi8xRVVQdURRWGJEYWJPNWpZcWo4MENnaFBiNHdxeWJVMlBGT3d6RjJrNEp6VS9qVWRuMFR4V3hySHF6T2J1d1NNQmk3dzc0b2NGODJIRlpRZktGNDBDZnR0R1IrWWwwejBHTThQVjJOQU1DZFB3RkpIZHpoY3RYaHF6YVZtTXorbUczZTlaclFWVmsvWWNGV0YwNHFiTEwzcVVCQmhhUlVIQ095YkRJVC9HTDZYVEcyRXp6SjVtR29zc3hiYm1IMWdmdUNtRGwgcnlhbkBuZ3ZwbjAxLTE2NC05My5keW4uc2N6LnVzLm52aWRpYS5jb20iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbnZpZGlhLXN5c2luZm8tZGd4Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgLSBzdWRvCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gbnZpZGlhLXN5c2luZm8tZGd4Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSBkb2NrZXIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbGlibnZpZGlhLWNvbnRhaW5lci10b29scwo=</text>
+        <text encoding="base64">ICAgICAgLSBzdWRvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbGlibnZpZGlhLWNvbnRhaW5lcjEK</text>
+        <text encoding="base64">ICAgIC0gbGlibnZpZGlhLWNvbnRhaW5lci10b29scwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBkZ3hzZXJ2ZXItY29uZmlndXJhdGlvbnMK</text>
+        <text encoding="base64">ICAgIC0gbGlibnZpZGlhLWNvbnRhaW5lcjEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIGRneHNlcnZlci1vdGEtdXBkYXRlLW1ldGEK</text>
+        <text encoding="base64">ICAgICAgLSBkZ3hzZXJ2ZXItY29uZmlndXJhdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRneHNlcnZlci1vdGEtdXBkYXRlLW1ldGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
