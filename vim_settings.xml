@@ -391,12 +391,12 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1510770323489">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1510771310912">
         <mark key="'" line="110" column="25" />
-        <mark key="[" line="45" column="11" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
+        <mark key="[" line="112" column="73" />
+        <mark key="]" line="112" column="57" />
+        <mark key="." line="112" column="57" />
+        <mark key="^" line="112" column="57" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
@@ -625,10 +625,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>affnitytask/cgroup</text>
+        <text>FORCE</text>
       </register>
       <register name="-" type="4">
-        <text>affnitytask/cgroup</text>
+        <text>FORCE</text>
       </register>
       <register name="/" type="4">
         <text>sysinfo</text>
