@@ -88,6 +88,9 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1510902171547">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.yml" timestamp="1504020741543">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
