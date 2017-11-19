@@ -46,11 +46,11 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1504021487806">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
+        <mark key="[" line="9" column="84" />
+        <mark key="]" line="9" column="84" />
+        <mark key="." line="9" column="84" />
+        <mark key="^" line="9" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
         <mark key="[" line="0" column="53" />
@@ -410,12 +410,12 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511063954677">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511065015755">
         <mark key="'" line="45" column="11" />
-        <mark key="[" line="114" column="25" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="114" column="0" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
+        <mark key="^" line="50" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
@@ -532,13 +532,11 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1511062898282">
-        <mark key="a" line="81" column="0" />
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="67" column="64" />
-        <mark key="]" line="67" column="65" />
-        <mark key="." line="67" column="65" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1511065043291">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
         <mark key="^" line="67" column="64" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/etc-localusers" timestamp="1511062292774">
         <mark key="[" line="0" column="3" />
@@ -548,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
       <jump line="24" column="13" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
       <jump line="21" column="64" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
       <jump line="22" column="44" filename="$USER_HOME$/Projects/ngc/services/cloner/cloner.py" />
@@ -648,13 +645,14 @@
       <jump line="44" column="11" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
+      <jump line="72" column="5" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Node</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Node</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -666,28 +664,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9jYWxfcwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAtIG5hbWU6IGVuc3VyZSAvZXRjL3BhbS5kIGV4aXN0cwojICAgZmlsZToKIyAgICAgbmFtZTogL2V0Yy9wYW0uZAojICAgICBzdGF0ZTogZGlyZWN0b3J5CiMKIyAtIG5hbWU6IHNldHVwIC9ldGMvcGFtLmQvc3NoZAojICAgdGVtcGxhdGU6CiMgICAgIHNyYzogcGFtX3NzaGQKIyAgICAgZGVzdDogL2V0Yy9wYW0uZC9zc2hkCiMKIyAtIG5hbWU6IHN5bWxpbmsgcGFtX3NsdXJtLnNvCiMgICBmaWxlOgojICAgICBzcmM6IC91c3IvbGliL3BhbV9zbHVybS5zbwojICAgICBkZXN0OiAvbGliL3g4Nl82NC1saW51eC1nbnUvc2VjdXJpdHkvcGFtX3NsdXJtLnNvCgojIFRPRE86IGFkZCBwYW1fc2x1cm0uc28gYW5kIGNvbmZpZ3VyZSBzc2ggdG8gZGlzYWJsZSB1c2VyIGxvZ2lucyB0byBjb21wdXRlIG5vZGVzCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWN0bGQK</text>
+        <text encoding="base64">ICAgIENQVXM9e3sgY3B1X3RvcG9sb2d5LnNvY2tldHN8aW50ICogY3B1X3RvcG9sb2d5LmNvcmVzX3Blcl9zb2NrZXR8aW50ICogY3B1X3RvcG9sb2d5LnRocmVhZHNfcGVyX2NvcmV8aW50IH19e3sgIiAiIC19fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWRiZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub3RpZnk6Cg==</text>
+        <text encoding="base64">bG9jYWxfcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBsYXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IHNsdXJtCg==</text>
+        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWN0bGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHQ6Cg==</text>
+        <text encoding="base64">ICAgIC0gcmVzdGFydCBzbHVybWRiZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -736,7 +734,6 @@
         <entry>.,$y</entry>
         <entry>.,$</entry>
         <entry>'a,d</entry>
-        <entry>'a,.d</entry>
         <entry>:wq</entry>
         <entry>.,$d</entry>
         <entry>&quot;a,.y</entry>
@@ -745,6 +742,7 @@
         <entry>'a,.s/^/# /</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
