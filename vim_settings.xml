@@ -410,12 +410,12 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511052408658">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511063954677">
         <mark key="'" line="45" column="11" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="8" />
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="114" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
@@ -651,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^account\W+required\W+pam_nologin\.so'</text>
+        <text>Node</text>
       </register>
       <register name="-" type="4">
-        <text>^account\W+required\W+pam_nologin\.so'</text>
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
