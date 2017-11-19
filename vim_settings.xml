@@ -162,11 +162,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1511053695048">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1511057420225">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
         <mark key="[" line="1" column="43" />
@@ -527,13 +527,13 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1511053791777">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1511057861136">
         <mark key="a" line="55" column="0" />
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="68" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -639,11 +639,11 @@
       <jump line="63" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
-        <text>compute</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
