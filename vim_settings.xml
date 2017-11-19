@@ -127,6 +127,12 @@
         <mark key="^" line="145" column="37" />
         <mark key="." line="145" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/pam_sshd" timestamp="1511052912016">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
         <mark key="]" line="164" column="27" />
@@ -394,12 +400,12 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1510898944214">
-        <mark key="'" line="44" column="11" />
-        <mark key="[" line="63" column="62" />
-        <mark key="]" line="63" column="82" />
-        <mark key="." line="63" column="82" />
-        <mark key="^" line="63" column="82" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511052408658">
+        <mark key="'" line="45" column="11" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="8" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
@@ -516,9 +522,9 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1510875148202">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" timestamp="1511052704739">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="43" column="20" />
+        <mark key="[" line="53" column="0" />
         <mark key="]" line="45" column="11" />
         <mark key="^" line="45" column="11" />
         <mark key="." line="45" column="11" />
@@ -628,10 +634,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>Core</text>
@@ -667,7 +673,7 @@
         <text encoding="base64">ICAtIGRneHNlcnZlci1vdGEtdXBkYXRlLW1ldGEK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -721,8 +727,8 @@
         <entry>q</entry>
         <entry>&quot;a,.y</entry>
         <entry>'a,.y</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
