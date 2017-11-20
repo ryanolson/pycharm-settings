@@ -410,7 +410,7 @@
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511065481912">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511211362640">
         <mark key="'" line="45" column="11" />
         <mark key="[" line="113" column="55" />
         <mark key="]" line="114" column="51" />
