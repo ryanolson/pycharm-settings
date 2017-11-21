@@ -66,12 +66,6 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" timestamp="1510231315848">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -153,6 +147,11 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/services/replicator/replicator.py" timestamp="1511285576388">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
         <mark key="]" line="164" column="27" />
@@ -169,6 +168,13 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1511287161191">
+        <mark key="a" line="175" column="12" />
+        <mark key="[" line="139" column="70" />
+        <mark key="]" line="139" column="71" />
+        <mark key="^" line="139" column="71" />
+        <mark key="." line="139" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
@@ -277,6 +283,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1511285846620">
+        <mark key="[" line="37" column="104" />
+        <mark key="]" line="39" column="77" />
+        <mark key="^" line="39" column="77" />
+        <mark key="." line="39" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1511067683093">
         <mark key="a" line="25" column="24" />
         <mark key="'" line="39" column="22" />
@@ -290,12 +302,6 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" timestamp="1510224313157">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/luda/luda/config.py" timestamp="1496264286218">
         <mark key="[" line="40" column="0" />
@@ -423,6 +429,12 @@
         <mark key="]" line="9" column="97" />
         <mark key="." line="9" column="97" />
         <mark key="^" line="9" column="97" />
+      </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/registry.py" timestamp="1511285999211">
+        <mark key="[" line="138" column="96" />
+        <mark key="]" line="139" column="31" />
+        <mark key="^" line="139" column="31" />
+        <mark key="." line="139" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511211362640">
         <mark key="'" line="45" column="11" />
@@ -663,43 +675,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[&quot;dockerImageId&quot;]):</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[&quot;dockerImageId&quot;]):</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRvY2tlciBwdWxsICVzIiAlIHVybCkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzdGF0ZVsibnZpZGlhL2N1ZGEiXVsiOS4wLWRldmVsIl0gPT0gIjkuMC1kZXZlbCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5maWxlbmFtZTJ1cmwoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnQuaW1hZ2VzLmxvYWQoZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICJyYiIpIGFzIGZpbGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImxvYWRpbmcgaW1hZ2UgZnJvbSAlcyIgJSBmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpbHRlcl9mbihuYW1lPW5hbWUsIHRhZz10YWdbIm5hbWUiXSwgZG9ja2VyX2lkPXRhZ1siZG9ja2VySW1hZ2VJZCJdKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZmlsZS53cml0ZShpbWFnZS5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICJ3YiIpIGFzIHRhcmZpbGU6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfc3RhdGUoc2VsZiwgZmlsdGVyX2ZuKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IHNlbGYuY2xpZW50LmFwaS5nZXRfaW1hZ2UodXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNhdmluZyAlcyAtLT4gJXMiICUgKHVybCwgZmlsZW5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5maWxlbmFtZTJ1cmwoZmlsZW5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -753,10 +765,10 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>'a,.d</entry>
-        <entry>'a,.y</entry>
         <entry>&quot;!</entry>
         <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>'a,.y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
