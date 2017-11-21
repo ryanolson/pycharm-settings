@@ -90,6 +90,12 @@
         <mark key="^" line="35" column="66" />
         <mark key="." line="35" column="66" />
       </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511252902466">
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="125" column="52" />
+        <mark key="." line="125" column="52" />
+        <mark key="^" line="125" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ngc.yml" timestamp="1505149328103">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="25" />
@@ -656,11 +662,11 @@
       <jump line="124" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>self.url2filename(url), url))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -732,7 +738,6 @@
         <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>'a,. w! bootstrap.yml</entry>
         <entry>1,. w! bootstrap.yml</entry>
         <entry>1,. w t.yml</entry>
         <entry>&quot;a,.d</entry>
@@ -751,6 +756,7 @@
         <entry>'a,.y</entry>
         <entry>&quot;!</entry>
         <entry>1</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
