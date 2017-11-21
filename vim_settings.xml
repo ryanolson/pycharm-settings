@@ -46,13 +46,13 @@
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511250147287">
+      <file name="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511250554577">
         <mark key="a" line="16" column="0" />
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="83" column="73" />
-        <mark key="]" line="83" column="45" />
-        <mark key="." line="83" column="45" />
-        <mark key="^" line="83" column="45" />
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="128" column="22" />
+        <mark key="]" line="129" column="45" />
+        <mark key="^" line="129" column="45" />
+        <mark key="." line="129" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
         <mark key="[" line="9" column="84" />
@@ -657,46 +657,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5sb2dpbih1c2VybmFtZT11c2VybmFtZSwgcGFzc3dvcmQ9cGFzc3dvcmQsIHJlZ2lzdHJ5PXJlZ2lzdHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>self.url2filename(url), url))</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5sb2dpbih1c2VybmFtZT11c2VybmFtZSwgcGFzc3dvcmQ9cGFzc3dvcmQsIHJlZ2lzdHJ5PXJlZ2lzdHJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRvY2tlciBwdWxsICVzIiAlIHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBudmlkaWEtc3lzaW5mby1kZ3gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5maWxlbmFtZTJ1cmwoZmlsZW5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgVE9ETzogc2V0IHRoZSB2YWx1ZSBvZiBEZWZNZW1QZXJDUFU9e3sgdG90YWxfbWJ8aW50IC8gbG9naWNhbF9jcHVzfGludCB9fSAjfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnQuaW1hZ2VzLmxvYWQoZmlsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICJyYiIpIGFzIGZpbGU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImxvYWRpbmcgaW1hZ2UgZnJvbSAlcyIgJSBmaWxlbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAtIG5hbWU6IGVuc3VyZSAvZXRjL3BhbS5kIGV4aXN0cwojICAgZmlsZToKIyAgICAgbmFtZTogL2V0Yy9wYW0uZAojICAgICBzdGF0ZTogZGlyZWN0b3J5CiMKIyAtIG5hbWU6IHNldHVwIC9ldGMvcGFtLmQvc3NoZAojICAgdGVtcGxhdGU6CiMgICAgIHNyYzogcGFtX3NzaGQKIyAgICAgZGVzdDogL2V0Yy9wYW0uZC9zc2hkCiMKIyAtIG5hbWU6IHN5bWxpbmsgcGFtX3NsdXJtLnNvCiMgICBmaWxlOgojICAgICBzcmM6IC91c3IvbGliL3BhbV9zbHVybS5zbwojICAgICBkZXN0OiAvbGliL3g4Nl82NC1saW51eC1nbnUvc2VjdXJpdHkvcGFtX3NsdXJtLnNvCgojIFRPRE86IGFkZCBwYW1fc2x1cm0uc28gYW5kIGNvbmZpZ3VyZSBzc2ggdG8gZGlzYWJsZSB1c2VyIGxvZ2lucyB0byBjb21wdXRlIG5vZGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZmlsZS53cml0ZShpbWFnZS5kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENQVXM9e3sgY3B1X3RvcG9sb2d5LnNvY2tldHN8aW50ICogY3B1X3RvcG9sb2d5LmNvcmVzX3Blcl9zb2NrZXR8aW50ICogY3B1X3RvcG9sb2d5LnRocmVhZHNfcGVyX2NvcmV8aW50IH19e3sgIiAiIC19fQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICJ3YiIpIGFzIHRhcmZpbGU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IHNlbGYuY2xpZW50LmFwaS5nZXRfaW1hZ2UodXJsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9jYWxfcwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNhdmluZyAlcyAtLT4gJXMiICUgKHVybCwgZmlsZW5hbWUpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -748,10 +748,10 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>'a,.d</entry>
-        <entry>w</entry>
         <entry>'a,.y</entry>
         <entry>&quot;!</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
