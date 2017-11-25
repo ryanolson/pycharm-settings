@@ -34,6 +34,13 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1511594108370">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1511053666758">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="21" />
@@ -101,9 +108,6 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1510902171547">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.yml" timestamp="1504020741543">
         <mark key="[" line="2" column="0" />
@@ -572,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="0" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="236" column="11" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="235" column="11" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="23" column="35" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
@@ -672,55 +675,56 @@
       <jump line="77" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[&quot;dockerImageId&quot;]):</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[&quot;dockerImageId&quot;]):</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>exist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzdGF0ZVsibnZpZGlhL2N1ZGEiXVsiOS4wLWRldmVsIl0gPT0gIjkuMC1kZXZlbCIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBzdGF0ZVsibnZpZGlhL2N1ZGEiXVsiOS4wLWRldmVsIl0gPT0gIjkuMC1kZXZlbCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXRlID0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpbHRlcl9mbihuYW1lPW5hbWUsIHRhZz10YWdbIm5hbWUiXSwgZG9ja2VyX2lkPXRhZ1siZG9ja2VySW1hZ2VJZCJdKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpbHRlcl9mbihuYW1lPW5hbWUsIHRhZz10YWdbIm5hbWUiXSwgZG9ja2VyX2lkPXRhZ1siZG9ja2VySW1hZ2VJZCJdKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfc3RhdGUoc2VsZiwgZmlsdGVyX2ZuKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfc3RhdGUoc2VsZiwgZmlsdGVyX2ZuKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5maWxlbmFtZTJ1cmwoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>exist</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern>exist</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -728,7 +732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tarfile</entry>
         <entry>Registry(</entry>
         <entry>DockerClient</entry>
         <entry>save</entry>
@@ -748,9 +751,9 @@
         <entry>CORE</entry>
         <entry>Core</entry>
         <entry>^</entry>
+        <entry>exist</entry>
       </history-search>
       <history-cmd>
-        <entry>1,. w! bootstrap.yml</entry>
         <entry>1,. w t.yml</entry>
         <entry>&quot;a,.d</entry>
         <entry>13</entry>
@@ -766,9 +769,10 @@
         <entry>wq</entry>
         <entry>'a,.d</entry>
         <entry>&quot;!</entry>
-        <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>'a,.y</entry>
+        <entry>e</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
