@@ -34,7 +34,7 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1511594108370">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1511594736180">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="31" column="35" />
         <mark key="]" line="31" column="39" />
@@ -245,6 +245,12 @@
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1511594980510">
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+        <mark key="^" line="59" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1511061137963">
         <mark key="[" line="10" column="0" />
@@ -678,11 +684,11 @@
       <jump line="34" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, self.state)</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;dockerImageId&quot;]):</text>
+        <text>, self.state)</text>
       </register>
       <register name="/" type="4">
         <text>exist</text>
@@ -691,31 +697,31 @@
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b19wdWxsID0gc2VsZi5taXNzaW5nX2ltYWdlcyhyZW1vdGVfc3RhdGUsIHNlbGYuc3RhdGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzdGF0ZVsibnZpZGlhL2N1ZGEiXVsiOS4wLWRldmVsIl0gPT0gIjkuMC1kZXZlbCIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBzdGF0ZVsibnZpZGlhL2N1ZGEiXVsiOS4wLWRldmVsIl0gPT0gIjkuMC1kZXZlbCIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXRlID0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpbHRlcl9mbihuYW1lPW5hbWUsIHRhZz10YWdbIm5hbWUiXSwgZG9ja2VyX2lkPXRhZ1siZG9ja2VySW1hZ2VJZCJdKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpbHRlcl9mbihuYW1lPW5hbWUsIHRhZz10YWdbIm5hbWUiXSwgZG9ja2VyX2lkPXRhZ1siZG9ja2VySW1hZ2VJZCJdKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfc3RhdGUoc2VsZiwgZmlsdGVyX2ZuKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJleHBlY3RlZCB1cmwgZnJvbSAlcyBpcyAlcyIgJSAoZmlsZW5hbWUsIHVybCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfc3RhdGUoc2VsZiwgZmlsdGVyX2ZuKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
