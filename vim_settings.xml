@@ -191,6 +191,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/lab" timestamp="1515182903337">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1515178906707">
         <mark key="a" line="25" column="24" />
         <mark key="'" line="39" column="22" />
@@ -695,11 +701,11 @@
       <jump line="34" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4wLg==</text>
       </register>
       <register name="-" type="4">
-        <text>/etc/apt</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4wLg==</text>
       </register>
       <register name="/" type="4">
         <text>exist</text>
