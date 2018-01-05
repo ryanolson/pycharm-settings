@@ -9,12 +9,6 @@
         <mark key="." line="14" column="113" />
         <mark key="^" line="14" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="65" column="40" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-      </file>
       <file name="$USER_HOME$/Projects/ngc/services/importer/Dockerfile" timestamp="1501735010632">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
@@ -27,25 +21,24 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1515179318728">
-        <mark key="a" line="22" column="20" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1511594736180">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="39" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/group_vars/all" timestamp="1515180684004">
+        <mark key="a" line="23" column="20" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/handlers/main.yml" timestamp="1511053666758">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="21" />
         <mark key="^" line="16" column="20" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/00aptproxy.j2" timestamp="1515180667582">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511250554577">
         <mark key="a" line="16" column="0" />
@@ -60,12 +53,6 @@
         <mark key="]" line="9" column="84" />
         <mark key="." line="9" column="84" />
         <mark key="^" line="9" column="84" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="54" />
-        <mark key="." line="0" column="54" />
-        <mark key="^" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/gan-tf/gan_train.py" timestamp="1493739226458">
         <mark key="[" line="74" column="8" />
@@ -97,12 +84,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs/tasks/client.yml" timestamp="1509691386474">
-        <mark key="[" line="13" column="59" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="59" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.yml" timestamp="1504020741543">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -114,6 +95,248 @@
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
+      </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/services/replicator/replicator.py" timestamp="1511285576388">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
+        <mark key="[" line="164" column="27" />
+        <mark key="]" line="164" column="27" />
+        <mark key="^" line="143" column="49" />
+        <mark key="." line="164" column="27" />
+      </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1511287161191">
+        <mark key="a" line="175" column="12" />
+        <mark key="[" line="139" column="70" />
+        <mark key="]" line="139" column="71" />
+        <mark key="^" line="139" column="71" />
+        <mark key="." line="139" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1511057420225">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501785431522">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="11" column="71" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nvidia-docker2/tasks/main.yml" timestamp="1510222702388">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/munge.yml" timestamp="1511053374700">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1511638083166">
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+        <mark key="^" line="59" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1511061137963">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="39" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/models/cpu/models.yml" timestamp="1500458793724">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1515178906707">
+        <mark key="a" line="25" column="24" />
+        <mark key="'" line="39" column="22" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf.j2" timestamp="1503784682437">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" timestamp="1504022609084">
+        <mark key="'" line="2" column="77" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs-client/tasks/main.yml" timestamp="1504281241005">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/sc17-demo" timestamp="1512979564037">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="5" column="71" />
+        <mark key="^" line="5" column="98" />
+        <mark key="." line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547327024">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/hosts/templates/hosts.j2" timestamp="1503952343387">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500526183585">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="1" />
+        <mark key="." line="65" column="1" />
+        <mark key="^" line="67" column="84" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500555250603">
+        <mark key="[" line="144" column="30" />
+        <mark key="]" line="144" column="54" />
+        <mark key="^" line="144" column="54" />
+        <mark key="." line="144" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/services/cloner/Dockerfile" timestamp="1501611169051">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501385124935">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="51" />
+        <mark key="^" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/memory.fact" timestamp="1504329859133">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1510224874420">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="60" />
+        <mark key="^" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/registry.yml" timestamp="1509502383103">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/README.md" timestamp="1501786860043">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/etc-localusers" timestamp="1511062292774">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="65" column="40" />
+        <mark key="^" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1511594736180">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs/tasks/client.yml" timestamp="1509691386474">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
@@ -145,17 +368,6 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/services/replicator/replicator.py" timestamp="1511285576388">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
-        <mark key="[" line="164" column="27" />
-        <mark key="]" line="164" column="27" />
-        <mark key="^" line="143" column="49" />
-        <mark key="." line="164" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1511053715633">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -166,31 +378,6 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
-      </file>
-      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/tests/test_nvidia_sa.py" timestamp="1511287161191">
-        <mark key="a" line="175" column="12" />
-        <mark key="[" line="139" column="70" />
-        <mark key="]" line="139" column="71" />
-        <mark key="^" line="139" column="71" />
-        <mark key="." line="139" column="71" />
-      </file>
-      <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/main.yml" timestamp="1511057420225">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/dev/daemon.json" timestamp="1501377139134">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/README.md" timestamp="1501102035238">
         <mark key="[" line="31" column="9" />
@@ -204,24 +391,6 @@
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/dmz/docker-compose.yml" timestamp="1501785431522">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="11" column="71" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nvidia-docker2/tasks/main.yml" timestamp="1510222702388">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/files/warp" timestamp="1505229316437">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="27" />
@@ -233,35 +402,6 @@
         <mark key="]" line="40" column="57" />
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/munge.yml" timestamp="1511053374700">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1511638083166">
-        <mark key="[" line="59" column="50" />
-        <mark key="]" line="59" column="50" />
-        <mark key="." line="59" column="50" />
-        <mark key="^" line="59" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1511061137963">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="39" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501883947319">
         <mark key="[" line="16" column="49" />
@@ -281,30 +421,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/command-center/python-dev.yml" timestamp="1493774081221">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/models/cpu/models.yml" timestamp="1500458793724">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-      </file>
       <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1511285846620">
         <mark key="[" line="37" column="104" />
         <mark key="]" line="39" column="77" />
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1515178906707">
-        <mark key="a" line="25" column="24" />
-        <mark key="'" line="39" column="22" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
         <mark key="[" line="7" column="0" />
@@ -318,36 +439,17 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="12" column="11" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf.j2" timestamp="1503784682437">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.sh" timestamp="1504017036599">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" timestamp="1504022609084">
-        <mark key="'" line="2" column="77" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -366,18 +468,6 @@
         <mark key="]" line="22" column="25" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs-client/tasks/main.yml" timestamp="1504281241005">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/sc17-demo" timestamp="1512979564037">
-        <mark key="[" line="5" column="71" />
-        <mark key="]" line="5" column="71" />
-        <mark key="^" line="5" column="98" />
-        <mark key="." line="5" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503948595627">
         <mark key="[" line="38" column="0" />
@@ -409,30 +499,6 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547327024">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/hosts/templates/hosts.j2" timestamp="1503952343387">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/server.py" timestamp="1500526183585">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="1" />
-        <mark key="." line="65" column="1" />
-        <mark key="^" line="67" column="84" />
-      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/Dockerfile" timestamp="1501118715402">
         <mark key="[" line="9" column="97" />
         <mark key="]" line="9" column="97" />
@@ -452,18 +518,6 @@
         <mark key="." line="114" column="51" />
         <mark key="^" line="114" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="61" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" timestamp="1510261952784">
         <mark key="'" line="5" column="158" />
         <mark key="[" line="30" column="289" />
@@ -471,29 +525,11 @@
         <mark key="^" line="37" column="105" />
         <mark key="." line="37" column="105" />
       </file>
-      <file name="$USER_HOME$/Projects/cvpr/tensorrt/test.py" timestamp="1500555250603">
-        <mark key="[" line="144" column="30" />
-        <mark key="]" line="144" column="54" />
-        <mark key="^" line="144" column="54" />
-        <mark key="." line="144" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/ngc/services/cloner/Dockerfile" timestamp="1501611169051">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="2" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="2" />
         <mark key="." line="23" column="2" />
         <mark key="^" line="23" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/cli.py" timestamp="1501385124935">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="21" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/singularity/tasks/main.yml" timestamp="1505205223085">
         <mark key="[" line="9" column="20" />
@@ -513,18 +549,6 @@
         <mark key="." line="48" column="3" />
         <mark key="^" line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/memory.fact" timestamp="1504329859133">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" timestamp="1510224874420">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="60" />
-        <mark key="^" line="5" column="60" />
-        <mark key="." line="5" column="60" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/tesla-software/tasks/main.yml" timestamp="1509500634796">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="1" />
@@ -542,18 +566,6 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/registry.yml" timestamp="1509502383103">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/README.md" timestamp="1501786860043">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1515179044688">
         <mark key="[" line="20" column="13" />
@@ -578,12 +590,6 @@
         <mark key="]" line="71" column="0" />
         <mark key="^" line="67" column="64" />
         <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/etc-localusers" timestamp="1511062292774">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -689,8 +695,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/etc/apt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
       </register>
       <register name="-" type="4">
         <text>/etc/apt</text>
@@ -702,31 +708,31 @@
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
+        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
+        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb2xlczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
+        <text encoding="base64">ICByb2xlczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
+        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2hhbmdlZF93aGVuOiBvdXRwdXQuc3Rkb3V0ICE9ICIiCg==</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG91dHB1dAo=</text>
+        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
