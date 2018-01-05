@@ -47,12 +47,6 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="61" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511250554577">
         <mark key="a" line="16" column="0" />
         <mark key="'" line="121" column="0" />
@@ -299,13 +293,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1511067683093">
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1515146697940">
         <mark key="a" line="25" column="24" />
         <mark key="'" line="39" column="22" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="66" />
-        <mark key="^" line="42" column="66" />
-        <mark key="." line="42" column="66" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
         <mark key="[" line="7" column="0" />
@@ -453,6 +446,12 @@
         <mark key="." line="114" column="51" />
         <mark key="^" line="114" column="51" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/test.py" timestamp="1500528278324">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="56" />
@@ -550,11 +549,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1510221353462">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1515146238199">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/dgx-apt-server/aptly/scripts/ubuntu-update.sh" timestamp="1504890762471">
         <mark key="[" line="42" column="25" />
@@ -684,8 +683,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, self.state)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, self.state)</text>
@@ -697,34 +696,34 @@
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b19wdWxsID0gc2VsZi5taXNzaW5nX2ltYWdlcyhyZW1vdGVfc3RhdGUsIHNlbGYuc3RhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzdGF0ZVsibnZpZGlhL2N1ZGEiXVsiOS4wLWRldmVsIl0gPT0gIjkuMC1kZXZlbCIK</text>
+        <text encoding="base64">ICByb2xlczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0K</text>
+        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpbHRlcl9mbihuYW1lPW5hbWUsIHRhZz10YWdbIm5hbWUiXSwgZG9ja2VyX2lkPXRhZ1siZG9ja2VySW1hZ2VJZCJdKToK</text>
+        <text encoding="base64">ICAgICAgY2hhbmdlZF93aGVuOiBvdXRwdXQuc3Rkb3V0ICE9ICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG91dHB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWx0ZXJfc3RhdGUoc2VsZiwgZmlsdGVyX2ZuKToK</text>
+        <text encoding="base64">ICAgICAgcmF3OiB0ZXN0IC1lIC91c3IvYmluL3B5dGhvbiB8fCAoYXB0IC15IHVwZGF0ZSAmJiBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -771,8 +770,6 @@
         <entry>&quot;a,.y</entry>
         <entry>&quot;'a,.s/^/# /</entry>
         <entry>'a,.s/^/# /</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>'a,.d</entry>
         <entry>&quot;!</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -780,6 +777,8 @@
         <entry>e</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
