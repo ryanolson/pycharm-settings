@@ -289,6 +289,7 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/eth10gig/templates/enable_10g_eth.sh" timestamp="1515375275678" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/memory.fact" timestamp="1504329859133">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="17" />
