@@ -317,11 +317,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/lmod/templates/z00_lmod.csh" timestamp="1515923740917">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="33" column="31" />
-        <mark key="." line="33" column="31" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/lmod/templates/z00_lmod.csh" timestamp="1515923786062">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
         <mark key="[" line="60" column="20" />
@@ -725,10 +725,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -764,7 +764,7 @@
         <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -818,8 +818,8 @@
         <entry>e</entry>
         <entry>1</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
