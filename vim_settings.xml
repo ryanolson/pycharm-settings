@@ -259,6 +259,12 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/main.yml" timestamp="1515919869964">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="17" column="52" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1492469391468">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -289,7 +295,6 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/eth10gig/templates/enable_10g_eth.sh" timestamp="1515375275678" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/memory.fact" timestamp="1504329859133">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="17" />
@@ -392,7 +397,6 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/group_vars/all" timestamp="1515233869241" />
       <file name="$USER_HOME$/Projects/ngc/examples/README.md" timestamp="1501880378144">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="25" column="5" />
@@ -507,6 +511,19 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/defaults/main.yml" timestamp="1515919674245">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" timestamp="1515919792052">
+        <mark key="'" line="18" column="20" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/Dockerfile" timestamp="1501118715402">
         <mark key="[" line="9" column="97" />
         <mark key="]" line="9" column="97" />
@@ -601,12 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="11" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="235" column="11" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="23" column="35" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="24" column="18" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="80" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="81" column="22" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="83" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="22" column="46" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="82" column="16" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
@@ -701,16 +712,22 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
+      <jump line="2" column="92" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
+      <jump line="4" column="23" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
+      <jump line="10" column="25" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
+      <jump line="18" column="20" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4wLg==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYW5zaWJsZV9zc2hfaG9zdD0xMC4wLg==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>exist</text>
+        <text>home</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
@@ -743,13 +760,13 @@
         <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>exist</last-search>
+      <last-search>home</last-search>
       <last-offset />
-      <last-pattern>exist</last-pattern>
+      <last-pattern>home</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -757,7 +774,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Registry(</entry>
         <entry>DockerClient</entry>
         <entry>save</entry>
         <entry>pers</entry>
@@ -777,6 +793,7 @@
         <entry>Core</entry>
         <entry>^</entry>
         <entry>exist</entry>
+        <entry>home</entry>
       </history-search>
       <history-cmd>
         <entry>1,. w t.yml</entry>
@@ -797,8 +814,8 @@
         <entry>e</entry>
         <entry>1</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
