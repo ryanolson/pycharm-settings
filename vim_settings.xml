@@ -106,6 +106,7 @@
         <mark key="^" line="139" column="71" />
         <mark key="." line="139" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" timestamp="1515999178402" />
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="3" />
@@ -189,12 +190,23 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" timestamp="1515178906707">
         <mark key="a" line="25" column="24" />
         <mark key="'" line="39" column="22" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1515999549923">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
@@ -724,11 +736,11 @@
       <jump line="18" column="20" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cnl6ZW4gICBhbnNpYmxlX2hvc3Q9MTAuMC4wLjIwCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>13</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -737,34 +749,34 @@
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
+        <text encoding="base64">cnl6ZW4gICBhbnNpYmxlX2hvc3Q9MTAuMC4wLjIwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb2xlczoK</text>
+        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
+        <text encoding="base64">ICByb2xlczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
+        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -817,9 +829,9 @@
         <entry>'a,.y</entry>
         <entry>e</entry>
         <entry>1</entry>
+        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
