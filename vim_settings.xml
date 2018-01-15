@@ -202,11 +202,11 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516000822350">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="46" column="21" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516000917050">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="15" />
         <mark key="^" line="46" column="21" />
-        <mark key="." line="46" column="21" />
+        <mark key="." line="36" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
@@ -776,7 +776,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -830,8 +830,8 @@
         <entry>e</entry>
         <entry>1</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
