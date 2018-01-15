@@ -202,11 +202,11 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1515999549923">
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="52" />
-        <mark key="^" line="36" column="52" />
-        <mark key="." line="36" column="52" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516000822350">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="46" column="21" />
+        <mark key="^" line="46" column="21" />
+        <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
@@ -737,10 +737,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cnl6ZW4gICBhbnNpYmxlX2hvc3Q9MTAuMC4wLjIwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>13</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -749,31 +749,31 @@
         <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnl6ZW4gICBhbnNpYmxlX2hvc3Q9MTAuMC4wLjIwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
+        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnl6ZW4gICBhbnNpYmxlX2hvc3Q9MTAuMC4wLjIwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbG9jYWwtYXB0Cg==</text>
+        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb2xlczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -829,8 +829,8 @@
         <entry>'a,.y</entry>
         <entry>e</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
