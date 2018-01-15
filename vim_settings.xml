@@ -106,7 +106,12 @@
         <mark key="^" line="139" column="71" />
         <mark key="." line="139" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" timestamp="1515999178402" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" timestamp="1516004396972">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="3" />
@@ -202,11 +207,10 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516003438659">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="21" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="36" column="21" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516004268566">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
@@ -263,7 +267,7 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="67" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/main.yml" timestamp="1515919869964">
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/main.yml" timestamp="1516004182043">
         <mark key="[" line="16" column="52" />
         <mark key="]" line="17" column="52" />
         <mark key="^" line="17" column="52" />
@@ -634,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="22" column="46" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="82" column="16" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="84" column="23" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
@@ -734,49 +737,50 @@
       <jump line="4" column="23" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
       <jump line="10" column="25" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
       <jump line="18" column="20" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
+      <jump line="10" column="17" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>## # SSH Role</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3RhdGVbIm52aWRpYS90ZW5zb3JmbG93Il0ua2V5cygpKSA9PSAyCg==</text>
+        <text encoding="base64">IyMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnl6ZW4gICBhbnNpYmxlX2hvc3Q9MTAuMC4wLjIwCg==</text>
+        <text encoding="base64">IyBSb2xlOiBsb2NhbC1hcHQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9jYWxfYXB0X2h0dHBfcHJveHk6IDEwLjAuMC4xOjMxNDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBkZ3hzdGF0aW9uLXJlcG8K</text>
+        <text encoding="base64">Ci0gaG9zdHM6IHNsdXJtLW1hc3RlcgogIGJlY29tZTogeWVzCiAgZ2F0aGVyX2ZhY3RzOiBGYWxzZQogIHZhcnM6CiAgICBhbnNpYmxlX3VzZXI6IGRlZXBvcHMKICAgIGFuc2libGVfc3NoX3ByaXZhdGVfa2V5X2ZpbGU6IH4vLnNzaC9kZWVwb3BzCiAgdGFza3M6CiAgICAtIG5hbWU6IEluc3RhbGwgRG9ja2VyCiAgICAgIHBhY2thZ2U6CiAgICAgICAgbmFtZTogZG9ja2VyLWNlCiAgICAgICAgc3RhdGU6IHByZXNlbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -819,7 +823,6 @@
         <entry>.,$</entry>
         <entry>'a,d</entry>
         <entry>:wq</entry>
-        <entry>.,$d</entry>
         <entry>&quot;a,.y</entry>
         <entry>&quot;'a,.s/^/# /</entry>
         <entry>'a,.s/^/# /</entry>
@@ -830,8 +833,9 @@
         <entry>e</entry>
         <entry>1</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>.,$d</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
