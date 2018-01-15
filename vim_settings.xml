@@ -207,10 +207,10 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516005343474">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516005523913">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
@@ -458,6 +458,12 @@
         <mark key="]" line="39" column="77" />
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516007383114">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="35" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="54" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
         <mark key="[" line="7" column="0" />
@@ -740,11 +746,11 @@
       <jump line="10" column="17" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtICJ7eyBsb2NhbF91c2VycyB9fSIK</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>subelements:</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -753,34 +759,34 @@
         <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAtICJ7eyBsb2NhbF91c2VycyB9fSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHBhdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVUlEcyBbMTAwMDAsMTk5OTldIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBEZWVwT3BzIEJvb3RzdHJhcCBDb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICMgQ3Jvc3MgcmVmZXJlbmNlIGNhbmRpZGF0ZV91c2VycyBhZ2FpbnN0IHRoZWlyIFVJRHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBBaXItR2FwcGVkIEluc3RhbGwK</text>
+        <text encoding="base64">IyMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBEZWVwT3BzCg==</text>
+        <text encoding="base64">IyMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDM3MzIK</text>
+        <text encoding="base64">IyBEZWVwT3BzIEJvb3RzdHJhcCBDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -834,8 +840,8 @@
         <entry>1</entry>
         <entry>q</entry>
         <entry>.,$d</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
