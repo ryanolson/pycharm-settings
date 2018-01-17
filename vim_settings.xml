@@ -454,17 +454,18 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/user_mod/tasks/main.yml" timestamp="1516154837192" />
       <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1511285846620">
         <mark key="[" line="37" column="104" />
         <mark key="]" line="39" column="77" />
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516130241713">
-        <mark key="[" line="67" column="16" />
-        <mark key="]" line="67" column="16" />
-        <mark key="^" line="67" column="28" />
-        <mark key="." line="67" column="16" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516155067644">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="33" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
         <mark key="[" line="7" column="0" />
@@ -588,6 +589,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/group_vars/all" timestamp="1516155190449">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/dgx-apt-server/aptly/scripts/update-ubuntu-secruity.sh" timestamp="1504911874852">
         <mark key="[" line="15" column="16" />
@@ -747,11 +754,11 @@
       <jump line="10" column="17" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBwcm8K</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>local_user</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -760,31 +767,31 @@
         <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIFJlZ2lzdHJ5a2sK</text>
+        <text encoding="base64">IyBwcm8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEFwdCBTZXJ2ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAzLiBTZXR1cCBEZWVwT3BzIFNlcnZlcnMgb24gTWFzdGVyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBtb3ZlIHVzZXIgaG9tZSBkaXJlY3RvcnkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtICJ7eyBsb2NhbF91c2VycyB9fSIK</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBraWxsIGFueSBydW5uaW5nIHVzZXIgcHJvY2Vzc2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBhdGgK</text>
+        <text encoding="base64">ICAgICAqIFJlZ2lzdHJ5a2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVUlEcyBbMTAwMDAsMTk5OTldIAo=</text>
+        <text encoding="base64">ICAgICAqIEFwdCBTZXJ2ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQ3Jvc3MgcmVmZXJlbmNlIGNhbmRpZGF0ZV91c2VycyBhZ2FpbnN0IHRoZWlyIFVJRHMK</text>
+        <text encoding="base64">IyAzLiBTZXR1cCBEZWVwT3BzIFNlcnZlcnMgb24gTWFzdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
