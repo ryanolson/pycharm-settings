@@ -482,12 +482,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" timestamp="1516223007885">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" timestamp="1516224580525">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -756,7 +755,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBhbnNpYmxlX3VzZXI9dWJ1bnR1</text>
+        <text encoding="base64">ICAgIC0gbmFtZTo=</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -768,28 +767,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgIC0gZmFjdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgIC0gaG9zdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyByb2xlczoK</text>
+        <text encoding="base64">IyAgIC0gZmFjdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19Igo=</text>
+        <text encoding="base64">IyAgIC0gaG9zdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgIC0gaG9zdG5hbWU6Cg==</text>
+        <text encoding="base64">IyByb2xlczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwcmVfdGFza3M6Cg==</text>
+        <text encoding="base64">IyAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBjb25maWd1cmVkIGFuZCAK</text>
+        <text encoding="base64">IyAgIC0gaG9zdG5hbWU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB0Cg==</text>
+        <text encoding="base64">IyBwcmVfdGFza3M6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
