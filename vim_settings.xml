@@ -338,7 +338,7 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/bootstrap.yml" timestamp="1516178362389" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/bootstrap.yml" timestamp="1516232776333" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
         <mark key="[" line="0" column="53" />
         <mark key="]" line="0" column="54" />
