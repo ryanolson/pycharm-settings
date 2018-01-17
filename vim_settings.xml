@@ -98,6 +98,12 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/inventory/inventory" timestamp="1516178641472">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/gan-tf/tests/data.py" timestamp="1492919672337">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="3" />
@@ -331,6 +337,7 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/bootstrap.yml" timestamp="1516178362389" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
         <mark key="[" line="0" column="53" />
         <mark key="]" line="0" column="54" />
@@ -394,7 +401,12 @@
         <mark key="." line="31" column="8" />
         <mark key="^" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/inventory/group_vars/all" timestamp="1516176909516" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/inventory/group_vars/all" timestamp="1516178826919">
+        <mark key="[" line="20" column="79" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ngc/examples/README.md" timestamp="1501880378144">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="25" column="5" />
@@ -468,10 +480,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" timestamp="1516177281789">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" timestamp="1516178581040">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -634,8 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="46" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="82" column="16" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="84" column="23" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="85" column="53" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="101" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
@@ -734,13 +746,15 @@
       <jump line="10" column="25" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
       <jump line="18" column="20" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" />
       <jump line="10" column="17" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">ICBhbnNpYmxlX3VzZXI9dWJ1bnR1</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -749,31 +763,31 @@
         <text encoding="base64">ICAgICAgICB3aXRoX2l0ZW1zOiAie3sgbG9jYWxfdXNlcnMuZmlsZXMgfX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIC0gZmFjdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">IyAgIC0gaG9zdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">IyByb2xlczoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcm8K</text>
+        <text encoding="base64">IyAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">IyAgIC0gaG9zdG5hbWU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcmVfdGFza3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb25maWd1cmVkIGFuZCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBtb3ZlIHVzZXIgaG9tZSBkaXJlY3RvcnkK</text>
+        <text encoding="base64">IyB0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -827,9 +841,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>'a,.y</entry>
         <entry>e</entry>
-        <entry>1</entry>
         <entry>q</entry>
         <entry>.,$d</entry>
+        <entry>1</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
