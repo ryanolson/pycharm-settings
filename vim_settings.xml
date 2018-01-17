@@ -461,9 +461,9 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516155067644">
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+        <mark key="]" line="70" column="45" />
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="0" />
       </file>
@@ -590,11 +590,11 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/group_vars/all" timestamp="1516155190449">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="61" />
-        <mark key="." line="9" column="61" />
-        <mark key="^" line="9" column="61" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/group_vars/all" timestamp="1516174035040">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/dgx-apt-server/aptly/scripts/update-ubuntu-secruity.sh" timestamp="1504911874852">
         <mark key="[" line="15" column="16" />
@@ -755,43 +755,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBwcm8K</text>
+        <text encoding="base64">ICAgICAgICB3aXRoX2l0ZW1zOiAie3sgbG9jYWxfdXNlcnMuZmlsZXMgfX0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>local_user</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoX2l0ZW1zOiAie3sgbG9jYWxfdXNlcnMuZmlsZXMgfX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcm8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBtb3ZlIHVzZXIgaG9tZSBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBraWxsIGFueSBydW5uaW5nIHVzZXIgcHJvY2Vzc2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIFJlZ2lzdHJ5a2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEFwdCBTZXJ2ZXIK</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBtb3ZlIHVzZXIgaG9tZSBkaXJlY3RvcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAzLiBTZXR1cCBEZWVwT3BzIFNlcnZlcnMgb24gTWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBraWxsIGFueSBydW5uaW5nIHVzZXIgcHJvY2Vzc2VzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
