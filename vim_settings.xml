@@ -203,6 +203,7 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/inventory/default_login.yml" timestamp="1516224430558" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf.j2" timestamp="1503784682437">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="22" />
@@ -353,6 +354,7 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1516224197837" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
