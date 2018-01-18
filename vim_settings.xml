@@ -146,6 +146,13 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516305061471">
+        <mark key="'" line="63" column="70" />
+        <mark key="[" line="123" column="25" />
+        <mark key="]" line="124" column="67" />
+        <mark key="^" line="124" column="67" />
+        <mark key="." line="124" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="17" />
@@ -637,11 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="23" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="85" column="53" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="101" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="103" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="108" column="18" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="112" column="56" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="131" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="133" column="68" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
@@ -737,16 +739,21 @@
       <jump line="10" column="17" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/group_vars/all" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
+      <jump line="159" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="147" column="21" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="62" column="60" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="63" column="70" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>include_vars</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>include_vars</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>home</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoX2l0ZW1zOiAie3sgbG9jYWxfdXNlcnMuZmlsZXMgfX0iCg==</text>
@@ -783,9 +790,9 @@
       </register>
     </registers>
     <search>
-      <last-search>home</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>home</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -793,8 +800,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DockerClient</entry>
-        <entry>save</entry>
         <entry>pers</entry>
         <entry>topol</entry>
         <entry>topology</entry>
@@ -813,6 +818,8 @@
         <entry>^</entry>
         <entry>exist</entry>
         <entry>home</entry>
+        <entry>filter_on_tag</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;a,.d</entry>
@@ -831,9 +838,9 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>.,$d</entry>
-        <entry>1</entry>
         <entry>wq</entry>
         <entry>q!</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
