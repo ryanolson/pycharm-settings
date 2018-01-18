@@ -146,12 +146,6 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1511638083166">
-        <mark key="[" line="59" column="50" />
-        <mark key="]" line="59" column="50" />
-        <mark key="." line="59" column="50" />
-        <mark key="^" line="59" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="17" />
@@ -330,13 +324,6 @@
         <mark key="]" line="65" column="40" />
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1511594736180">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/bootstrap.yml" timestamp="1516232776333" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
