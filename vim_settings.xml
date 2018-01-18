@@ -196,13 +196,13 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516313218277">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516316397039">
         <mark key="a" line="50" column="34" />
-        <mark key="'" line="169" column="77" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="205" column="29" />
-        <mark key="." line="206" column="0" />
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="249" column="32" />
+        <mark key="]" line="249" column="45" />
+        <mark key="." line="249" column="45" />
+        <mark key="^" line="249" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
         <mark key="[" line="2" column="0" />
@@ -657,8 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="30" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
       <jump line="49" column="33" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="272" column="25" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="92" column="10" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
@@ -757,55 +755,57 @@
       <jump line="50" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="181" column="22" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="166" column="77" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="210" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="251" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJER1ggRXJyb3Igb24gR0VUOyBlcnJvciBjb2RlOiAlcyIgJSByZXEuc3RhdHVzX2NvZGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Public</text>
       </register>
       <register name="/" type="4">
-        <text>NGC</text>
+        <text>get_images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXEgPSByZXF1ZXN0cy5nZXQoc2VsZi5fYXBpX3VybChlbmRwb2ludCksIGhlYWRlcnM9ewogICAgICAgICAgICAnQXV0aG9yaXphdGlvbic6ICdCZWFyZXIge30nLmZvcm1hdChzZWxmLnRva2VuKSwKICAgICAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJubyBvcmcgbGlzdCAtIGZldGNoaW5nIHRoYXQgbm93IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJER1ggRXJyb3Igb24gR0VUOyBlcnJvciBjb2RlOiAlcyIgJSByZXEuc3RhdHVzX2NvZGUpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXEuc3RhdHVzX2NvZGUgIT0gMjAwOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIFNldCBuZXcgQmVhcmVyIFRva2VuCiAgICAgICAgc2VsZi5fdG9rZW4gPSByZXEuanNvbigpWyd0b2tlbiddCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3Rva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJBdXRoZW50aWNhdGlvbiBFcnJvciIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5fdG9rZW46Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXEuc3RhdHVzX2NvZGUgPT0gNDAxOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b2tlbihzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hdXRoZW50aWNhdGVfZm9yKHIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NGC</last-search>
+      <last-search>get_images</last-search>
       <last-offset />
-      <last-pattern>NGC</last-pattern>
+      <last-pattern>get_images</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -813,7 +813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nisdomain</entry>
         <entry>nisserver</entry>
         <entry>total</entry>
         <entry>nvidia</entry>
@@ -833,6 +832,7 @@
         <entry>info</entry>
         <entry>debug</entry>
         <entry>NGC</entry>
+        <entry>get_images</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;a,.d</entry>
