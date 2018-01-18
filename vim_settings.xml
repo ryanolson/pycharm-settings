@@ -146,12 +146,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516305061471">
-        <mark key="'" line="63" column="70" />
-        <mark key="[" line="123" column="25" />
-        <mark key="]" line="124" column="67" />
-        <mark key="^" line="124" column="67" />
-        <mark key="." line="124" column="67" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516305931529">
+        <mark key="'" line="77" column="15" />
+        <mark key="[" line="124" column="20" />
+        <mark key="]" line="124" column="20" />
+        <mark key="." line="124" column="24" />
+        <mark key="^" line="121" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -644,16 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="56" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="131" column="26" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="133" column="68" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="134" column="21" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="58" column="14" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="143" column="31" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="210" column="44" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="211" column="18" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="212" column="29" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="214" column="20" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="216" column="28" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
       <jump line="259" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
@@ -744,55 +734,65 @@
       <jump line="147" column="21" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="62" column="60" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="63" column="70" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="200" column="42" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="21" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="47" column="16" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="58" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="78" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="106" column="16" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="77" column="15" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoX2l0ZW1zOiAie3sgbG9jYWxfdXNlcnMuZmlsZXMgfX0iCg==</text>
+        <text encoding="base64">bG9nID0gdXRpbHMuZ2V0X2xvZ2dlcihfX25hbWVfXywgbGV2ZWw9bG9nZ2luZy5ERUJVRykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGV2ID0gdXRpbHMuZ2V0X2xvZ2dlcihfX25hbWVfXywgbGV2ZWw9bG9nZ2luZy5ERUJVRykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhvdGhlcl9pbWFnZXMpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgIC0gZmFjdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgIC0gaG9zdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyByb2xlczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICBuYW1lOiAie3sgaW52ZW50b3J5X2hvc3RuYW1lIH19Igo=</text>
+        <text encoding="base64">IyAgIC0gZmFjdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgIC0gaG9zdG5hbWU6Cg==</text>
+        <text encoding="base64">IyAgIC0gaG9zdHMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace encoding="base64">IyA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -800,8 +800,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pers</entry>
-        <entry>topol</entry>
         <entry>topology</entry>
         <entry>nisdomain</entry>
         <entry>nisserver</entry>
@@ -820,6 +818,8 @@
         <entry>home</entry>
         <entry>filter_on_tag</entry>
         <entry>filter</entry>
+        <entry>info</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;a,.d</entry>
@@ -836,12 +836,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>'a,.y</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>.,$d</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
