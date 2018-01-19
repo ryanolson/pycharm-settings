@@ -188,12 +188,12 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516352213211">
-        <mark key="'" line="231" column="29" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516352899795">
+        <mark key="'" line="232" column="29" />
         <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-        <mark key="^" line="13" column="51" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
         <mark key="[" line="2" column="0" />
@@ -389,13 +389,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516349381358">
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516352998448">
         <mark key="a" line="275" column="73" />
         <mark key="'" line="285" column="9" />
-        <mark key="[" line="267" column="12" />
-        <mark key="]" line="266" column="6" />
-        <mark key="^" line="266" column="6" />
-        <mark key="." line="267" column="14" />
+        <mark key="[" line="289" column="86" />
+        <mark key="]" line="289" column="86" />
+        <mark key="^" line="289" column="86" />
+        <mark key="." line="289" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/defaults/main.yml" timestamp="1504289401321">
         <mark key="[" line="2" column="12" />
@@ -771,10 +771,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text>, &quot;nvidia/cuda&quot;]</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>, &quot;nvidia/cuda&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>dgx</text>
