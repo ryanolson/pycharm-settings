@@ -188,12 +188,12 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516348240032">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516352213211">
         <mark key="'" line="231" column="29" />
-        <mark key="[" line="315" column="33" />
-        <mark key="]" line="315" column="33" />
-        <mark key="." line="315" column="33" />
-        <mark key="^" line="315" column="33" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+        <mark key="^" line="13" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
         <mark key="[" line="2" column="0" />
@@ -770,11 +770,11 @@
       <jump line="285" column="9" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>dgx</text>
