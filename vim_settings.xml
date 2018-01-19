@@ -33,6 +33,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516355168031">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
         <mark key="[" line="9" column="84" />
         <mark key="]" line="9" column="84" />
@@ -80,11 +86,6 @@
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
-      </file>
-      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/services/replicator/replicator.py" timestamp="1511285576388">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
@@ -146,23 +147,18 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516346751257">
-        <mark key="'" line="63" column="28" />
-        <mark key="[" line="124" column="20" />
-        <mark key="]" line="124" column="20" />
-        <mark key="." line="124" column="24" />
-        <mark key="^" line="121" column="28" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516356029562">
+        <mark key="'" line="79" column="31" />
+        <mark key="[" line="94" column="106" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+        <mark key="^" line="95" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1511061137963">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -188,22 +184,12 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516352899795">
-        <mark key="'" line="232" column="29" />
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="50" />
-        <mark key="^" line="13" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516005523913">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516353988094">
+        <mark key="'" line="235" column="29" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="268" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
@@ -217,13 +203,6 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" timestamp="1504022609084">
-        <mark key="'" line="2" column="77" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs-client/tasks/main.yml" timestamp="1504281241005">
         <mark key="[" line="2" column="5" />
@@ -384,18 +363,13 @@
         <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1516010063828" />
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1511053715633">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516352998448">
-        <mark key="a" line="275" column="73" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516356258751">
+        <mark key="a" line="272" column="0" />
         <mark key="'" line="285" column="9" />
-        <mark key="[" line="289" column="86" />
-        <mark key="]" line="289" column="86" />
-        <mark key="^" line="289" column="86" />
-        <mark key="." line="289" column="86" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="^" line="310" column="32" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/defaults/main.yml" timestamp="1504289401321">
         <mark key="[" line="2" column="12" />
@@ -451,7 +425,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/base.py" timestamp="1516346806950">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/base.py" timestamp="1516356680417">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="52" column="52" />
         <mark key="^" line="52" column="52" />
@@ -555,13 +529,6 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/head.yml" timestamp="1515919792052">
-        <mark key="'" line="18" column="20" />
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/Dockerfile" timestamp="1501118715402">
         <mark key="[" line="9" column="97" />
         <mark key="]" line="9" column="97" />
@@ -573,20 +540,6 @@
         <mark key="]" line="139" column="31" />
         <mark key="^" line="139" column="31" />
         <mark key="." line="139" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" timestamp="1511211362640">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="114" column="51" />
-        <mark key="." line="114" column="51" />
-        <mark key="^" line="114" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" timestamp="1510261952784">
-        <mark key="'" line="5" column="158" />
-        <mark key="[" line="30" column="289" />
-        <mark key="]" line="37" column="105" />
-        <mark key="^" line="37" column="105" />
-        <mark key="." line="37" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
         <mark key="[" line="23" column="2" />
@@ -668,10 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="22" filename="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" />
-      <jump line="112" column="57" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
-      <jump line="44" column="11" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
       <jump line="72" column="5" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
@@ -703,9 +652,7 @@
       <jump line="21" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="47" column="16" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="48" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="78" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="106" column="16" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="77" column="15" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -768,55 +715,61 @@
       <jump line="267" column="6" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
       <jump line="286" column="11" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
       <jump line="285" column="9" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="58" column="24" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="93" column="25" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="92" column="31" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="78" column="26" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="79" column="31" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, &quot;nvidia/cuda&quot;]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;nvidia/cuda&quot;]</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
-        <text>dgx</text>
+        <text>clone(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3RlbnNvcnJ0IiBpbiBpbWFnZXNfYW5kX3RhZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gREdYUmVnaXN0cnkoYXBpX2tleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAiMTcuMTIiIGluIGltYWdlc19hbmRfdGFnc1tpbWFnZV0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgIjE3LjEyIiBpbiBpbWFnZXNfYW5kX3RhZ3NbaW1hZ2VdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL2N1ZGEiIGluIGltYWdlc19hbmRfdGFncwo=</text>
+        <text encoding="base64">ICAgIGRldi5kZWJ1ZyhpbWFnZXNfYW5kX3RhZ3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3RlbnNvcnJ0IiBpbiBpbWFnZXNfYW5kX3RhZ3MK</text>
+        <text encoding="base64">ICAgIG1hcmtkb3ducyA9IGRneF9yZWdpc3RyeS5nZXRfaW1hZ2VfZGVzY3JpcHRpb25zKHByb2plY3Q9Im52aWRpYSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL214bmV0IiBpbiBpbWFnZXNfYW5kX3RhZ3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3B5dG9yY2giIGluIGltYWdlc19hbmRfdGFncwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3RlbnNvcmZsb3ciIGluIGltYWdlc19hbmRfdGFncwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGFzc2VydCAiMTYuMDQiIGluIGltYWdlc19hbmRfdGFnc1sibnZzYV9jbG9uZS91YnVudHUiXQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGFzc2VydCAibGF0ZXN0IiBpbiBpbWFnZXNfYW5kX3RhZ3NbIm52c2FfY2xvbmUvYnVzeWJveCJdCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCAibnZzYV9jbG9uZS91YnVudHUiIGluIGltYWdlc19hbmRfdGFncwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCAiMTcuMTIiIGluIGltYWdlc19hbmRfdGFnc1tpbWFnZV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dgx</last-search>
+      <last-search>clone(</last-search>
       <last-offset />
-      <last-pattern>dgx</last-pattern>
+      <last-pattern>clone(</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -824,8 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Core</entry>
-        <entry>exist</entry>
         <entry>home</entry>
         <entry>filter_on_tag</entry>
         <entry>filter</entry>
@@ -844,6 +795,8 @@
         <entry>NGC</entry>
         <entry>ngc_</entry>
         <entry>dgx</entry>
+        <entry>clone_image</entry>
+        <entry>clone(</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
