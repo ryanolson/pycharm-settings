@@ -33,14 +33,6 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511250554577">
-        <mark key="a" line="16" column="0" />
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="128" column="22" />
-        <mark key="]" line="129" column="45" />
-        <mark key="^" line="129" column="45" />
-        <mark key="." line="129" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
         <mark key="[" line="9" column="84" />
         <mark key="]" line="9" column="84" />
@@ -196,13 +188,13 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516316397039">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516321011819">
         <mark key="a" line="50" column="34" />
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="249" column="32" />
-        <mark key="]" line="249" column="45" />
-        <mark key="." line="249" column="45" />
-        <mark key="^" line="249" column="45" />
+        <mark key="'" line="245" column="0" />
+        <mark key="[" line="276" column="64" />
+        <mark key="]" line="276" column="72" />
+        <mark key="." line="276" column="72" />
+        <mark key="^" line="276" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
         <mark key="[" line="2" column="0" />
@@ -760,10 +752,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Public</text>
+        <text>image_name</text>
       </register>
       <register name="-" type="4">
-        <text>Public</text>
+        <text>image_name</text>
       </register>
       <register name="/" type="4">
         <text>get_images</text>
@@ -772,31 +764,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJubyBvcmcgbGlzdCAtIGZldGNoaW5nIHRoYXQgbm93IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gImh0dHA6Ly9hcGkubmdjLm52aWRpYS5jb20vdjIvIiArIGVuZHBvaW50Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZV91cmwgKyAib3JnL3t9LyIuZm9ybWF0KG9yZ19uYW1lKSArIGVuZHBvaW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmdfbmFtZSA9IG9yZ19uYW1lIG9yIHNlbGYuZGVmYXVsdF9vcmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNldCBuZXcgQmVhcmVyIFRva2VuCiAgICAgICAgc2VsZi5fdG9rZW4gPSByZXEuanNvbigpWyd0b2tlbiddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBzZWxmLl9hdXRoZW50aWNhdGVfZm9yKE5vbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3JnX25hbWUgYW5kIG5vdCBzZWxmLmRlZmF1bHRfb3JnOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJBdXRoZW50aWNhdGlvbiBFcnJvciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2VfdXJsICsgZW5kcG9pbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXEuc3RhdHVzX2NvZGUgPT0gNDAxOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub19vcmc6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hdXRoZW50aWNhdGVfZm9yKHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
