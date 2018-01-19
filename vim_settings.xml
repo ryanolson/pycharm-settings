@@ -188,13 +188,13 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516321011819">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516321610280">
         <mark key="a" line="50" column="34" />
-        <mark key="'" line="245" column="0" />
-        <mark key="[" line="276" column="64" />
-        <mark key="]" line="276" column="72" />
-        <mark key="." line="276" column="72" />
-        <mark key="^" line="276" column="72" />
+        <mark key="'" line="105" column="64" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="63" column="29" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
         <mark key="[" line="2" column="0" />
@@ -649,27 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="33" filename="$USER_HOME$/Projects/ngc/nvidia_sa/nvidia_sa/docker/client.py" />
-      <jump line="272" column="25" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="92" column="10" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="143" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="147" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="154" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="165" column="15" filename="$USER_HOME$/Projects/ngc/nvidia_sa/tests/test_nvidia_sa.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
-      <jump line="73" column="13" filename="$USER_HOME$/Projects/ngc/services/importer/importer.py" />
-      <jump line="86" column="39" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="46" column="8" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="60" column="78" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="72" column="13" filename="$USER_HOME$/Projects/ngc/services/replicator/replicator.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
-      <jump line="4" column="9" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" />
-      <jump line="28" column="7" filename="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/site.yml" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/slurm.yml" />
       <jump line="7" column="19" filename="$USER_HOME$/Projects/ansible/ansible-dgx/test.j2" />
@@ -749,13 +728,34 @@
       <jump line="166" column="77" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="251" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="288" column="10" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="298" column="32" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="118" column="10" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="113" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="263" column="9" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="297" column="29" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="115" column="54" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="117" column="9" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="136" column="29" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="261" column="54" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="368" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="294" column="21" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="133" column="21" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="249" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="223" column="9" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="253" column="64" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="77" column="9" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="107" column="64" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>image_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>image_name</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>get_images</text>
@@ -764,31 +764,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJubyBvcmcgbGlzdCAtIGZldGNoaW5nIHRoYXQgbm93IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImh0dHA6Ly9hcGkubmdjLm52aWRpYS5jb20vdjIvIiArIGVuZHBvaW50Cgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZV91cmwgKyAib3JnL3t9LyIuZm9ybWF0KG9yZ19uYW1lKSArIGVuZHBvaW50Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcmdfbmFtZSA9IG9yZ19uYW1lIG9yIHNlbGYuZGVmYXVsdF9vcmcK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWxmLl9hdXRoZW50aWNhdGVfZm9yKE5vbmUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3JnX25hbWUgYW5kIG5vdCBzZWxmLmRlZmF1bHRfb3JnOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2VfdXJsICsgZW5kcG9pbnQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub19vcmc6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJER1ggRXJyb3Igb24gR0VUOyBlcnJvciBjb2RlOiAlcyIgJSByZXEuc3RhdHVzX2NvZGUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZXEuc3RhdHVzX2NvZGUgIT0gMjAwOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAic2l6ZSI6IDEzMDM0MzUwNzMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAidXNlciI6IHt9LAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAidGFnIjogIjE3LjEwIiwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAidXBkYXRlZERhdGUiOiAiMjAxNy0xMC0yNFQwMzozOTo0MS4xNjExMTM3ODdaIiwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -805,9 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nisserver</entry>
-        <entry>total</entry>
-        <entry>nvidia</entry>
         <entry>docker-ce</entry>
         <entry>docker</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -824,6 +821,9 @@
         <entry>info</entry>
         <entry>debug</entry>
         <entry>NGC</entry>
+        <entry>image_data</entry>
+        <entry>get_image_data</entry>
+        <entry>get_image_names</entry>
         <entry>get_images</entry>
       </history-search>
       <history-cmd>
