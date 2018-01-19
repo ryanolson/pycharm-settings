@@ -33,14 +33,6 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" timestamp="1511250554577">
-        <mark key="a" line="16" column="0" />
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="128" column="22" />
-        <mark key="]" line="129" column="45" />
-        <mark key="^" line="129" column="45" />
-        <mark key="." line="129" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
         <mark key="[" line="9" column="84" />
         <mark key="]" line="9" column="84" />
@@ -196,13 +188,12 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516346820889">
-        <mark key="a" line="50" column="34" />
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="^" line="63" column="29" />
-        <mark key="." line="215" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516348240032">
+        <mark key="'" line="231" column="29" />
+        <mark key="[" line="315" column="33" />
+        <mark key="]" line="315" column="33" />
+        <mark key="." line="315" column="33" />
+        <mark key="^" line="315" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
         <mark key="[" line="2" column="0" />
@@ -397,6 +388,14 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516349381358">
+        <mark key="a" line="275" column="73" />
+        <mark key="'" line="285" column="9" />
+        <mark key="[" line="267" column="12" />
+        <mark key="]" line="266" column="6" />
+        <mark key="^" line="266" column="6" />
+        <mark key="." line="267" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/defaults/main.yml" timestamp="1504289401321">
         <mark key="[" line="2" column="12" />
@@ -637,6 +636,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/__init__.py" timestamp="1516349043498">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/tasks/main.yml" timestamp="1515179044688">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="21" column="13" />
@@ -663,24 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="12" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/tasks/main.yml" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" />
-      <jump line="111" column="78" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
-      <jump line="108" column="30" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
-      <jump line="107" column="25" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
-      <jump line="0" column="45" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
-      <jump line="122" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
-      <jump line="123" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
-      <jump line="124" column="4" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/software/defaults/main.yml" />
-      <jump line="0" column="2" filename="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" />
-      <jump line="37" column="13" filename="$USER_HOME$/Projects/ansible/ansible-dgx/software.yml" />
-      <jump line="91" column="15" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" />
-      <jump line="71" column="8" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" />
-      <jump line="70" column="8" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" />
-      <jump line="5" column="158" filename="$USER_HOME$/Projects/ansible/ansible-dgx/NOTES" />
-      <jump line="13" column="6" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/defaults/main.yml" />
-      <jump line="48" column="19" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/dgx-software/tasks/main.yml" />
       <jump line="38" column="22" filename="$USER_HOME$/Projects/ansible/ansible-dgx/bootstrap.yml" />
       <jump line="112" column="57" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
       <jump line="44" column="11" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf" />
@@ -738,7 +725,6 @@
       <jump line="115" column="54" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="117" column="9" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="136" column="29" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="261" column="54" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="262" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="368" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="294" column="21" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
@@ -762,86 +748,104 @@
       <jump line="26" column="83" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="63" column="28" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="316" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="270" column="5" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="192" column="12" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="239" column="5" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="228" column="12" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="308" column="29" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="244" column="16" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="220" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="215" column="21" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="261" column="76" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="264" column="98" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="72" column="21" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="231" column="29" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="259" column="6" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="260" column="14" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="14" column="67" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="266" column="11" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="267" column="6" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="286" column="11" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
+      <jump line="285" column="9" filename="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>docker_url</text>
+        <text>dgx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJubyBvcmcgbGlzdCAtIGZldGNoaW5nIHRoYXQgbm93IikK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3RlbnNvcnJ0IiBpbiBpbWFnZXNfYW5kX3RhZ3MK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInt9L3t9Ont9Ii5mb3JtYXQoc2VsZi51cmwsIG5hbWUsIHRhZykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAiMTcuMTIiIGluIGltYWdlc19hbmRfdGFnc1tpbWFnZV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb2NrZXJfdXJsKHNlbGYsIG5hbWUsIHRhZyk6Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL2N1ZGEiIGluIGltYWdlc19hbmRfdGFncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3RlbnNvcnJ0IiBpbiBpbWFnZXNfYW5kX3RhZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInt9L3t9Ont9Ii5mb3JtYXQoc2VsZi51cmwsIG5hbWUsIHRhZykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL214bmV0IiBpbiBpbWFnZXNfYW5kX3RhZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb2NrZXJfdXJsKHNlbGYsIG5hbWUsIHRhZyk6Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3B5dG9yY2giIGluIGltYWdlc19hbmRfdGFncwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibnZpZGlhL3RlbnNvcmZsb3ciIGluIGltYWdlc19hbmRfdGFncwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInt9L3t9Ont9Ii5mb3JtYXQoc2VsZi51cmwsIG5hbWUsIHRhZykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAiMTYuMDQiIGluIGltYWdlc19hbmRfdGFnc1sibnZzYV9jbG9uZS91YnVudHUiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb2NrZXJfdXJsKHNlbGYsIG5hbWUsIHRhZyk6Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAibGF0ZXN0IiBpbiBpbWFnZXNfYW5kX3RhZ3NbIm52c2FfY2xvbmUvYnVzeWJveCJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>docker_url</last-search>
+      <last-search>dgx</last-search>
       <last-offset />
-      <last-pattern>docker_url</last-pattern>
-      <last-replace encoding="base64">IyA=</last-replace>
+      <last-pattern>dgx</last-pattern>
+      <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>dgx</entry>
-        <entry>sysinfo</entry>
-        <entry>affinity</entry>
-        <entry>CORE</entry>
         <entry>Core</entry>
-        <entry>^</entry>
         <entry>exist</entry>
         <entry>home</entry>
         <entry>filter_on_tag</entry>
         <entry>filter</entry>
         <entry>info</entry>
         <entry>debug</entry>
-        <entry>NGC</entry>
         <entry>image_data</entry>
         <entry>get_image_data</entry>
         <entry>get_image_names</entry>
         <entry>get_images</entry>
         <entry>nvcr</entry>
         <entry>docker_url</entry>
+        <entry>^</entry>
+        <entry>framework</entry>
+        <entry>tag</entry>
+        <entry>_get_images</entry>
+        <entry>NGC</entry>
+        <entry>ngc_</entry>
+        <entry>dgx</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;a,.d</entry>
         <entry>13</entry>
         <entry>.,$y</entry>
         <entry>.,$</entry>
@@ -850,7 +854,6 @@
         <entry>&quot;a,.y</entry>
         <entry>&quot;'a,.s/^/# /</entry>
         <entry>'a,.s/^/# /</entry>
-        <entry>'a,.d</entry>
         <entry>&quot;!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
@@ -859,6 +862,8 @@
         <entry>1</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>'a,.s/^/        /</entry>
+        <entry>'a,.d</entry>
         <entry>'a,.y</entry>
         <entry>w</entry>
       </history-cmd>
