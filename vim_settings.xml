@@ -147,12 +147,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516429918998">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516430558747">
         <mark key="'" line="111" column="24" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="83" column="74" />
+        <mark key="[" line="86" column="91" />
+        <mark key="]" line="86" column="108" />
+        <mark key="." line="86" column="108" />
+        <mark key="^" line="86" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -363,7 +363,7 @@
         <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1516010063828" />
-      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516413133569">
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516431141703">
         <mark key="a" line="272" column="0" />
         <mark key="'" line="285" column="9" />
         <mark key="[" line="311" column="0" />
