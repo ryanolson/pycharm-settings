@@ -148,12 +148,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516430558747">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516442035646">
         <mark key="'" line="111" column="24" />
-        <mark key="[" line="86" column="91" />
-        <mark key="]" line="86" column="108" />
-        <mark key="." line="86" column="108" />
-        <mark key="^" line="86" column="108" />
+        <mark key="[" line="191" column="38" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+        <mark key="^" line="192" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -745,10 +745,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>docker_url</text>
