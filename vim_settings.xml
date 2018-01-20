@@ -216,6 +216,7 @@
         <mark key="^" line="5" column="98" />
         <mark key="." line="5" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/Dockerfile" timestamp="1516412459900" />
       <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547327024">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -363,7 +364,7 @@
         <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1516010063828" />
-      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516386679837">
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516412850352">
         <mark key="a" line="272" column="0" />
         <mark key="'" line="285" column="9" />
         <mark key="[" line="311" column="0" />
