@@ -542,12 +542,12 @@
         <mark key="^" line="139" column="31" />
         <mark key="." line="139" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" timestamp="1516419813872">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" timestamp="1516427043754">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
         <mark key="[" line="23" column="2" />
@@ -731,44 +731,44 @@
       <jump line="10" column="8" filename="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>project</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>ImageRequest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gREdYUmVnaXN0cnkoYXBpX2tleSkK</text>
+        <text encoding="base64">ICAgIHJwYyBBdmFpbGFibGVJbWFnZXMgKEltYWdlUmVxdWVzdCkgcmV0dXJucyAoc3RyZWFtIERvY2tlckltYWdlKSB7fQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJwYyBUIChVKSByZXR1cm5zIChWKSB7fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJwYyBDYW5jZWxSZXBsaWNhdGlvbiAoQ2FuY2VsUmVxdWVzdCkgcmV0dXJucyAoU3RhdHVzKSB7fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJwYyBTaHV0ZG93blNlcnZpY2UgKFNodXRkb3duUmVxdWVzdCkgcmV0dXJucyAoU3RhdHVzKSB7fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJwYyBHZXRTdGF0ZSAoU3RhdGVSZXF1ZXN0KSByZXR1cm5zIChTdGF0ZSkge30K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJwYyBBdmFpbGFibGVJbWFnZXMgKEltYWdlUmVxdWVzdCkgcmV0dXJucyAoc3RyZWFtIERvY2tlckltYWdlcykge30K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bWVzc2FnZSBTdGF0ZSB7CiAgICByZXBlYXRlZCBEb2NrZXJJbWFnZSBpbWFnZXMgPSAxOwogICAgcmVwZWF0ZWQgRG9ja2VySW1hZ2UgbmV3X2ltYWdlcyA9IDI7CiAgICByZXBlYXRlZCBNYXJrZG93biBtYXJrZG93bnMgPSAzOwp9OwoKbWVzc2FnZSBEb2NrZXJJbWFnZSB7CiAgICBzdHJpbmcgbmFtZSA9IDE7CiAgICBzdHJpbmcgdGFnID0gMjsKICAgIHN0cmluZyBkb2NrZXJfaWQgPSAzOwp9OwoKbWVzc2FnZSBNYXJrZG93biB7CiAgICBzdHJpbmcgdGV4dCA9IDE7Cn07CgptZXNzYWdlIFN0YXJ0UmVxdWVzdCB7Cn07CgptZXNzYWdlIENhbmNlbFJlcXVlc3Qgewp9OwoKbWVzc2FnZSBTaHV0ZG93blJlcXVlc3Qgewp9OwoKbWVzc2FnZSBTdGF0ZVJlcXVlc3Qgewp9Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFNlcnZpY2VTdGF0dXMgc3RhdHVzID0gMTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTaHV0dGluZ0Rvd24gPSAyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSZXBsaWNhdGluZyA9IDE7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fWtra2trawo=</text>
+        <text encoding="base64">ICAgICAgICBJZGxlID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgIGVudW0gU2VydmljZVN0YXR1cyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -818,7 +818,6 @@
         <entry>&quot;!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
-        <entry>.,$d</entry>
         <entry>q!</entry>
         <entry>1</entry>
         <entry>wq</entry>
@@ -826,6 +825,7 @@
         <entry>'a,.s/^/        /</entry>
         <entry>'a,.d</entry>
         <entry>'a,.y</entry>
+        <entry>.,$d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
