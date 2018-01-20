@@ -217,10 +217,11 @@
         <mark key="." line="5" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/Dockerfile" timestamp="1516412459900" />
-      <file name="$USER_HOME$/Projects/DeepOps/protos/Makefile.grpc" timestamp="1516438309532">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
+      <file name="$USER_HOME$/Projects/DeepOps/protos/Makefile.grpc" timestamp="1516440055425">
+        <mark key="[" line="19" column="72" />
+        <mark key="]" line="19" column="73" />
+        <mark key="." line="19" column="73" />
+        <mark key="^" line="19" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/docker-compose.override.yml" timestamp="1501547327024">
         <mark key="[" line="12" column="0" />
@@ -783,7 +784,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLWFwaS1rZXk9PHlvdXItZGd4LWNvbXB1dGUubnZpZGlhLmNvbS1hcGkta2V5Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -837,8 +838,8 @@
         <entry>'a,.d</entry>
         <entry>'a,.y</entry>
         <entry>.,$d</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
