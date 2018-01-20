@@ -364,7 +364,7 @@
         <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1516010063828" />
-      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516412850352">
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516413133569">
         <mark key="a" line="272" column="0" />
         <mark key="'" line="285" column="9" />
         <mark key="[" line="311" column="0" />
@@ -542,6 +542,13 @@
         <mark key="^" line="139" column="31" />
         <mark key="." line="139" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" timestamp="1516419813872">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="2" />
@@ -622,8 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
-      <jump line="72" column="5" filename="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/compute.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="70" column="7" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/DeepOps/on-prem/nvidia_sa/nvidia_sa/docker/client.py" />
@@ -722,55 +727,57 @@
       <jump line="92" column="31" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="78" column="26" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="79" column="31" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="7" column="25" filename="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" />
+      <jump line="10" column="8" filename="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>project</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
-        <text>clone(</text>
+        <text>ImageRequest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gREdYUmVnaXN0cnkoYXBpX2tleSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5udmNyID0gCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgIjE3LjEyIiBpbiBpbWFnZXNfYW5kX3RhZ3NbaW1hZ2VdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRldi5kZWJ1ZyhpbWFnZXNfYW5kX3RhZ3MpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmtkb3ducyA9IGRneF9yZWdpc3RyeS5nZXRfaW1hZ2VfZGVzY3JpcHRpb25zKHByb2plY3Q9Im52aWRpYSIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAiMTYuMDQiIGluIGltYWdlc19hbmRfdGFnc1sibnZzYV9jbG9uZS91YnVudHUiXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibGF0ZXN0IiBpbiBpbWFnZXNfYW5kX3RhZ3NbIm52c2FfY2xvbmUvYnVzeWJveCJdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAibnZzYV9jbG9uZS91YnVudHUiIGluIGltYWdlc19hbmRfdGFncwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJwYyBUIChVKSByZXR1cm5zIChWKSB7fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJwYyBDYW5jZWxSZXBsaWNhdGlvbiAoQ2FuY2VsUmVxdWVzdCkgcmV0dXJucyAoU3RhdHVzKSB7fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJwYyBTaHV0ZG93blNlcnZpY2UgKFNodXRkb3duUmVxdWVzdCkgcmV0dXJucyAoU3RhdHVzKSB7fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJwYyBHZXRTdGF0ZSAoU3RhdGVSZXF1ZXN0KSByZXR1cm5zIChTdGF0ZSkge30K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJwYyBBdmFpbGFibGVJbWFnZXMgKEltYWdlUmVxdWVzdCkgcmV0dXJucyAoc3RyZWFtIERvY2tlckltYWdlcykge30K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fWtra2trawo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAiMTcuMTIiIGluIGltYWdlc19hbmRfdGFnc1tpbWFnZV0K</text>
+        <text encoding="base64">bWVzc2FnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clone(</last-search>
+      <last-search>ImageRequest</last-search>
       <last-offset />
-      <last-pattern>clone(</last-pattern>
+      <last-pattern>ImageRequest</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -778,8 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>home</entry>
-        <entry>filter_on_tag</entry>
         <entry>filter</entry>
         <entry>info</entry>
         <entry>debug</entry>
@@ -798,6 +803,8 @@
         <entry>dgx</entry>
         <entry>clone_image</entry>
         <entry>clone(</entry>
+        <entry>Available</entry>
+        <entry>ImageRequest</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
