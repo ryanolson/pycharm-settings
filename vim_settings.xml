@@ -123,6 +123,7 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/protos/ngc_replicator.proto" timestamp="1516431791962" />
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="45" />
@@ -319,6 +320,12 @@
         <mark key="." line="65" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/bootstrap.yml" timestamp="1516232776333" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/README.md" timestamp="1516432543342">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="51" column="4" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
         <mark key="[" line="0" column="53" />
         <mark key="]" line="0" column="54" />
@@ -542,12 +549,12 @@
         <mark key="^" line="139" column="31" />
         <mark key="." line="139" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" timestamp="1516427043754">
+      <file name="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" timestamp="1516431845684">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
         <mark key="[" line="23" column="2" />
@@ -732,10 +739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VuZCBub3RpZmljYXRpb24gLSBuZXcgaW1hZ2VzOlxue30iLmZvcm1hdChuZXdfaW1hZ2VzKSkK</text>
+        <text encoding="base64">Pj4+Pj4+PiA5NDI3NjhhZjRiMWZiYjZjM2UwZDNjMGU2MDYyN2Y0ZDMwYjQwYTQ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>makrdown_</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>docker_url</text>
@@ -744,31 +751,31 @@
         <text encoding="base64">ICAgIHJwYyBBdmFpbGFibGVJbWFnZXMgKEltYWdlUmVxdWVzdCkgcmV0dXJucyAoc3RyZWFtIERvY2tlckltYWdlKSB7fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic2VuZCBub3RpZmljYXRpb24gLSBuZXcgaW1hZ2VzOlxue30iLmZvcm1hdChuZXdfaW1hZ2VzKSkK</text>
+        <text encoding="base64">Pj4+Pj4+PiA5NDI3NjhhZjRiMWZiYjZjM2UwZDNjMGU2MDYyN2Y0ZDMwYjQwYTQ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLWFwaS1rZXk9PHlvdXItZGd4LWNvbXB1dGUubnZpZGlhLmNvbS1hcGkta2V5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVzc2FnZSBTdGF0ZSB7CiAgICByZXBlYXRlZCBEb2NrZXJJbWFnZSBpbWFnZXMgPSAxOwogICAgcmVwZWF0ZWQgRG9ja2VySW1hZ2UgbmV3X2ltYWdlcyA9IDI7CiAgICByZXBlYXRlZCBNYXJrZG93biBtYXJrZG93bnMgPSAzOwp9OwoKbWVzc2FnZSBEb2NrZXJJbWFnZSB7CiAgICBzdHJpbmcgbmFtZSA9IDE7CiAgICBzdHJpbmcgdGFnID0gMjsKICAgIHN0cmluZyBkb2NrZXJfaWQgPSAzOwp9OwoKbWVzc2FnZSBNYXJrZG93biB7CiAgICBzdHJpbmcgdGV4dCA9IDE7Cn07CgptZXNzYWdlIFN0YXJ0UmVxdWVzdCB7Cn07CgptZXNzYWdlIENhbmNlbFJlcXVlc3Qgewp9OwoKbWVzc2FnZSBTaHV0ZG93blJlcXVlc3Qgewp9OwoKbWVzc2FnZSBTdGF0ZVJlcXVlc3Qgewp9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLWltYWdlPXRlbnNvcmZsb3cgLS1pbWFnZT1weXRvcmNoIC0taW1hZ2U9dGVuc29ycnQgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VTdGF0dXMgc3RhdHVzID0gMTsK</text>
+        <text encoding="base64">ICAgIHJ5YW5vbHNvbi9uZ2NfcmVwbGljYXRvcjowLjIuMCAtLXByb2plY3Q9bnZpZGlhIC0tbWluLXZlcnNpb249MTcuMTIgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTaHV0dGluZ0Rvd24gPSAyOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA5NDI3NjhhZjRiMWZiYjZjM2UwZDNjMGU2MDYyN2Y0ZDMwYjQwYTQ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXBsaWNhdGluZyA9IDE7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJZGxlID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLWFwaS1rZXk9PHlvdXItZGd4LWNvbXB1dGUubnZpZGlhLmNvbS1hcGkta2V5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
