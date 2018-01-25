@@ -382,13 +382,13 @@
         <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1516010063828" />
-      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516431141703">
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516913144357">
         <mark key="a" line="272" column="0" />
         <mark key="'" line="285" column="9" />
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="0" />
-        <mark key="^" line="310" column="32" />
-        <mark key="." line="311" column="0" />
+        <mark key="[" line="269" column="65" />
+        <mark key="]" line="269" column="65" />
+        <mark key="^" line="269" column="44" />
+        <mark key="." line="269" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/defaults/main.yml" timestamp="1504289401321">
         <mark key="[" line="2" column="12" />
@@ -757,10 +757,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIHZhbCA+PSBsb3dlcl9ib3VuZA==</text>
+        <text>[&quot;9.0-cudnn7-devel-ubuntu16.04&quot;] == &quot;2017-12-04T05:54:30.096392531Z&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIHZhbCA+PSBsb3dlcl9ib3VuZA==</text>
+        <text>[&quot;9.0-cudnn7-devel-ubuntu16.04&quot;] == &quot;2017-12-04T05:54:30.096392531Z&quot;</text>
       </register>
       <register name="/" type="4">
         <text>missing_images</text>
@@ -796,7 +796,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZmxvYXRfdGFnIGFuZCBsZW4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -846,12 +846,12 @@
         <entry>q!</entry>
         <entry>'a,.s/^/        /</entry>
         <entry>.,$d</entry>
-        <entry>wq</entry>
         <entry>'a,.y</entry>
         <entry>'a,.d</entry>
         <entry>1</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
