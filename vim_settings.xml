@@ -154,12 +154,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516919647538">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516920901299">
         <mark key="'" line="18" column="7" />
-        <mark key="[" line="277" column="46" />
-        <mark key="]" line="278" column="52" />
-        <mark key="^" line="278" column="52" />
-        <mark key="." line="278" column="52" />
+        <mark key="[" line="230" column="43" />
+        <mark key="]" line="234" column="53" />
+        <mark key="^" line="234" column="53" />
+        <mark key="." line="230" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -620,12 +620,12 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/client.py" timestamp="1516920787303">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/client.py" timestamp="1516921194675">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/on-prem/docker-compose.yml" timestamp="1501884179107">
         <mark key="[" line="23" column="2" />
@@ -815,11 +815,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBuZ2NfcmVwbGljYXRvciBpbXBvcnQgcmVwbGljYXRvcl9wYjIgYXMgbW9kZWxzCg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>inferenc</text>
@@ -908,8 +908,8 @@
         <entry>q</entry>
         <entry>1</entry>
         <entry>18</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
