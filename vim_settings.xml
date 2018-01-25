@@ -27,6 +27,12 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/replicator_pb2_grpc.py" timestamp="1516916303523">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/00aptproxy.j2" timestamp="1515180667582">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="28" />
@@ -148,12 +154,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516914949950">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516916482984">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -333,6 +339,9 @@
         <mark key="]" line="65" column="40" />
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1516916786832">
+        <mark key="'" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/bootstrap.yml" timestamp="1516232776333" />
       <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/README.md" timestamp="1516432543342">
@@ -763,10 +772,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text>replicator_pb2</text>
@@ -854,9 +863,9 @@
         <entry>'a,.y</entry>
         <entry>'a,.d</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>18</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
