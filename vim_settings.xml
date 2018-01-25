@@ -33,10 +33,10 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516355168031">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516913774479">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
@@ -191,6 +191,9 @@
         <mark key="." line="103" column="51" />
         <mark key="^" line="268" column="29" />
       </file>
+      <file name="/Python Console" timestamp="1516914366316">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="21" column="0" />
@@ -217,7 +220,7 @@
         <mark key="^" line="5" column="98" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/Dockerfile" timestamp="1516690385720">
+      <file name="$USER_HOME$/Projects/DeepOps/python/Dockerfile" timestamp="1516914023829">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="69" />
         <mark key="." line="4" column="69" />
@@ -343,6 +346,9 @@
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/local-apt/tasks/main.yml" timestamp="1515920714551">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs/tasks/client.yml" timestamp="1509691386474">
         <mark key="[" line="13" column="59" />
