@@ -39,11 +39,10 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516990682329">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516994053563">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
         <mark key="[" line="9" column="84" />
@@ -128,6 +127,12 @@
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/setup.cfg" timestamp="1516993142143">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/protos/ngc_replicator.proto" timestamp="1516431791962" />
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/simulator.py" timestamp="1500585762442">
@@ -220,7 +225,11 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/Makefile" timestamp="1516911879600" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/Makefile" timestamp="1516994081266">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs-client/tasks/main.yml" timestamp="1504281241005">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -496,11 +505,11 @@
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Makefile" timestamp="1516920487433">
-        <mark key="[" line="18" column="86" />
-        <mark key="]" line="18" column="96" />
-        <mark key="^" line="18" column="96" />
-        <mark key="." line="18" column="96" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Makefile" timestamp="1516994105823">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="27" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="43" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
         <mark key="[" line="7" column="0" />
@@ -823,43 +832,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>IMAGE_NAME</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>IMAGE_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IG1z</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLmRvY2tlcnJlZ2lzdHJ5Cg==</text>
+        <text encoding="base64">CUBkb2NrZXIgcm1pICR7SU1BR0VfTkFNRX0gMj4gL2Rldi9udWxsIHx8Ogo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
+        <text encoding="base64">CWRvY2tlciBidWlsZCAke0NBQ0hFU30gLXQgJHtJTUFHRV9OQU1FfSAtZiBEb2NrZXJmaWxlIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
+        <text encoding="base64">ZW5kaWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
+        <text encoding="base64">ICBDQUNIRVMgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDQUNIRVMgPSAtLWJ1aWxkLWFyZyBodHRwX3Byb3h5PSR7aHR0cF9wcm94eX0gLS1idWlsZC1hcmcgaHR0cHNfcHJveHk9JHtodHRwc19wcm94eX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2ltcG9ydCBzY2hlZAo=</text>
+        <text encoding="base64">aWZkZWYgaHR0cF9wcm94eQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUmVwbGljYXRvciBmaW5pc2hlZCIpCg==</text>
+        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
