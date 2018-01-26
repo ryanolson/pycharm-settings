@@ -164,12 +164,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516994756499">
-        <mark key="'" line="228" column="37" />
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="77" column="40" />
-        <mark key="^" line="77" column="40" />
-        <mark key="." line="77" column="40" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516995508724">
+        <mark key="'" line="229" column="37" />
+        <mark key="[" line="78" column="39" />
+        <mark key="]" line="78" column="46" />
+        <mark key="." line="78" column="46" />
+        <mark key="^" line="78" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -857,8 +857,8 @@
       <jump line="227" column="37" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yagr.nvidia.com:4567/deepops/python:0.4.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>yagr.nvidia.com:4567/deepops/python:0.4.0</text>
@@ -873,28 +873,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSB5YWdyLm52aWRpYS5jb206NDU2Ny9kZWVwb3BzL3B5dGhvbjowLjMuMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRvY2tlciBidWlsZCAke0NBQ0hFU30gLXQgJHtJTUFHRV9OQU1FfSAtZiBEb2NrZXJmaWxlIC4K</text>
+        <text encoding="base64">ICAgICAgICAjIHB1bGwgaW1hZ2UgZGVzY3JpcHRpb25zIC0gbmV3X2ltYWdlcyBzaG91bGQgYmUgZW1wdHkgZm9yIGRyeSBydW5zCiAgICAgICAgZGVzY3JpcHRpb25zID0gc2VsZi5udmNyLmdldF9pbWFnZV9kZXNjcmlwdGlvbnMocHJvamVjdD1wcm9qZWN0KQogICAgICAgIGZvciBpbWFnZV9uYW1lLCBfIGluIG5ld19pbWFnZXM6CiAgICAgICAgICAgIG1hcmtkb3duID0gb3MucGF0aC5qb2luKHNlbGYub3V0cHV0X3BhdGgsICJkZXNjcmlwdGlvbl97fS5tZCIuZm9ybWF0KGltYWdlX25hbWUucmVwbGFjZSgnLycsICclJScpKSkKICAgICAgICAgICAgd2l0aCBvcGVuKG1hcmtkb3duLCAidyIpIGFzIG91dDoKICAgICAgICAgICAgICAgIG91dC53cml0ZShkZXNjcmlwdGlvbnMuZ2V0KGltYWdlX25hbWUsICIiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDQUNIRVMgPQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiBzZWxmLnN5bmNfaW1hZ2VzKHByb2plY3Q9cHJvamVjdCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBDQUNIRVMgPSAtLWJ1aWxkLWFyZyBodHRwX3Byb3h5PSR7aHR0cF9wcm94eX0gLS1idWlsZC1hcmcgaHR0cHNfcHJveHk9JHtodHRwc19wcm94eX0K</text>
+        <text encoding="base64">RlJPTSB5YWdyLm52aWRpYS5jb206NDU2Ny9kZWVwb3BzL3B5dGhvbjowLjMuMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWZkZWYgaHR0cF9wcm94eQo=</text>
+        <text encoding="base64">CWRvY2tlciBidWlsZCAke0NBQ0hFU30gLXQgJHtJTUFHRV9OQU1FfSAtZiBEb2NrZXJmaWxlIC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJPTSAK</text>
+        <text encoding="base64">ZW5kaWYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -949,9 +949,9 @@
         <entry>1</entry>
         <entry>18</entry>
         <entry>q!</entry>
-        <entry>'a,.d</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
