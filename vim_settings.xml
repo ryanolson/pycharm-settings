@@ -154,11 +154,11 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516934435191">
-        <mark key="[" line="230" column="41" />
-        <mark key="]" line="230" column="47" />
-        <mark key="^" line="230" column="47" />
-        <mark key="." line="230" column="47" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516935440384">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="233" column="22" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -232,11 +232,11 @@
         <mark key="^" line="5" column="98" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/Dockerfile" timestamp="1516914023829">
-        <mark key="[" line="4" column="65" />
-        <mark key="]" line="4" column="69" />
-        <mark key="." line="4" column="69" />
-        <mark key="^" line="4" column="69" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/Dockerfile" timestamp="1516939937655">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/protos/Makefile.grpc" timestamp="1516440055425">
         <mark key="[" line="19" column="72" />
@@ -815,10 +815,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>image</text>
+        <text>jessie</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>jessie</text>
       </register>
       <register name="/" type="4">
         <text>info(</text>
@@ -827,31 +827,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgaW1hZ2VzIGluIHNlbGYucmVwbGljYXRvci5pbWFnZXNfZnJvbV9zdGF0ZShzZWxmLnJlcGxpY2F0b3Iuc3RhdGUpOgogICAgICAgICAgICB5aWVsZCBpbWFnZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUmVwbGljYXRvciBmaW5pc2hlZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2ltcG9ydCBzY2hlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8obWVzc2FnZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmVwbGljYXRvcl9wYjIuUmVwbGljYXRpb25TdGF0dXMobWVzc2FnZT1tZXNzYWdlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlcnZpY2U6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbmZvKHNlbGYsIG1lc3NhZ2UpOgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUmVwbGljYXRvciBmaW5pc2hlZCIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8obWVzc2FnZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmVwbGljYXRvcl9wYjIuUmVwbGljYXRpb25TdGF0dXMobWVzc2FnZT1tZXNzYWdlKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbG9uZShzZWxmLCB0b19wdWxsKToKICAgICAgICBuZXdfaW1hZ2VzID0gW10KICAgICAgICBmb3IgaW1hZ2VfbmFtZSwgdGFnX2RhdGEgaW4gdG9fcHVsbC5pdGVtcygpOgogICAgICAgICAgICBmb3IgdGFnLCBkb2NrZXJfaWQgaW4gdGFnX2RhdGEuaXRlbXMoKToKICAgICAgICAgICAgICAgICMgdGhlIGNsb25lIG9wZXJhdGlvbiBjb3VsZCBoYXZlIGRpZmZlcmVudCBiZWhhdmlvciBkZXBlbmRpbmcgd2hpY2ggc2VydmljZXMKICAgICAgICAgICAgICAgICMgYW5kIHdoYXQgaXMgdGhlIGludGVuZGVkIGZ1bmN0aW9uIG9mIGluc3RhbmNlcyAodHJ1ZSBjbG9uZSwgZXhwb3J0ZXIsIGV0YykKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAjIHVwZGF0ZSBsb2NhbCBzdGF0ZSBmb3IgZWFjaCBzdWNjZXNzZnVsIGNsb25lCiAgICAgICAgICAgICAgICAgICAgaWYgc2VsZi5jb25maWcoImRyeV9ydW4iKToKICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2suZWNobygiW2RyeS1ydW5dIGNsb25lX2ltYWdlKHt9LCB7fSwge30pIi5mb3JtYXQoaW1hZ2VfbmFtZSwgdGFnLCBkb2NrZXJfaWQpKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgIHNlbGYuaW5mbygiUHVsbGluZyB7fTp7fSIuZm9ybWF0KGltYWdlX25hbWUsIHRhZykpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5jbG9uZV9pbWFnZShpbWFnZV9uYW1lLCB0YWcsIGRvY2tlcl9pZCkgICMgaW5kZXBlbmRlbnQKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXRlW2ltYWdlX25hbWVdW3RhZ10gPSBkb2NrZXJfaWQgICMgZGVwIFtjbG9uZV0KICAgICAgICAgICAgICAgICAgICBuZXdfaW1hZ2VzLmFwcGVuZCgoaW1hZ2VfbmFtZSwgdGFnKSkKICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgcmV0dXJuIG5ld19pbWFnZXMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlcnZpY2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
