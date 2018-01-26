@@ -897,7 +897,7 @@
         <text encoding="base64">ZW5kaWYK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -945,14 +945,14 @@
         <entry>'a,.s/^/        /</entry>
         <entry>.,$d</entry>
         <entry>'a,.y</entry>
-        <entry>q</entry>
         <entry>1</entry>
         <entry>18</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>'a,.d</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
