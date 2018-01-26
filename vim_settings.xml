@@ -39,7 +39,7 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516994053563">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516994232848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -91,6 +91,11 @@
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
+      </file>
+      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/services/replicator/replicator.py" timestamp="1511285576388">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
@@ -159,17 +164,23 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516935440384">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="233" column="22" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1516994756499">
+        <mark key="'" line="228" column="37" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="77" column="40" />
+        <mark key="^" line="77" column="40" />
+        <mark key="." line="77" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1511061137963">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -195,12 +206,22 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516992482492">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" timestamp="1516994881329">
         <mark key="'" line="205" column="37" />
-        <mark key="[" line="377" column="35" />
-        <mark key="]" line="377" column="35" />
-        <mark key="^" line="65" column="37" />
-        <mark key="." line="377" column="37" />
+        <mark key="[" line="108" column="61" />
+        <mark key="]" line="108" column="64" />
+        <mark key="^" line="108" column="64" />
+        <mark key="." line="108" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516005523913">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="/Python Console" timestamp="1516914366316">
         <mark key="[" line="0" column="0" />
@@ -423,6 +444,11 @@
         <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1516010063828" />
+      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1511053715633">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1516991576415">
         <mark key="a" line="276" column="0" />
         <mark key="'" line="290" column="9" />
@@ -505,11 +531,11 @@
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Makefile" timestamp="1516994105823">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="27" />
-        <mark key="^" line="43" column="27" />
-        <mark key="." line="43" column="27" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Makefile" timestamp="1516994960731">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/ibcluster" timestamp="1509792715245">
         <mark key="[" line="7" column="0" />
@@ -729,9 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="126" column="52" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="122" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="119" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="118" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="114" column="27" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -829,55 +852,58 @@
       <jump line="384" column="22" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="65" column="37" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="205" column="37" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
+      <jump line="219" column="47" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="226" column="37" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="227" column="37" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IMAGE_NAME</text>
+        <text>yagr.nvidia.com:4567/deepops/python:0.4.0</text>
       </register>
       <register name="-" type="4">
-        <text>IMAGE_NAME</text>
+        <text>yagr.nvidia.com:4567/deepops/python:0.4.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IG1z</text>
+        <text>sync_images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBkb2NrZXIgcm1pICR7SU1BR0VfTkFNRX0gMj4gL2Rldi9udWxsIHx8Ogo=</text>
+        <text encoding="base64">QkFTRV9JTUFHRSA/PSB5YWdyLm52aWRpYS5jb206NDU2Ny9kZWVwb3BzL3B5dGhvbjowLjQuMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRvY2tlciBidWlsZCAke0NBQ0hFU30gLXQgJHtJTUFHRV9OQU1FfSAtZiBEb2NrZXJmaWxlIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kaWYK</text>
+        <text encoding="base64">RlJPTSB5YWdyLm52aWRpYS5jb206NDU2Ny9kZWVwb3BzL3B5dGhvbjowLjMuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDQUNIRVMgPQo=</text>
+        <text encoding="base64">CWRvY2tlciBidWlsZCAke0NBQ0hFU30gLXQgJHtJTUFHRV9OQU1FfSAtZiBEb2NrZXJmaWxlIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
+        <text encoding="base64">ZW5kaWYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDQUNIRVMgPSAtLWJ1aWxkLWFyZyBodHRwX3Byb3h5PSR7aHR0cF9wcm94eX0gLS1idWlsZC1hcmcgaHR0cHNfcHJveHk9JHtodHRwc19wcm94eX0K</text>
+        <text encoding="base64">ICBDQUNIRVMgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWZkZWYgaHR0cF9wcm94eQo=</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSAK</text>
+        <text encoding="base64">ICBDQUNIRVMgPSAtLWJ1aWxkLWFyZyBodHRwX3Byb3h5PSR7aHR0cF9wcm94eX0gLS1idWlsZC1hcmcgaHR0cHNfcHJveHk9JHtodHRwc19wcm94eX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
+        <text encoding="base64">aWZkZWYgaHR0cF9wcm94eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBjb250ZXh0dGltZXIudGltZXIK</text>
+        <text encoding="base64">RlJPTSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IG1z</last-search>
+      <last-search>sync_images</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IG1z</last-pattern>
+      <last-pattern>sync_images</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -885,7 +911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>messages</entry>
         <entry>grpc</entry>
         <entry>missing_images</entry>
         <entry>replicatory</entry>
@@ -905,6 +930,7 @@
         <entry>contexttimer</entry>
         <entry>context</entry>
         <entry encoding="base64">IG1z</entry>
+        <entry>sync_images</entry>
       </history-search>
       <history-cmd>
         <entry>.,$y</entry>
@@ -915,7 +941,6 @@
         <entry>&quot;'a,.s/^/# /</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>&quot;!</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>'a,.s/^/        /</entry>
         <entry>.,$d</entry>
@@ -926,6 +951,7 @@
         <entry>q!</entry>
         <entry>'a,.d</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
