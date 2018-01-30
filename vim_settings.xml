@@ -164,12 +164,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517265469667">
-        <mark key="'" line="298" column="4" />
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="27" />
-        <mark key="." line="129" column="27" />
-        <mark key="^" line="129" column="27" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517333305538">
+        <mark key="'" line="301" column="4" />
+        <mark key="[" line="59" column="56" />
+        <mark key="]" line="132" column="27" />
+        <mark key="." line="132" column="27" />
+        <mark key="^" line="132" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
