@@ -164,12 +164,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517333305538">
-        <mark key="'" line="301" column="4" />
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="132" column="27" />
-        <mark key="." line="132" column="27" />
-        <mark key="^" line="132" column="27" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517335885543">
+        <mark key="'" line="303" column="4" />
+        <mark key="[" line="118" column="84" />
+        <mark key="]" line="119" column="48" />
+        <mark key="." line="119" column="48" />
+        <mark key="^" line="119" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -310,6 +310,13 @@
         <mark key="]" line="98" column="0" />
         <mark key="^" line="98" column="61" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/utils.py" timestamp="1517335251027">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="22" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/requirements.txt" timestamp="1516991927878">
         <mark key="'" line="1" column="0" />
@@ -586,6 +593,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" timestamp="1517335123267" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503948595627">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -755,7 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="31" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="45" column="27" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="49" column="25" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="58" column="13" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -855,19 +862,20 @@
       <jump line="139" column="28" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="298" column="4" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="20" column="32" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, progress):</text>
+        <text>err</text>
       </register>
       <register name="-" type="4">
-        <text>, progress):</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
         <text>progress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY2xvbmluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGljYXRvcl9wYjIuRG9ja2VySW1hZ2UobmFtZT0icmVnaXN0cnkiLCB0YWc9IjIiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiaW1hZ2VzIHRvIGJlIGZldGNoZWQ6ICVzIiAlIHBwcmludC5wZm9ybWF0KHRvX3B1bGwsIGluZGVudD00KSkK</text>
