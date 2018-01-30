@@ -39,10 +39,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1516994232848">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/Dockerfile" timestamp="1517349115048">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/facts/files/topology.fact" timestamp="1511064272240">
         <mark key="[" line="9" column="84" />
@@ -91,11 +92,6 @@
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
-      </file>
-      <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/services/replicator/replicator.py" timestamp="1511285576388">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/inference_grpc/inference.py" timestamp="1500525775944">
         <mark key="[" line="164" column="27" />
@@ -163,23 +159,18 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517339508967">
-        <mark key="'" line="176" column="57" />
-        <mark key="[" line="71" column="74" />
-        <mark key="]" line="71" column="93" />
-        <mark key="^" line="71" column="93" />
-        <mark key="." line="71" column="93" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517349207615">
+        <mark key="'" line="179" column="49" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="38" />
+        <mark key="^" line="51" column="38" />
+        <mark key="." line="51" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/defaults/main.yml" timestamp="1511061137963">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/src/cloner/cloner/base.py" timestamp="1501367404285">
         <mark key="[" line="37" column="17" />
@@ -211,16 +202,6 @@
         <mark key="]" line="108" column="64" />
         <mark key="^" line="108" column="64" />
         <mark key="." line="108" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/inventory" timestamp="1515999685804">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap_config/bootstrap.yml" timestamp="1516005523913">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
       </file>
       <file name="/Python Console" timestamp="1516914366316">
         <mark key="[" line="0" column="0" />
@@ -445,11 +426,6 @@
         <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/tasks/controller.yml" timestamp="1511053715633">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1517337014956">
         <mark key="a" line="276" column="0" />
@@ -761,12 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="50" column="25" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="57" column="33" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="40" column="13" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="82" column="13" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="109" column="13" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -810,7 +780,6 @@
       <jump line="138" column="25" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="140" column="25" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="168" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="129" column="26" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="228" column="24" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="229" column="23" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="231" column="60" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -854,26 +823,33 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="298" column="4" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="20" column="32" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/utils.py" />
-      <jump line="146" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="157" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="93" column="38" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="97" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="177" column="36" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="172" column="57" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="146" column="27" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="50" column="40" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="51" column="44" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="64" column="64" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="90" column="41" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="178" column="49" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>self.config(&quot;output_path&quot;) or &quot;/output&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>self.config(&quot;output_path&quot;) or &quot;/output&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>[debug</text>
+        <text>output_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmNvbmZpZygid2l0aF9leHRlcm5hbCIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dHB1dF9wYXRoID0gc2VsZi5jb25maWcoIm91dHB1dF9wYXRoIikgb3IgIi9vdXRwdXQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
@@ -907,9 +883,9 @@
       </register>
     </registers>
     <search>
-      <last-search>[debug</last-search>
+      <last-search>output_path</last-search>
       <last-offset />
-      <last-pattern>[debug</last-pattern>
+      <last-pattern>output_path</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -917,7 +893,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tag_data</entry>
         <entry>Succe</entry>
         <entry>Login</entry>
         <entry>clone(</entry>
@@ -933,10 +908,11 @@
         <entry>set_progress</entry>
         <entry>pprintf</entry>
         <entry>pprint</entry>
-        <entry>progress</entry>
         <entry>clone_image</entry>
         <entry encoding="base64">XDxjdWRhXD4=</entry>
         <entry>[debug</entry>
+        <entry>progress</entry>
+        <entry>output_path</entry>
       </history-search>
       <history-cmd>
         <entry>.,$y</entry>
