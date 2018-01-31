@@ -370,7 +370,7 @@
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1517384819505">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1517386175133">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -636,13 +636,6 @@
         <mark key="]" line="37" column="105" />
         <mark key="^" line="37" column="105" />
         <mark key="." line="37" column="105" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/protos/replicator.proto" timestamp="1516437552178">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/client.py" timestamp="1516934647164">
         <mark key="'" line="21" column="0" />
