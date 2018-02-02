@@ -159,9 +159,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517533421185">
-        <mark key="'" line="184" column="33" />
-        <mark key="^" line="98" column="65" />
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517537097721">
+        <mark key="'" line="192" column="33" />
+        <mark key="[" line="191" column="42" />
+        <mark key="]" line="191" column="72" />
+        <mark key="^" line="191" column="72" />
+        <mark key="." line="191" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/defaults/main.yml" timestamp="1515179175840">
         <mark key="[" line="1" column="30" />
@@ -499,11 +502,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517535364696">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="27" />
-        <mark key="^" line="41" column="50" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517536802047">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -739,12 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="30" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="27" column="23" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="100" column="84" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="156" column="16" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="210" column="30" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="260" column="4" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="10" column="10" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="204" column="40" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -782,7 +780,6 @@
       <jump line="239" column="41" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="240" column="34" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="130" column="14" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="92" column="10" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/DeepOps/python/requirements.txt" />
       <jump line="79" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
@@ -839,55 +836,65 @@
       <jump line="145" column="28" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="162" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="181" column="33" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="40" column="21" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
+      <jump line="18" column="40" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
+      <jump line="130" column="39" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="142" column="34" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="143" column="22" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="188" column="72" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="192" column="33" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhX2pzb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>image_name</text>
       </register>
       <register name="-" type="4">
-        <text>, headers={</text>
+        <text>image_name</text>
       </register>
       <register name="/" type="4">
-        <text>update_progress</text>
+        <text>image_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLnVwZGF0ZV9zdGVwKGtleT0ibWFya2Rvd24iLCBzdGF0dXM9InJ1bm5pbmciKQogICAgICAgIHNlbGYudXBkYXRlX3Byb2dyZXNzKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhX2pzb24pCg==</text>
+      <register name="1" type="4">
+        <text>&quot;{}:{}&quot;.format(image_name, tag), status=&quot;running&quot;, subHeader=&quot;Pulling image from Registry&quot;)
+            self.update_progress()
+            self.nvcr_client.pull(url)
+            self.progress.update_step(key=i</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcm9ncmVzcy51cGRhdGVfc3RlcChrZXk9aW1hZ2UubmFtZSwgc3RhdHVzPSJjb21wbGV0ZSIsIHN1YkhlYWRlcj0iIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY29tcGxldGVkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogJ0FQSUtleSB7fScuZm9ybWF0KHNlbGYuYXBpX2tleV9iNjQpLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbi5kdW1wcyhkYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLmFkZF9zdGVwKGtleT0icXVlcnkiLCBzdGF0dXM9InJ1bm5pbmciLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVyPSJHZXR0aW5nIGxpc3Qgb2YgRG9ja2VyIGltYWdlcyB0byBjbG9uZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhX2pzb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3Jlc3NfbGVuZ3RoX3Vua25vd24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcm9ncmVzcy51cGRhdGVfc3RlcChrZXk9aW1hZ2UubmFtZSwgc3RhdHVzPSJydW5uaW5nIiwgc3ViSGVhZGVyPSJQdWxsaW5nIGltYWdlIGZyb20gUmVnaXN0cnkiKQogICAgICAgICAgICBzZWxmLnVwZGF0ZV9wcm9ncmVzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY2xvbmluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogJ0FQSUtleSB7fScuZm9ybWF0KHNlbGYuYXBpX2tleV9iNjQpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLmFkZF9zdGVwKGtleT0icXVlcnkiLCBzdGF0dXM9InJ1bm5pbmciLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVyPSJHZXR0aW5nIGxpc3Qgb2YgRG9ja2VyIGltYWdlcyB0byBjbG9uZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_progress</last-search>
+      <last-search>image_name</last-search>
       <last-offset />
-      <last-pattern>update_progress</last-pattern>
+      <last-pattern>image_name</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -895,15 +902,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clone(</entry>
-        <entry>self\.info</entry>
-        <entry>info(</entry>
-        <entry>_get</entry>
-        <entry>def _get(</entry>
-        <entry>contexttimer</entry>
-        <entry>context</entry>
-        <entry encoding="base64">IG1z</entry>
-        <entry>sync_images</entry>
         <entry>output</entry>
         <entry>set_progress</entry>
         <entry>pprintf</entry>
@@ -911,13 +909,21 @@
         <entry>clone_image</entry>
         <entry encoding="base64">XDxjdWRhXD4=</entry>
         <entry>[debug</entry>
-        <entry>progress</entry>
         <entry>output_path</entry>
         <entry>unde</entry>
         <entry>update_progress</entry>
+        <entry>update_image</entry>
+        <entry>progress</entry>
+        <entry>completed</entry>
+        <entry>queued</entry>
+        <entry>queue</entry>
+        <entry>waiting</entry>
+        <entry>update_nae</entry>
+        <entry>update_stop</entry>
+        <entry>update_step</entry>
+        <entry>image_name</entry>
       </history-search>
       <history-cmd>
-        <entry>'a,d</entry>
         <entry>:wq</entry>
         <entry>&quot;a,.y</entry>
         <entry>&quot;'a,.s/^/# /</entry>
@@ -936,6 +942,7 @@
         <entry>8</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>112</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
