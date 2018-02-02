@@ -499,11 +499,11 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517534335308">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="43" column="12" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517535364696">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="41" column="50" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -842,10 +842,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogJ0FQSUtleSB7fScuZm9ybWF0KHNlbGYuYXBpX2tleV9iNjQpLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhX2pzb24pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>running</text>
+        <text>, headers={</text>
       </register>
       <register name="/" type="4">
         <text>update_progress</text>
@@ -854,28 +854,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLnVwZGF0ZV9zdGVwKGtleT0ibWFya2Rvd24iLCBzdGF0dXM9InJ1bm5pbmciKQogICAgICAgIHNlbGYudXBkYXRlX3Byb2dyZXNzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogJ0FQSUtleSB7fScuZm9ybWF0KHNlbGYuYXBpX2tleV9iNjQpLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhX2pzb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLmFkZF9zdGVwKGtleT0icXVlcnkiLCBzdGF0dXM9InJ1bm5pbmciLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVyPSJHZXR0aW5nIGxpc3Qgb2YgRG9ja2VyIGltYWdlcyB0byBjbG9uZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3Jlc3NfbGVuZ3RoX3Vua25vd24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcm9ncmVzcy51cGRhdGVfc3RlcChrZXk9aW1hZ2UubmFtZSwgc3RhdHVzPSJydW5uaW5nIiwgc3ViSGVhZGVyPSJQdWxsaW5nIGltYWdlIGZyb20gUmVnaXN0cnkiKQogICAgICAgICAgICBzZWxmLnVwZGF0ZV9wcm9ncmVzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogJ0FQSUtleSB7fScuZm9ybWF0KHNlbGYuYXBpX2tleV9iNjQpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY2xvbmluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLmFkZF9zdGVwKGtleT0icXVlcnkiLCBzdGF0dXM9InJ1bm5pbmciLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVyPSJHZXR0aW5nIGxpc3Qgb2YgRG9ja2VyIGltYWdlcyB0byBjbG9uZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3Jlc3NfbGVuZ3RoX3Vua25vd24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3Byb2dyZXNzKHByb2dyZXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcm9ncmVzcy51cGRhdGVfc3RlcChrZXk9aW1hZ2UubmFtZSwgc3RhdHVzPSJydW5uaW5nIiwgc3ViSGVhZGVyPSJQdWxsaW5nIGltYWdlIGZyb20gUmVnaXN0cnkiKQogICAgICAgICAgICBzZWxmLnVwZGF0ZV9wcm9ncmVzcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ncmVzcyA9IHsie306e30iLmZvcm1hdChpbWFnZS5uYW1lLCBpbWFnZS50YWcpOiAicXVldWVkIiBmb3IgaW1hZ2UgaW4gYWxsX2ltYWdlc30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY2xvbmluZyIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
