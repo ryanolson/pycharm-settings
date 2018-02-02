@@ -502,6 +502,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517530810460">
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="55" />
+        <mark key="^" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="45" />
@@ -833,10 +839,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.config(&quot;output_path&quot;) or &quot;/output&quot;</text>
+        <text>payload</text>
       </register>
       <register name="-" type="4">
-        <text>self.config(&quot;output_path&quot;) or &quot;/output&quot;</text>
+        <text>payload</text>
       </register>
       <register name="/" type="4">
         <text>output_path</text>
@@ -845,31 +851,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm91dHB1dF9wYXRoID0gc2VsZi5jb25maWcoIm91dHB1dF9wYXRoIikgb3IgIi9vdXRwdXQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICA+PiA+IHBheWxvYWQgPSB7J3NvbWUnOiAnZGF0YSd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICA+PiA+IHVybCA9ICdodHRwczovL2FwaS5naXRodWIuY29tL3NvbWUvZW5kcG9pbnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICA+PiA+IGltcG9ydCBqc29uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS13aXRoLWV4dGVybmFsIiwgaXNfZmxhZz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudGhpcmRfcGFydHlfaW1hZ2VzLmV4dGVuZChsaXN0KHNlbGYuY29uZmlnKCJleHRlcm5hbF9pbWFnZSIsIGRlZmF1bHQ9W10pKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGljYXRvcl9wYjIuRG9ja2VySW1hZ2UobmFtZT0ibW9uZ28iLCB0YWc9ImxhdGVzdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGljYXRvcl9wYjIuRG9ja2VySW1hZ2UobmFtZT0icmVnaXN0cnkiLCB0YWc9IjIiKSwK</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS13aXRoLWV4dGVybmFsIiwgaXNfZmxhZz1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
