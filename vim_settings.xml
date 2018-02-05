@@ -9,6 +9,12 @@
         <mark key="." line="14" column="113" />
         <mark key="^" line="14" column="113" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/Makefile" timestamp="1517817990369">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/ngc/services/importer/Dockerfile" timestamp="1501735010632">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
@@ -159,7 +165,7 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517808157880">
+      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" timestamp="1517816869467">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -203,15 +209,13 @@
         <mark key="^" line="108" column="64" />
         <mark key="." line="108" column="64" />
       </file>
-      <file name="/Python Console" timestamp="1516914366316">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/inventory/default_login.yml" timestamp="1517818268333" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf.j2" timestamp="1503784682437">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="22" />
@@ -364,6 +368,12 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="33" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517817807530">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="65" column="40" />
@@ -387,9 +397,6 @@
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/local-apt/tasks/main.yml" timestamp="1515920714551">
-        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs/tasks/client.yml" timestamp="1509691386474">
         <mark key="[" line="13" column="59" />
@@ -426,6 +433,12 @@
         <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/playbooks/software.yml" timestamp="1517817042343">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="36" />
+        <mark key="." line="37" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1517337014956">
         <mark key="a" line="276" column="0" />
@@ -532,6 +545,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/dgx-software/tasks/main.yml" timestamp="1517817089345">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="51" column="11" />
+        <mark key="." line="51" column="15" />
       </file>
       <file name="/Volumes/deeplearning/dl/inference-demo/services/inference_grpc/requirements.txt" timestamp="1500456608737">
         <mark key="[" line="11" column="18" />
@@ -845,56 +864,56 @@
       <jump line="167" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>deepops/base</text>
       </register>
       <register name="-" type="4">
-        <text>image_name</text>
+        <text>deepops/base</text>
       </register>
       <register name="/" type="4">
-        <text>update_progress</text>
+        <text>unoffic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzLnVwZGF0ZV9zdGVwKGtleT0ibWFya2Rvd24iLCBzdGF0dXM9InJ1bm5pbmciKQogICAgICAgIHNlbGYudXBkYXRlX3Byb2dyZXNzKCkK</text>
+        <text encoding="base64">Q09QWSByb2xlcy8gL2V0Yy9hbnNpYmxlL3JvbGVzLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoKQo=</text>
+        <text encoding="base64">ICAgIGNkIGt1YmVzcHJheSAmJiBnaXQgY2hlY2tvdXQgLXIgdjIuNC4wICYmCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">UlVOIGNkIC90bXAgJiYgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9rdWJlcm5ldGVzLWluY3ViYXRvci9rdWJlc3ByYXkuZ2l0ICYmIFwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Q09QWSByb2xlcy8gL3JvbGVzL2RlZXBvcHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV9wcm9ncmVzcygpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>&quot;{}:{}&quot;.format(image_name, tag), status=&quot;running&quot;, subHeader=&quot;Pulling image from Registry&quot;)
             self.update_progress()
             self.nvcr_client.pull(url)
             self.progress.update_step(key=i</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcm9ncmVzcy51cGRhdGVfc3RlcChrZXk9aW1hZ2UubmFtZSwgc3RhdHVzPSJjb21wbGV0ZSIsIHN1YkhlYWRlcj0iIikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY29tcGxldGVkIikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbi5kdW1wcyhkYXRhKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhX2pzb24pCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcHJvZ3Jlc3MoaW1hZ2VfbmFtZT1pbWFnZS5uYW1lLCB0YWc9aW1hZ2UudGFnLCBzdGF0ZT0iY29tcGxldGVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_progress</last-search>
+      <last-search>unoffic</last-search>
       <last-offset />
-      <last-pattern>update_progress</last-pattern>
+      <last-pattern>unoffic</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -902,7 +921,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pprintf</entry>
         <entry>pprint</entry>
         <entry>clone_image</entry>
         <entry encoding="base64">XDxjdWRhXD4=</entry>
@@ -922,6 +940,7 @@
         <entry>update</entry>
         <entry>update_progess</entry>
         <entry>update_progress</entry>
+        <entry>unoffic</entry>
       </history-search>
       <history-cmd>
         <entry>:wq</entry>
@@ -936,13 +955,13 @@
         <entry>18</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>'a,.d</entry>
         <entry>8</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>112</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
