@@ -87,6 +87,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/limits/templates/limits.conf" timestamp="1517852337420" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.yml" timestamp="1504020741543">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -228,11 +229,6 @@
         <mark key="]" line="4" column="3" />
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/Makefile" timestamp="1516994081266">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs-client/tasks/main.yml" timestamp="1504281241005">
         <mark key="[" line="2" column="5" />
