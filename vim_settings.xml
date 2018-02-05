@@ -404,7 +404,9 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517822061743" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517824372992">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
@@ -455,7 +457,13 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/install.py" timestamp="1517821073384" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/install.py" timestamp="1517824458104">
+        <mark key="'" line="108" column="23" />
+        <mark key="[" line="110" column="84" />
+        <mark key="]" line="110" column="87" />
+        <mark key="." line="110" column="87" />
+        <mark key="^" line="110" column="87" />
+      </file>
       <file name="$USER_HOME$/Projects/sa-ngc/registry/README.md" timestamp="1501102035238">
         <mark key="[" line="31" column="9" />
         <mark key="]" line="31" column="8" />
@@ -591,7 +599,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" timestamp="1517530982683">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" timestamp="1517823960170">
         <mark key="]" line="110" column="66" />
         <mark key="^" line="110" column="66" />
         <mark key="." line="110" column="66" />
@@ -764,8 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="84" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="79" column="23" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="164" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="223" column="24" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -864,16 +870,18 @@
       <jump line="32" column="20" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
       <jump line="74" column="18" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" />
+      <jump line="108" column="23" filename="$USER_HOME$/Projects/DeepOps/install/install.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>create</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>moved</text>
+        <text encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09QWSByb2xlcy8gL2V0Yy9hbnNpYmxlL3JvbGVzLwo=</text>
@@ -910,18 +918,16 @@
       </register>
     </registers>
     <search>
-      <last-search>moved</last-search>
+      <last-search encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</last-search>
       <last-offset />
-      <last-pattern>moved</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clone_image</entry>
-        <entry encoding="base64">XDxjdWRhXD4=</entry>
         <entry>[debug</entry>
         <entry>output_path</entry>
         <entry>unde</entry>
@@ -940,6 +946,8 @@
         <entry>update_progress</entry>
         <entry>unoffic</entry>
         <entry>moved</entry>
+        <entry encoding="base64">XDxkb2NrZXJcPg==</entry>
+        <entry encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>:wq</entry>
