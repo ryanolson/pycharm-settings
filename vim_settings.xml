@@ -517,11 +517,11 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="52" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517864255085">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="11" />
-        <mark key="^" line="24" column="11" />
-        <mark key="." line="24" column="11" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517866429805">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="42" />
+        <mark key="^" line="18" column="42" />
+        <mark key="." line="18" column="42" />
       </file>
       <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1511285846620">
         <mark key="[" line="37" column="104" />
@@ -529,12 +529,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517863895109">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517867109167">
         <mark key="'" line="3" column="7" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -885,43 +885,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHByb2dyZXNzLnJ1bl9zdGVwKGtleT0iaW52ZW50b3J5Iik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFzIGVycjo=</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIlVuYWJsZSB0byBnZW5lcmF0ZSBhbnNpYmxlIGludmVudG9yeSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHByb2dyZXNzLnJ1bl9zdGVwKGtleT0iaW52ZW50b3J5Iik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBwcm9ncmVzcy5ydW5fc3RlcChrZXk9ImludmVudG9yeSIpOgo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHByb2dyZXNzLnJ1bl9zdGVwKGtleT0iaW52ZW50b3J5Iik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiRXJyb3IgcnVubmluZyBhbnNpYmxlIHBsYXlib29rIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBwcm9ncmVzcy5ydW5fc3RlcChrZXk9ImludmVudG9yeSIpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcC53YWl0KCkgIT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiRXJyb3IgcnVubmluZyBhbnNpYmxlIHBsYXlib29rIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJjICE9IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcC53YWl0KCkgIT0gMDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ncmVzc19sZW5ndGhfdW5rbm93bgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJjICE9IDA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzLnBvc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9ncmVzc19sZW5ndGhfdW5rbm93bgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzLnVwZGF0ZV9zdGVwKGtleT0iYW5zaWJsZSIsIHN0YXR1cz0icnVubmluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzLnBvc3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeXMuZXhpdCg5MTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzLnVwZGF0ZV9zdGVwKGtleT0iYW5zaWJsZSIsIHN0YXR1cz0icnVubmluZyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
