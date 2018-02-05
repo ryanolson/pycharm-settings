@@ -386,12 +386,6 @@
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1517534088089">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/README.md" timestamp="1516432543342">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -517,7 +511,7 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="52" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517866429805">
+      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517867692813">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="42" />
         <mark key="^" line="18" column="42" />
@@ -529,12 +523,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517867109167">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517867820837">
         <mark key="'" line="3" column="7" />
-        <mark key="[" line="76" column="28" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="24" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="74" column="35" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -584,6 +578,9 @@
         <mark key="]" line="92" column="19" />
         <mark key="^" line="92" column="19" />
         <mark key="." line="92" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/replicator/ngc_replicator/ngc_replicator.py" timestamp="1517868132484">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -782,7 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="275" column="18" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="278" column="32" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="32" column="36" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -882,55 +878,56 @@
       <jump line="5" column="14" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
       <jump line="72" column="40" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
       <jump line="3" column="7" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/DeepOps/replicator/ngc_replicator/ngc_replicator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIGVycjo=</text>
+        <text>r.status_code))</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>add_step</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHByb2dyZXNzLnJ1bl9zdGVwKGtleT0iaW52ZW50b3J5Iik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHIuc3RhdHVzX2NvZGUgIT0gcmVxdWVzdHMuY29kZXMub2s6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBwcm9ncmVzcy5ydW5fc3RlcChrZXk9ImludmVudG9yeSIpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiRXJyb3IgcnVubmluZyBhbnNpYmxlIHBsYXlib29rIikK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHByb2dyZXNzLnJ1bl9zdGVwKGtleT0iaW52ZW50b3J5Iik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcC53YWl0KCkgIT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBwcm9ncmVzcy5ydW5fc3RlcChrZXk9ImludmVudG9yeSIpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJjICE9IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiRXJyb3IgcnVubmluZyBhbnNpYmxlIHBsYXlib29rIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ncmVzc19sZW5ndGhfdW5rbm93bgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcC53YWl0KCkgIT0gMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzLnBvc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJjICE9IDA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2dyZXNzLnVwZGF0ZV9zdGVwKGtleT0iYW5zaWJsZSIsIHN0YXR1cz0icnVubmluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9ncmVzc19sZW5ndGhfdW5rbm93bgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>add_step</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>add_step</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -938,7 +935,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unde</entry>
         <entry>update_image</entry>
         <entry>progress</entry>
         <entry>completed</entry>
@@ -958,6 +954,7 @@
         <entry encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</entry>
         <entry>status</entry>
         <entry>json</entry>
+        <entry>add_step</entry>
       </history-search>
       <history-cmd>
         <entry>:wq</entry>
