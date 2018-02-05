@@ -404,7 +404,7 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517821200948" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517822061743" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
