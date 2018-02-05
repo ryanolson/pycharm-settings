@@ -404,6 +404,7 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517821200948" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
@@ -454,6 +455,7 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/install.py" timestamp="1517821073384" />
       <file name="$USER_HOME$/Projects/sa-ngc/registry/README.md" timestamp="1501102035238">
         <mark key="[" line="31" column="9" />
         <mark key="]" line="31" column="8" />
@@ -564,12 +566,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" timestamp="1517819877598">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="29" column="23" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" timestamp="1517820765121">
+        <mark key="'" line="75" column="18" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="19" />
+        <mark key="^" line="92" column="19" />
+        <mark key="." line="92" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/tensorflow-playground/t.py" timestamp="1492247487337">
         <mark key="[" line="15" column="68" />
@@ -762,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="44" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="104" column="84" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="79" column="23" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="164" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -862,16 +863,17 @@
       <jump line="167" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="32" column="20" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
+      <jump line="74" column="18" filename="$USER_HOME$/Projects/DeepOps/install/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>deepops/base</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>unoffic</text>
+        <text>moved</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09QWSByb2xlcy8gL2V0Yy9hbnNpYmxlL3JvbGVzLwo=</text>
@@ -908,9 +910,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unoffic</last-search>
+      <last-search>moved</last-search>
       <last-offset />
-      <last-pattern>unoffic</last-pattern>
+      <last-pattern>moved</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -918,7 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pprint</entry>
         <entry>clone_image</entry>
         <entry encoding="base64">XDxjdWRhXD4=</entry>
         <entry>[debug</entry>
@@ -938,6 +939,7 @@
         <entry>update_progess</entry>
         <entry>update_progress</entry>
         <entry>unoffic</entry>
+        <entry>moved</entry>
       </history-search>
       <history-cmd>
         <entry>:wq</entry>
