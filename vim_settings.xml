@@ -9,7 +9,7 @@
         <mark key="." line="14" column="113" />
         <mark key="^" line="14" column="113" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/Makefile" timestamp="1517817990369">
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/Makefile" timestamp="1517858156240">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -370,11 +370,9 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517850051161">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517858117377">
+        <mark key="[" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
         <mark key="[" line="60" column="20" />
@@ -513,11 +511,11 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="52" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517856926822">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517858071017">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1511285846620">
         <mark key="[" line="37" column="104" />
@@ -692,10 +690,10 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/templates/provision_deepops_user/{{cookiecutter.inventory_name}}/group_vars/all" timestamp="1517857286781">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/templates/provision_deepops_user/{{cookiecutter.inventory_name}}/group_vars/all" timestamp="1517857447764">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
         <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/singularity/tasks/main.yml" timestamp="1505205223085">
@@ -881,10 +879,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>ubuntu:16.04</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>ubuntu:16.04</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</text>
@@ -893,31 +891,31 @@
         <text encoding="base64">Q09QWSByb2xlcy8gL2V0Yy9hbnNpYmxlL3JvbGVzLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNhbGwoc2hsZXguc3BsaXQoImxzIC1sRiB7fSIuZm9ybWF0KHRtcF9kaXIpKSwgc3Rkb3V0PXN5cy5zdGRvdXQsIHN0ZGVycj1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0bXBfZGlyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAqIEp1cHl0ZXIgSHViIChEZWVwT3BzKQo=</text>
+        <text encoding="base64">ICAgICAgICB0bXBfZGlyPSIvdG1wIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAqIERvY2tlciBSZWdpc3RyeSAoRGVlcE9wcykK</text>
+        <text encoding="base64">ICAgIHByaW50KHBhc3N3b3JkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAqIEFwdCBTZXJ2ZXIgKERlZXBPcHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNhbGwoc2hsZXguc3BsaXQoImxzIC1sRiB7fSIuZm9ybWF0KHRtcF9kaXIpKSwgc3Rkb3V0PXN5cy5zdGRvdXQsIHN0ZGVycj1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAqIERvY2tlci1DRQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0bXBfZGlyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAqIE5GUyBTZXJ2ZXIK</text>
+        <text encoding="base64">ICAgIHByaW50KHBhc3N3b3JkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAqIE5JUyBTZXJ2ZXIK</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKCIvYW5zaWJsZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAyLiBDb25maWd1cmUgTWFzdGVyIFNlcnZpY2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -973,8 +971,8 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>112</entry>
-        <entry>1</entry>
         <entry>wq</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
