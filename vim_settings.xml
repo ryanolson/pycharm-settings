@@ -522,11 +522,11 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="52" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517867692813">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="42" />
-        <mark key="^" line="18" column="42" />
-        <mark key="." line="18" column="42" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/provision_deepops_user.py" timestamp="1517881383206">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="/Volumes/deeplearning/projects/deep-ops/on-prem/nvidia_sa/nvidia_sa/docker/base.py" timestamp="1511285846620">
         <mark key="[" line="37" column="104" />
