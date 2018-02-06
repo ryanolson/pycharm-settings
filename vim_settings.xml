@@ -306,6 +306,14 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" timestamp="1517906189031">
+        <mark key="a" line="264" column="8" />
+        <mark key="'" line="258" column="33" />
+        <mark key="[" line="212" column="44" />
+        <mark key="]" line="212" column="47" />
+        <mark key="^" line="212" column="47" />
+        <mark key="." line="212" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/users/tasks/main.yml" timestamp="1516005282021">
         <mark key="[" line="16" column="52" />
         <mark key="]" line="17" column="52" />
@@ -325,7 +333,7 @@
         <mark key="^" line="22" column="67" />
         <mark key="." line="22" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/requirements.txt" timestamp="1516991927878">
+      <file name="$USER_HOME$/Projects/DeepOps/python/requirements.txt" timestamp="1517906305679">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -472,6 +480,14 @@
         <mark key="]" line="37" column="40" />
         <mark key="^" line="37" column="36" />
         <mark key="." line="37" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/tests/test_nvidia_deepops.py" timestamp="1517337014956">
+        <mark key="a" line="276" column="0" />
+        <mark key="'" line="290" column="9" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="27" />
+        <mark key="^" line="260" column="26" />
+        <mark key="." line="290" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nis/defaults/main.yml" timestamp="1504289401321">
         <mark key="[" line="2" column="12" />
@@ -814,17 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="376" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="373" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="200" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="374" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="6" column="7" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="384" column="22" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="65" column="37" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="205" column="37" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="219" column="47" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="226" column="37" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="227" column="37" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="122" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -914,66 +919,73 @@
       <jump line="29" column="44" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
       <jump line="36" column="139" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
       <jump line="19" column="12" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="204" column="31" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="205" column="42" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="292" column="31" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="252" column="43" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="257" column="23" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="355" column="8" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="294" column="11" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="289" column="44" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="282" column="39" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
+      <jump line="272" column="33" filename="$USER_HOME$/Projects/DeepOps/pypi-mirror/pypi_mirror/cmd/run_mirror.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>pip_cache_dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaHV0aWwucm10cmVlKHdvcmtkaXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBjbGljay5Vc2FnZUVycm9yKGVycm9yX21lc3NhZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHN1bShbMSBpZiBjdHhfcGFyYW1zW3BdIGVsc2UgMCBmb3IgcCBpbiBleGNsdXNpdmVfcGFyYW1zXSkgPiAxOgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBjbGljay5Vc2FnZUVycm9yKGVycm9yX21lc3NhZ2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGV4Y2x1c2l2ZShjdHhfcGFyYW1zLCBleGNsdXNpdmVfcGFyYW1zLCBlcnJvcl9tZXNzYWdlKToK</text>
+        <text encoding="base64">ICAgIGlmIHN1bShbMSBpZiBjdHhfcGFyYW1zW3BdIGVsc2UgMCBmb3IgcCBpbiBleGNsdXNpdmVfcGFyYW1zXSkgPiAxOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGV4Y2x1c2l2ZShjdHhfcGFyYW1zLCBleGNsdXNpdmVfcGFyYW1zLCBlcnJvcl9tZXNzYWdlKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXNzd29yZCIsIHByb21wdD1UcnVlLCBoaWRlX2lucHV0PVRydWUsIGNvbmZpcm1hdGlvbl9wcm9tcHQ9RmFsc2UpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXNzd29yZCIsIHByb21wdD1UcnVlLCBoaWRlX2lucHV0PVRydWUsIGNvbmZpcm1hdGlvbl9wcm9tcHQ9RmFsc2UpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>'a.,s/^        //</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>pip_cache_dir</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
-      <last-replace encoding="base64">ICAgICAgICA=</last-replace>
-      <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>pip_cache_dir</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">XiAgICAgICAg</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>waiting</entry>
-        <entry>update_nae</entry>
-        <entry>update_stop</entry>
-        <entry>update_step</entry>
         <entry>image_name</entry>
         <entry>update</entry>
         <entry>update_progess</entry>
@@ -990,9 +1002,12 @@
         <entry>log\.</entry>
         <entry>tmp_dir</entry>
         <entry>username</entry>
+        <entry>projects</entry>
+        <entry>reqlist</entry>
+        <entry encoding="base64">XiAgICAgICAg</entry>
+        <entry>pip_cache_dir</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;'a,.s/^/# /</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>&quot;!</entry>
         <entry>'a,.s/^/        /</entry>
@@ -1012,6 +1027,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>'a.,s/^        //</entry>
       </history-cmd>
       <history-expr />
       <history-input />
