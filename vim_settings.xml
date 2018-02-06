@@ -223,11 +223,11 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/inventory/default_login.yml" timestamp="1517818268333" />
-      <file name="$USER_HOME$/Projects/DeepOps/install/templates/provision_deepops_user/{{cookiecutter.inventory_name}}/inventory" timestamp="1517860771625">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="33" />
+      <file name="$USER_HOME$/Projects/DeepOps/install/templates/provision_deepops_user/{{cookiecutter.inventory_name}}/inventory" timestamp="1517885285853">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurm.conf.j2" timestamp="1503784682437">
         <mark key="[" line="16" column="10" />
@@ -406,6 +406,12 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/local-apt/tasks/main.yml" timestamp="1517884803689">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="13" />
+        <mark key="^" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs/tasks/client.yml" timestamp="1509691386474">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="59" />
@@ -493,6 +499,12 @@
         <mark key="]" line="40" column="57" />
         <mark key="." line="40" column="57" />
         <mark key="^" line="40" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/DeepOps/install/ansible.cfg" timestamp="1517885455698">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/ngc/examples/air-gapped/secure/docker-compose.yml" timestamp="1501883947319">
         <mark key="[" line="16" column="49" />
@@ -711,12 +723,6 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/templates/provision_deepops_user/{{cookiecutter.inventory_name}}/group_vars/all" timestamp="1517860673773">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/singularity/tasks/main.yml" timestamp="1505205223085">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="15" column="29" />
@@ -900,10 +906,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o(d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o(d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log\.</text>
@@ -912,31 +918,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBkb2NrZXIgcHVsbCAke0JBU0VfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzX3BhdGggPSAiL3Byb2dyZXNzIgo=</text>
+        <text encoding="base64">ICAgIHN0YXRlOiBkaXJlY3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGg6IC9vcHQvZGVlcG9wcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmaWxlKQo=</text>
+        <text encoding="base64">ICBmaWxlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKHNlbGYucHJvZ3Jlc3NfcGF0aCwgInByb2dyZXNzLmpzb24iKSwgInIiKSBhcyBmaWxlOgo=</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgZGVlcG9wcyBkaXJlY3RvcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWFkX3Byb2dyZXNzKHNlbGYpOgo=</text>
+        <text encoding="base64">CUBkb2NrZXIgcHVsbCAke0JBU0VfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzX3BhdGggPSAiL3Byb2dyZXNzIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHByb2dyZXNzLCBmaWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKHNlbGYucHJvZ3Jlc3NfcGF0aCwgInByb2dyZXNzLmpzb24iKSwgInciKSBhcyBmaWxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmaWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -987,13 +993,13 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>'a,.d</entry>
         <entry>8</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>112</entry>
         <entry>e</entry>
         <entry>118</entry>
         <entry>1</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
