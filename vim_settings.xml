@@ -277,6 +277,12 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/setup_deepops_user/{{cookiecutter.inventory_name}}/inventory" timestamp="1517904169736">
+        <mark key="[" line="3" column="86" />
+        <mark key="]" line="3" column="86" />
+        <mark key="^" line="3" column="95" />
+        <mark key="." line="3" column="86" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
@@ -387,12 +393,12 @@
         <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517858117377" />
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517903642060">
-        <mark key="'" line="43" column="139" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="74" />
-        <mark key="." line="27" column="74" />
-        <mark key="^" line="27" column="74" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517904428936">
+        <mark key="'" line="19" column="12" />
+        <mark key="[" line="34" column="82" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="35" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
         <mark key="[" line="60" column="20" />
@@ -808,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="60" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="376" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="373" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
@@ -908,55 +913,56 @@
       <jump line="27" column="87" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
       <jump line="29" column="44" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
       <jump line="36" column="139" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="19" column="12" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tmp_dir</text>
+        <text>username</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXNzd29yZCIsIHByb21wdD1UcnVlLCBoaWRlX2lucHV0PVRydWUsIGNvbmZpcm1hdGlvbl9wcm9tcHQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBjbGljay5Vc2FnZUVycm9yKGVycm9yX21lc3NhZ2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIHN1bShbMSBpZiBjdHhfcGFyYW1zW3BdIGVsc2UgMCBmb3IgcCBpbiBleGNsdXNpdmVfcGFyYW1zXSkgPiAxOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGV4Y2x1c2l2ZShjdHhfcGFyYW1zLCBleGNsdXNpdmVfcGFyYW1zLCBlcnJvcl9tZXNzYWdlKToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBkaXJlY3RvcnkK</text>
+        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGg6IC9vcHQvZGVlcG9wcwo=</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXNzd29yZCIsIHByb21wdD1UcnVlLCBoaWRlX2lucHV0PVRydWUsIGNvbmZpcm1hdGlvbl9wcm9tcHQ9RmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgZGVlcG9wcyBkaXJlY3RvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tmp_dir</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>tmp_dir</last-pattern>
+      <last-pattern>username</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -964,7 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>queue</entry>
         <entry>waiting</entry>
         <entry>update_nae</entry>
         <entry>update_stop</entry>
@@ -984,6 +989,7 @@
         <entry>Progress</entry>
         <entry>log\.</entry>
         <entry>tmp_dir</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;'a,.s/^/# /</entry>
