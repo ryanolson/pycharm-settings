@@ -387,6 +387,13 @@
         <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517858117377" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517903642060">
+        <mark key="'" line="43" column="139" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="74" />
+        <mark key="." line="27" column="74" />
+        <mark key="^" line="27" column="74" />
+      </file>
       <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="65" column="40" />
@@ -418,14 +425,11 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/reference_installation/{{cookiecutter.cluster_name}}_inventory/group_vars/all" timestamp="1517900969751">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517824372992">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/reference_installation/{{cookiecutter.cluster_name}}_inventory/group_vars/all" timestamp="1517903010143">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/gres.conf" timestamp="1504030403024">
         <mark key="[" line="1" column="22" />
@@ -804,12 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="367" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="368" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="207" column="31" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="375" column="64" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="60" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="376" column="13" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
@@ -904,55 +902,61 @@
       <jump line="15" column="27" filename="$USER_HOME$/Projects/DeepOps/replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="76" column="16" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
       <jump line="70" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
+      <jump line="24" column="41" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="21" column="42" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="22" column="35" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="27" column="87" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="29" column="44" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
+      <jump line="36" column="139" filename="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ cookiecutter.all.nfs_exports|default([])|to_yaml }}</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>{{ cookiecutter.all.nfs_exports|default([])|to_yaml }}</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>log\.</text>
+        <text>tmp_dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLnBhc3NfY29udGV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1wYXNzd29yZCIsIHByb21wdD1UcnVlLCBoaWRlX2lucHV0PVRydWUsIGNvbmZpcm1hdGlvbl9wcm9tcHQ9RmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGg6IC9vcHQvZGVlcG9wcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmaWxlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgZGVlcG9wcyBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgIHN0YXRlOiBkaXJlY3RvcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBkb2NrZXIgcHVsbCAke0JBU0VfCg==</text>
+        <text encoding="base64">ICAgIHBhdGg6IC9vcHQvZGVlcG9wcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzX3BhdGggPSAiL3Byb2dyZXNzIgo=</text>
+        <text encoding="base64">ICBmaWxlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgZGVlcG9wcyBkaXJlY3RvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log\.</last-search>
+      <last-search>tmp_dir</last-search>
       <last-offset />
-      <last-pattern>log\.</last-pattern>
+      <last-pattern>tmp_dir</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -960,7 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>queued</entry>
         <entry>queue</entry>
         <entry>waiting</entry>
         <entry>update_nae</entry>
@@ -980,6 +983,7 @@
         <entry>progress</entry>
         <entry>Progress</entry>
         <entry>log\.</entry>
+        <entry>tmp_dir</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;'a,.s/^/# /</entry>
@@ -998,9 +1002,9 @@
         <entry>e</entry>
         <entry>118</entry>
         <entry>1</entry>
+        <entry>e!</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>e!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
