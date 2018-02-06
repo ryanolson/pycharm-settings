@@ -278,11 +278,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/setup_deepops_user/{{cookiecutter.inventory_name}}/inventory" timestamp="1517904169736">
-        <mark key="[" line="3" column="86" />
-        <mark key="]" line="3" column="86" />
-        <mark key="^" line="3" column="95" />
-        <mark key="." line="3" column="86" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/setup_deepops_user/{{cookiecutter.inventory_name}}/inventory" timestamp="1517945702480">
+        <mark key="[" line="3" column="98" />
+        <mark key="]" line="4" column="111" />
+        <mark key="." line="4" column="111" />
+        <mark key="^" line="4" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
@@ -409,12 +409,12 @@
         <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517858117377" />
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517904428936">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="34" column="82" />
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517945611985">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/luda/README.md" timestamp="1496271394555">
         <mark key="[" line="60" column="20" />
@@ -959,11 +959,11 @@
       <jump line="316" column="8" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/docker/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>ssh</text>
       </register>
       <register name="/" type="4">
         <text>docker_pkg_name</text>
@@ -972,31 +972,31 @@
         <text encoding="base64">ZG9ja2VyX2RhZW1vbl9qc29uOgogIGJpcDogMTkyLjE2OC45OS4xLzI0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3J1bnRpbWU6IG52aWRpYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1zc2gta2V5IiwgdHlwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiaXA6IDE5Mi4xNjguOTkuMS8yNAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZG9ja2VyX2RhZW1vbl9qc29uOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICBkZWZhdWx0X3J1bnRpbWU6IG52aWRpYQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBiaXA6IDE5Mi4xNjguOTkuMS8yNAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZG9ja2VyX2RhZW1vbl9qc29uOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cGlwX2luc3RhbGxfZG9ja2VyOiB0cnVlCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0X3J1bnRpbWU6IG52aWRpYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTZWUgdmFyL21haW4ueW1sIGZvciBtb3JlIGluZm9ybWF0aW9uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwaXBfaW5zdGFsbF9kb2NrZXIgaXMgaWdub3JlZCBpZiBwaXBfaW5zdGFsbF9kb2NrZXJfY29tcG9zZSBpcyB0cnVlIGFzIGRvY2tlci1jb21wb3NlIGFzIGEgZGVwZW5kZW5jeSBvdmVyIGRvY2tlci4K</text>
+        <text encoding="base64">cGlwX2luc3RhbGxfZG9ja2VyOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
