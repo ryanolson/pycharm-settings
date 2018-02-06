@@ -534,12 +534,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517879330357">
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517880637396">
         <mark key="'" line="70" column="8" />
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="18" />
-        <mark key="^" line="70" column="18" />
-        <mark key="." line="70" column="18" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="47" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
