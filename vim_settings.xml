@@ -396,7 +396,7 @@
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/replicator/tests/test_ngc_replicator.py" timestamp="1517871642112" />
+      <file name="$USER_HOME$/Projects/DeepOps/replicator/tests/test_ngc_replicator.py" timestamp="1517879260334" />
       <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/README.md" timestamp="1516432543342">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -534,12 +534,12 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517872666911">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1517879330357">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="18" />
+        <mark key="^" line="70" column="18" />
+        <mark key="." line="70" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -800,8 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="53" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
-      <jump line="117" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="195" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="367" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
       <jump line="368" column="4" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/registry.py" />
@@ -900,16 +898,18 @@
       <jump line="91" column="24" filename="$USER_HOME$/Projects/DeepOps/replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="44" column="24" filename="$USER_HOME$/Projects/DeepOps/replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="15" column="27" filename="$USER_HOME$/Projects/DeepOps/replicator/ngc_replicator/ngc_replicator.py" />
+      <jump line="76" column="16" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBkb2NrZXIgcHVsbCAke0JBU0VfCg==</text>
+      <register name="&quot;" type="4">
+        <text>o(d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIG1rZGlyIC1wIC9wcm9ncmVzcw==</text>
+        <text>o(d</text>
       </register>
       <register name="/" type="4">
-        <text>Progress</text>
+        <text>log\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2FybigicHJvZ3Jlc3MgdXBkYXRlIGZhaWxlZCB3aXRoIHt9Ii5mb3JtYXQoci5zdGF0dXNfY29kZSkpCg==</text>
@@ -946,17 +946,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Progress</last-search>
+      <last-search>log\.</last-search>
       <last-offset />
-      <last-pattern>Progress</last-pattern>
+      <last-pattern>log\.</last-pattern>
       <last-replace encoding="base64">ICAgICAgICA=</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>completed</entry>
         <entry>queued</entry>
         <entry>queue</entry>
         <entry>waiting</entry>
@@ -976,6 +975,7 @@
         <entry>add_step</entry>
         <entry>progress</entry>
         <entry>Progress</entry>
+        <entry>log\.</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;a,.y</entry>
