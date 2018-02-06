@@ -418,6 +418,12 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/reference_installation/{{cookiecutter.cluster_name}}_inventory/group_vars/all" timestamp="1517900969751">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/run_bootstrap.sh" timestamp="1517824372992">
         <mark key="'" line="2" column="0" />
       </file>
@@ -623,11 +629,6 @@
         <mark key="]" line="22" column="25" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" timestamp="1517823960170">
-        <mark key="]" line="110" column="66" />
-        <mark key="^" line="110" column="66" />
-        <mark key="." line="110" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/slurm/templates/slurmdbd.conf" timestamp="1503948595627">
         <mark key="[" line="38" column="0" />
@@ -906,10 +907,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{{ cookiecutter.all.nfs_exports|default([])|to_yaml }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{{ cookiecutter.all.nfs_exports|default([])|to_yaml }}</text>
       </register>
       <register name="/" type="4">
         <text>log\.</text>
@@ -921,28 +922,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBkaXJlY3RvcnkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGg6IC9vcHQvZGVlcG9wcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBmaWxlOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgZGVlcG9wcyBkaXJlY3RvcnkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CUBkb2NrZXIgcHVsbCAke0JBU0VfCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzX3BhdGggPSAiL3Byb2dyZXNzIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXRlOiBkaXJlY3RvcnkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhdGg6IC9vcHQvZGVlcG9wcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmaWxlOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LSBuYW1lOiBjcmVhdGUgZGVlcG9wcyBkaXJlY3RvcnkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CUBkb2NrZXIgcHVsbCAke0JBU0VfCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzX3BhdGggPSAiL3Byb2dyZXNzIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmaWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -981,7 +982,6 @@
         <entry>log\.</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;a,.y</entry>
         <entry>&quot;'a,.s/^/# /</entry>
         <entry>'a,.s/^/# /</entry>
         <entry>&quot;!</entry>
@@ -1000,6 +1000,7 @@
         <entry>1</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>e!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

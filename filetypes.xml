@@ -6,6 +6,7 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="etc-localusers" type="PLAIN_TEXT" />
+      <mapping pattern="dgx-servers" type="PLAIN_TEXT" />
       <mapping pattern="pam_sshd" type="PLAIN_TEXT" />
       <mapping ext="fact" type="PLAIN_TEXT" />
     </extensionMap>
