@@ -5,6 +5,7 @@
       <mapping ext="conf" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="gpu-nodes" type="PLAIN_TEXT" />
       <mapping pattern="etc-localusers" type="PLAIN_TEXT" />
       <mapping pattern="dgx-servers" type="PLAIN_TEXT" />
       <mapping pattern="pam_sshd" type="PLAIN_TEXT" />
