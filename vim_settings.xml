@@ -999,7 +999,7 @@
         <text encoding="base64">cGlwX2luc3RhbGxfZG9ja2VyOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1051,10 +1051,10 @@
         <entry>118</entry>
         <entry>1</entry>
         <entry>e!</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>'a.,s/^        //</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
