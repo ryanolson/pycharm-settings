@@ -409,7 +409,7 @@
         <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/Dockerfile" timestamp="1517858117377" />
-      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517945611985">
+      <file name="$USER_HOME$/Projects/DeepOps/ansible/scripts/setup_deepops_user" timestamp="1517963042684">
         <mark key="'" line="20" column="12" />
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="49" />
