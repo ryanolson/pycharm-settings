@@ -589,13 +589,13 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518211595525">
-        <mark key="a" line="40" column="31" />
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="25" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518213171750">
+        <mark key="a" line="49" column="31" />
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -741,12 +741,12 @@
         <mark key="." line="114" column="51" />
         <mark key="^" line="114" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" timestamp="1518212192904">
-        <mark key="'" line="23" column="3" />
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" timestamp="1518212947827">
+        <mark key="'" line="22" column="37" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/__init__.py" timestamp="1517531162491">
         <mark key="[" line="7" column="0" />
@@ -865,9 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="36" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="172" column="57" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="128" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="146" column="27" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -964,56 +961,59 @@
       <jump line="160" column="8" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/docker/tasks/main.yml" />
       <jump line="310" column="52" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/docker/tasks/main.yml" />
       <jump line="316" column="8" filename="$USER_HOME$/Projects/DeepOps/ansible/roles/docker/tasks/main.yml" />
-      <jump line="22" column="3" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
+      <jump line="18" column="38" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
+      <jump line="19" column="22" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
+      <jump line="22" column="37" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
+      <jump line="22" column="3" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>docker_pkg_name</text>
+        <text>heading</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jcmVhdGUiLCBpc19mbGFnPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyIK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN1YkhlYWRlciIgPSBzdWJ0aXRsZSwK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIG9wID09ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwcy5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhlYWRpbmciID0gaGVhZGluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwc1trZXldID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1YkhlYWRlciIgPSBzdWJ0aXRsZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGVwcy5jbGVhcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS11cGRhdGUiLCBpc19mbGFnPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImhlYWRpbmciID0gaGVhZGluZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1hcHBlbmQiLCBpc19mbGFnPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGVwc1trZXldID0gewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>docker_pkg_name</last-search>
+      <last-search>heading</last-search>
       <last-offset />
-      <last-pattern>docker_pkg_name</last-pattern>
+      <last-pattern>heading</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAgICAgICAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1021,7 +1021,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update_progress</entry>
         <entry>unoffic</entry>
         <entry>moved</entry>
         <entry encoding="base64">XDxkb2NrZXJcPg==</entry>
@@ -1041,6 +1040,7 @@
         <entry>ce</entry>
         <entry>-ce</entry>
         <entry>docker_pkg_name</entry>
+        <entry>heading</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# /</entry>
@@ -1057,12 +1057,12 @@
         <entry>112</entry>
         <entry>e</entry>
         <entry>118</entry>
-        <entry>1</entry>
         <entry>e!</entry>
         <entry>q</entry>
         <entry>'a.,s/^        //</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
