@@ -589,11 +589,11 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518230959449">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="28" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518231821269">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -739,12 +739,12 @@
         <mark key="." line="114" column="51" />
         <mark key="^" line="114" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" timestamp="1518230005926">
-        <mark key="'" line="23" column="37" />
-        <mark key="[" line="21" column="90" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" timestamp="1518231282116">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/__init__.py" timestamp="1517531162491">
         <mark key="[" line="7" column="0" />
@@ -863,7 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="146" column="27" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="50" column="40" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -963,55 +962,56 @@
       <jump line="19" column="22" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
       <jump line="22" column="37" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
       <jump line="22" column="3" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>heading</text>
+        <text>p</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jcmVhdGUiLCBpc19mbGFnPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS13aXRoLXBvc3QiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHBvc3Q6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9ncmVzcyh1cmk9cHJvZ3Jlc3NfdXJpKQo=</text>
+        <text encoding="base64">ICAgIGlmIHBvc3Q6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoYTI1NiA9IGhhc2hsaWIuc2hhMjU2KCkKICAgIHNoYTI1Ni51cGRhdGUob3MucGF0aC5qb2luKGIiL3RtcC97fSIuZm9ybWF0KG5hbWUpKSkKICAgIGZpbGVuYW1lID0gc2hhMjU2LmhleGRpZ2VzdCgpCiAgICBwYXRoID0gb3MucGF0aC5qb2luKCIvdG1wIiwgZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHAgPSBQcm9ncmVzcyh1cmk9cHJvZ3Jlc3NfdXJpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNoYTI1NiA9IGhhc2hsaWIuc2hhMjU2KCkKICAgIHNoYTI1Ni51cGRhdGUob3MucGF0aC5qb2luKGIiL3RtcC97fSIuZm9ybWF0KG5hbWUpKSkKICAgIGZpbGVuYW1lID0gc2hhMjU2LmhleGRpZ2VzdCgpCiAgICBwYXRoID0gb3MucGF0aC5qb2luKCIvdG1wIiwgZmlsZW5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIG9wID09ICIiCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIG9wID09ICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>heading</last-search>
+      <last-search>p</last-search>
       <last-offset />
-      <last-pattern>heading</last-pattern>
+      <last-pattern>p</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAgICAgICAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1019,7 +1019,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unoffic</entry>
         <entry>moved</entry>
         <entry encoding="base64">XDxkb2NrZXJcPg==</entry>
         <entry encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</entry>
@@ -1039,6 +1038,7 @@
         <entry>-ce</entry>
         <entry>docker_pkg_name</entry>
         <entry>heading</entry>
+        <entry>p</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# /</entry>
