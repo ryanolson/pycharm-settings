@@ -216,6 +216,9 @@
         <mark key="^" line="108" column="64" />
         <mark key="." line="108" column="64" />
       </file>
+      <file name="/Python Console" timestamp="1516914366316">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cvpr/inference_grpc/inference_grpc/model.proto" timestamp="1500576403719">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="21" column="0" />
@@ -280,9 +283,6 @@
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/templates/setup_deepops_user/{{cookiecutter.inventory_name}}/inventory" timestamp="1517945702480">
         <mark key="[" line="3" column="98" />
-        <mark key="]" line="4" column="111" />
-        <mark key="." line="4" column="111" />
-        <mark key="^" line="4" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/luda/setup.py" timestamp="1496257216686">
         <mark key="[" line="15" column="17" />
@@ -421,12 +421,6 @@
         <mark key="]" line="65" column="40" />
         <mark key="^" line="65" column="40" />
         <mark key="." line="65" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/tests/test_ngc_replicator.py" timestamp="1517534088089">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/replicator/tests/test_ngc_replicator.py" timestamp="1517879260334" />
       <file name="$USER_HOME$/Projects/DeepOps/ngc_replicator/README.md" timestamp="1516432543342">
@@ -595,11 +589,11 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518233530021">
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="34" column="10" />
-        <mark key="." line="34" column="10" />
-        <mark key="^" line="34" column="10" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518291015459">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -745,11 +739,12 @@
         <mark key="." line="114" column="51" />
         <mark key="^" line="114" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" timestamp="1518234183729">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" timestamp="1518292679894">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="46" column="88" />
+        <mark key="]" line="46" column="102" />
+        <mark key="." line="46" column="102" />
+        <mark key="^" line="46" column="102" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/__init__.py" timestamp="1517531162491">
         <mark key="[" line="7" column="0" />
@@ -970,11 +965,11 @@
       <jump line="30" column="8" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>output_step</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>output_step</text>
       </register>
       <register name="/" type="4">
         <text>p</text>
@@ -983,31 +978,31 @@
         <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jcmVhdGUiLCBpc19mbGFnPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3N0ZXAgPSBzdGF0ZS5zdGVwW2tleV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3N0ZXAgPSBzdGF0ZVtrZXldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9zdGVwID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS13aXRoLXBvc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpY2suZWNobygiVXBkYXRpbmcgU3RlcDoge2tleX1cbntoZWFkZXJ9XG57c3ViSGVhZGVyfSIsIGtleT1rZXksICoqc3RlcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWNrLmVjaG8oIlJ1bm5pbmcgU3RlcDoge2tleX1cbntoZWFkZXJ9XG57c3ViSGVhZGVyfSIsIGtleT1rZXksICoqc3RlcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHBvc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb3AgPT0gInVwZGF0ZSI6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgPSBQcm9ncmVzcyh1cmk9cHJvZ3Jlc3NfdXJpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuc3RlcHMuY2xlYXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNoYTI1NiA9IGhhc2hsaWIuc2hhMjU2KCkKICAgIHNoYTI1Ni51cGRhdGUob3MucGF0aC5qb2luKGIiL3RtcC97fSIuZm9ybWF0KG5hbWUpKSkKICAgIGZpbGVuYW1lID0gc2hhMjU2LmhleGRpZ2VzdCgpCiAgICBwYXRoID0gb3MucGF0aC5qb2luKCIvdG1wIiwgZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
