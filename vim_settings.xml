@@ -429,6 +429,12 @@
         <mark key="^" line="51" column="4" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/setup.py" timestamp="1518345427127">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="56" />
+        <mark key="^" line="32" column="56" />
+        <mark key="." line="32" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/local-apt/templates/sources.list.j2" timestamp="1503949696671">
         <mark key="[" line="0" column="53" />
         <mark key="]" line="0" column="54" />
@@ -589,11 +595,11 @@
         <mark key="^" line="39" column="77" />
         <mark key="." line="39" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518291015459">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="28" column="8" />
-        <mark key="^" line="28" column="8" />
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/progress.py" timestamp="1518345628380">
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/install/bootstrap/bootstrap.yml" timestamp="1516174074502">
         <mark key="[" line="70" column="0" />
@@ -966,10 +972,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>output_step</text>
+        <text>file.write(ordered_data, file)</text>
       </register>
       <register name="-" type="4">
-        <text>output_step</text>
+        <text>file.write(ordered_data, file)</text>
       </register>
       <register name="/" type="4">
         <text>p</text>
