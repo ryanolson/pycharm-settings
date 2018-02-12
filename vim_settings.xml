@@ -447,6 +447,7 @@
         <mark key="^" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/kubespray/roles/docker/vars/ubuntu.yml" timestamp="1518457969558" />
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/roles/nfs/tasks/client.yml" timestamp="1509691386474">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="59" />
@@ -669,6 +670,7 @@
         <mark key="^" line="80" column="29" />
         <mark key="." line="80" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/kubernetes/config/kube.yml" timestamp="1518457987253" />
       <file name="$USER_HOME$/Projects/cvpr/models/cpu/models.yml" timestamp="1500551558226">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="25" />
@@ -978,7 +980,7 @@
         <text>file.write(ordered_data, file)</text>
       </register>
       <register name="/" type="4">
-        <text>p</text>
+        <text>gpg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jcmVhdGUiLCBpc19mbGFnPVRydWUpCg==</text>
@@ -1015,9 +1017,9 @@
       </register>
     </registers>
     <search>
-      <last-search>p</last-search>
+      <last-search>gpg</last-search>
       <last-offset />
-      <last-pattern>p</last-pattern>
+      <last-pattern>gpg</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAgICAgICAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1025,8 +1027,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moved</entry>
-        <entry encoding="base64">XDxkb2NrZXJcPg==</entry>
         <entry encoding="base64">XDxlbmNyeXB0X3N0cmluZ1w+</entry>
         <entry>status</entry>
         <entry>json</entry>
@@ -1045,6 +1045,8 @@
         <entry>docker_pkg_name</entry>
         <entry>heading</entry>
         <entry>p</entry>
+        <entry>apt_repo</entry>
+        <entry>gpg</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# /</entry>
