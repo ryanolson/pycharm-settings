@@ -516,6 +516,7 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/kubespray/roles/docker/tasks/systemd.yml" timestamp="1518484167199" />
       <file name="$USER_HOME$/Projects/DeepOps/install/install.py" timestamp="1517827456056">
         <mark key="'" line="108" column="23" />
         <mark key="[" line="110" column="84" />
