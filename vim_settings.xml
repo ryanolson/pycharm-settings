@@ -660,6 +660,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" timestamp="1518682969670">
+        <mark key="[" line="123" column="93" />
+        <mark key="]" line="123" column="93" />
+        <mark key="^" line="122" column="29" />
+        <mark key="." line="123" column="95" />
+      </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/docker/defaults/main.yml" timestamp="1517912269061">
         <mark key="'" line="59" column="0" />
       </file>
@@ -963,11 +969,11 @@
       <jump line="71" column="108" filename="$USER_HOME$/Projects/DeepOps/kubespray/roles/docker/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>image_name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICB9fQ==</text>
+        <text>image_name</text>
       </register>
       <register name="/" type="4">
         <text>is_atomic</text>
