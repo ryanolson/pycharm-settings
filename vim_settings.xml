@@ -88,7 +88,9 @@
         <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/DeepOps/ansible/roles/limits/templates/limits.conf" timestamp="1517853581179" />
-      <file name="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" timestamp="1518579166796" />
+      <file name="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" timestamp="1518686239106">
+        <mark key="'" line="80" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/ansible/ansible-dgx/test.yml" timestamp="1504020741543">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -883,11 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="22" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="159" column="12" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="151" column="36" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="157" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
-      <jump line="106" column="17" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="145" column="28" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="162" column="8" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
       <jump line="181" column="33" filename="$USER_HOME$/Projects/DeepOps/ngc_replicator/ngc_replicator/ngc_replicator.py" />
@@ -983,6 +980,11 @@
       <jump line="83" column="59" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Projects/DeepOps/python/nvidia_deepops/docker/client.py" />
+      <jump line="35" column="9" filename="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" />
+      <jump line="78" column="15" filename="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" />
+      <jump line="139" column="29" filename="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" />
+      <jump line="133" column="30" filename="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" />
+      <jump line="80" column="16" filename="$USER_HOME$/Projects/DeepOps/kubespray/roles/download/defaults/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -992,7 +994,7 @@
         <text>print</text>
       </register>
       <register name="/" type="4">
-        <text>sys</text>
+        <text>img_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGRvdXQgPSBzdGRvdXQgb3Igc3lzLnN0ZG91dAo=</text>
@@ -1029,9 +1031,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sys</last-search>
+      <last-search>img_</last-search>
       <last-offset />
-      <last-pattern>sys</last-pattern>
+      <last-pattern>img_</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XiAgICAgICAg</last-substitute>
       <last-dir>1</last-dir>
@@ -1039,7 +1041,6 @@
     </search>
     <history>
       <history-search>
-        <entry>progress</entry>
         <entry>Progress</entry>
         <entry>log\.</entry>
         <entry>tmp_dir</entry>
@@ -1059,6 +1060,7 @@
         <entry>load(</entry>
         <entry>out</entry>
         <entry>sys</entry>
+        <entry>img_</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/^/# /</entry>
